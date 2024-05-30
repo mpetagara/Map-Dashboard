@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Map Dashboard</title>
+<meta charset="UTF-8">
+<meta content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0' name='viewport'>
+<link type="text/css" href="css/leaflet.css" rel="stylesheet"/>
+<link type="text/css" href="css/leaflet.markercluster.css" rel="stylesheet"/>
+<link type="text/css" href="css/dc.css" rel="stylesheet"/>
+<link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
+<link type="text/css" href="css/jquery.dataTables.min.css" rel="stylesheet">
+<style>
+    h4 span {
+      font-size:14px;
+      font-weight:normal;
+      }
+    h2 {
+      float: left;
+    }
+    h2 span {
+      font-size:14px;
+      font-weight:normal;
+      }
+	.dc-chart g.row text {
+	  fill: black;
+	  font-size: 10px;
+	}
+	label {
+	  font: bold 12px sans-serif;
+	}
+</style>
+</head>
+<body>
+
+<div class='container' id='main-container'>
+<div class='content'>
+<div class='container' style='font: 12px sans-serif;'>
+	<div class = 'row'>
+		<div class="col-xs-10 dc-data-count" style = 'float:left;'>
+			<h2>STRATCOM BDS Dashboard
+			  <span>
+				<span class="filter-count"></span>
+				 selected out of 
+				<span class="total-count"></span>
+				 records 
+			  </span>
+			</h2>
+		</div>
+	</div>
+	
+	<div class = 'row'>
+		<div class='col-xs-9' id='dc-map-chart'>
+		  <h3>
+			Map - Reporting
+				<span>
+					<a class="reset"
+					href="#" id="mapReset"
+					style="display: none;">
+					reset
+					</a>
+				</span>
+		  </h3>
+		</div> 
+
+		<div class='col-xs-3' id = 'dc-row-chart'>
+			<h3>
+			Row Chart - Countries
+				<span>
+					<a class="reset"
+					href="javascript:rowChart.filterAll();dc.redrawAll();"
+					style="display: none;">
+					reset
+					</a>
+				</span>
+			</h3>
+		</div>
+	</div>
+	
+	<div class='row'>
+		<div class='col-xs-12' id='dc-time-chart'>
+		  <h3>Bar Chart - Reporting by date</h3>
+		</div>
+	</div>
+	
+	<div class='row'>
+		<div class='col-xs-12'>
+			<h3>Data Table</h3>
+				<table class='table table-hover' id='dc-table-chart'>
+					<thead>
+						<tr class='header'>
+							<th id='pubdate'>Publish Date</th>
+							<th>Country</th>
+							<th>Media Type</th>
+							<th>Categories</th>
+							<th>Source</th>
+							<th>Summary</th>
+						</tr>
+					</thead>
+				</table>
+		</div>
+	</div>
+  
+</div>
+</div>
+</div>
+
+<script type="text/javascript" src="js/d3.js"></script>
+<script type="text/javascript" src="js/crossfilter.js"></script>
+<script type="text/javascript" src="js/dc.js"></script>
+<script type="text/javascript" src="js/leaflet.js"></script>
+<script type="text/javascript" src='js/jquery.js'></script>
+<script type="text/javascript" src='js/jquery.dataTables.min.js'></script>
+<script type="text/javascript" src='js/bootstrap.min.js'></script>
+<script type="text/javascript" src="js/leaflet.markercluster.js"></script>
+<script type="text/javascript" src="js/dc.leaflet.js"></script>
+//<script type="text/javascript" src="data/nashPermits.js"></script>
+<script type="text/javascript" src="data/BDS.js"></script>
+<script type="text/javascript">
+
+//connect charts to their appropriate selectors
+var mapChart = dc_leaflet.markerChart("#dc-map-chart");
+var rowChart = dc.rowChart("#dc-row-chart");
+var timeChart = dc.barChart("#dc-time-chart");
+var dataCount = dc.dataCount(".dc-data-count");
+var datatable = $('#dc-table-chart');
+//initial map view
+var defaultCenter = [42.69,25.42];
+var defaultZoom = 1;
+var dateFormat = d3.time.format("%Y-%m-%dT%H:%M:%S");
+
+function convert(epoch){
+    var d = new Date(0)
+    d.setUTCSeconds(epoch/1000)
+    return d
+}
+
+
+BDS.features.forEach( function(d,i) {
+	d.date_e = convert(d.attributes.pubdate)
+	//d.date_e = dateFormat.parse(d.date_entered);
+	//d.date_i = dateFormat.parse(d.date_issued);
+	d.article_text = d.attributes.article_text ? d.attributes.article_text : "No article information available.";
+	d.country = d.attributes.country;
+	d.description = d.attributes.description;
+	d.image_link = d.attributes.image_link;
+	d.keywords = d.attributes.keywords
+	d.loc_array = d.attributes.loc_arry;
+	d.locations = d.attributes.locations;
+	d.y = d.geometry.y
+	d.x = d.geometry.x;
+	d.media_type = d.attributes.media_type;
+	d.source_link = d.attributes.source_link;
+	d.primary_category = d.attributes.primary_category;
+	d.second_category = d.attributes.second_category;
+	d.third_category = d.attributes.third_category;
+	d.source_link = d.attributes.source_link;
+	d.trans_title = d.attributes.trans_title;
+	//handle missing values for table variables
+	//d.contact = d.contact ? d.contact : "MISSING";
+	//d.city = d.city ? d.city : "MISSING";
+	//d.permit_type_description = d.permit_type_description ? d.permit_type_description : "MISSING";
+	//d.address = d.address ? d.address : "MISSING";	
+	//d.purpose = d.purpose ? d.purpose: "MISSING";
+	// parse lat lng-data
+	if (d.y != null && d.x != null) {
+		d.geo = d.y + "," + d.geometry.x;
+	}
+          });
+	
+	//toplevel crossfilter
+	var xf = crossfilter(BDS.features);
+	
+	//counter
+	var all = xf.groupAll();
+	dataCount.dimension(xf)
+		.group(all);
+	
+	//map
+	var facilities = xf.dimension(function(d) { return d.geo; });
+	mapChart.dimension(facilities)
+	  .group(facilities.group())
+	  .width(630)
+	  .height(300)
+	  .margins({top: 10, right: 10, bottom: 20, left: 40})
+	  .center(defaultCenter)
+	  .zoom(defaultZoom)
+	  .renderPopup(false)
+	  .brushOn(true)
+	  .cluster(true)
+	  .filterByArea(true);
+	
+	//row chart	
+	var countries = xf.dimension(function(d) { return d.country; });
+	rowChart.height(300)
+	  .width(330)
+	  .margins({top: 10, right: 10, bottom: 20, left: 40})
+	  .dimension(countries)
+	  .group(countries.group())
+	  .ordering(function (p) {
+		  return -p.value;
+	  })
+	  .elasticX(true);
+	 
+	//time series bar chart
+	var issuanceDates = xf.dimension(function (d) { return d.date_e; });
+	timeChart.width(960)
+		.height(200)
+		.margins({top: 10, right: 10, bottom: 20, left: 40})
+		.dimension(issuanceDates)
+		.group(issuanceDates.group(d3.time.day))
+		.transitionDuration(500)
+		.elasticY(true)
+		.x(d3.time.scale().domain([new Date(2014, 6, 1), new Date(2014, 12, 31)]))
+		.round(d3.time.day.round)
+		.xUnits(d3.time.days)
+		.elasticY(true)
+		.elasticX(true)
+		.xAxis().ticks(5);	
+	
+	//table
+	//dimension for table search
+	var tableDimension = xf.dimension(function (d) { return d.country.toLowerCase() + ' ' +
+								d.primary_category.toLowerCase() + ' ' + 
+								d.second_category.toLowerCase() + ' ' +
+								d.third_category.toLowerCase() + ' ' +
+								d.trans_title.toLowerCase() + ' ' +
+								d.country.toLowerCase();});
+	
+	//set options and columns
+	_warning = "Please Confirm redirect to a Non-Government Site"
+	
+	var dataTableOptions = {
+        "bSort": true,
+		columnDefs: [
+			{
+				targets: 0, // publish date
+				data: function (d) { return d.date_e; },
+				type: 'date',
+				defaultContent: 'Not found'
+			},
+			{
+				targets: 1, // country column
+				data: function (d) {return d.country; },
+				defaultContent: '',
+				visible: true
+			},
+			{
+				targets: 2, // media type
+				data: function (d) { return d.media_type; },
+				defaultContent: ''
+			},
+			{
+				targets: 3, // category
+				data: function (d) { return d.primary_category +' | '+ d.second_category +' | '+ d.third_category; },
+				defaultContent: ''
+			},
+			{
+				targets: 4, // source
+				data: function (d) { return "<a href='"+d.source_link+"' target='_blank' onclick='return confirm(`${_warning}`)'>Source</a>"; },
+				defaultContent: ''
+			},
+			{
+				targets: 5, //summary
+				data: function (d) { return d.trans_title;},
+				defaultContent: ''
+			}
+		]
+	};
+	
+	//initialize datatable
+	datatable.dataTable(dataTableOptions);
+	
+	//row details
+	function format ( d ) {
+		return '<b>Article Text: </b>' + d.article_text;
+	}
+	
+	datatable.DataTable().on('click', 'tr[role="row"]', function () {
+        var tr = $(this);
+        var row = datatable.DataTable().row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+	
+	//custom refresh function, see http://stackoverflow.com/questions/21113513/dcjs-reorder-datatable-by-column/21116676#21116676
+	function RefreshTable() {
+            dc.events.trigger(function () {
+                alldata = tableDimension.top(Infinity);
+                datatable.fnClearTable();
+                datatable.fnAddData(alldata);
+                datatable.fnDraw();
+            });
+        }
+	
+	//call RefreshTable when dc-charts are filtered
+	for (var i = 0; i < dc.chartRegistry.list().length; i++) {
+		var chartI = dc.chartRegistry.list()[i];
+		chartI.on("filtered", RefreshTable);
+	}
+	
+	//filter all charts when using the datatables search box
+	 $(":input").on('keyup',function(){
+		text_filter(tableDimension, this.value);//cities is the dimension for the data table
+
+	function text_filter(dim,q){
+		 if (q!='') {
+			dim.filter(function(d){
+				return d.indexOf (q.toLowerCase()) !== -1;
+			});
+		} else {
+			dim.filterAll();
+			}
+		RefreshTable();
+		dc.redrawAll();}
+	});
+	
+	//reset map view on clicking the reset button
+	 $("#mapReset").on('click', function() {
+		mapChart.map().setView(defaultCenter, defaultZoom);
+	 });
+	//initial table refresh
+	RefreshTable();
+	//initialize other charts
+	dc.renderAll();
+</script>
+</body>
+</html>
