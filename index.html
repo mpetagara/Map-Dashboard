@@ -37,7 +37,7 @@
 <div class='container' style='font: 12px sans-serif;'>
 	<div class = 'row'>
 		<div class="col-xs-10 dc-data-count" style = 'float:left;'>
-			<h2>STRATCOM BDS Dashboard
+			<h2>Dashboard
 			  <span>
 				<span class="filter-count"></span>
 				 selected out of 
@@ -51,12 +51,12 @@
 	<div class = 'row'>
 		<div class='col-xs-9' id='dc-map-chart'>
 		  <h3>
-			Map - Reporting
+			Reporting
 				<span>
 					<a class="reset"
 					href="#" id="mapReset"
 					style="display: none;">
-					reset
+					Reset
 					</a>
 				</span>
 		  </h3>
@@ -64,12 +64,12 @@
 
 		<div class='col-xs-3' id = 'dc-row-chart'>
 			<h3>
-			Row Chart - Countries
+			Countries
 				<span>
 					<a class="reset"
 					href="javascript:rowChart.filterAll();dc.redrawAll();"
 					style="display: none;">
-					reset
+					Reset
 					</a>
 				</span>
 			</h3>
@@ -78,7 +78,7 @@
 	
 	<div class='row'>
 		<div class='col-xs-12' id='dc-time-chart'>
-		  <h3>Bar Chart - Reporting by date</h3>
+		  <h3>Reporting by Date</h3>
 		</div>
 	</div>
 	
@@ -113,7 +113,6 @@
 <script type="text/javascript" src='js/bootstrap.min.js'></script>
 <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
 <script type="text/javascript" src="js/dc.leaflet.js"></script>
-//<script type="text/javascript" src="data/nashPermits.js"></script>
 <script type="text/javascript" src="data/BDS.js"></script>
 <script type="text/javascript">
 
@@ -139,22 +138,22 @@ BDS.features.forEach( function(d,i) {
 	d.date_e = convert(d.attributes.pubdate)
 	//d.date_e = dateFormat.parse(d.date_entered);
 	//d.date_i = dateFormat.parse(d.date_issued);
-	d.article_text = d.attributes.article_text ? d.attributes.article_text : "No article information available.";
-	d.country = d.attributes.country;
-	d.description = d.attributes.description;
-	d.image_link = d.attributes.image_link;
-	d.keywords = d.attributes.keywords
-	d.loc_array = d.attributes.loc_arry;
-	d.locations = d.attributes.locations;
-	d.y = d.geometry.y
+	d.article_text = d.attributes.article_text ? d.attributes.article_text : "No article information available";
+	d.country = d.attributes.country ? d.attributes.country : "No Country Data";
+	d.description = d.attributes.description ? d.attributes.description : "No Description Data";;
+	d.image_link = d.attributes.image_link ? d.attributes.image_link : "#";
+	d.keywords = d.attributes.keywords ? d.attributes.keywords : "No Keyword Data";
+	d.loc_array = d.attributes.loc_arry ? d.attributes.loc_arry : "No Location Array Data";
+	d.locations = d.attributes.locations ? d.attributes.locations : "No Locations Data";
+	d.y = d.geometry.y;
 	d.x = d.geometry.x;
-	d.media_type = d.attributes.media_type;
-	d.source_link = d.attributes.source_link;
-	d.primary_category = d.attributes.primary_category;
-	d.second_category = d.attributes.second_category;
-	d.third_category = d.attributes.third_category;
-	d.source_link = d.attributes.source_link;
-	d.trans_title = d.attributes.trans_title;
+	d.media_type = d.attributes.media_type ? d.attributes.media_type : "No Media Type Data";
+	d.source_link = d.attributes.source_link ? d.attributes.source_link : "No Source Link Data";
+	d.primary_category = d.attributes.primary_category ? d.attributes.primary_category : "Unknown";
+	d.second_category = d.attributes.second_category ? d.attributes.primary_category : "Unknown";
+	d.third_category = d.attributes.third_category ? d.attributes.second_category : "Unknown";
+	d.source_link = d.attributes.source_link ? d.attributes.third_category : "Unknown";
+	d.trans_title = d.attributes.trans_title ? d.attributes.trans_title : "Unknown";
 	//handle missing values for table variables
 	//d.contact = d.contact ? d.contact : "MISSING";
 	//d.city = d.city ? d.city : "MISSING";
@@ -165,7 +164,7 @@ BDS.features.forEach( function(d,i) {
 	if (d.y != null && d.x != null) {
 		d.geo = d.y + "," + d.geometry.x;
 	}
-          });
+});
 	
 	//toplevel crossfilter
 	var xf = crossfilter(BDS.features);
