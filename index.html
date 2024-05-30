@@ -447,8 +447,8 @@ BDS.features.forEach( function(d,i) {
 	}
 });
 	
-	//toplevel crossfilter
-	var xf = crossfilter(BDS.features);
+	//toplevel crossfilter & Filters out the entities that have no country data
+	var xf = crossfilter(BDS.features.filter(d => d.country !== 'No Country Data'));
 	
 	//counter
 	var all = xf.groupAll();
