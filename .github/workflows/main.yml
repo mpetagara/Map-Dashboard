@@ -1,4 +1,4 @@
-name: "Manual RSS Feed - Output to JSON"
+name: "RSS Feed - defense-blog.com"
 on:
   workflow_dispatch:
 
