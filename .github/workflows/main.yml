@@ -20,7 +20,7 @@ jobs:
         feed_url: https://defence-blog.com/feed/atom/
         file_path: ./feed.json
         parser_options: "{\"useISODateFormat\": false, \"getExtraEntryFields\": \"(feedEntry) => { return { 'content:encoded': feedEntry['content:encoded'] || '' }; }\"}"
-        fetch_options: "{\"headers\": {\"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\"}}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
     
     - name: Commit and push changes to repository
       uses: stefanzweifel/git-auto-commit-action@v4
