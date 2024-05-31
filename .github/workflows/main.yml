@@ -16,5 +16,5 @@ jobs:
     - name: RSS Feed Fetch Action
     - uses: i-valchev/rss-to-json@v1@v2.1
       with:
-        source: data/feeds.yaml
+        source: feeds.yaml
         target: data/feeds.json
