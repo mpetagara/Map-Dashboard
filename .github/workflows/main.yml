@@ -10,4 +10,5 @@ jobs:
     name: Update with response
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: i-valchev/rss-to-json@1.0.0
