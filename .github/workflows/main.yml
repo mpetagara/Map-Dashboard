@@ -16,7 +16,7 @@ jobs:
     - name: Fetch RSS Feed
       uses: Promptly-Technologies-LLC/rss-fetch-action@v2
       with:
-        feed_url: 'https://defence-blog.com/feed'
+        feed_url: 'https://defence-blog.com/feed/'
         file_path: './data/feed.json'
     
     - name: Commit and push changes to repository
