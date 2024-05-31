@@ -1,7 +1,9 @@
 name: Actions test
+
 on:
-  schedule:
-    - cron: "0 * * * *"
+  push:
+    branches:
+      - main
 
 jobs:
   fetch-rss:
