@@ -17,14 +17,23 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Fetch RSS Feed
+    - name: Fetch RSS Feed - Defence-blog
       uses: Promptly-Technologies-LLC/rss-fetch-action@v2
       with:
-        feed_url: "https://defence-blog.com/feed/atom/, https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
-        file_path: './data/defence_blog.json, ./data/google.json'
+        feed_url: 'https://defence-blog.com/feed/atom/'
+        file_path: './data/defence_blog.json'
         parser_options: "{\"useISODateFormat\": false, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'], 'category': feedEntry['category']}; }\"}"
         fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
     
+    - name: Fetch RSS Feed - Google News
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/GoogleNews.json'
+        parser_options: "{\"useISODateFormat\": false, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+    
+
     - name: Commit and push changes to repository
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
