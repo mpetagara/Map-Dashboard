@@ -12,6 +12,10 @@ on:
         type: string
         required: true
         default: 'json'
+permissions:
+  read-all
+  write-all
+  
 jobs:
   manual_rss_feed_execution:
     runs-on: ubuntu-latest
