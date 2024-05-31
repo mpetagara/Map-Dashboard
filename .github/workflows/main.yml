@@ -25,5 +25,5 @@ jobs:
     - name: Commit and push changes to repository
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: 'Updated Message'
+        commit_message: "${{ github.event.repository.updated_at}}"
         file_pattern: '*.json'
