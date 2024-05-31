@@ -13,8 +13,8 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Fetch RSS Feed
-      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+    - name: RSS Feed Fetch Action
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2.1
       with:
         feed_url: 'https://defence-blog.com/feed/'
         file_path: './data/feed.json'
