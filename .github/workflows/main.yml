@@ -1,17 +1,22 @@
-name: Actions Test
-
+name: "Manual RSS Feed - Output to JSON"
 on:
-  push:
-    branches:
-      - main
-permissions:
-   id-token: write
-   contents: read
-   
+  workflow_dispatch:
+    inputs:
+      feed_url:
+        description: "URL of RSS feed to be read"
+        type: string
+        required: true
+        default: 'https://defence-blog.com/feed/'
+      script_output:
+        description: "Output of the script (e.g. issue, json, pull_request)"
+        type: string
+        required: true
+        default: 'json'
 jobs:
-  update-log:
-    name: Update with response
+  manual_rss_feed_execution:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: https://github.com/I-Valchev/rss-to-json@1.0.0
+    steps: 
+      - uses: chrisreddington/rss-parser-action@main
+        with:
+          feed_url: ${{ inputs.feed_url }}
+          script_output: ${{ inputs.script_output }}
