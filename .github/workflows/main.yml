@@ -1,7 +1,9 @@
 name: "RSS Feed - defense-blog.com"
-on:
-  workflow_dispatch:
 
+on:
+  schedule:
+    - cron: '0 * * * *'
+    
 permissions:
    contents: write
   
