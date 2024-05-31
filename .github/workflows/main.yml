@@ -1,26 +1,30 @@
 name: "Manual RSS Feed - Output to JSON"
 on:
   workflow_dispatch:
-    inputs:
-      feed_url:
-        description: "URL of RSS feed to be read"
-        type: string
-        required: true
-        default: 'http://github.com/blog'
-      script_output:
-        description: "Output of the script (e.g. issue, json, pull_request)"
-        type: string
-        required: true
-        default: 'json'
+
 permissions:
    id-token: write
    contents: read
   
 jobs:
-  manual_rss_feed_execution:
+  fetch-rss:
     runs-on: ubuntu-latest
-    steps: 
-      - uses: chrisreddington/rss-parser-action@main
-        with:
-          feed_url: ${{ inputs.feed_url }}
-          script_output: ${{ inputs.script_output }}
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Fetch RSS Feed
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: https://defence-blog.com/feed/atom/
+        file_path: ./feed.json
+        parser_options: "{\"useISODateFormat\": false, \"getExtraEntryFields\": \"(feedEntry) => { return { 'content:encoded': feedEntry['content:encoded'] || '' }; }\"}"
+        fetch_options: "{}"
+        remove_published: true
+    
+    - name: Commit and push changes to repository
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Update RSS feed'
+        file_pattern: '*.json'
