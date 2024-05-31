@@ -6,15 +6,10 @@ on:
       - main
 
 jobs:
-  fetch-rss:
+  update-log:
+    name: Update with response
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: RSS Feed Fetch Action
-    - uses: i-valchev/rss-to-json@v1@v2.1
-      with:
-        source: feeds.yaml
-        target: data/feeds.json
+      - uses: i-valchev/rss-to-json@v1
+        with: 
+          source: feeds.yaml
