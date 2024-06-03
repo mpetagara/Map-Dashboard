@@ -7,4 +7,5 @@ for filename in glob.glob(os.path.join('data/', '*.json')):
       data = json.loads(currentFile.read())
       for i in data['entries']:
         entries.append(i)
-print(len(entries))
+with open('./python/data/data.json', 'w') as file:
+    json.dump(file)
