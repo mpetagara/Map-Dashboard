@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-03T20:25:22.000Z",
+  "published": "2024-06-03T21:23:48.000Z",
   "entries": [
     {
       "id": "CBMibWh0dHBzOi8vbmV3cy5sb2NraGVlZG1hcnRpbi5jb20vMjAyMy0wOS0yNi1Mb2NraGVlZC1NYXJ0aW4tQ29uZHVjdHMtRmlyc3QtRmxpZ2h0LWluLVUtMi1Bdmlvbmljcy1UZWNoLVJlZnJlc2jSAQA",
@@ -207,6 +207,16 @@
       "category": ""
     },
     {
+      "id": "CBMiVmh0dHBzOi8vZXVyby1zZC5jb20vMjAyMy8wOS9uZXdzLzM0MjgwL2ZpcnN0LWF0ci1lcXVpcHBlZC11LTItbWFrZXMtaXRzLW1haWRlbi1mbGlnaHQv0gEA",
+      "title": "First ATR-Equipped U-2 Makes its Maiden Flight - European Security & Defence",
+      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZXVyby1zZC5jb20vMjAyMy8wOS9uZXdzLzM0MjgwL2ZpcnN0LWF0ci1lcXVpcHBlZC11LTItbWFrZXMtaXRzLW1haWRlbi1mbGlnaHQv0gEA?oc=5",
+      "published": "2023-09-29T07:00:00.000Z",
+      "description": "First ATR-Equipped U-2 Makes its Maiden Flight&nbsp;&nbsp;European Security & Defence",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMifmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3UtMi1zcHktcGxhbmVzLXNwZWN0YWN1bGFyLWVsZXBoYW50LXdhbGstYmVhbGUtYWZiLWdsaW1wc2UtYXZpYXRpb24taGlzdG9yeS1hbmQtZW5kLWVyYdIBAA",
       "title": "U-2 Spy Planes' Spectacular 'Elephant Walk' at Beale AFB: A Glimpse into Aviation History and the End of an Era - The National Interest Online",
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3UtMi1zcHktcGxhbmVzLXNwZWN0YWN1bGFyLWVsZXBoYW50LXdhbGstYmVhbGUtYWZiLWdsaW1wc2UtYXZpYXRpb24taGlzdG9yeS1hbmQtZW5kLWVyYdIBAA?oc=5",
@@ -272,16 +282,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lL9IBjwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lLw?oc=5",
       "published": "2024-03-23T09:02:36.000Z",
       "description": "U-2 driver explains why Dragon Lady pilots must stall the U-2 in the air in order to land the iconic spy plane&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiVmh0dHBzOi8vZXVyby1zZC5jb20vMjAyMy8wOS9uZXdzLzM0MjgwL2ZpcnN0LWF0ci1lcXVpcHBlZC11LTItbWFrZXMtaXRzLW1haWRlbi1mbGlnaHQv0gEA",
-      "title": "First ATR-Equipped U-2 Makes its Maiden Flight - European Security & Defence",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZXVyby1zZC5jb20vMjAyMy8wOS9uZXdzLzM0MjgwL2ZpcnN0LWF0ci1lcXVpcHBlZC11LTItbWFrZXMtaXRzLW1haWRlbi1mbGlnaHQv0gEA?oc=5",
-      "published": "2023-09-29T07:00:00.000Z",
-      "description": "First ATR-Equipped U-2 Makes its Maiden Flight&nbsp;&nbsp;European Security & Defence",
       "summary": "",
       "author": "",
       "category": ""
@@ -387,6 +387,16 @@
       "category": ""
     },
     {
+      "id": "CBMiXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zL9IBXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zLw",
+      "title": "US Flies It’s Super Spy Plane, That Was Used Against Russia & China, With Enhanced Systems - EurAsian Times",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zL9IBXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zLw?oc=5",
+      "published": "2023-09-28T07:00:00.000Z",
+      "description": "US Flies It’s Super Spy Plane, That Was Used Against Russia & China, With Enhanced Systems&nbsp;&nbsp;EurAsian Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiaGh0dHBzOi8vd3d3LnlvdXJjZW50cmFsdmFsbGV5LmNvbS9uZXdzL2NhbGlmb3JuaWEvdGhlLWhpZ2gtZmx5aW5nLXNweS1wbGFuZXMtb2Ytbm9ydGhlcm4tY2FsaWZvcm5pYS9hbXAv0gFoaHR0cHM6Ly93d3cueW91cmNlbnRyYWx2YWxsZXkuY29tL25ld3MvY2FsaWZvcm5pYS90aGUtaGlnaC1mbHlpbmctc3B5LXBsYW5lcy1vZi1ub3J0aGVybi1jYWxpZm9ybmlhL2FtcC8",
       "title": "The high-flying spy planes of Northern California - YourCentralValley.com",
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnlvdXJjZW50cmFsdmFsbGV5LmNvbS9uZXdzL2NhbGlmb3JuaWEvdGhlLWhpZ2gtZmx5aW5nLXNweS1wbGFuZXMtb2Ytbm9ydGhlcm4tY2FsaWZvcm5pYS9hbXAv0gFoaHR0cHM6Ly93d3cueW91cmNlbnRyYWx2YWxsZXkuY29tL25ld3MvY2FsaWZvcm5pYS90aGUtaGlnaC1mbHlpbmctc3B5LXBsYW5lcy1vZi1ub3J0aGVybi1jYWxpZm9ybmlhL2FtcC8?oc=5",
@@ -402,16 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3RoZS11LTItdGhhdC1jcmFzaGVkLWluLWJvbGl2aWEtYWZ0ZXItaXRzLXBpbG90LWRpZWQtc3VmZmVyaW5nLWh5cG94aWEtd2hpbGUtb3ZlcmZseWluZy1jdWJhLWFuZC1hZnRlci11cy1uYXZ5LWYtNHMtZmFpbGVkLXRvLXNob290LWl0LWRvd24v0gGsAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdGhlLXUtMi10aGF0LWNyYXNoZWQtaW4tYm9saXZpYS1hZnRlci1pdHMtcGlsb3QtZGllZC1zdWZmZXJpbmctaHlwb3hpYS13aGlsZS1vdmVyZmx5aW5nLWN1YmEtYW5kLWFmdGVyLXVzLW5hdnktZi00cy1mYWlsZWQtdG8tc2hvb3QtaXQtZG93bi8?oc=5",
       "published": "2023-11-12T10:06:37.000Z",
       "description": "The U-2 that crashed in Bolivia after its pilot died suffering hypoxia while overflying Cuba and after US N...&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zL9IBXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zLw",
-      "title": "US Flies It’s Super Spy Plane, That Was Used Against Russia & China, With Enhanced Systems - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zL9IBXWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3BsYW5lLXRoYXQtd2FzLXVzZWQtYWdhaW5zdC1ydXNzaWEtY2hpbmEtd2l0aC1lbmhhbmNlZC1zeXN0ZW1zLw?oc=5",
-      "published": "2023-09-28T07:00:00.000Z",
-      "description": "US Flies It’s Super Spy Plane, That Was Used Against Russia & China, With Enhanced Systems&nbsp;&nbsp;EurAsian Times",
       "summary": "",
       "author": "",
       "category": ""
@@ -977,21 +977,21 @@
       "category": ""
     },
     {
-      "id": "CBMiUWh0dHBzOi8vd3d3LnNtaXRoc29uaWFubWFnLmNvbS9haXItc3BhY2UtbWFnYXppbmUva2lsbGVyLWF0LTcwMDAwLWZlZXQtMTE3NjE1MzY5L9IBAA",
-      "title": "Killer at 70,000 Feet | Smithsonian - Smithsonian Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnNtaXRoc29uaWFubWFnLmNvbS9haXItc3BhY2UtbWFnYXppbmUva2lsbGVyLWF0LTcwMDAwLWZlZXQtMTE3NjE1MzY5L9IBAA?oc=5",
-      "published": "2022-01-11T14:06:43.000Z",
-      "description": "Killer at 70,000 Feet | Smithsonian&nbsp;&nbsp;Smithsonian Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA",
       "title": "ER-2 High-Altitude Airborne Science Aircraft - NASA",
       "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA?oc=5",
       "published": "2014-09-17T07:00:00.000Z",
       "description": "ER-2 High-Altitude Airborne Science Aircraft&nbsp;&nbsp;NASA",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUWh0dHBzOi8vd3d3LnNtaXRoc29uaWFubWFnLmNvbS9haXItc3BhY2UtbWFnYXppbmUva2lsbGVyLWF0LTcwMDAwLWZlZXQtMTE3NjE1MzY5L9IBAA",
+      "title": "Killer at 70,000 Feet | Smithsonian - Smithsonian Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnNtaXRoc29uaWFubWFnLmNvbS9haXItc3BhY2UtbWFnYXppbmUva2lsbGVyLWF0LTcwMDAwLWZlZXQtMTE3NjE1MzY5L9IBAA?oc=5",
+      "published": "2022-01-11T14:06:43.000Z",
+      "description": "Killer at 70,000 Feet | Smithsonian&nbsp;&nbsp;Smithsonian Magazine",
       "summary": "",
       "author": "",
       "category": ""
