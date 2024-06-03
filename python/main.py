@@ -8,8 +8,5 @@ for filename in glob.glob(os.path.join('data/', '*.json')):
       for i in data['entries']:
         entries.append(i)
 
-if not os.isdir('./python/data'):
-    os.mkdir('./python/data')
-
 with open('./python/data/data.json', 'w') as file:
     json.dump(file)
