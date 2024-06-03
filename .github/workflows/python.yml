@@ -19,18 +19,11 @@ jobs:
     - name: Run Python
       run: |
         python python/main.py
-
-    - name: Check if there is any new translations
-      id: verify_diff
-      run: |
-        npx prettier -w packages/trn/transifex
-        git diff --quiet packages/trn/transifex/en_US.json || echo "::set-output name=new_translations_exist::true"
-
-    - name: Commit files
-      if: steps.verify_diff.outputs.new_translations_exist == 'true'
+        
+    - name: Commit
       run: |
         git config user.email "action@github.com"
         git config user.name "GitHub Action"
-        git add packages/trn/transifex
-        git commit -m "bot: extract the latest transactions"
+        git add -A
+        git diff-index --quiet HEAD || git commit -m 'Bot: Updated data.json'
         git push
