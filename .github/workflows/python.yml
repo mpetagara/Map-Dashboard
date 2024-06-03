@@ -1,6 +1,6 @@
 name: Merge Files
 on:
-  [push]:
+  [push]
   
 permissions:
    contents: write
