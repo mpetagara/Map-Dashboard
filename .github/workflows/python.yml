@@ -1,6 +1,6 @@
 name: Merge Files
 on:
-  workflow_dispatch
+  [push]
 
 permissions:
    contents: write
