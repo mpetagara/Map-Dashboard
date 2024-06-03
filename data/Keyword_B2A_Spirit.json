@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-03T16:35:23.000Z",
+  "published": "2024-06-03T17:26:13.000Z",
   "entries": [
     {
       "id": "CBMiYmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItMi1zcGlyaXQtc3RlYWx0aC1ib21iZXItYXJtZWQtbWljcm93YXZlLWFuZC10b2lsZXQtMjA3NDkx0gEA",
@@ -177,16 +177,6 @@
       "category": ""
     },
     {
-      "id": "CBMiPWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDgvMTUvYi0ycy1kZXBsb3ktdG8taWNlbGFuZC_SAQA",
-      "title": "B-2s Deploy To Iceland For Bomber Task Force In The Arctic Circle - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDgvMTUvYi0ycy1kZXBsb3ktdG8taWNlbGFuZC_SAQA?oc=5",
-      "published": "2023-08-15T07:00:00.000Z",
-      "description": "B-2s Deploy To Iceland For Bomber Task Force In The Arctic Circle&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtYi0yLXN0ZWFsdGgtYm9tYmVyLW9ic29sZXRlLTIwODA5MtIBAA",
       "title": "Is the Air Force's B-2 Stealth Bomber Obsolete? - The National Interest Online",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtYi0yLXN0ZWFsdGgtYm9tYmVyLW9ic29sZXRlLTIwODA5MtIBAA?oc=5",
@@ -202,6 +192,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItMi1zdGVhbHRoLWJvbWJlci1kZXNpZ25lZC1tYWtlLXJ1c3NpYS1hbmQtY2hpbmEtc3dlYXQtMjA3OTky0gEA?oc=5",
       "published": "2023-12-16T08:00:00.000Z",
       "description": "The B-2 Stealth Bomber Is Designed to Make Russia and China Sweat&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiPWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDgvMTUvYi0ycy1kZXBsb3ktdG8taWNlbGFuZC_SAQA",
+      "title": "B-2s Deploy To Iceland For Bomber Task Force In The Arctic Circle - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDgvMTUvYi0ycy1kZXBsb3ktdG8taWNlbGFuZC_SAQA?oc=5",
+      "published": "2023-08-15T07:00:00.000Z",
+      "description": "B-2s Deploy To Iceland For Bomber Task Force In The Arctic Circle&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -327,11 +327,11 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjExNjQ3My9ib21iZXItdGFzay1mb3JjZS1jb25kdWN0cy1pY2VsYW5kaWMtbWlzc2lvbi13aXRoLW5vcndlZ2lhbi1mLTM1cy11cy1mLTE1cy_SAQA",
-      "title": "Bomber Task Force conducts Icelandic mission with Norwegian F-35s, U.S. F-15s - Whiteman Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjExNjQ3My9ib21iZXItdGFzay1mb3JjZS1jb25kdWN0cy1pY2VsYW5kaWMtbWlzc2lvbi13aXRoLW5vcndlZ2lhbi1mLTM1cy11cy1mLTE1cy_SAQA?oc=5",
-      "published": "2020-03-18T07:00:00.000Z",
-      "description": "Bomber Task Force conducts Icelandic mission with Norwegian F-35s, U.S. F-15s&nbsp;&nbsp;Whiteman Air Force Base",
+      "id": "CBMiiwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIwLzAzLzEyL2p1c3QtaW4td2F0Y2gtdGhpcy12aWRlby13aXRoLXJhZGlvLWNvbW1zLW9mLXR3by1iLTItc3Bpcml0LWFycml2aW5nLWludG8tcmFmLWZhaXJmb3JkLWVhcmxpZXItdG9kYXkv0gEA",
+      "title": "Just In: Watch This Video (With Radio Comms) Of Two B-2 Spirit Arriving Into RAF Fairford Earlier Today - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIwLzAzLzEyL2p1c3QtaW4td2F0Y2gtdGhpcy12aWRlby13aXRoLXJhZGlvLWNvbW1zLW9mLXR3by1iLTItc3Bpcml0LWFycml2aW5nLWludG8tcmFmLWZhaXJmb3JkLWVhcmxpZXItdG9kYXkv0gEA?oc=5",
+      "published": "2020-03-12T07:00:00.000Z",
+      "description": "Just In: Watch This Video (With Radio Comms) Of Two B-2 Spirit Arriving Into RAF Fairford Earlier Today&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -342,6 +342,16 @@
       "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIxLzAzLzEwL3RoaXMtY2xvc2UtdXAtdmlkZW8tc2hvd3MtYi0yLXN0ZWFsdGgtYm9tYmVycy1jb250cm9sLXN1cmZhY2VzLWR1cmluZy1wcmUtZmxpZ2h0LWNoZWNrcy1pbi1zdHVubmluZy1kZXRhaWwv0gEA?oc=5",
       "published": "2021-03-10T08:00:00.000Z",
       "description": "This Close Up Video Shows B-2 Stealth Bomber's Control Surfaces During Pre-Flight Checks In Stunning Detail&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifGh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjExNjQ3My9ib21iZXItdGFzay1mb3JjZS1jb25kdWN0cy1pY2VsYW5kaWMtbWlzc2lvbi13aXRoLW5vcndlZ2lhbi1mLTM1cy11cy1mLTE1cy_SAQA",
+      "title": "Bomber Task Force conducts Icelandic mission with Norwegian F-35s, U.S. F-15s - Whiteman Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjExNjQ3My9ib21iZXItdGFzay1mb3JjZS1jb25kdWN0cy1pY2VsYW5kaWMtbWlzc2lvbi13aXRoLW5vcndlZ2lhbi1mLTM1cy11cy1mLTE1cy_SAQA?oc=5",
+      "published": "2020-03-18T07:00:00.000Z",
+      "description": "Bomber Task Force conducts Icelandic mission with Norwegian F-35s, U.S. F-15s&nbsp;&nbsp;Whiteman Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -377,16 +387,6 @@
       "category": ""
     },
     {
-      "id": "CBMiiwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIwLzAzLzEyL2p1c3QtaW4td2F0Y2gtdGhpcy12aWRlby13aXRoLXJhZGlvLWNvbW1zLW9mLXR3by1iLTItc3Bpcml0LWFycml2aW5nLWludG8tcmFmLWZhaXJmb3JkLWVhcmxpZXItdG9kYXkv0gEA",
-      "title": "Just In: Watch This Video (With Radio Comms) Of Two B-2 Spirit Arriving Into RAF Fairford Earlier Today - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIwLzAzLzEyL2p1c3QtaW4td2F0Y2gtdGhpcy12aWRlby13aXRoLXJhZGlvLWNvbW1zLW9mLXR3by1iLTItc3Bpcml0LWFycml2aW5nLWludG8tcmFmLWZhaXJmb3JkLWVhcmxpZXItdG9kYXkv0gEA?oc=5",
-      "published": "2020-03-12T07:00:00.000Z",
-      "description": "Just In: Watch This Video (With Radio Comms) Of Two B-2 Spirit Arriving Into RAF Fairford Earlier Today&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiamh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi92aWRlby1zaG93cy1pbi1kZXRhaWwtbW92ZW1lbnQtb2YtY29udHJvbC1zdXJmYWNlcy1vZi1hLWItMmEtc3Bpcml0LWJvbWJlci_SAQA",
       "title": "Video shows in detail movement of control surfaces of a B-2A Spirit bomber - Aeroflap",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi92aWRlby1zaG93cy1pbi1kZXRhaWwtbW92ZW1lbnQtb2YtY29udHJvbC1zdXJmYWNlcy1vZi1hLWItMmEtc3Bpcml0LWJvbWJlci_SAQA?oc=5",
@@ -412,6 +412,16 @@
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMTIvMDEvZW5qb3ktdGhlc2UtcGhvdG9zLW9mLXRoZS1yZWNlbnQtYi0yLWVsZXBoYW50LXdhbGstdG8tcHJlcGFyZS1mb3ItdGhlLWItMjEtdW52ZWlsaW5nL9IBAA?oc=5",
       "published": "2022-12-01T08:00:00.000Z",
       "description": "Enjoy These Photos Of The Recent B-2 Elephant Walk To Prepare For The B-21 Unveiling&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtYi0yLWJvbWJlci1uaWdodG1hcmUtaGFzLWFycml2ZWQtMjExMTY40gEA",
+      "title": "The Air Force's B-2 Bomber Nightmare Has Arrived - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtYi0yLWJvbWJlci1uaWdodG1hcmUtaGFzLWFycml2ZWQtMjExMTY40gEA?oc=5",
+      "published": "2024-05-25T07:00:00.000Z",
+      "description": "The Air Force's B-2 Bomber Nightmare Has Arrived&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -447,21 +457,21 @@
       "category": ""
     },
     {
-      "id": "CBMicWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDkvMTAvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1wZXJmb3Jtcy1ob3QtcGl0LXJlZnVlbGluZy1pbi1sYWplcy1maWVsZC1hem9yZXMv0gEA",
-      "title": "B-2 Spirit Stealth Bomber Performs Hot-Pit Refueling At Lajes Field, Azores - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDkvMTAvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1wZXJmb3Jtcy1ob3QtcGl0LXJlZnVlbGluZy1pbi1sYWplcy1maWVsZC1hem9yZXMv0gEA?oc=5",
-      "published": "2019-09-10T07:00:00.000Z",
-      "description": "B-2 Spirit Stealth Bomber Performs Hot-Pit Refueling At Lajes Field, Azores&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiOGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMDcvMDcvdXNhZi1iNjEtMTItdGVzdHMv0gEA",
       "title": "U.S. Air Force Releases Photos Of Mock B61-12 Nuclear Bomb Test Loaded On B-2A Bomber - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMDcvMDcvdXNhZi1iNjEtMTItdGVzdHMv0gEA?oc=5",
       "published": "2022-07-07T07:00:00.000Z",
       "description": "U.S. Air Force Releases Photos Of Mock B61-12 Nuclear Bomb Test Loaded On B-2A Bomber&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDkvMTAvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1wZXJmb3Jtcy1ob3QtcGl0LXJlZnVlbGluZy1pbi1sYWplcy1maWVsZC1hem9yZXMv0gEA",
+      "title": "B-2 Spirit Stealth Bomber Performs Hot-Pit Refueling At Lajes Field, Azores - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDkvMTAvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1wZXJmb3Jtcy1ob3QtcGl0LXJlZnVlbGluZy1pbi1sYWplcy1maWVsZC1hem9yZXMv0gEA?oc=5",
+      "published": "2019-09-10T07:00:00.000Z",
+      "description": "B-2 Spirit Stealth Bomber Performs Hot-Pit Refueling At Lajes Field, Azores&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
