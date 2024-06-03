@@ -9,4 +9,4 @@ for filename in glob.glob(os.path.join('data/', '*.json')):
         entries.append(i)
 
 with open('./python/data/data.json', 'w') as file:
-    json.dump(entries, file, indent= 4)
+    json.dump(sorted(entries, key=itemgetter('published')), file, indent= 4)
