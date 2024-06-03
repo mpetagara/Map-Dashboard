@@ -41,6 +41,207 @@ jobs:
         parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
         fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
 
+    - name: BTF Mission
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q%20BTF Mission&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keyword_BTF_MISSION.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Strategic Threat
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Strategic%Threat&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_STRATEGIC_THREAT.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Strategic Target
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Strategic%20Target&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Strategic_Target.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: B-1B Lancers
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=B-1B%20Lancers&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_B1B_Lancers.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: B-2A Spirits
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=B-2A%20Spirits&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keyword_B2A_Spirit.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: B-52H Stratofortress
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=B-52H%20Stratofortress&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_B52H_Stratofortress.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Missile Threat
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=missile%20threat&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Missile_Threat.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: B52H Bomber
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: https://news.google.com/rss/search?q=B52H%20bomber&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_B52H_Bomber.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: US Strategic Command
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=US%20STRATEGIC%20COMMAND&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_US_Strategic_Command.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: USSTRATCOM
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=USSTRATCOM&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_USSTRATCOM.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Nuclear Operations
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Nuclear%20Operations&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Nuclear_Operations.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Nuclear Command
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Nuclear%20Command&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Nuclear_Command.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Joint Electomagnetic Spectrum Operations
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Joint%20Electromagnetic%20Spectrum%20Operations&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_JESO.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Global Strike
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Global%20Strike&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Global_Strike.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: JFACC
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=JFACC&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_JFACC.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: JFMCC
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=JFMCC&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_JFMCC.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Missile Testing
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=missile%20testing&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Missile_Testing.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Reconnaissance Flight
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=reconnaissance%20flight&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Reconnaissance_Flight.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Spy Plane
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=spy%20plane&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Spy_Plane.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: RC-135
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=RC-135&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_RC-135.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Border Wall
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=border%20wall&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Border_Wall.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Nuclear Submarines
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=nuclear%20submarines&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Nuclear_Submarine.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: AGIS Destroyers
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=AGIS%20Destroyers&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_AGIS_Destroyers.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Rivot Joint
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Rivet%20Joint&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Rivet_Joint.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+    - name: Lockheed U-2
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://news.google.com/rss/search?q=Lockheed%20U-2&hl=en-US&gl=US&ceid=US:en'
+        file_path: './data/Keywords_Lockheed_U2.json'
+        parser_options: "{\"useISODateFormat\": true, \"getExtraEntryFields\": \"(feedEntry) => { return { 'summary': feedEntry['summary'] || '', 'author': feedEntry['author'] || '', 'category': feedEntry['category'] || ''}; }\"}"
+        fetch_options: "{\"headers\": {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0\",\"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\"}}"
+
+
     - name: Commit and push changes to repository
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
