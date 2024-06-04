@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-04T09:27:08.000Z",
+  "published": "2024-06-04T10:32:50.000Z",
   "entries": [
     {
       "id": "CBMigwFodHRwczovL3d3dy55YWhvby5jb20vbmV3cy90aGUtc3Rha2VzLXdoYXQtdHJ1bXAtYW5kLWJpZGVuLWhhdmUtZG9uZS1hYm91dC10aGUtYm9yZGVyLS1hbmQtd2hhdC10aGV5LXdhbnQtdG8tZG8tbmV4dC0xMzQ3MjMwNzguaHRtbNIBAA",
@@ -32,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzAzL29waW5pb24vcHJlc2lkZW50LWJpZGVucy1hbW5lc3R5LXRvLW1vcmUtdGhhbi0zNTAwMDAtbWlncmFudHMtbGV0dGVycy_SAQA?oc=5",
       "published": "2024-06-03T23:21:00.000Z",
       "description": "Biden's amnesty to more than 350000 migrants: Letters to the Editor — June 4, 2024&nbsp;&nbsp;New York Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMivwFodHRwczovL3d3dy55b3Vyc291cmNlb25lLmNvbS9uZXdzL25hdGlvbmFsX25ld3MvYXJpem9uYS1wcm9wb3NhbC10by1sZXQtbG9jYWwtcG9saWNlLW1ha2UtYm9yZGVyLWNyb3NzaW5nLWFycmVzdHMtaXMtc2V0LWZvci1sYXdtYWtlcnMtZmluYWwvYXJ0aWNsZV9jZDFhYjFiZS1mMjg2LTVlODUtYWJlMC0yZDA3ZjhkMDQxNDEuaHRtbNIBAA",
+      "title": "Arizona proposal to let local police make border-crossing arrests is set for lawmakers' final vote - Source ONE News",
+      "link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy55b3Vyc291cmNlb25lLmNvbS9uZXdzL25hdGlvbmFsX25ld3MvYXJpem9uYS1wcm9wb3NhbC10by1sZXQtbG9jYWwtcG9saWNlLW1ha2UtYm9yZGVyLWNyb3NzaW5nLWFycmVzdHMtaXMtc2V0LWZvci1sYXdtYWtlcnMtZmluYWwvYXJ0aWNsZV9jZDFhYjFiZS1mMjg2LTVlODUtYWJlMC0yZDA3ZjhkMDQxNDEuaHRtbNIBAA?oc=5",
+      "published": "2024-06-04T10:02:19.000Z",
+      "description": "Arizona proposal to let local police make border-crossing arrests is set for lawmakers' final vote&nbsp;&nbsp;Source ONE News",
       "summary": "",
       "author": "",
       "category": ""
@@ -177,16 +187,6 @@
       "category": ""
     },
     {
-      "id": "CBMiaGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3ZpZGVvLWJvcmRlci1hZ2VudHMtbWlncmFudHMtY2xhc2gtYXQtYm9yZGVyLXdhbGwv0gFsaHR0cHM6Ly93d3cuYm9yZGVycmVwb3J0LmNvbS9pbW1pZ3JhdGlvbi9ib3JkZXItY3JpbWUvdmlkZW8tYm9yZGVyLWFnZW50cy1taWdyYW50cy1jbGFzaC1hdC1ib3JkZXItd2FsbC9hbXAv",
-      "title": "Video: Border agents, migrants clash at border wall - Border Report",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3ZpZGVvLWJvcmRlci1hZ2VudHMtbWlncmFudHMtY2xhc2gtYXQtYm9yZGVyLXdhbGwv0gFsaHR0cHM6Ly93d3cuYm9yZGVycmVwb3J0LmNvbS9pbW1pZ3JhdGlvbi9ib3JkZXItY3JpbWUvdmlkZW8tYm9yZGVyLWFnZW50cy1taWdyYW50cy1jbGFzaC1hdC1ib3JkZXItd2FsbC9hbXAv?oc=5",
-      "published": "2024-05-23T07:00:00.000Z",
-      "description": "Video: Border agents, migrants clash at border wall&nbsp;&nbsp;Border Report",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8wNS9iaWRlbi1ib3JkZXItd2FsbC10ZXhhcy1zdGFyci1jb3VudHkv0gEA",
       "title": "Biden administration presses forward with border wall plans in Texas, angering allies - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8wNS9iaWRlbi1ib3JkZXItd2FsbC10ZXhhcy1zdGFyci1jb3VudHkv0gEA?oc=5",
@@ -197,21 +197,21 @@
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMi8xOC90ZXhhcy1nb3Zlcm5vci1hYmJvdHQtYmlsbHMtYm9yZGVyLXdhbGwtaWxsZWdhbC1lbnRyeS1jcmltZS1zYjMtc2I0L9IBAA",
-      "title": "Gov. Greg Abbott signs bill making illegal immigration a state crime - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMi8xOC90ZXhhcy1nb3Zlcm5vci1hYmJvdHQtYmlsbHMtYm9yZGVyLXdhbGwtaWxsZWdhbC1lbnRyeS1jcmltZS1zYjMtc2I0L9IBAA?oc=5",
-      "published": "2023-12-18T08:00:00.000Z",
-      "description": "Gov. Greg Abbott signs bill making illegal immigration a state crime&nbsp;&nbsp;The Texas Tribune",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjcvcnVzc2lhLWRyb25lLXdhbGwtc2l4LW5hdG8tY291bnRyaWVzLWFubm91bmNlLWJvcmRlci1kZWZlbnNlLXBsYW4uaHRtbNIBamh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI3L3J1c3NpYS1kcm9uZS13YWxsLXNpeC1uYXRvLWNvdW50cmllcy1hbm5vdW5jZS1ib3JkZXItZGVmZW5zZS1wbGFuLmh0bWw",
       "title": "'Drone wall' against Russia: Six NATO countries announce border defense plan - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjcvcnVzc2lhLWRyb25lLXdhbGwtc2l4LW5hdG8tY291bnRyaWVzLWFubm91bmNlLWJvcmRlci1kZWZlbnNlLXBsYW4uaHRtbNIBamh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI3L3J1c3NpYS1kcm9uZS13YWxsLXNpeC1uYXRvLWNvdW50cmllcy1hbm5vdW5jZS1ib3JkZXItZGVmZW5zZS1wbGFuLmh0bWw?oc=5",
       "published": "2024-05-27T13:04:15.000Z",
       "description": "'Drone wall' against Russia: Six NATO countries announce border defense plan&nbsp;&nbsp;CNBC",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMi8xOC90ZXhhcy1nb3Zlcm5vci1hYmJvdHQtYmlsbHMtYm9yZGVyLXdhbGwtaWxsZWdhbC1lbnRyeS1jcmltZS1zYjMtc2I0L9IBAA",
+      "title": "Gov. Greg Abbott signs bill making illegal immigration a state crime - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMi8xOC90ZXhhcy1nb3Zlcm5vci1hYmJvdHQtYmlsbHMtYm9yZGVyLXdhbGwtaWxsZWdhbC1lbnRyeS1jcmltZS1zYjMtc2I0L9IBAA?oc=5",
+      "published": "2023-12-18T08:00:00.000Z",
+      "description": "Gov. Greg Abbott signs bill making illegal immigration a state crime&nbsp;&nbsp;The Texas Tribune",
       "summary": "",
       "author": "",
       "category": ""
@@ -237,21 +237,21 @@
       "category": ""
     },
     {
-      "id": "CBMiQ2h0dHBzOi8vdG9kYXkudWNzZC5lZHUvc3RvcnkvdGhlLWhlYWx0aC1pbXBhY3RzLW9mLW1pZ3JhdGluZy1ieS1zZWHSAQA",
-      "title": "The Health Impacts of Migrating by Sea - University of California San Diego",
-      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdG9kYXkudWNzZC5lZHUvc3RvcnkvdGhlLWhlYWx0aC1pbXBhY3RzLW9mLW1pZ3JhdGluZy1ieS1zZWHSAQA?oc=5",
-      "published": "2024-03-07T08:00:00.000Z",
-      "description": "The Health Impacts of Migrating by Sea&nbsp;&nbsp;University of California San Diego",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiU2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA0LzExL3BvbGwtbGF0aW5vLXN1cHBvcnQtYm9yZGVyLXdhbGwtZGVwb3J0YXRpb25zLWp1bXBz0gEA",
       "title": "Latino support for border wall, deportations jumps - Axios",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA0LzExL3BvbGwtbGF0aW5vLXN1cHBvcnQtYm9yZGVyLXdhbGwtZGVwb3J0YXRpb25zLWp1bXBz0gEA?oc=5",
       "published": "2024-04-11T07:00:00.000Z",
       "description": "Latino support for border wall, deportations jumps&nbsp;&nbsp;Axios",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiQ2h0dHBzOi8vdG9kYXkudWNzZC5lZHUvc3RvcnkvdGhlLWhlYWx0aC1pbXBhY3RzLW9mLW1pZ3JhdGluZy1ieS1zZWHSAQA",
+      "title": "The Health Impacts of Migrating by Sea - University of California San Diego",
+      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdG9kYXkudWNzZC5lZHUvc3RvcnkvdGhlLWhlYWx0aC1pbXBhY3RzLW9mLW1pZ3JhdGluZy1ieS1zZWHSAQA?oc=5",
+      "published": "2024-03-07T08:00:00.000Z",
+      "description": "The Health Impacts of Migrating by Sea&nbsp;&nbsp;University of California San Diego",
       "summary": "",
       "author": "",
       "category": ""
@@ -277,6 +277,16 @@
       "category": ""
     },
     {
+      "id": "CBMihwFodHRwczovL3d3dy5uZXdzbmF0aW9ubm93LmNvbS91cy1uZXdzL2ltbWlncmF0aW9uL2JvcmRlci1jb3ZlcmFnZS9hZ2VudHMtc2VhcmNoLXdvbWFucy1waG9uZS1maW5kLXRlbGVncmFtLWNoYXQtdXNlZC1ieS0xMDAwLXNtdWdnbGVycy_SAYsBaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi9ib3JkZXItY292ZXJhZ2UvYWdlbnRzLXNlYXJjaC13b21hbnMtcGhvbmUtZmluZC10ZWxlZ3JhbS1jaGF0LXVzZWQtYnktMTAwMC1zbXVnZ2xlcnMvYW1wLw",
+      "title": "Agents search woman’s phone, find Telegram chat used by 1,000 smugglers - NewsNation Now",
+      "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5uZXdzbmF0aW9ubm93LmNvbS91cy1uZXdzL2ltbWlncmF0aW9uL2JvcmRlci1jb3ZlcmFnZS9hZ2VudHMtc2VhcmNoLXdvbWFucy1waG9uZS1maW5kLXRlbGVncmFtLWNoYXQtdXNlZC1ieS0xMDAwLXNtdWdnbGVycy_SAYsBaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi9ib3JkZXItY292ZXJhZ2UvYWdlbnRzLXNlYXJjaC13b21hbnMtcGhvbmUtZmluZC10ZWxlZ3JhbS1jaGF0LXVzZWQtYnktMTAwMC1zbXVnZ2xlcnMvYW1wLw?oc=5",
+      "published": "2024-05-30T07:01:45.000Z",
+      "description": "Agents search woman’s phone, find Telegram chat used by 1,000 smugglers&nbsp;&nbsp;NewsNation Now",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8yMi90ZXhhcy1ib3JkZXItcGF0cm9sLWltbWlncmF0aW9uLWVuZm9yY2VtZW50LWVhZ2xlLXBhc3MtcGFyay_SAQA",
       "title": "Texas, feds locked in tense border standoff in Eagle Pass - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8yMi90ZXhhcy1ib3JkZXItcGF0cm9sLWltbWlncmF0aW9uLWVuZm9yY2VtZW50LWVhZ2xlLXBhc3MtcGFyay_SAQA?oc=5",
@@ -287,21 +297,21 @@
       "category": ""
     },
     {
-      "id": "CBMiW2h0dHBzOi8vd3d3LmNvdXJ0aG91c2VuZXdzLmNvbS9zZWNvbmQtY2lyY3VpdC1yZWV4YW1pbmVzLWJvcmRlci13YWxsLWZ1bmRyYWlzZXItZnJhdWQtY2FzZS_SAQA",
-      "title": "Second Circuit reexamines border wall fundraiser fraud case - Courthouse News Service",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNvdXJ0aG91c2VuZXdzLmNvbS9zZWNvbmQtY2lyY3VpdC1yZWV4YW1pbmVzLWJvcmRlci13YWxsLWZ1bmRyYWlzZXItZnJhdWQtY2FzZS_SAQA?oc=5",
-      "published": "2024-05-07T07:00:00.000Z",
-      "description": "Second Circuit reexamines border wall fundraiser fraud case&nbsp;&nbsp;Courthouse News Service",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8yMy90ZXhhcy1sZWdpc2xhdHVyZS1ib3JkZXItd2FsbC1zcGVuZGluZy1iaWxsLWhvdXNlLWFwcHJvcHJpYXRpb25zL9IBAA",
       "title": "Texas House committee approves bill to spend $1.5 billion for border walls - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8yMy90ZXhhcy1sZWdpc2xhdHVyZS1ib3JkZXItd2FsbC1zcGVuZGluZy1iaWxsLWhvdXNlLWFwcHJvcHJpYXRpb25zL9IBAA?oc=5",
       "published": "2023-10-23T07:00:00.000Z",
       "description": "Texas House committee approves bill to spend $1.5 billion for border walls&nbsp;&nbsp;The Texas Tribune",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiW2h0dHBzOi8vd3d3LmNvdXJ0aG91c2VuZXdzLmNvbS9zZWNvbmQtY2lyY3VpdC1yZWV4YW1pbmVzLWJvcmRlci13YWxsLWZ1bmRyYWlzZXItZnJhdWQtY2FzZS_SAQA",
+      "title": "Second Circuit reexamines border wall fundraiser fraud case - Courthouse News Service",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNvdXJ0aG91c2VuZXdzLmNvbS9zZWNvbmQtY2lyY3VpdC1yZWV4YW1pbmVzLWJvcmRlci13YWxsLWZ1bmRyYWlzZXItZnJhdWQtY2FzZS_SAQA?oc=5",
+      "published": "2024-05-07T07:00:00.000Z",
+      "description": "Second Circuit reexamines border wall fundraiser fraud case&nbsp;&nbsp;Courthouse News Service",
       "summary": "",
       "author": "",
       "category": ""
@@ -377,6 +387,16 @@
       "category": ""
     },
     {
+      "id": "CBMiaGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3ZpZGVvLWJvcmRlci1hZ2VudHMtbWlncmFudHMtY2xhc2gtYXQtYm9yZGVyLXdhbGwv0gFsaHR0cHM6Ly93d3cuYm9yZGVycmVwb3J0LmNvbS9pbW1pZ3JhdGlvbi9ib3JkZXItY3JpbWUvdmlkZW8tYm9yZGVyLWFnZW50cy1taWdyYW50cy1jbGFzaC1hdC1ib3JkZXItd2FsbC9hbXAv",
+      "title": "Video: Border agents, migrants clash at border wall - Border Report",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3ZpZGVvLWJvcmRlci1hZ2VudHMtbWlncmFudHMtY2xhc2gtYXQtYm9yZGVyLXdhbGwv0gFsaHR0cHM6Ly93d3cuYm9yZGVycmVwb3J0LmNvbS9pbW1pZ3JhdGlvbi9ib3JkZXItY3JpbWUvdmlkZW8tYm9yZGVyLWFnZW50cy1taWdyYW50cy1jbGFzaC1hdC1ib3JkZXItd2FsbC9hbXAv?oc=5",
+      "published": "2024-05-23T07:00:00.000Z",
+      "description": "Video: Border agents, migrants clash at border wall&nbsp;&nbsp;Border Report",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1jb25zdHJ1Y3RzLW1vcmUtYm9yZGVyLXdhbGwtdG8tZGV0ZXItaWxsZWdhbC1lbnRyedIBAA",
       "title": "Operation Lone Star Constructs More Border Wall To Deter Illegal Entry - Office of the Texas Governor",
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1jb25zdHJ1Y3RzLW1vcmUtYm9yZGVyLXdhbGwtdG8tZGV0ZXItaWxsZWdhbC1lbnRyedIBAA?oc=5",
@@ -392,16 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1lbmdpbmVlcnMtaW5zdGFsbC1uZXctc3RyYXRlZ2ljLWJvcmRlci1iYXJyaWVy0gEA?oc=5",
       "published": "2023-12-08T08:00:00.000Z",
       "description": "Operation Lone Star Engineers Install New Strategic Border Barrier&nbsp;&nbsp;Office of the Texas Governor",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50Lzk0OWRiNDY1LWNkMjctNGM2Ni05OTA4LWMyZmFhODBiNjAyYtIBAA",
-      "title": "Six Nato countries plan 'drone wall' to defend borders with Russia - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50Lzk0OWRiNDY1LWNkMjctNGM2Ni05OTA4LWMyZmFhODBiNjAyYtIBAA?oc=5",
-      "published": "2024-05-26T07:00:00.000Z",
-      "description": "Six Nato countries plan 'drone wall' to defend borders with Russia&nbsp;&nbsp;Financial Times",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,21 +477,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZ2h0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3NldmVuLXNtdWdnbGVycy1hc3Npc3QtbGEtYm91bmQtbWlncmFudC1mb3ItODUwMC_SAWtodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL2ltbWlncmF0aW9uL2JvcmRlci1jcmltZS9zZXZlbi1zbXVnZ2xlcnMtYXNzaXN0LWxhLWJvdW5kLW1pZ3JhbnQtZm9yLTg1MDAvYW1wLw",
-      "title": "Seven smugglers assist LA-bound migrant for $8,500 - Border Report",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3NldmVuLXNtdWdnbGVycy1hc3Npc3QtbGEtYm91bmQtbWlncmFudC1mb3ItODUwMC_SAWtodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL2ltbWlncmF0aW9uL2JvcmRlci1jcmltZS9zZXZlbi1zbXVnZ2xlcnMtYXNzaXN0LWxhLWJvdW5kLW1pZ3JhbnQtZm9yLTg1MDAvYW1wLw?oc=5",
-      "published": "2024-05-29T23:18:56.000Z",
-      "description": "Seven smugglers assist LA-bound migrant for $8,500&nbsp;&nbsp;Border Report",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yMy91cy91cy1tZXhpY28tYm9yZGVyLXRleGFzLW1pZ3JhbnRzL2luZGV4Lmh0bWzSAUVodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzIzL3VzL3VzLW1leGljby1ib3JkZXItdGV4YXMtbWlncmFudHM",
       "title": "‘This is not over,’ Texas says after Supreme Court lets Biden administration remove razor wire at US-Mexico border - CNN",
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8yMy91cy91cy1tZXhpY28tYm9yZGVyLXRleGFzLW1pZ3JhbnRzL2luZGV4Lmh0bWzSAUVodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzIzL3VzL3VzLW1leGljby1ib3JkZXItdGV4YXMtbWlncmFudHM?oc=5",
       "published": "2024-01-24T08:00:00.000Z",
       "description": "‘This is not over,’ Texas says after Supreme Court lets Biden administration remove razor wire at US-Mexico border&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZ2h0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3NldmVuLXNtdWdnbGVycy1hc3Npc3QtbGEtYm91bmQtbWlncmFudC1mb3ItODUwMC_SAWtodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL2ltbWlncmF0aW9uL2JvcmRlci1jcmltZS9zZXZlbi1zbXVnZ2xlcnMtYXNzaXN0LWxhLWJvdW5kLW1pZ3JhbnQtZm9yLTg1MDAvYW1wLw",
+      "title": "Seven smugglers assist LA-bound migrant for $8,500 - Border Report",
+      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vaW1taWdyYXRpb24vYm9yZGVyLWNyaW1lL3NldmVuLXNtdWdnbGVycy1hc3Npc3QtbGEtYm91bmQtbWlncmFudC1mb3ItODUwMC_SAWtodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL2ltbWlncmF0aW9uL2JvcmRlci1jcmltZS9zZXZlbi1zbXVnZ2xlcnMtYXNzaXN0LWxhLWJvdW5kLW1pZ3JhbnQtZm9yLTg1MDAvYW1wLw?oc=5",
+      "published": "2024-05-29T23:18:56.000Z",
+      "description": "Seven smugglers assist LA-bound migrant for $8,500&nbsp;&nbsp;Border Report",
       "summary": "",
       "author": "",
       "category": ""
@@ -617,16 +627,6 @@
       "category": ""
     },
     {
-      "id": "CBMihAFodHRwczovL3d3dy5kY25ld3Nub3cuY29tL25ld3MvdXMtYW5kLXdvcmxkL2JvcmRlci1yZXBvcnQtdG91ci9hZ2VudHMtc2VhcmNoLXdvbWFucy1waG9uZS1maW5kLXRlbGVncmFtLWNoYXQtdXNlZC1ieS0xMDAwLXNtdWdnbGVycy_SAQA",
-      "title": "Agents search woman's phone, find Telegram chat used by 1000 smugglers - DC News Now | Washington, DC",
-      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kY25ld3Nub3cuY29tL25ld3MvdXMtYW5kLXdvcmxkL2JvcmRlci1yZXBvcnQtdG91ci9hZ2VudHMtc2VhcmNoLXdvbWFucy1waG9uZS1maW5kLXRlbGVncmFtLWNoYXQtdXNlZC1ieS0xMDAwLXNtdWdnbGVycy_SAQA?oc=5",
-      "published": "2024-05-29T23:20:20.000Z",
-      "description": "Agents search woman's phone, find Telegram chat used by 1000 smugglers&nbsp;&nbsp;DC News Now | Washington, DC",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzL9IBjAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzLz9hbXA9MQ",
       "title": "Activist calls for change after nearly a dozen people fall from US—Mexico border fence - NBC San Diego",
       "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzL9IBjAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzLz9hbXA9MQ?oc=5",
@@ -662,6 +662,16 @@
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LndpY2tlci5zZW5hdGUuZ292LzIwMjMvOC93aWNrZXItYXJtZWQtc2VydmljZXMtcmVwdWJsaWNhbnMtY2FsbC1mb3ItaGFsdC10by1ib3JkZXItd2FsbC1tYXRlcmlhbC1hdWN0aW9uc9IBAA?oc=5",
       "published": "2023-08-22T07:00:00.000Z",
       "description": "Wicker, Armed Services Republicans Call for Halt to Border Wall Material Auctions&nbsp;&nbsp;Senator Roger Wicker",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8xMS90ZXhhcy1ib3JkZXItbWlncmFudHMtZ3JlZy1hYmJvdHQtaW50ZXJ2aWV3LXNob290L9IBAA",
+      "title": "Texas governor criticized after comment about shooting migrants - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8xMS90ZXhhcy1ib3JkZXItbWlncmFudHMtZ3JlZy1hYmJvdHQtaW50ZXJ2aWV3LXNob290L9IBAA?oc=5",
+      "published": "2024-01-11T08:00:00.000Z",
+      "description": "Texas governor criticized after comment about shooting migrants&nbsp;&nbsp;The Texas Tribune",
       "summary": "",
       "author": "",
       "category": ""
@@ -967,16 +977,6 @@
       "category": ""
     },
     {
-      "id": "CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbC9pbmRleC5odG1s0gFVaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbA",
-      "title": "Fact check: Trump falsely claims he’d promised Mexico would pay for ‘a piece’ of the border wall - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbC9pbmRleC5odG1s0gFVaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbA?oc=5",
-      "published": "2023-10-30T07:00:00.000Z",
-      "description": "Fact check: Trump falsely claims he’d promised Mexico would pay for ‘a piece’ of the border wall&nbsp;&nbsp;CNN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2FydGljbGUvdGV4YXMtYm9yZGVyLWxhdy1jaGFsbGVuZ2UtZXhwbGFpbmVyLmh0bWzSAQA",
       "title": "What is SB4, Texas’ Immigration Law? - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2FydGljbGUvdGV4YXMtYm9yZGVyLWxhdy1jaGFsbGVuZ2UtZXhwbGFpbmVyLmh0bWzSAQA?oc=5",
@@ -987,21 +987,21 @@
       "category": ""
     },
     {
-      "id": "CBMidWh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL3R4L3NvdXRoLXRleGFzLWVsLXBhc28vbmV3cy8yMDIzLzEwLzA1L2JpZGVuLWFkbWluLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1zb3V0aC10ZXhhc9IBAA",
-      "title": "Biden administration waives laws to allow border wall construction - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL3R4L3NvdXRoLXRleGFzLWVsLXBhc28vbmV3cy8yMDIzLzEwLzA1L2JpZGVuLWFkbWluLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1zb3V0aC10ZXhhc9IBAA?oc=5",
-      "published": "2023-10-05T07:00:00.000Z",
-      "description": "Biden administration waives laws to allow border wall construction&nbsp;&nbsp;Spectrum News",
+      "id": "CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbC9pbmRleC5odG1s0gFVaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbA",
+      "title": "Fact check: Trump falsely claims he’d promised Mexico would pay for ‘a piece’ of the border wall - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbC9pbmRleC5odG1s0gFVaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMC8zMC9wb2xpdGljcy9mYWN0LWNoZWNrLXRydW1wLW1leGljby1waWVjZS1ib3JkZXItd2FsbA?oc=5",
+      "published": "2023-10-30T07:00:00.000Z",
+      "description": "Fact check: Trump falsely claims he’d promised Mexico would pay for ‘a piece’ of the border wall&nbsp;&nbsp;CNN",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi9ib3JkZXJzLzIwMjQvMDUvbm9yZGljLWJhbHRpYy1jb3VudHJpZXMtZGlzY3Vzcy1idWlsZGluZy1kcm9uZS13YWxsLWFsb25nLWJvcmRlci1ydXNzaWHSAQA",
-      "title": "Nordic-Baltic countries discuss building of 'drone wall' along border to Russia - The Independent Barents Observer",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi9ib3JkZXJzLzIwMjQvMDUvbm9yZGljLWJhbHRpYy1jb3VudHJpZXMtZGlzY3Vzcy1idWlsZGluZy1kcm9uZS13YWxsLWFsb25nLWJvcmRlci1ydXNzaWHSAQA?oc=5",
-      "published": "2024-05-27T13:56:41.000Z",
-      "description": "Nordic-Baltic countries discuss building of 'drone wall' along border to Russia&nbsp;&nbsp;The Independent Barents Observer",
+      "id": "CBMidWh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL3R4L3NvdXRoLXRleGFzLWVsLXBhc28vbmV3cy8yMDIzLzEwLzA1L2JpZGVuLWFkbWluLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1zb3V0aC10ZXhhc9IBAA",
+      "title": "Biden administration waives laws to allow border wall construction - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL3R4L3NvdXRoLXRleGFzLWVsLXBhc28vbmV3cy8yMDIzLzEwLzA1L2JpZGVuLWFkbWluLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1zb3V0aC10ZXhhc9IBAA?oc=5",
+      "published": "2023-10-05T07:00:00.000Z",
+      "description": "Biden administration waives laws to allow border wall construction&nbsp;&nbsp;Spectrum News",
       "summary": "",
       "author": "",
       "category": ""
