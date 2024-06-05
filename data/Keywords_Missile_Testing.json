@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-05T18:32:17.000Z",
+  "published": "2024-06-05T19:18:00.000Z",
   "entries": [
     {
       "id": "CBMikAFodHRwczovL3d3dy5zcGFjZWZvcmNlLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3OTY1NjYvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA",
@@ -12,16 +12,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5zcGFjZWZvcmNlLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3OTY1NjYvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA?oc=5",
       "published": "2024-06-04T20:18:55.000Z",
       "description": "Minuteman III test launch showcases readiness of US nuclear force's safe, effective deterr&nbsp;&nbsp;Space Force",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtdGVzdC1taW51dGVtYW4taWNibS1maXJzdC10aW1lLXNldmVuLW1vbnRocy_SAQA",
-      "title": "Air Force Launches ICBM Test for the First Time in Seven Months - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtdGVzdC1taW51dGVtYW4taWNibS1maXJzdC10aW1lLXNldmVuLW1vbnRocy_SAQA?oc=5",
-      "published": "2024-06-04T19:33:21.000Z",
-      "description": "Air Force Launches ICBM Test for the First Time in Seven Months&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -37,6 +27,16 @@
       "category": ""
     },
     {
+      "id": "CBMiWGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtdGVzdC1taW51dGVtYW4taWNibS1maXJzdC10aW1lLXNldmVuLW1vbnRocy_SAQA",
+      "title": "Air Force Launches ICBM Test for the First Time in Seven Months - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtdGVzdC1taW51dGVtYW4taWNibS1maXJzdC10aW1lLXNldmVuLW1vbnRocy_SAQA?oc=5",
+      "published": "2024-06-04T19:33:21.000Z",
+      "description": "Air Force Launches ICBM Test for the First Time in Seven Months&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMicGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtdGVzdHMtaHlwZXJzb25pYy1taXNzaWxlLWNhcGFibGUtb2Ytc3RyaWtpbmctbW9zY293LXdpdGhpbi0zMC1taW51dGVzLTU4MjU1NzXSAXZodHRwczovL3d3dy5uZHR2LmNvbS93b3JsZC1uZXdzL3VzLXRlc3RzLWh5cGVyc29uaWMtbWlzc2lsZS1jYXBhYmxlLW9mLXN0cmlraW5nLW1vc2Nvdy13aXRoaW4tMzAtbWludXRlcy01ODI1NTc1L2FtcC8x",
       "title": "US Tests Hypersonic Missile Capable Of Striking Moscow Within 30 Minutes - NDTV",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdXMtdGVzdHMtaHlwZXJzb25pYy1taXNzaWxlLWNhcGFibGUtb2Ytc3RyaWtpbmctbW9zY293LXdpdGhpbi0zMC1taW51dGVzLTU4MjU1NzXSAXZodHRwczovL3d3dy5uZHR2LmNvbS93b3JsZC1uZXdzL3VzLXRlc3RzLWh5cGVyc29uaWMtbWlzc2lsZS1jYXBhYmxlLW9mLXN0cmlraW5nLW1vc2Nvdy13aXRoaW4tMzAtbWludXRlcy01ODI1NTc1L2FtcC8x?oc=5",
@@ -47,21 +47,21 @@
       "category": ""
     },
     {
-      "id": "CBMia2h0dHBzOi8vd3d3Lm1pbm90ZGFpbHluZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvMjAyNC8wNi9taW5vdC1hZmItYWlybWVuLXRha2UtcGFydC1pbi1taXNzaWxlLXRlc3QtbGF1bmNoLTMv0gEA",
-      "title": "Minot AFB airmen take part in missile test launch - Minot Daily News",
-      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm1pbm90ZGFpbHluZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvMjAyNC8wNi9taW5vdC1hZmItYWlybWVuLXRha2UtcGFydC1pbi1taXNzaWxlLXRlc3QtbGF1bmNoLTMv0gEA?oc=5",
-      "published": "2024-06-05T05:06:15.000Z",
-      "description": "Minot AFB airmen take part in missile test launch&nbsp;&nbsp;Minot Daily News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtdGVzdC1raW0tam9uZy11bi10ZW5zaW9ucy04OWJiZTA4MGY5NjcwMDkzYTRkOWI0N2U2NmZkNjVmY9IBAA",
       "title": "North Korea fires missile barrage toward its eastern waters days after failed satellite launch - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtdGVzdC1raW0tam9uZy11bi10ZW5zaW9ucy04OWJiZTA4MGY5NjcwMDkzYTRkOWI0N2U2NmZkNjVmY9IBAA?oc=5",
       "published": "2024-05-30T03:43:00.000Z",
       "description": "North Korea fires missile barrage toward its eastern waters days after failed satellite launch&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMia2h0dHBzOi8vd3d3Lm1pbm90ZGFpbHluZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvMjAyNC8wNi9taW5vdC1hZmItYWlybWVuLXRha2UtcGFydC1pbi1taXNzaWxlLXRlc3QtbGF1bmNoLTMv0gEA",
+      "title": "Minot AFB airmen take part in missile test launch - Minot Daily News",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm1pbm90ZGFpbHluZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvMjAyNC8wNi9taW5vdC1hZmItYWlybWVuLXRha2UtcGFydC1pbi1taXNzaWxlLXRlc3QtbGF1bmNoLTMv0gEA?oc=5",
+      "published": "2024-06-05T05:06:15.000Z",
+      "description": "Minot AFB airmen take part in missile test launch&nbsp;&nbsp;Minot Daily News",
       "summary": "",
       "author": "",
       "category": ""
@@ -207,31 +207,11 @@
       "category": ""
     },
     {
-      "id": "CBMiU2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VzLW5ld3MvdGVzdHMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUtY2FuLTMyOTYyOTgz0gFXaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL25ld3MvdXMtbmV3cy90ZXN0cy1oeXBlcnNvbmljLW51Y2xlYXItbWlzc2lsZS1jYW4tMzI5NjI5ODMuYW1w",
-      "title": "US tests hypersonic nuclear missile that can reach Moscow in 30 minutes as WW3 fears rise - The Mirror",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VzLW5ld3MvdGVzdHMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUtY2FuLTMyOTYyOTgz0gFXaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL25ld3MvdXMtbmV3cy90ZXN0cy1oeXBlcnNvbmljLW51Y2xlYXItbWlzc2lsZS1jYW4tMzI5NjI5ODMuYW1w?oc=5",
-      "published": "2024-06-05T09:39:00.000Z",
-      "description": "US tests hypersonic nuclear missile that can reach Moscow in 30 minutes as WW3 fears rise&nbsp;&nbsp;The Mirror",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiY2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA1LzIxL2xvY2toZWVkLXRlc3QtZmlyZXMtYXJteS1wYXRyaW90LW1pc3NpbGUtdXNpbmctYWVnaXMtY29tYmF0LXN5c3RlbdIBAA",
       "title": "Lockheed Test Fires Army Patriot Missile Using Aegis Combat System - USNI News - USNI News",
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA1LzIxL2xvY2toZWVkLXRlc3QtZmlyZXMtYXJteS1wYXRyaW90LW1pc3NpbGUtdXNpbmctYWVnaXMtY29tYmF0LXN5c3RlbdIBAA?oc=5",
       "published": "2024-05-21T07:00:00.000Z",
       "description": "Lockheed Test Fires Army Patriot Missile Using Aegis Combat System - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiamh0dHBzOi8vd3d3LnZhbmRlbmJlcmcuc3BhY2Vmb3JjZS5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjEyNzk4L21pc3NpbGUtZGVmZW5zZS10ZXN0LXNjaGVkdWxlZC_SAQA",
-      "title": "MISSILE DEFENSE TEST SCHEDULED - Vandenberg Space Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnZhbmRlbmJlcmcuc3BhY2Vmb3JjZS5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjEyNzk4L21pc3NpbGUtZGVmZW5zZS10ZXN0LXNjaGVkdWxlZC_SAQA?oc=5",
-      "published": "2023-12-10T08:00:00.000Z",
-      "description": "MISSILE DEFENSE TEST SCHEDULED&nbsp;&nbsp;Vandenberg Space Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -247,11 +227,21 @@
       "category": ""
     },
     {
-      "id": "CBMiY2h0dHBzOi8vdGhlYnVsbGV0aW4ub3JnLzIwMjQvMDUvd2hhdC1pbmRpYXMtbWlydi10ZXN0LWFkZHMtdG8tdGhlLXN0cmF0ZWdpYy10cmlsZW1tYS1pbi1zb3V0aC1hc2lhL9IBAA",
-      "title": "What India's MIRV test adds to the 'strategic trilemma' in South Asia - Bulletin of the Atomic Scientists",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYnVsbGV0aW4ub3JnLzIwMjQvMDUvd2hhdC1pbmRpYXMtbWlydi10ZXN0LWFkZHMtdG8tdGhlLXN0cmF0ZWdpYy10cmlsZW1tYS1pbi1zb3V0aC1hc2lhL9IBAA?oc=5",
-      "published": "2024-05-03T07:00:00.000Z",
-      "description": "What India's MIRV test adds to the 'strategic trilemma' in South Asia&nbsp;&nbsp;Bulletin of the Atomic Scientists",
+      "id": "CBMiU2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VzLW5ld3MvdGVzdHMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUtY2FuLTMyOTYyOTgz0gFXaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL25ld3MvdXMtbmV3cy90ZXN0cy1oeXBlcnNvbmljLW51Y2xlYXItbWlzc2lsZS1jYW4tMzI5NjI5ODMuYW1w",
+      "title": "US tests hypersonic nuclear missile that can reach Moscow in 30 minutes as WW3 fears rise - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9uZXdzL3VzLW5ld3MvdGVzdHMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUtY2FuLTMyOTYyOTgz0gFXaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL25ld3MvdXMtbmV3cy90ZXN0cy1oeXBlcnNvbmljLW51Y2xlYXItbWlzc2lsZS1jYW4tMzI5NjI5ODMuYW1w?oc=5",
+      "published": "2024-06-05T09:39:00.000Z",
+      "description": "US tests hypersonic nuclear missile that can reach Moscow in 30 minutes as WW3 fears rise&nbsp;&nbsp;The Mirror",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiamh0dHBzOi8vd3d3LnZhbmRlbmJlcmcuc3BhY2Vmb3JjZS5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjEyNzk4L21pc3NpbGUtZGVmZW5zZS10ZXN0LXNjaGVkdWxlZC_SAQA",
+      "title": "MISSILE DEFENSE TEST SCHEDULED - Vandenberg Space Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnZhbmRlbmJlcmcuc3BhY2Vmb3JjZS5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjEyNzk4L21pc3NpbGUtZGVmZW5zZS10ZXN0LXNjaGVkdWxlZC_SAQA?oc=5",
+      "published": "2023-12-10T08:00:00.000Z",
+      "description": "MISSILE DEFENSE TEST SCHEDULED&nbsp;&nbsp;Vandenberg Space Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -277,21 +267,21 @@
       "category": ""
     },
     {
-      "id": "CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy93aHktaXMtbm9ydGgta29yZWEtdGVzdGluZy1oeXBlcnNvbmljLW1pc3NpbGVzLWhvdy1kby10aGV5LXdvcmstMjAyNC0wMS0xNS_SAQA",
-      "title": "Explainer: Why is North Korea testing hypersonic missiles and how do they work? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy93aHktaXMtbm9ydGgta29yZWEtdGVzdGluZy1oeXBlcnNvbmljLW1pc3NpbGVzLWhvdy1kby10aGV5LXdvcmstMjAyNC0wMS0xNS_SAQA?oc=5",
-      "published": "2024-01-14T08:00:00.000Z",
-      "description": "Explainer: Why is North Korea testing hypersonic missiles and how do they work?&nbsp;&nbsp;Reuters",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihQFodHRwczovL3d3dy5ybnouY28ubnovaW50ZXJuYXRpb25hbC9wcm9ncmFtbWVzL2RhdGVsaW5lcGFjaWZpYy9hdWRpby8yMDE4OTQxNDIwL3VzLXByb3Bvc2FsLXRvLXRlc3QtbWlzc2xlcy1vbi1ndWFtcy1kcmF3cy1zY2VwdGljaXNt0gEA",
       "title": "US proposal to test missles on Guams draws scepticism - RNZ",
       "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5ybnouY28ubnovaW50ZXJuYXRpb25hbC9wcm9ncmFtbWVzL2RhdGVsaW5lcGFjaWZpYy9hdWRpby8yMDE4OTQxNDIwL3VzLXByb3Bvc2FsLXRvLXRlc3QtbWlzc2xlcy1vbi1ndWFtcy1kcmF3cy1zY2VwdGljaXNt0gEA?oc=5",
       "published": "2024-06-05T07:22:06.000Z",
       "description": "US proposal to test missles on Guams draws scepticism&nbsp;&nbsp;RNZ",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy93aHktaXMtbm9ydGgta29yZWEtdGVzdGluZy1oeXBlcnNvbmljLW1pc3NpbGVzLWhvdy1kby10aGV5LXdvcmstMjAyNC0wMS0xNS_SAQA",
+      "title": "Explainer: Why is North Korea testing hypersonic missiles and how do they work? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy93aHktaXMtbm9ydGgta29yZWEtdGVzdGluZy1oeXBlcnNvbmljLW1pc3NpbGVzLWhvdy1kby10aGV5LXdvcmstMjAyNC0wMS0xNS_SAQA?oc=5",
+      "published": "2024-01-14T08:00:00.000Z",
+      "description": "Explainer: Why is North Korea testing hypersonic missiles and how do they work?&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -337,21 +327,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbm9ydGgta29yZWEtcmVzdW1lcy1iYWxsaXN0aWMtbWlzc2lsZS10ZXN0cy1yY25hMTQzODA40gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MzgwOA",
-      "title": "North Korea resumes missile tests, raising tensions with rivals - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbm9ydGgta29yZWEtcmVzdW1lcy1iYWxsaXN0aWMtbWlzc2lsZS10ZXN0cy1yY25hMTQzODA40gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MzgwOA?oc=5",
-      "published": "2024-03-17T07:00:00.000Z",
-      "description": "North Korea resumes missile tests, raising tensions with rivals&nbsp;&nbsp;NBC News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtbGF1bmNoLWUxNTZiNjBjMzQyY2ZjNGViZjAzZTMzYTVhMzE1MDNh0gEA",
       "title": "North Korea has fired multiple missiles into the ocean, South Korea says - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtbGF1bmNoLWUxNTZiNjBjMzQyY2ZjNGViZjAzZTMzYTVhMzE1MDNh0gEA?oc=5",
       "published": "2024-04-22T07:00:00.000Z",
       "description": "North Korea has fired multiple missiles into the ocean, South Korea says&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbm9ydGgta29yZWEtcmVzdW1lcy1iYWxsaXN0aWMtbWlzc2lsZS10ZXN0cy1yY25hMTQzODA40gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MzgwOA",
+      "title": "North Korea resumes missile tests, raising tensions with rivals - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbm9ydGgta29yZWEtcmVzdW1lcy1iYWxsaXN0aWMtbWlzc2lsZS10ZXN0cy1yY25hMTQzODA40gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE0MzgwOA?oc=5",
+      "published": "2024-03-17T07:00:00.000Z",
+      "description": "North Korea resumes missile tests, raising tensions with rivals&nbsp;&nbsp;NBC News",
       "summary": "",
       "author": "",
       "category": ""
@@ -397,6 +387,16 @@
       "category": ""
     },
     {
+      "id": "CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1jb25kdWN0cy1jcnVpc2UtbWlzc2lsZS13YXJoZWFkLXRlc3QtZnJpZGF5LWtjbmEtc2F5cy0yMDI0LTA0LTE5L9IBAA",
+      "title": "North Korea conducts cruise missile warhead test on Friday, KCNA says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1jb25kdWN0cy1jcnVpc2UtbWlzc2lsZS13YXJoZWFkLXRlc3QtZnJpZGF5LWtjbmEtc2F5cy0yMDI0LTA0LTE5L9IBAA?oc=5",
+      "published": "2024-04-19T07:00:00.000Z",
+      "description": "North Korea conducts cruise missile warhead test on Friday, KCNA says&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZWh0dHBzOi8vd3d3Lm5rbmV3cy5vcmcvMjAyNC8wNS9ub3J0aC1rb3JlYS1jbGFpbXMtdG8taGF2ZS1sYXVuY2hlZC0xOC1taXNzaWxlcy1hdC1vbmNlLWluLW1ham9yLXRlc3Qv0gEA",
       "title": "North Korea claims it launched 18 missiles at once in warning to South - NK News",
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5rbmV3cy5vcmcvMjAyNC8wNS9ub3J0aC1rb3JlYS1jbGFpbXMtdG8taGF2ZS1sYXVuY2hlZC0xOC1taXNzaWxlcy1hdC1vbmNlLWluLW1ham9yLXRlc3Qv0gEA?oc=5",
@@ -422,6 +422,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8xNC9hc2lhL25vcnRoLWtvcmVhLWJhbGxpc3RpYy1taXNzaWxlLWludGwtaG5rL2luZGV4Lmh0bWzSAU5odHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAxLzE0L2FzaWEvbm9ydGgta29yZWEtYmFsbGlzdGljLW1pc3NpbGUtaW50bC1obms?oc=5",
       "published": "2024-01-15T08:00:00.000Z",
       "description": "North Korea claims another successful test of its hypersonic glide missile tech&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzQvMjAvbm9ydGgta29yZWEtY29uZHVjdHMtdGVzdC1vbi1uZXctc3VwZXItbGFyZ2Utd2FyaGVhZC1zdGF0ZS1tZWRpYdIBbWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC80LzIwL25vcnRoLWtvcmVhLWNvbmR1Y3RzLXRlc3Qtb24tbmV3LXN1cGVyLWxhcmdlLXdhcmhlYWQtc3RhdGUtbWVkaWE",
+      "title": "North Korea conducts test on new ‘super-large warhead’: State media - Al Jazeera English",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzQvMjAvbm9ydGgta29yZWEtY29uZHVjdHMtdGVzdC1vbi1uZXctc3VwZXItbGFyZ2Utd2FyaGVhZC1zdGF0ZS1tZWRpYdIBbWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC80LzIwL25vcnRoLWtvcmVhLWNvbmR1Y3RzLXRlc3Qtb24tbmV3LXN1cGVyLWxhcmdlLXdhcmhlYWQtc3RhdGUtbWVkaWE?oc=5",
+      "published": "2024-04-20T07:00:00.000Z",
+      "description": "North Korea conducts test on new ‘super-large warhead’: State media&nbsp;&nbsp;Al Jazeera English",
       "summary": "",
       "author": "",
       "category": ""
@@ -487,16 +497,6 @@
       "category": ""
     },
     {
-      "id": "CBMidGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbm9ydGgta29yZWEta2ltLWpvbmctdW4tcm9ja2V0LWxhdW5jaGVyLXRlc3Qtc291dGgta29yZWEtbnVjbGVhci1wb3dlci1yY25hMTUxNzk20gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE1MTc5Ng",
-      "title": "North Korea's Kim Jong Un supervises latest test of new rocket launcher - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvbm9ydGgta29yZWEta2ltLWpvbmctdW4tcm9ja2V0LWxhdW5jaGVyLXRlc3Qtc291dGgta29yZWEtbnVjbGVhci1wb3dlci1yY25hMTUxNzk20gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE1MTc5Ng?oc=5",
-      "published": "2024-05-11T07:00:00.000Z",
-      "description": "North Korea's Kim Jong Un supervises latest test of new rocket launcher&nbsp;&nbsp;NBC News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLXNvbGlkZnVlbC1pcmJtLWh5cGVyc29uaWMtbWlzc2lsZS04ZjBkOTY0MWIwMGQxMTdiMzQ3MDc5NzVjZmQwODI0MtIBAA",
       "title": "North Korea says it tested a solid-fuel missile tipped with a hypersonic weapon - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLXNvbGlkZnVlbC1pcmJtLWh5cGVyc29uaWMtbWlzc2lsZS04ZjBkOTY0MWIwMGQxMTdiMzQ3MDc5NzVjZmQwODI0MtIBAA?oc=5",
@@ -517,31 +517,11 @@
       "category": ""
     },
     {
-      "id": "CBMilwFodHRwczovL3d3dy5wb3N0Z3VhbS5jb20vbmV3cy9sb2NhbC8zMC1kYXktY29tbWVudC1wZXJpb2Qtc3RhcnRzLWZvci1wcm9wb3NlZC1taXNzaWxlLWRlZmVuc2UtdGVzdGluZy9hcnRpY2xlXzI4ZTM3ZTRhLTIyZDEtMTFlZi1iNTQ1LTBmODcwYzA4OGM0ZS5odG1s0gEA",
-      "title": "30-day comment period starts for proposed missile defense testing - The Guam Daily Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5wb3N0Z3VhbS5jb20vbmV3cy9sb2NhbC8zMC1kYXktY29tbWVudC1wZXJpb2Qtc3RhcnRzLWZvci1wcm9wb3NlZC1taXNzaWxlLWRlZmVuc2UtdGVzdGluZy9hcnRpY2xlXzI4ZTM3ZTRhLTIyZDEtMTFlZi1iNTQ1LTBmODcwYzA4OGM0ZS5odG1s0gEA?oc=5",
-      "published": "2024-06-05T00:18:00.000Z",
-      "description": "30-day comment period starts for proposed missile defense testing&nbsp;&nbsp;The Guam Daily Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyNC8wMy8xOS91cy1haXItZm9yY2UtY29uZHVjdHMtZmluYWwtdGVzdC1vZi1sb2NraGVlZHMtaHlwZXJzb25pYy1taXNzaWxlL9IBAA",
       "title": "US Air Force conducts final test of Lockheed's hypersonic missile - Defense News",
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyNC8wMy8xOS91cy1haXItZm9yY2UtY29uZHVjdHMtZmluYWwtdGVzdC1vZi1sb2NraGVlZHMtaHlwZXJzb25pYy1taXNzaWxlL9IBAA?oc=5",
       "published": "2024-03-19T07:00:00.000Z",
       "description": "US Air Force conducts final test of Lockheed's hypersonic missile&nbsp;&nbsp;Defense News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2h5cGVyc29uaWMtd2VhcG9uLXN0YXJ0dXAtY2FzdGVsaW9uLWhhcy1maXJzdC1mdWxsLXdlYXBvbi10ZXN0LTIwMjQtMDMtMTEv0gEA",
-      "title": "Hypersonic weapon startup Castelion has first prototype missile test - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2h5cGVyc29uaWMtd2VhcG9uLXN0YXJ0dXAtY2FzdGVsaW9uLWhhcy1maXJzdC1mdWxsLXdlYXBvbi10ZXN0LTIwMjQtMDMtMTEv0gEA?oc=5",
-      "published": "2024-03-11T07:00:00.000Z",
-      "description": "Hypersonic weapon startup Castelion has first prototype missile test&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -557,11 +537,21 @@
       "category": ""
     },
     {
-      "id": "CBMiaWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL1VTLXRlc3QtbGF1bmNoZXMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUuaHRtbNIBbWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL2FtcC9VUy10ZXN0LWxhdW5jaGVzLWh5cGVyc29uaWMtbnVjbGVhci1taXNzaWxlLmh0bWw",
-      "title": "US test launches hypersonic nuclear missile capable of reaching Moscow in 30 minutes amid rising threats of WW - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL1VTLXRlc3QtbGF1bmNoZXMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUuaHRtbNIBbWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL2FtcC9VUy10ZXN0LWxhdW5jaGVzLWh5cGVyc29uaWMtbnVjbGVhci1taXNzaWxlLmh0bWw?oc=5",
-      "published": "2024-06-04T19:15:35.000Z",
-      "description": "US test launches hypersonic nuclear missile capable of reaching Moscow in 30 minutes amid rising threats of WW&nbsp;&nbsp;Daily Mail",
+      "id": "CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2h5cGVyc29uaWMtd2VhcG9uLXN0YXJ0dXAtY2FzdGVsaW9uLWhhcy1maXJzdC1mdWxsLXdlYXBvbi10ZXN0LTIwMjQtMDMtMTEv0gEA",
+      "title": "Hypersonic weapon startup Castelion has first prototype missile test - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2h5cGVyc29uaWMtd2VhcG9uLXN0YXJ0dXAtY2FzdGVsaW9uLWhhcy1maXJzdC1mdWxsLXdlYXBvbi10ZXN0LTIwMjQtMDMtMTEv0gEA?oc=5",
+      "published": "2024-03-11T07:00:00.000Z",
+      "description": "Hypersonic weapon startup Castelion has first prototype missile test&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilwFodHRwczovL3d3dy5wb3N0Z3VhbS5jb20vbmV3cy9sb2NhbC8zMC1kYXktY29tbWVudC1wZXJpb2Qtc3RhcnRzLWZvci1wcm9wb3NlZC1taXNzaWxlLWRlZmVuc2UtdGVzdGluZy9hcnRpY2xlXzI4ZTM3ZTRhLTIyZDEtMTFlZi1iNTQ1LTBmODcwYzA4OGM0ZS5odG1s0gEA",
+      "title": "30-day comment period starts for proposed missile defense testing - The Guam Daily Post",
+      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5wb3N0Z3VhbS5jb20vbmV3cy9sb2NhbC8zMC1kYXktY29tbWVudC1wZXJpb2Qtc3RhcnRzLWZvci1wcm9wb3NlZC1taXNzaWxlLWRlZmVuc2UtdGVzdGluZy9hcnRpY2xlXzI4ZTM3ZTRhLTIyZDEtMTFlZi1iNTQ1LTBmODcwYzA4OGM0ZS5odG1s0gEA?oc=5",
+      "published": "2024-06-05T00:18:00.000Z",
+      "description": "30-day comment period starts for proposed missile defense testing&nbsp;&nbsp;The Guam Daily Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -572,6 +562,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWtpbS1qb25nLXVuLW1pc3NpbGUtdGVzdHMtZmVmNDFlNmJlYzM5NmFlOTQxZjMzN2E0NTNjMTIzYjLSAQA?oc=5",
       "published": "2024-01-29T08:00:00.000Z",
       "description": "North Korean cruise missile tests add to country's provocative start to 2024&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMid2h0dHBzOi8vbmV3cy5ub3J0aHJvcGdydW1tYW4uY29tL25ld3MvcmVsZWFzZXMvbm9ydGhyb3AtZ3J1bW1hbi1zdWNjZXNzZnVsbHktcG93ZXJzLXVzLW5hdnlzLXRyaWRlbnQtaWktZDUtZmxpZ2h0LXRlc3Rz0gEA",
+      "title": "Northrop Grumman Successfully Powers US Navy's Trident II D5 Flight Test | Northrop Grumman - Northrop Grumman Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbmV3cy5ub3J0aHJvcGdydW1tYW4uY29tL25ld3MvcmVsZWFzZXMvbm9ydGhyb3AtZ3J1bW1hbi1zdWNjZXNzZnVsbHktcG93ZXJzLXVzLW5hdnlzLXRyaWRlbnQtaWktZDUtZmxpZ2h0LXRlc3Rz0gEA?oc=5",
+      "published": "2023-10-02T07:00:00.000Z",
+      "description": "Northrop Grumman Successfully Powers US Navy's Trident II D5 Flight Test | Northrop Grumman&nbsp;&nbsp;Northrop Grumman Newsroom",
       "summary": "",
       "author": "",
       "category": ""
@@ -627,21 +627,11 @@
       "category": ""
     },
     {
-      "id": "CBMidGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI1L25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtbmV3LWNydWlzZS1taXNzaWxlLWNoaW5hLWRlbm91bmNlcy11LXMtdGFpd2FuLXN0cmFpdC10cmFuc2l00gEA",
-      "title": "North Korea Test Fires New Cruise Missile, China Denounces U.S. Taiwan Strait Transit - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI1L25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtbmV3LWNydWlzZS1taXNzaWxlLWNoaW5hLWRlbm91bmNlcy11LXMtdGFpd2FuLXN0cmFpdC10cmFuc2l00gEA?oc=5",
-      "published": "2024-01-25T08:00:00.000Z",
-      "description": "North Korea Test Fires New Cruise Missile, China Denounces U.S. Taiwan Strait Transit - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2luZGlhLW1pc3NpbGUtdGVzdC1tdWx0aXBsZS13YXJoZWFkcy03N2RlMzA2ZDk3ZmUxYTI5OWQ4MTFlNmVkY2VmYzc0MNIBAA",
-      "title": "India conducts first test flight of domestically developed missile that can carry multiple warheads - The Associated Press",
-      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2luZGlhLW1pc3NpbGUtdGVzdC1tdWx0aXBsZS13YXJoZWFkcy03N2RlMzA2ZDk3ZmUxYTI5OWQ4MTFlNmVkY2VmYzc0MNIBAA?oc=5",
-      "published": "2024-03-11T07:00:00.000Z",
-      "description": "India conducts first test flight of domestically developed missile that can carry multiple warheads&nbsp;&nbsp;The Associated Press",
+      "id": "CBMiaWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL1VTLXRlc3QtbGF1bmNoZXMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUuaHRtbNIBbWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL2FtcC9VUy10ZXN0LWxhdW5jaGVzLWh5cGVyc29uaWMtbnVjbGVhci1taXNzaWxlLmh0bWw",
+      "title": "US test launches hypersonic nuclear missile capable of reaching Moscow in 30 minutes amid rising threats of WW - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL1VTLXRlc3QtbGF1bmNoZXMtaHlwZXJzb25pYy1udWNsZWFyLW1pc3NpbGUuaHRtbNIBbWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNDkzMzUxL2FtcC9VUy10ZXN0LWxhdW5jaGVzLWh5cGVyc29uaWMtbnVjbGVhci1taXNzaWxlLmh0bWw?oc=5",
+      "published": "2024-06-04T19:15:35.000Z",
+      "description": "US test launches hypersonic nuclear missile capable of reaching Moscow in 30 minutes amid rising threats of WW&nbsp;&nbsp;Daily Mail",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,11 +647,21 @@
       "category": ""
     },
     {
-      "id": "CBMib2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI5L25vcnRoLWtvcmVhLXRlc3RzLXN1Yi1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS1ydXNzaWFuLXdhcnNoaXBzLXNhaWwtbmVhci1qYXBhbtIBAA",
-      "title": "North Korea Tests Sub Launched Cruise Missile, Russian Warships Sail Near Japan - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI5L25vcnRoLWtvcmVhLXRlc3RzLXN1Yi1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS1ydXNzaWFuLXdhcnNoaXBzLXNhaWwtbmVhci1qYXBhbtIBAA?oc=5",
-      "published": "2024-01-29T08:00:00.000Z",
-      "description": "North Korea Tests Sub Launched Cruise Missile, Russian Warships Sail Near Japan - USNI News&nbsp;&nbsp;USNI News",
+      "id": "CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2luZGlhLW1pc3NpbGUtdGVzdC1tdWx0aXBsZS13YXJoZWFkcy03N2RlMzA2ZDk3ZmUxYTI5OWQ4MTFlNmVkY2VmYzc0MNIBAA",
+      "title": "India conducts first test flight of domestically developed missile that can carry multiple warheads - The Associated Press",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2luZGlhLW1pc3NpbGUtdGVzdC1tdWx0aXBsZS13YXJoZWFkcy03N2RlMzA2ZDk3ZmUxYTI5OWQ4MTFlNmVkY2VmYzc0MNIBAA?oc=5",
+      "published": "2024-03-11T07:00:00.000Z",
+      "description": "India conducts first test flight of domestically developed missile that can carry multiple warheads&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI1L25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtbmV3LWNydWlzZS1taXNzaWxlLWNoaW5hLWRlbm91bmNlcy11LXMtdGFpd2FuLXN0cmFpdC10cmFuc2l00gEA",
+      "title": "North Korea Test Fires New Cruise Missile, China Denounces U.S. Taiwan Strait Transit - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI1L25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtbmV3LWNydWlzZS1taXNzaWxlLWNoaW5hLWRlbm91bmNlcy11LXMtdGFpd2FuLXN0cmFpdC10cmFuc2l00gEA?oc=5",
+      "published": "2024-01-25T08:00:00.000Z",
+      "description": "North Korea Test Fires New Cruise Missile, China Denounces U.S. Taiwan Strait Transit - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -672,6 +672,16 @@
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZGlnaXRhbC1zaG93LWRhaWxpZXMvd2VzdC8yMDI0LzAyLzE0L21hcmluZXMtdW5kZXJ3YXRlci1taXNzaWxlLWRlbGl2ZXJ5LWRyb25lLWZhY2VzLWtleS10ZXN0LXRoaXMtbW9udGgv0gEA?oc=5",
       "published": "2024-02-14T08:00:00.000Z",
       "description": "Marines' underwater missile-delivery drone faces key test this month&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMib2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI5L25vcnRoLWtvcmVhLXRlc3RzLXN1Yi1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS1ydXNzaWFuLXdhcnNoaXBzLXNhaWwtbmVhci1qYXBhbtIBAA",
+      "title": "North Korea Tests Sub Launched Cruise Missile, Russian Warships Sail Near Japan - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAxLzI5L25vcnRoLWtvcmVhLXRlc3RzLXN1Yi1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS1ydXNzaWFuLXdhcnNoaXBzLXNhaWwtbmVhci1qYXBhbtIBAA?oc=5",
+      "published": "2024-01-29T08:00:00.000Z",
+      "description": "North Korea Tests Sub Launched Cruise Missile, Russian Warships Sail Near Japan - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -697,16 +707,6 @@
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZW4vZnJhbmNlLzIwMjMxMTE5LWZyYW5jZS10ZXN0LWZpcmVzLWxvbmctcmFuZ2UtYmFsbGlzdGljLW1pc3NpbGUtaW4tZWZmb3J0LXRvLWJvb3N0LW51Y2xlYXItZGV0ZXJyZW5jZS1jcmVkaWJpbGl0edIBAA",
-      "title": "France test-fires long-range ballistic missile to boost nuclear deterrence - FRANCE 24 English",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZW4vZnJhbmNlLzIwMjMxMTE5LWZyYW5jZS10ZXN0LWZpcmVzLWxvbmctcmFuZ2UtYmFsbGlzdGljLW1pc3NpbGUtaW4tZWZmb3J0LXRvLWJvb3N0LW51Y2xlYXItZGV0ZXJyZW5jZS1jcmVkaWJpbGl0edIBAA?oc=5",
-      "published": "2023-11-19T08:00:00.000Z",
-      "description": "France test-fires long-range ballistic missile to boost nuclear deterrence&nbsp;&nbsp;FRANCE 24 English",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMie2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2Fpci1mb3JjZS1jb25kdWN0cy1maW5hbC10ZXN0LW9mLWFycnctaHlwZXJzb25pYy1taXNzaWxlLXdvbnQtZGlzY3Vzcy1zcGVjaWZpYy1yZXN1bHRzL9IBgQFodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyNC8wMy9haXItZm9yY2UtY29uZHVjdHMtZmluYWwtdGVzdC1vZi1hcnJ3LWh5cGVyc29uaWMtbWlzc2lsZS13b250LWRpc2N1c3Mtc3BlY2lmaWMtcmVzdWx0cy8_YW1wPTE",
       "title": "Air Force conducts final test of ARRW hypersonic missile, won’t discuss ‘specific’ results - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2Fpci1mb3JjZS1jb25kdWN0cy1maW5hbC10ZXN0LW9mLWFycnctaHlwZXJzb25pYy1taXNzaWxlLXdvbnQtZGlzY3Vzcy1zcGVjaWZpYy1yZXN1bHRzL9IBgQFodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyNC8wMy9haXItZm9yY2UtY29uZHVjdHMtZmluYWwtdGVzdC1vZi1hcnJ3LWh5cGVyc29uaWMtbWlzc2lsZS13b250LWRpc2N1c3Mtc3BlY2lmaWMtcmVzdWx0cy8_YW1wPTE?oc=5",
@@ -717,11 +717,31 @@
       "category": ""
     },
     {
+      "id": "CBMijAFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZW4vZnJhbmNlLzIwMjMxMTE5LWZyYW5jZS10ZXN0LWZpcmVzLWxvbmctcmFuZ2UtYmFsbGlzdGljLW1pc3NpbGUtaW4tZWZmb3J0LXRvLWJvb3N0LW51Y2xlYXItZGV0ZXJyZW5jZS1jcmVkaWJpbGl0edIBAA",
+      "title": "France test-fires long-range ballistic missile to boost nuclear deterrence - FRANCE 24 English",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZW4vZnJhbmNlLzIwMjMxMTE5LWZyYW5jZS10ZXN0LWZpcmVzLWxvbmctcmFuZ2UtYmFsbGlzdGljLW1pc3NpbGUtaW4tZWZmb3J0LXRvLWJvb3N0LW51Y2xlYXItZGV0ZXJyZW5jZS1jcmVkaWJpbGl0edIBAA?oc=5",
+      "published": "2023-11-19T08:00:00.000Z",
+      "description": "France test-fires long-range ballistic missile to boost nuclear deterrence&nbsp;&nbsp;FRANCE 24 English",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3J1c3NpYS1leHBsb2l0cy11bi1wb3NpdGlvbi1ieS1hY3F1aXJpbmctbi1rb3JlYW4tbWlzc2lsZXMtdXMtMjAyNC0wMS0xMC_SAQA",
       "title": "Ukraine is 'test site' for N. Korean missiles -S. Korea - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3J1c3NpYS1leHBsb2l0cy11bi1wb3NpdGlvbi1ieS1hY3F1aXJpbmctbi1rb3JlYW4tbWlzc2lsZXMtdXMtMjAyNC0wMS0xMC_SAQA?oc=5",
       "published": "2024-01-10T08:00:00.000Z",
       "description": "Ukraine is 'test site' for N. Korean missiles -S. Korea&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy90YWl3YW4tdGVzdHMtYWlyLWRlZmVuY2VzLWVhcmx5LW1vcm5pbmctbWlzc2lsZS1kcmlsbHMtMjAyNC0wMy0yNi_SAQA",
+      "title": "Taiwan tests air defences in early morning missile drills - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy90YWl3YW4tdGVzdHMtYWlyLWRlZmVuY2VzLWVhcmx5LW1vcm5pbmctbWlzc2lsZS1kcmlsbHMtMjAyNC0wMy0yNi_SAQA?oc=5",
+      "published": "2024-03-25T07:00:00.000Z",
+      "description": "Taiwan tests air defences in early morning missile drills&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -747,16 +767,6 @@
       "category": ""
     },
     {
-      "id": "CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy90YWl3YW4tdGVzdHMtYWlyLWRlZmVuY2VzLWVhcmx5LW1vcm5pbmctbWlzc2lsZS1kcmlsbHMtMjAyNC0wMy0yNi_SAQA",
-      "title": "Taiwan tests air defences in early morning missile drills - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy90YWl3YW4tdGVzdHMtYWlyLWRlZmVuY2VzLWVhcmx5LW1vcm5pbmctbWlzc2lsZS1kcmlsbHMtMjAyNC0wMy0yNi_SAQA?oc=5",
-      "published": "2024-03-25T07:00:00.000Z",
-      "description": "Taiwan tests air defences in early morning missile drills&nbsp;&nbsp;Reuters",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMijgFodHRwczovL3d3dy5taWxpdGFyeS5jb20vZGFpbHktbmV3cy8yMDI0LzA0LzE1L2Fpci1mb3JjZS1pbnZlc3RpZ2F0aW9uLXJldmVhbHMtZ292ZXJubWVudC1lbXBsb3llZS1kaWVkLWFmdGVyLWMtMTctbWlzc2lsZS10ZXN0aW5nLWFsYXNrYS5odG1s0gGSAWh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9kYWlseS1uZXdzLzIwMjQvMDQvMTUvYWlyLWZvcmNlLWludmVzdGlnYXRpb24tcmV2ZWFscy1nb3Zlcm5tZW50LWVtcGxveWVlLWRpZWQtYWZ0ZXItYy0xNy1taXNzaWxlLXRlc3RpbmctYWxhc2thLmh0bWw_YW1w",
       "title": "'Up-and-Comer' in Missile Defense Agency Died Following Air Force C-17 Testing Mishap - Military.com",
       "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5taWxpdGFyeS5jb20vZGFpbHktbmV3cy8yMDI0LzA0LzE1L2Fpci1mb3JjZS1pbnZlc3RpZ2F0aW9uLXJldmVhbHMtZ292ZXJubWVudC1lbXBsb3llZS1kaWVkLWFmdGVyLWMtMTctbWlzc2lsZS10ZXN0aW5nLWFsYXNrYS5odG1s0gGSAWh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9kYWlseS1uZXdzLzIwMjQvMDQvMTUvYWlyLWZvcmNlLWludmVzdGlnYXRpb24tcmV2ZWFscy1nb3Zlcm5tZW50LWVtcGxveWVlLWRpZWQtYWZ0ZXItYy0xNy1taXNzaWxlLXRlc3RpbmctYWxhc2thLmh0bWw_YW1w?oc=5",
@@ -767,11 +777,11 @@
       "category": ""
     },
     {
-      "id": "CBMiaGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y0gFsaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y",
-      "title": "Live-fire test success for Lower Tier Air and Missile Defense Sensor - United States Army",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y0gFsaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y?oc=5",
-      "published": "2023-12-12T08:00:00.000Z",
-      "description": "Live-fire test success for Lower Tier Air and Missile Defense Sensor&nbsp;&nbsp;United States Army",
+      "id": "CBMiamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzQvMy9ub3J0aC1rb3JlYS1zYXlzLWtpbS1qb25nLXVuLW92ZXJzYXctdGVzdC1vZi1uZXctaHlwZXJzb25pYy13ZWFwb27SAW5odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNC8zL25vcnRoLWtvcmVhLXNheXMta2ltLWpvbmctdW4tb3ZlcnNhdy10ZXN0LW9mLW5ldy1oeXBlcnNvbmljLXdlYXBvbg",
+      "title": "North Korea says Kim Jong Un oversaw test of new hypersonic weapon - Al Jazeera English",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzQvMy9ub3J0aC1rb3JlYS1zYXlzLWtpbS1qb25nLXVuLW92ZXJzYXctdGVzdC1vZi1uZXctaHlwZXJzb25pYy13ZWFwb27SAW5odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNC8zL25vcnRoLWtvcmVhLXNheXMta2ltLWpvbmctdW4tb3ZlcnNhdy10ZXN0LW9mLW5ldy1oeXBlcnNvbmljLXdlYXBvbg?oc=5",
+      "published": "2024-04-03T07:00:00.000Z",
+      "description": "North Korea says Kim Jong Un oversaw test of new hypersonic weapon&nbsp;&nbsp;Al Jazeera English",
       "summary": "",
       "author": "",
       "category": ""
@@ -787,11 +797,11 @@
       "category": ""
     },
     {
-      "id": "CBMiamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzQvMy9ub3J0aC1rb3JlYS1zYXlzLWtpbS1qb25nLXVuLW92ZXJzYXctdGVzdC1vZi1uZXctaHlwZXJzb25pYy13ZWFwb27SAW5odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNC8zL25vcnRoLWtvcmVhLXNheXMta2ltLWpvbmctdW4tb3ZlcnNhdy10ZXN0LW9mLW5ldy1oeXBlcnNvbmljLXdlYXBvbg",
-      "title": "North Korea says Kim Jong Un oversaw test of new hypersonic weapon - Al Jazeera English",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzQvMy9ub3J0aC1rb3JlYS1zYXlzLWtpbS1qb25nLXVuLW92ZXJzYXctdGVzdC1vZi1uZXctaHlwZXJzb25pYy13ZWFwb27SAW5odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNC8zL25vcnRoLWtvcmVhLXNheXMta2ltLWpvbmctdW4tb3ZlcnNhdy10ZXN0LW9mLW5ldy1oeXBlcnNvbmljLXdlYXBvbg?oc=5",
-      "published": "2024-04-03T07:00:00.000Z",
-      "description": "North Korea says Kim Jong Un oversaw test of new hypersonic weapon&nbsp;&nbsp;Al Jazeera English",
+      "id": "CBMiaGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y0gFsaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y",
+      "title": "Live-fire test success for Lower Tier Air and Missile Defense Sensor - United States Army",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y0gFsaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyMzc3L2xpdmVfZmlyZV90ZXN0X3N1Y2Nlc3NfZm9yX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29y?oc=5",
+      "published": "2023-12-12T08:00:00.000Z",
+      "description": "Live-fire test success for Lower Tier Air and Missile Defense Sensor&nbsp;&nbsp;United States Army",
       "summary": "",
       "author": "",
       "category": ""
@@ -817,16 +827,6 @@
       "category": ""
     },
     {
-      "id": "CBMijQFodHRwczovL3d3dy5hZXRjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1ODY2MjUvYXJvdW5kLXRoZS1haXItZm9yY2UtYWxsdmluLXRha2VzLWNvbW1hbmQtbWlzc2lsZS13YXJuaW5nLW1pc3Npb24tZXZ0b2wtdGVzdGluZy_SAQA",
-      "title": "Around the Air Force: Allvin Takes Command, Missile Warning Mission, EVTOL Testing Begins - aetc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5hZXRjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1ODY2MjUvYXJvdW5kLXRoZS1haXItZm9yY2UtYWxsdmluLXRha2VzLWNvbW1hbmQtbWlzc2lsZS13YXJuaW5nLW1pc3Npb24tZXZ0b2wtdGVzdGluZy_SAQA?oc=5",
-      "published": "2023-11-09T08:00:00.000Z",
-      "description": "Around the Air Force: Allvin Takes Command, Missile Warning Mission, EVTOL Testing Begins&nbsp;&nbsp;aetc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigwFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0wNy9ub3J0aC1rb3JlYS1zLWJhbGxpc3RpYy1taXNzaWxlcy1nZXR0aW5nLXZhbHVhYmxlLWJhdHRsZWZpZWxkLXRlc3RpbmctaW4tdWtyYWluZdIBAA",
       "title": "North Korea's Ballistic Missiles Are Getting Valuable Battlefield Testing in Ukraine - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyNC0wNC0wNy9ub3J0aC1rb3JlYS1zLWJhbGxpc3RpYy1taXNzaWxlcy1nZXR0aW5nLXZhbHVhYmxlLWJhdHRsZWZpZWxkLXRlc3RpbmctaW4tdWtyYWluZdIBAA?oc=5",
@@ -837,11 +837,11 @@
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2Fpci1mb3JjZS1tb3Zlcy1vdXQtb24taHlwZXJzb25pYy1jcnVpc2UtbWlzc2lsZS1mbGlnaHQtdGVzdGluZy1pbi1meTI1L9IBcmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2Fpci1mb3JjZS1tb3Zlcy1vdXQtb24taHlwZXJzb25pYy1jcnVpc2UtbWlzc2lsZS1mbGlnaHQtdGVzdGluZy1pbi1meTI1Lz9hbXA9MQ",
-      "title": "Air Force moves out on hypersonic cruise missile flight testing in FY25 - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2Fpci1mb3JjZS1tb3Zlcy1vdXQtb24taHlwZXJzb25pYy1jcnVpc2UtbWlzc2lsZS1mbGlnaHQtdGVzdGluZy1pbi1meTI1L9IBcmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2Fpci1mb3JjZS1tb3Zlcy1vdXQtb24taHlwZXJzb25pYy1jcnVpc2UtbWlzc2lsZS1mbGlnaHQtdGVzdGluZy1pbi1meTI1Lz9hbXA9MQ?oc=5",
-      "published": "2024-03-14T07:00:00.000Z",
-      "description": "Air Force moves out on hypersonic cruise missile flight testing in FY25&nbsp;&nbsp;Breaking Defense",
+      "id": "CBMijQFodHRwczovL3d3dy5hZXRjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1ODY2MjUvYXJvdW5kLXRoZS1haXItZm9yY2UtYWxsdmluLXRha2VzLWNvbW1hbmQtbWlzc2lsZS13YXJuaW5nLW1pc3Npb24tZXZ0b2wtdGVzdGluZy_SAQA",
+      "title": "Around the Air Force: Allvin Takes Command, Missile Warning Mission, EVTOL Testing Begins - aetc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5hZXRjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1ODY2MjUvYXJvdW5kLXRoZS1haXItZm9yY2UtYWxsdmluLXRha2VzLWNvbW1hbmQtbWlzc2lsZS13YXJuaW5nLW1pc3Npb24tZXZ0b2wtdGVzdGluZy_SAQA?oc=5",
+      "published": "2023-11-09T08:00:00.000Z",
+      "description": "Around the Air Force: Allvin Takes Command, Missile Warning Mission, EVTOL Testing Begins&nbsp;&nbsp;aetc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -857,21 +857,21 @@
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMjkvbm9ydGgta29yZWFzLWtpbS1ndWlkZWQtc3VibWFyaW5lLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLXRlc3Qta2NuYdIBcGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC8xLzI5L25vcnRoLWtvcmVhcy1raW0tZ3VpZGVkLXN1Ym1hcmluZS1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS10ZXN0LWtjbmE",
-      "title": "North Korea’s Kim ‘guided’ submarine-launched cruise missile test: KCNA - Al Jazeera English",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMjkvbm9ydGgta29yZWFzLWtpbS1ndWlkZWQtc3VibWFyaW5lLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLXRlc3Qta2NuYdIBcGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC8xLzI5L25vcnRoLWtvcmVhcy1raW0tZ3VpZGVkLXN1Ym1hcmluZS1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS10ZXN0LWtjbmE?oc=5",
-      "published": "2024-01-29T08:00:00.000Z",
-      "description": "North Korea’s Kim ‘guided’ submarine-launched cruise missile test: KCNA&nbsp;&nbsp;Al Jazeera English",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8yMy9hc2lhL25vcnRoLWtvcmVhLXNpbXVsYXRlZC1udWNsZWFyLWNvdW50ZXJzdHJpa2UtaW50bC1obmstbWwvaW5kZXguaHRtbNIBX2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDQvMjMvYXNpYS9ub3J0aC1rb3JlYS1zaW11bGF0ZWQtbnVjbGVhci1jb3VudGVyc3RyaWtlLWludGwtaG5rLW1s",
       "title": "North Korea claims it tested new command-and-control system in simulated nuclear counterstrike - CNN",
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8yMy9hc2lhL25vcnRoLWtvcmVhLXNpbXVsYXRlZC1udWNsZWFyLWNvdW50ZXJzdHJpa2UtaW50bC1obmstbWwvaW5kZXguaHRtbNIBX2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDQvMjMvYXNpYS9ub3J0aC1rb3JlYS1zaW11bGF0ZWQtbnVjbGVhci1jb3VudGVyc3RyaWtlLWludGwtaG5rLW1s?oc=5",
       "published": "2024-04-23T07:00:00.000Z",
       "description": "North Korea claims it tested new command-and-control system in simulated nuclear counterstrike&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMjkvbm9ydGgta29yZWFzLWtpbS1ndWlkZWQtc3VibWFyaW5lLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLXRlc3Qta2NuYdIBcGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC8xLzI5L25vcnRoLWtvcmVhcy1raW0tZ3VpZGVkLXN1Ym1hcmluZS1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS10ZXN0LWtjbmE",
+      "title": "North Korea’s Kim ‘guided’ submarine-launched cruise missile test: KCNA - Al Jazeera English",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMjkvbm9ydGgta29yZWFzLWtpbS1ndWlkZWQtc3VibWFyaW5lLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLXRlc3Qta2NuYdIBcGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC8xLzI5L25vcnRoLWtvcmVhcy1raW0tZ3VpZGVkLXN1Ym1hcmluZS1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS10ZXN0LWtjbmE?oc=5",
+      "published": "2024-01-29T08:00:00.000Z",
+      "description": "North Korea’s Kim ‘guided’ submarine-launched cruise missile test: KCNA&nbsp;&nbsp;Al Jazeera English",
       "summary": "",
       "author": "",
       "category": ""
@@ -897,26 +897,6 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zcGFjZS1mb3JjZS10ZXJtaW5hdGVzLWljYm0tdGVzdC1sYXVuY2gtYW5vbWFseS_SAQA",
-      "title": "Air Force Terminates ICBM During Test Launch Due To Anomaly - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zcGFjZS1mb3JjZS10ZXJtaW5hdGVzLWljYm0tdGVzdC1sYXVuY2gtYW5vbWFseS_SAQA?oc=5",
-      "published": "2023-11-01T07:00:00.000Z",
-      "description": "Air Force Terminates ICBM During Test Launch Due To Anomaly&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9pY2JtLXRlc3QtZmFpbHVyZS1udWNsZWFyLW1vZGVybml6YXRpb24v0gEA",
-      "title": "ICBM Test Failure Puts Nuclear Modernization Effort Into Focus - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9pY2JtLXRlc3QtZmFpbHVyZS1udWNsZWFyLW1vZGVybml6YXRpb24v0gEA?oc=5",
-      "published": "2023-11-03T07:00:00.000Z",
-      "description": "ICBM Test Failure Puts Nuclear Modernization Effort Into Focus&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9ub3J0aHJvcC1ncnVtbWFuLXN1Y2Nlc3NmdWwtdGVzdC1zZW50aW5lbC1zZWNvbmQtc3RhZ2Utcm9ja2V0L9IBAA",
       "title": "Northrop Grumman Reports Successful Test of LGM-35A Sentinel Second Stage Rocket - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9ub3J0aHJvcC1ncnVtbWFuLXN1Y2Nlc3NmdWwtdGVzdC1zZW50aW5lbC1zZWNvbmQtc3RhZ2Utcm9ja2V0L9IBAA?oc=5",
@@ -927,11 +907,31 @@
       "category": ""
     },
     {
+      "id": "CBMiUmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zcGFjZS1mb3JjZS10ZXJtaW5hdGVzLWljYm0tdGVzdC1sYXVuY2gtYW5vbWFseS_SAQA",
+      "title": "Air Force Terminates ICBM During Test Launch Due To Anomaly - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zcGFjZS1mb3JjZS10ZXJtaW5hdGVzLWljYm0tdGVzdC1sYXVuY2gtYW5vbWFseS_SAQA?oc=5",
+      "published": "2023-11-01T07:00:00.000Z",
+      "description": "Air Force Terminates ICBM During Test Launch Due To Anomaly&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1zYXlzLWl0LWNvbmR1Y3RlZC1od2Fzb25nLTE4LWljYm0tbW9uZGF5LXlvbmhhcC0yMDIzLTEyLTE4L9IBAA",
       "title": "North Korea says Hwasong-18 ICBM test was response to US hostility - Reuters",
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1zYXlzLWl0LWNvbmR1Y3RlZC1od2Fzb25nLTE4LWljYm0tbW9uZGF5LXlvbmhhcC0yMDIzLTEyLTE4L9IBAA?oc=5",
       "published": "2023-12-18T08:00:00.000Z",
       "description": "North Korea says Hwasong-18 ICBM test was response to US hostility&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9pY2JtLXRlc3QtZmFpbHVyZS1udWNsZWFyLW1vZGVybml6YXRpb24v0gEA",
+      "title": "ICBM Test Failure Puts Nuclear Modernization Effort Into Focus - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9pY2JtLXRlc3QtZmFpbHVyZS1udWNsZWFyLW1vZGVybml6YXRpb24v0gEA?oc=5",
+      "published": "2023-11-03T07:00:00.000Z",
+      "description": "ICBM Test Failure Puts Nuclear Modernization Effort Into Focus&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -957,6 +957,16 @@
       "category": ""
     },
     {
+      "id": "CBMiXWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlL9IBY2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlLz9hbXA9MQ",
+      "title": "Sentinel ICBM’s first flight test slips to 2026: Air Force - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlL9IBY2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlLz9hbXA9MQ?oc=5",
+      "published": "2024-03-28T07:00:00.000Z",
+      "description": "Sentinel ICBM’s first flight test slips to 2026: Air Force&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1wcm90ZXN0cy11cy1vdmVyLW1pbnV0ZW1hbi1paWktbWlzc2lsZS10ZXN0LTIwMjMtMTEtMDMv0gEA",
       "title": "North Korea media urges stronger nuclear force after U.S. missile test - Reuters",
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1wcm90ZXN0cy11cy1vdmVyLW1pbnV0ZW1hbi1paWktbWlzc2lsZS10ZXN0LTIwMjMtMTEtMDMv0gEA?oc=5",
@@ -967,11 +977,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlL9IBY2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlLz9hbXA9MQ",
-      "title": "Sentinel ICBM’s first flight test slips to 2026: Air Force - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlL9IBY2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL3NlbnRpbmVsLWljYm1zLWZpcnN0LWZsaWdodC10ZXN0LXNsaXBzLXRvLTIwMjYtYWlyLWZvcmNlLz9hbXA9MQ?oc=5",
-      "published": "2024-03-28T07:00:00.000Z",
-      "description": "Sentinel ICBM’s first flight test slips to 2026: Air Force&nbsp;&nbsp;Breaking Defense",
+      "id": "CBMiamh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAyLzAyL25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtY3J1aXNlLW1pc3NpbGUta2ltLWpvbmctdW4tY2FsbHMtZm9yLW5hdmFsLWJ1aWxkdXDSAQA",
+      "title": "North Korea Test Fires Cruise-Missile; Kim Jong Un Calls for Naval Buildup - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAyLzAyL25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtY3J1aXNlLW1pc3NpbGUta2ltLWpvbmctdW4tY2FsbHMtZm9yLW5hdmFsLWJ1aWxkdXDSAQA?oc=5",
+      "published": "2024-02-02T08:00:00.000Z",
+      "description": "North Korea Test Fires Cruise-Missile; Kim Jong Un Calls for Naval Buildup - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbGllYmVyLndlc3Rwb2ludC5lZHUvbGVnYWwtYXNzZXNzbWVudC1ub3J0aC1rb3JlYW4tbWlzc2lsZS10ZXN0cy_SAQA?oc=5",
       "published": "2023-08-11T07:00:00.000Z",
       "description": "A Legal Assessment of North Korean Missile Tests - Lieber Institute West Point&nbsp;&nbsp;Lieber Institute West Point",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiamh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAyLzAyL25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtY3J1aXNlLW1pc3NpbGUta2ltLWpvbmctdW4tY2FsbHMtZm9yLW5hdmFsLWJ1aWxkdXDSAQA",
-      "title": "North Korea Test Fires Cruise-Missile; Kim Jong Un Calls for Naval Buildup - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAyLzAyL25vcnRoLWtvcmVhLXRlc3QtZmlyZXMtY3J1aXNlLW1pc3NpbGUta2ltLWpvbmctdW4tY2FsbHMtZm9yLW5hdmFsLWJ1aWxkdXDSAQA?oc=5",
-      "published": "2024-02-02T08:00:00.000Z",
-      "description": "North Korea Test Fires Cruise-Missile; Kim Jong Un Calls for Naval Buildup - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
