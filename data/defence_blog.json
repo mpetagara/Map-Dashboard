@@ -7,8 +7,44 @@
   },
   "language": "",
   "generator": "",
-  "published": "2024-06-04T12:55:10.000Z",
+  "published": "2024-06-05T07:20:48.000Z",
   "entries": [
+    {
+      "id": "https://defence-blog.com/?p=74651",
+      "title": "Israel inks $3B deal for more F-35 stealth fighters",
+      "link": "https://defence-blog.com/israel-inks-3b-deal-for-more-f-35-stealth-fighters/",
+      "published": "2024-06-05T07:20:48.000Z",
+      "description": "[object Object]",
+      "summary": {
+        "#text": "<p>Israel’s Defense Ministry on Tuesday signed a significant agreement with the United States to procure a third squadron of F-35 stealth fighter jets. The deal, valued at $3 billion, will provide 25 advanced fighters manufactured by Lockheed Martin, financed through U.S. military aid to Israel. The new jets will be delivered starting in 2028, in [&#8230;]</p>\nThe post <a href=\"https://defence-blog.com/israel-inks-3b-deal-for-more-f-35-stealth-fighters/\">Israel inks $3B deal for more F-35 stealth fighters</a> first appeared on <a href=\"https://defence-blog.com\">Defence Blog</a>.",
+        "@_type": "html"
+      },
+      "author": {
+        "name": "Colton Jones"
+      },
+      "category": [
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "Aviation"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "News"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "F-35I"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "Israel"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "Lockheed Martin"
+        }
+      ]
+    },
     {
       "id": "https://defence-blog.com/?p=74646",
       "title": "Mother of fallen soldier funds drones for Ukrainian military",
@@ -378,42 +414,6 @@
         {
           "@_scheme": "https://defence-blog.com",
           "@_term": "War in Ukraine"
-        }
-      ]
-    },
-    {
-      "id": "https://defence-blog.com/?p=74608",
-      "title": "Russia tests new robotic combat vehicle in Ukraine",
-      "link": "https://defence-blog.com/russia-tests-new-robotic-combat-vehicle-in-ukraine/",
-      "published": "2024-06-02T10:48:48.000Z",
-      "description": "[object Object]",
-      "summary": {
-        "#text": "<p>Russian state media reported that Rostec, a state-owned defense conglomerate, is testing its new &#8220;Buggy&#8221; combat unmanned ground vehicle (UGV) platform in Ukraine. The vehicle, developed by Rostec&#8217;s subsidiary, High Precision Systems, is designed to perform various combat and logistical tasks. The &#8220;Buggy&#8221; UGV can carry loads up to 250 kilograms, making it suitable for [&#8230;]</p>\nThe post <a href=\"https://defence-blog.com/russia-tests-new-robotic-combat-vehicle-in-ukraine/\">Russia tests new robotic combat vehicle in Ukraine</a> first appeared on <a href=\"https://defence-blog.com\">Defence Blog</a>.",
-        "@_type": "html"
-      },
-      "author": {
-        "name": "Dylan Malyasov"
-      },
-      "category": [
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Army"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "News"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "drone"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Rostec"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Russia"
         }
       ]
     }
