@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-06T12:55:02.000Z",
+  "published": "2024-06-06T13:27:08.000Z",
   "entries": [
     {
       "id": "CBMiZWh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDQvcGhhbnRvbS1za2llcy1hLXUtcy1ycS00Yi1kcm9uZS13YXMtbG9zdC1vdmVyLXRoZS1ibGFjay1zZWEv0gFlaHR0cHM6Ly9idWxnYXJpYW5taWxpdGFyeS5jb20vMjAyNC8wNi8wNC9waGFudG9tLXNraWVzLWEtdS1zLXJxLTRiLWRyb25lLXdhcy1sb3N0LW92ZXItdGhlLWJsYWNrLXNlYS8",
@@ -12,6 +12,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDQvcGhhbnRvbS1za2llcy1hLXUtcy1ycS00Yi1kcm9uZS13YXMtbG9zdC1vdmVyLXRoZS1ibGFjay1zZWEv0gFlaHR0cHM6Ly9idWxnYXJpYW5taWxpdGFyeS5jb20vMjAyNC8wNi8wNC9waGFudG9tLXNraWVzLWEtdS1zLXJxLTRiLWRyb25lLXdhcy1sb3N0LW92ZXItdGhlLWJsYWNrLXNlYS8?oc=5",
       "published": "2024-06-04T14:08:09.000Z",
       "description": "Phantom skies: A U.S. RQ-4B drone was lost over the Black Sea&nbsp;&nbsp;Bulgarian Military",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihAFodHRwczovL3d3dy5hcm15cmVjb2duaXRpb24uY29tL25ld3MvYXJteS1uZXdzL2FybXktbmV3cy0yMDI0L2dlcm1hbi1ldXJvZmlnaHRlcnMtaW50ZXJjZXB0LXJ1c3NpYW4tc3B5LWFpcmNyYWZ0LW5lYXItbGF0dmlhbi13YXRlcnPSAQA",
+      "title": "German Eurofighters Intercept Russian Spy Aircraft Near Latvian Waters - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5hcm15cmVjb2duaXRpb24uY29tL25ld3MvYXJteS1uZXdzL2FybXktbmV3cy0yMDI0L2dlcm1hbi1ldXJvZmlnaHRlcnMtaW50ZXJjZXB0LXJ1c3NpYW4tc3B5LWFpcmNyYWZ0LW5lYXItbGF0dmlhbi13YXRlcnPSAQA?oc=5",
+      "published": "2024-06-06T13:19:50.000Z",
+      "description": "German Eurofighters Intercept Russian Spy Aircraft Near Latvian Waters&nbsp;&nbsp;Army Recognition",
       "summary": "",
       "author": "",
       "category": ""
@@ -67,6 +77,16 @@
       "category": ""
     },
     {
+      "id": "CBMiR2h0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9nZXJtYW4tZXVyb2ZpZ2h0ZXJzLWludGVyY2VwdC1ydXNzaWFuLXNweS1qZXQv0gFLaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL2dlcm1hbi1ldXJvZmlnaHRlcnMtaW50ZXJjZXB0LXJ1c3NpYW4tc3B5LWpldC8_YW1w",
+      "title": "German Eurofighters intercept Russian spy jet - defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9nZXJtYW4tZXVyb2ZpZ2h0ZXJzLWludGVyY2VwdC1ydXNzaWFuLXNweS1qZXQv0gFLaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL2dlcm1hbi1ldXJvZmlnaHRlcnMtaW50ZXJjZXB0LXJ1c3NpYW4tc3B5LWpldC8_YW1w?oc=5",
+      "published": "2024-06-01T13:24:22.000Z",
+      "description": "German Eurofighters intercept Russian spy jet&nbsp;&nbsp;defence-blog.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiNWh0dHA6Ly9lbi5wZW9wbGUuY24vbjMvMjAyNC8wNTE1L2M5MDAwMC0yMDE3MDE2Ni5odG1s0gEA",
       "title": "Reconnaissance aircraft takes off for patrol flight training - People's Daily",
       "link": "https://news.google.com/rss/articles/CBMiNWh0dHA6Ly9lbi5wZW9wbGUuY24vbjMvMjAyNC8wNTE1L2M5MDAwMC0yMDE3MDE2Ni5odG1s0gEA?oc=5",
@@ -87,21 +107,21 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91LTItZHJhZ29uLWxhZHktbWVldC1vbmUtb2YtdGhlLXVzLWFpci1mb3JjZXMtb2xkZXN0LWNvbGQtd2FyLWFpcmNyYWZ0LXN0aWxsLW9wZXJhdGluZy_SAQA",
-      "title": "U-2 Dragon Lady: Meet One Of The US Air Force's Oldest Cold War Aircraft Still Operating - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91LTItZHJhZ29uLWxhZHktbWVldC1vbmUtb2YtdGhlLXVzLWFpci1mb3JjZXMtb2xkZXN0LWNvbGQtd2FyLWFpcmNyYWZ0LXN0aWxsLW9wZXJhdGluZy_SAQA?oc=5",
-      "published": "2024-05-26T07:00:00.000Z",
-      "description": "U-2 Dragon Lady: Meet One Of The US Air Force's Oldest Cold War Aircraft Still Operating&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiS2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3VrcmFpbmlhbi1haXItZm9yY2UtdGFrZXMtcnVzc2lhbi0wNzI1MDA4NjIuaHRtbNIBAA",
       "title": "Ukrainian Air Force takes out a Russian A-50 reconnaissance plane over the Azov Sea - Yahoo! Voices",
       "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3VrcmFpbmlhbi1haXItZm9yY2UtdGFrZXMtcnVzc2lhbi0wNzI1MDA4NjIuaHRtbNIBAA?oc=5",
       "published": "2024-01-15T08:00:00.000Z",
       "description": "Ukrainian Air Force takes out a Russian A-50 reconnaissance plane over the Azov Sea&nbsp;&nbsp;Yahoo! Voices",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyNC8wMi8wOC91cy1hcm15LXNwZW50LWJpbGxpb25zLW9uLWEtbmV3LWhlbGljb3B0ZXItdGhhdC1ub3ctd2lsbC1uZXZlci1mbHkv0gEA",
+      "title": "US Army spent billions on a new helicopter that now will never fly - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyNC8wMi8wOC91cy1hcm15LXNwZW50LWJpbGxpb25zLW9uLWEtbmV3LWhlbGljb3B0ZXItdGhhdC1ub3ctd2lsbC1uZXZlci1mbHkv0gEA?oc=5",
+      "published": "2024-02-08T08:00:00.000Z",
+      "description": "US Army spent billions on a new helicopter that now will never fly&nbsp;&nbsp;Defense News",
       "summary": "",
       "author": "",
       "category": ""
@@ -187,6 +207,16 @@
       "category": ""
     },
     {
+      "id": "CBMiZmh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcwNDk5L2ZpcnN0X2VuZ2luZV9mb3JfZnV0dXJlX2F0dGFja19yZWNvbm5haXNzYW5jZV9haXJjcmFmdF9hY2NlcHRlZF9iedIBamh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI3MDQ5OS9maXJzdF9lbmdpbmVfZm9yX2Z1dHVyZV9hdHRhY2tfcmVjb25uYWlzc2FuY2VfYWlyY3JhZnRfYWNjZXB0ZWRfYnk",
+      "title": "First engine for Future Attack Reconnaissance Aircraft accepted by - United States Army",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcwNDk5L2ZpcnN0X2VuZ2luZV9mb3JfZnV0dXJlX2F0dGFja19yZWNvbm5haXNzYW5jZV9haXJjcmFmdF9hY2NlcHRlZF9iedIBamh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI3MDQ5OS9maXJzdF9lbmdpbmVfZm9yX2Z1dHVyZV9hdHRhY2tfcmVjb25uYWlzc2FuY2VfYWlyY3JhZnRfYWNjZXB0ZWRfYnk?oc=5",
+      "published": "2023-10-04T07:00:00.000Z",
+      "description": "First engine for Future Attack Reconnaissance Aircraft accepted by&nbsp;&nbsp;United States Army",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiRGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtcGxhbmUtYXJyaXZlcy11ay1jb25kdWN0LTEzNTcwMDk0Ni5odG1s0gEA",
       "title": "U.S. plane arrives from UK to conduct reconnaissance near Crimea - Yahoo! Voices",
       "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtcGxhbmUtYXJyaXZlcy11ay1jb25kdWN0LTEzNTcwMDk0Ni5odG1s0gEA?oc=5",
@@ -197,11 +227,31 @@
       "category": ""
     },
     {
+      "id": "CBMiVGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3VzLXJlY29ubmFpc3NhbmNlLXNhdGVsbGl0ZS1sYXVuY2hlZC1maW5hbC0wMTQ5MTgwNzEuaHRtbNIBAA",
+      "title": "Delta rockets retired with launch of US reconnaissance satellite - Yahoo! Voices",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3VzLXJlY29ubmFpc3NhbmNlLXNhdGVsbGl0ZS1sYXVuY2hlZC1maW5hbC0wMTQ5MTgwNzEuaHRtbNIBAA?oc=5",
+      "published": "2024-04-11T07:00:00.000Z",
+      "description": "Delta rockets retired with launch of US reconnaissance satellite&nbsp;&nbsp;Yahoo! Voices",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hbWVyaWNhbi1haXItZm9yY2UtcmMtMTM1dS1jb21iYXQtc2VudC1ub3J0aC1zb3V0aC1rb3JlYS1mbGlnaHQtMTkwMjk2MtIBAA",
       "title": "US Spy Plane Sweeps North Korean Border - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hbWVyaWNhbi1haXItZm9yY2UtcmMtMTM1dS1jb21iYXQtc2VudC1ub3J0aC1zb3V0aC1rb3JlYS1mbGlnaHQtMTkwMjk2MtIBAA?oc=5",
       "published": "2024-05-21T07:00:00.000Z",
       "description": "US Spy Plane Sweeps North Korean Border&nbsp;&nbsp;Newsweek",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMTYvdWtyYWluZS1zYXlzLXNob3QtZG93bi10d28tcnVzc2lhbi1jb21tYW5kLWFpcmNyYWZ0LWluLWJsb3ctdG8tbW9zY2930gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzEvMTYvdWtyYWluZS1zYXlzLXNob3QtZG93bi10d28tcnVzc2lhbi1jb21tYW5kLWFpcmNyYWZ0LWluLWJsb3ctdG8tbW9zY293",
+      "title": "Ukraine says shot down two Russian command aircraft in blow to Moscow - Al Jazeera English",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMTYvdWtyYWluZS1zYXlzLXNob3QtZG93bi10d28tcnVzc2lhbi1jb21tYW5kLWFpcmNyYWZ0LWluLWJsb3ctdG8tbW9zY2930gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzEvMTYvdWtyYWluZS1zYXlzLXNob3QtZG93bi10d28tcnVzc2lhbi1jb21tYW5kLWFpcmNyYWZ0LWluLWJsb3ctdG8tbW9zY293?oc=5",
+      "published": "2024-01-16T08:00:00.000Z",
+      "description": "Ukraine says shot down two Russian command aircraft in blow to Moscow&nbsp;&nbsp;Al Jazeera English",
       "summary": "",
       "author": "",
       "category": ""
@@ -232,6 +282,16 @@
       "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3Lm5yby5nb3YvQWJvdXQtTlJPL2hpc3Rvcnkv0gEA?oc=5",
       "published": "2023-07-20T20:56:58.000Z",
       "description": "> About NRO > history&nbsp;&nbsp;National Reconnaissance Office",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zNTI2NTE1L3VzLXJlc3VtZXMtaXNyLWZsaWdodC1vcGVyYXRpb25zLWluLW5pZ2VyL9IBAA",
+      "title": "U.S. Resumes ISR Flight Operations in Niger > U.S - Department of Defense",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zNTI2NTE1L3VzLXJlc3VtZXMtaXNyLWZsaWdodC1vcGVyYXRpb25zLWluLW5pZ2VyL9IBAA?oc=5",
+      "published": "2023-09-14T07:00:00.000Z",
+      "description": "U.S. Resumes ISR Flight Operations in Niger > U.S&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -297,16 +357,6 @@
       "category": ""
     },
     {
-      "id": "CBMiZGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDIzLTEyLTAxL25hdnktcGxhbmUtcmVtb3ZhbC1oYXdhaWktYmF5LTEyMjMwMDYzLmh0bWzSAQA",
-      "title": "Navy set to float and roll spy plane out of Hawaii bay this weekend - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDIzLTEyLTAxL25hdnktcGxhbmUtcmVtb3ZhbC1oYXdhaWktYmF5LTEyMjMwMDYzLmh0bWzSAQA?oc=5",
-      "published": "2023-12-02T08:00:00.000Z",
-      "description": "Navy set to float and roll spy plane out of Hawaii bay this weekend&nbsp;&nbsp;Stars and Stripes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTmh0dHBzOi8vc3B5c2NhcGUuY29tL2FydGljbGUvdGhlLXNyLTcxLWJsYWNrYmlyZC1hLW1hcnZlbC1vZi1zcGVlZC1hbmQtc3RlYWx0aNIBAA",
       "title": "The SR-71 Blackbird: A Marvel of Speed and Stealth - Spyscape",
       "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vc3B5c2NhcGUuY29tL2FydGljbGUvdGhlLXNyLTcxLWJsYWNrYmlyZC1hLW1hcnZlbC1vZi1zcGVlZC1hbmQtc3RlYWx0aNIBAA?oc=5",
@@ -337,21 +387,31 @@
       "category": ""
     },
     {
-      "id": "CBMiY2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3J1c3NpYS11c2UtY29sZC13YXItbS01NS1zcHktcGxhbmUtc2tpZXMtb3Zlci11a3JhaW5lLTIwNzQwN9IBAA",
-      "title": "Russia to Use Cold War M-55 Spy Plane in Skies Over Ukraine - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3J1c3NpYS11c2UtY29sZC13YXItbS01NS1zcHktcGxhbmUtc2tpZXMtb3Zlci11a3JhaW5lLTIwNzQwN9IBAA?oc=5",
-      "published": "2023-11-21T08:00:00.000Z",
-      "description": "Russia to Use Cold War M-55 Spy Plane in Skies Over Ukraine&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLWV5ZXMtbS01NS1haXJjcmFmdC1pbXByb3ZlLXJlY29ubmFpc3NhbmNlLWluLXVrcmFpbmUtdWstaW50ZWwtMjAyMy0xMdIBcGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLWV5ZXMtbS01NS1haXJjcmFmdC1pbXByb3ZlLXJlY29ubmFpc3NhbmNlLWluLXVrcmFpbmUtdWstaW50ZWwtMjAyMy0xMT9hbXA",
       "title": "Lacking intelligence, Russia eyes Soviet-era M-55 spy plane: UK - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLWV5ZXMtbS01NS1haXJjcmFmdC1pbXByb3ZlLXJlY29ubmFpc3NhbmNlLWluLXVrcmFpbmUtdWstaW50ZWwtMjAyMy0xMdIBcGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLWV5ZXMtbS01NS1haXJjcmFmdC1pbXByb3ZlLXJlY29ubmFpc3NhbmNlLWluLXVrcmFpbmUtdWstaW50ZWwtMjAyMy0xMT9hbXA?oc=5",
       "published": "2023-11-19T08:00:00.000Z",
       "description": "Lacking intelligence, Russia eyes Soviet-era M-55 spy plane: UK&nbsp;&nbsp;Business Insider",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiemh0dHBzOi8vd3d3LnBhY2FmLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM0NzU0MTMvcm95YWwtYWlyLWZvcmNlLWZsaWVzLXdpdGgtdGhlLTgybmQtcmVjb25uYWlzc2FuY2Utc3F1YWRyb24v0gEA",
+      "title": "Royal Air Force flies with the 82nd Reconnaissance Squadron - pacaf.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnBhY2FmLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM0NzU0MTMvcm95YWwtYWlyLWZvcmNlLWZsaWVzLXdpdGgtdGhlLTgybmQtcmVjb25uYWlzc2FuY2Utc3F1YWRyb24v0gEA?oc=5",
+      "published": "2023-07-27T07:00:00.000Z",
+      "description": "Royal Air Force flies with the 82nd Reconnaissance Squadron&nbsp;&nbsp;pacaf.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUGh0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2V4dHJlbWUtd2VhdGhlci9mbHlpbmctdGhyb3VnaC1odXJyaWNhbmUtZnJhbmtsaW4tZXll0gFUaHR0cHM6Ly93d3cuZm94d2VhdGhlci5jb20vZXh0cmVtZS13ZWF0aGVyL2ZseWluZy10aHJvdWdoLWh1cnJpY2FuZS1mcmFua2xpbi1leWUuYW1w",
+      "title": "Watch: Hurricane Hunters fly through eye of Hurricane Franklin - Fox Weather",
+      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2V4dHJlbWUtd2VhdGhlci9mbHlpbmctdGhyb3VnaC1odXJyaWNhbmUtZnJhbmtsaW4tZXll0gFUaHR0cHM6Ly93d3cuZm94d2VhdGhlci5jb20vZXh0cmVtZS13ZWF0aGVyL2ZseWluZy10aHJvdWdoLWh1cnJpY2FuZS1mcmFua2xpbi1leWUuYW1w?oc=5",
+      "published": "2023-08-27T07:00:00.000Z",
+      "description": "Watch: Hurricane Hunters fly through eye of Hurricane Franklin&nbsp;&nbsp;Fox Weather",
       "summary": "",
       "author": "",
       "category": ""
@@ -422,16 +482,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5rbmV3cy5vcmcvMjAyMy8wOC9ub3J0aC1rb3JlYS1zY3JhbWJsZXMtamV0cy1pbi1yZXNwb25zZS10by1hbGxlZ2VkLXVzLXNweS1wbGFuZS1pbmN1cnNpb24v0gEA?oc=5",
       "published": "2023-08-19T07:00:00.000Z",
       "description": "North Korea scrambles jets in response to alleged US spy plane incursion&nbsp;&nbsp;NK News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMibmh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEwLzEwL2FybXktYXdhcmRzLXNpZXJyYS1uZXZhZGEtY29udHJhY3QtZm9yLXNlY29uZC12YXJpYW50LW9mLWF0aGVuYS1zcHktcGxhbmUv0gEA",
-      "title": "Sierra Nevada lands contract for second variant of Athena spy plane - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEwLzEwL2FybXktYXdhcmRzLXNpZXJyYS1uZXZhZGEtY29udHJhY3QtZm9yLXNlY29uZC12YXJpYW50LW9mLWF0aGVuYS1zcHktcGxhbmUv0gEA?oc=5",
-      "published": "2023-10-10T07:00:00.000Z",
-      "description": "Sierra Nevada lands contract for second variant of Athena spy plane&nbsp;&nbsp;DefenseScoop",
       "summary": "",
       "author": "",
       "category": ""
@@ -517,6 +567,16 @@
       "category": ""
     },
     {
+      "id": "CBMiYmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDIzLzEwLzE3L2NoaW5hLWZpZ2h0ZXItamV0LWRhbmdlcm91cy1tYW5ldXZlcnMv0gEA",
+      "title": "Chinese fighter jets buzz U.S. planes in dramatic new videos - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDIzLzEwLzE3L2NoaW5hLWZpZ2h0ZXItamV0LWRhbmdlcm91cy1tYW5ldXZlcnMv0gEA?oc=5",
+      "published": "2023-10-17T07:00:00.000Z",
+      "description": "Chinese fighter jets buzz U.S. planes in dramatic new videos&nbsp;&nbsp;The Washington Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMikgFodHRwczovL2l0Yy51YS9lbi9uZXdzL3N3ZWRlbi13aWxsLXByb3ZpZGUtdWtyYWluZS13aXRoLWFzYy04OTAtc2FhYi0zNDAtcmFkYXItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtdGhlLWZpcnN0LWZseWluZy1yYWRhci1pbi10aGUtYXJtZWQtZm9yY2VzL9IBlgFodHRwczovL2l0Yy51YS9lbi9uZXdzL3N3ZWRlbi13aWxsLXByb3ZpZGUtdWtyYWluZS13aXRoLWFzYy04OTAtc2FhYi0zNDAtcmFkYXItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtdGhlLWZpcnN0LWZseWluZy1yYWRhci1pbi10aGUtYXJtZWQtZm9yY2VzL2FtcC8",
       "title": "Sweden will provide Ukraine with ASC 890 (Saab 340) radar reconnaissance aircraft — the first flying radar - ITC",
       "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL2l0Yy51YS9lbi9uZXdzL3N3ZWRlbi13aWxsLXByb3ZpZGUtdWtyYWluZS13aXRoLWFzYy04OTAtc2FhYi0zNDAtcmFkYXItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtdGhlLWZpcnN0LWZseWluZy1yYWRhci1pbi10aGUtYXJtZWQtZm9yY2VzL9IBlgFodHRwczovL2l0Yy51YS9lbi9uZXdzL3N3ZWRlbi13aWxsLXByb3ZpZGUtdWtyYWluZS13aXRoLWFzYy04OTAtc2FhYi0zNDAtcmFkYXItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtdGhlLWZpcnN0LWZseWluZy1yYWRhci1pbi10aGUtYXJtZWQtZm9yY2VzL2FtcC8?oc=5",
@@ -527,41 +587,21 @@
       "category": ""
     },
     {
-      "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjgzODcyMzLSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY4Mzg3MjMyLmFtcA",
-      "title": "Ukraine says it has downed second Russian A-50 spy plane in weeks - BBC.com",
-      "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjgzODcyMzLSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY4Mzg3MjMyLmFtcA?oc=5",
-      "published": "2024-02-23T08:00:00.000Z",
-      "description": "Ukraine says it has downed second Russian A-50 spy plane in weeks&nbsp;&nbsp;BBC.com",
+      "id": "CBMiZ2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3NyLTcyLXN1Y2Nlc3Nvci1zci03MS1ibGFja2JpcmQtY291bGQtYmUtY2xvc2VyLXlvdS10aGluay0yMDc0MTXSAQA",
+      "title": "SR-72: A Successor to the SR-71 Blackbird Could Be Closer Than You Think - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3NyLTcyLXN1Y2Nlc3Nvci1zci03MS1ibGFja2JpcmQtY291bGQtYmUtY2xvc2VyLXlvdS10aGluay0yMDc0MTXSAQA?oc=5",
+      "published": "2023-11-22T08:00:00.000Z",
+      "description": "SR-72: A Successor to the SR-71 Blackbird Could Be Closer Than You Think&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMinAFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL29mZnV0dC1iYXNlZC1yZWNvbm5haXNzYW5jZS1qZXQtZGVjbGFyZXMtZW1lcmdlbmN5LW92ZXItcGVyc2lhbi1ndWxmL2FydGljbGVfNjAzY2Y0OTYtNTE5MS0xMWVlLThlNDEtMDNjMmQwNzc3MzM1Lmh0bWzSAQA",
-      "title": "Offutt-based reconnaissance jet declares emergency over Persian Gulf - Omaha World-Herald",
-      "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL29mZnV0dC1iYXNlZC1yZWNvbm5haXNzYW5jZS1qZXQtZGVjbGFyZXMtZW1lcmdlbmN5LW92ZXItcGVyc2lhbi1ndWxmL2FydGljbGVfNjAzY2Y0OTYtNTE5MS0xMWVlLThlNDEtMDNjMmQwNzc3MzM1Lmh0bWzSAQA?oc=5",
-      "published": "2023-09-12T23:33:39.000Z",
-      "description": "Offutt-based reconnaissance jet declares emergency over Persian Gulf&nbsp;&nbsp;Omaha World-Herald",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdXMtbmF2eS1zcHktcGxhbmUtcmVtb3Zlcy1mdWVsLWthbmVvaGUtYmF5LWhhd2FpaS1vYWh1LW92ZXJzaG9vdC1ydW53YXkv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvdXMtbmF2eS1zcHktcGxhbmUtcmVtb3Zlcy1mdWVsLWthbmVvaGUtYmF5LWhhd2FpaS1vYWh1LW92ZXJzaG9vdC1ydW53YXkv",
-      "title": "Navy removes fuel from spy plane that crashed into environmentally sensitive bay in Hawaii - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdXMtbmF2eS1zcHktcGxhbmUtcmVtb3Zlcy1mdWVsLWthbmVvaGUtYmF5LWhhd2FpaS1vYWh1LW92ZXJzaG9vdC1ydW53YXkv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvdXMtbmF2eS1zcHktcGxhbmUtcmVtb3Zlcy1mdWVsLWthbmVvaGUtYmF5LWhhd2FpaS1vYWh1LW92ZXJzaG9vdC1ydW53YXkv?oc=5",
-      "published": "2023-11-28T08:00:00.000Z",
-      "description": "Navy removes fuel from spy plane that crashed into environmentally sensitive bay in Hawaii&nbsp;&nbsp;CBS News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA1LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ",
-      "title": "US spy plane flies over S. Korea amid heightened tensions - 코리아타임스",
-      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA1LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ?oc=5",
+      "id": "CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ",
+      "title": "US spy plane flies over S. Korea amid heightened tensions - koreatimes",
+      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ?oc=5",
       "published": "2024-02-06T08:00:00.000Z",
-      "description": "US spy plane flies over S. Korea amid heightened tensions&nbsp;&nbsp;코리아타임스",
+      "description": "US spy plane flies over S. Korea amid heightened tensions&nbsp;&nbsp;koreatimes",
       "summary": "",
       "author": "",
       "category": ""
@@ -592,16 +632,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vc2FyYWpldm90aW1lcy5jb20vYS1uZXctb3Blbi1za2llcy1yZWNvbm5haXNzYW5jZS1mbGlnaHQtd2lsbC1iZS1jb25kdWN0ZWQtb3Zlci1iaWgv0gFcaHR0cHM6Ly9zYXJhamV2b3RpbWVzLmNvbS9hLW5ldy1vcGVuLXNraWVzLXJlY29ubmFpc3NhbmNlLWZsaWdodC13aWxsLWJlLWNvbmR1Y3RlZC1vdmVyLWJpaC8?oc=5",
       "published": "2023-09-02T07:00:00.000Z",
       "description": "A new “Open Skies” Reconnaissance Flight will be conducted over BiH&nbsp;&nbsp;Sarajevo Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vbmV3YXRsYXMuY29tL21pbGl0YXJ5L3UtMi1kcmFnb24tbGFkeS1zcHktcGxhbmUtZmlyc3QtZmxpZ2h0LW5ldy1hdmlvbmljcy1zdWl0ZS_SAQA",
-      "title": "U-2 Dragon Lady spy plane makes first flight with new avionics suite - New Atlas",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbmV3YXRsYXMuY29tL21pbGl0YXJ5L3UtMi1kcmFnb24tbGFkeS1zcHktcGxhbmUtZmlyc3QtZmxpZ2h0LW5ldy1hdmlvbmljcy1zdWl0ZS_SAQA?oc=5",
-      "published": "2023-10-02T07:00:00.000Z",
-      "description": "U-2 Dragon Lady spy plane makes first flight with new avionics suite&nbsp;&nbsp;New Atlas",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,31 +687,11 @@
       "category": ""
     },
     {
-      "id": "CBMiQ2h0dHBzOi8vd3d3LnRoZS1zdW4uY29tL25ld3MvMTA0ODEyNTIvcHV0aW4tYS01MC1zcHktcGxhbmUtY3Jhc2hlcy_SAUdodHRwczovL3d3dy50aGUtc3VuLmNvbS9uZXdzLzEwNDgxMjUyL3B1dGluLWEtNTAtc3B5LXBsYW5lLWNyYXNoZXMvYW1wLw",
-      "title": "Night of hell of Putin as Ukraine ‘shoots down £300m spy plane’ & kamikaze drones blitz Russia’s biggest st... - The US Sun",
-      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZS1zdW4uY29tL25ld3MvMTA0ODEyNTIvcHV0aW4tYS01MC1zcHktcGxhbmUtY3Jhc2hlcy_SAUdodHRwczovL3d3dy50aGUtc3VuLmNvbS9uZXdzLzEwNDgxMjUyL3B1dGluLWEtNTAtc3B5LXBsYW5lLWNyYXNoZXMvYW1wLw?oc=5",
-      "published": "2024-02-23T08:00:00.000Z",
-      "description": "Night of hell of Putin as Ukraine ‘shoots down £300m spy plane’ & kamikaze drones blitz Russia’s biggest st...&nbsp;&nbsp;The US Sun",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaGh0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDIzLzA3LzExL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS13YXJuaW5nLXVzLXNweS1wbGFuZXMtbmF0by1zdW1taXQv0gEA",
       "title": "North Korea warns U.S. over alleged spy plane incursions - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDIzLzA3LzExL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS13YXJuaW5nLXVzLXNweS1wbGFuZXMtbmF0by1zdW1taXQv0gEA?oc=5",
       "published": "2023-07-11T07:00:00.000Z",
       "description": "North Korea warns U.S. over alleged spy plane incursions&nbsp;&nbsp;The Japan Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvcnVzc2lhLWFyZS1wcmVwYXJpbmctdG8tZGVwbG95LWEtbS01NS1yZWNvbm5haXNzYW5jZS1haXJjcmFmdC_SAQA",
-      "title": "Russia is Preparing to Deploy a М-55 Reconnaissance Aircraft - Militarnyi",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvcnVzc2lhLWFyZS1wcmVwYXJpbmctdG8tZGVwbG95LWEtbS01NS1yZWNvbm5haXNzYW5jZS1haXJjcmFmdC_SAQA?oc=5",
-      "published": "2023-11-20T08:00:00.000Z",
-      "description": "Russia is Preparing to Deploy a М-55 Reconnaissance Aircraft&nbsp;&nbsp;Militarnyi",
       "summary": "",
       "author": "",
       "category": ""
@@ -697,11 +707,31 @@
       "category": ""
     },
     {
+      "id": "CBMiemh0dHBzOi8va29yZWFqb29uZ2FuZ2RhaWx5LmpvaW5zLmNvbS8yMDIzLzA3LzEwL25hdGlvbmFsL25vcnRoS29yZWEva29yZWEtbm9ydGgta29yZWEtdW5pdGVkLXN0YXRlcy8yMDIzMDcxMDE4NDYxMzA5OS5odG1s0gEA",
+      "title": "South rejects North's allegations about U.S. spy flights - The Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8va29yZWFqb29uZ2FuZ2RhaWx5LmpvaW5zLmNvbS8yMDIzLzA3LzEwL25hdGlvbmFsL25vcnRoS29yZWEva29yZWEtbm9ydGgta29yZWEtdW5pdGVkLXN0YXRlcy8yMDIzMDcxMDE4NDYxMzA5OS5odG1s0gEA?oc=5",
+      "published": "2023-07-10T07:00:00.000Z",
+      "description": "South rejects North's allegations about U.S. spy flights&nbsp;&nbsp;The Korea JoongAng Daily",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMic2h0dHBzOi8vd3d3LnVwaS5jb20vVG9wX05ld3MvV29ybGQtTmV3cy8yMDIzLzA3LzEwL05vcnRoLUtvcmVhLXNob290LWRvd24tVVMtcmVjb25uYWlzYW5jZS1zcHktcGxhbmUvMTg5MTY4ODk2Nzk4MC_SAXdodHRwczovL3d3dy51cGkuY29tL2FtcC9Ub3BfTmV3cy9Xb3JsZC1OZXdzLzIwMjMvMDcvMTAvTm9ydGgtS29yZWEtc2hvb3QtZG93bi1VUy1yZWNvbm5haXNhbmNlLXNweS1wbGFuZS8xODkxNjg4OTY3OTgwLw",
       "title": "North Korea warns it will shoot down U.S. reconnaissance planes - UPI News",
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVwaS5jb20vVG9wX05ld3MvV29ybGQtTmV3cy8yMDIzLzA3LzEwL05vcnRoLUtvcmVhLXNob290LWRvd24tVVMtcmVjb25uYWlzYW5jZS1zcHktcGxhbmUvMTg5MTY4ODk2Nzk4MC_SAXdodHRwczovL3d3dy51cGkuY29tL2FtcC9Ub3BfTmV3cy9Xb3JsZC1OZXdzLzIwMjMvMDcvMTAvTm9ydGgtS29yZWEtc2hvb3QtZG93bi1VUy1yZWNvbm5haXNhbmNlLXNweS1wbGFuZS8xODkxNjg4OTY3OTgwLw?oc=5",
       "published": "2023-07-10T07:00:00.000Z",
       "description": "North Korea warns it will shoot down U.S. reconnaissance planes&nbsp;&nbsp;UPI News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9hc2lhLXBhY2lmaWMvbm9ydGgta29yZWEtZGVub3VuY2VzLXVzLW1vdmUtYnJpbmctYmFsbGlzdGljLW1pc3NpbGUtc3VibWFyaW5lLXBlbmluc3VsYS0yMDIzLTA3LTA5L9IBAA",
+      "title": "North Korea warns it may shoot down US spy planes violating its airspace - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9hc2lhLXBhY2lmaWMvbm9ydGgta29yZWEtZGVub3VuY2VzLXVzLW1vdmUtYnJpbmctYmFsbGlzdGljLW1pc3NpbGUtc3VibWFyaW5lLXBlbmluc3VsYS0yMDIzLTA3LTA5L9IBAA?oc=5",
+      "published": "2023-07-10T07:00:00.000Z",
+      "description": "North Korea warns it may shoot down US spy planes violating its airspace&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -767,31 +797,11 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vZnR3LnVzYXRvZGF5LmNvbS9saXN0cy9jb2xsZWdlLWZvb3RiYWxsLWZhbnMtYXJlLWFsbC1tYWtpbmctdGhlLXNhbWUtc3B5LXBsYW5lLWZseWluZy1vdmVyLW9oaW8tc3RhdGUtbWljaGlnYW4tam9rZdIBAA",
-      "title": "College football fans are all making the same jokes about the spy planes flying over Ohio State - Michigan - For The Win",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vZnR3LnVzYXRvZGF5LmNvbS9saXN0cy9jb2xsZWdlLWZvb3RiYWxsLWZhbnMtYXJlLWFsbC1tYWtpbmctdGhlLXNhbWUtc3B5LXBsYW5lLWZseWluZy1vdmVyLW9oaW8tc3RhdGUtbWljaGlnYW4tam9rZdIBAA?oc=5",
-      "published": "2023-11-24T08:00:00.000Z",
-      "description": "College football fans are all making the same jokes about the spy planes flying over Ohio State - Michigan&nbsp;&nbsp;For The Win",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiU2h0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wMS8xNS9wdXRpbnMtMjYwLTAwMC0wMDAtYS01MC1zcHktcGxhbmUtc2hvdC1za3ktMjAxMTQxMjcv0gFXaHR0cHM6Ly9tZXRyby5jby51ay8yMDI0LzAxLzE1L3B1dGlucy0yNjAtMDAwLTAwMC1hLTUwLXNweS1wbGFuZS1zaG90LXNreS0yMDExNDEyNy9hbXAv",
       "title": "Putin's £260,000,000 A-50 spy plane 'shot out of the sky' - Metro.co.uk",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vbWV0cm8uY28udWsvMjAyNC8wMS8xNS9wdXRpbnMtMjYwLTAwMC0wMDAtYS01MC1zcHktcGxhbmUtc2hvdC1za3ktMjAxMTQxMjcv0gFXaHR0cHM6Ly9tZXRyby5jby51ay8yMDI0LzAxLzE1L3B1dGlucy0yNjAtMDAwLTAwMC1hLTUwLXNweS1wbGFuZS1zaG90LXNreS0yMDExNDEyNy9hbXAv?oc=5",
       "published": "2024-01-15T08:00:00.000Z",
       "description": "Putin's £260,000,000 A-50 spy plane 'shot out of the sky'&nbsp;&nbsp;Metro.co.uk",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiemh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9hc2lhLXBhY2lmaWMvMjAyMzA3MTAtbm9ydGgta29yZWEtdGhyZWF0ZW5zLXRvLXNob290LWRvd24tdXMtc3B5LXBsYW5lcy12aW9sYXRpbmctaXRzLWFpcnNwYWNl0gEA",
-      "title": "North Korea threatens to shoot down US spy planes violating its airspace - FRANCE 24 English",
-      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9hc2lhLXBhY2lmaWMvMjAyMzA3MTAtbm9ydGgta29yZWEtdGhyZWF0ZW5zLXRvLXNob290LWRvd24tdXMtc3B5LXBsYW5lcy12aW9sYXRpbmctaXRzLWFpcnNwYWNl0gEA?oc=5",
-      "published": "2023-07-10T07:00:00.000Z",
-      "description": "North Korea threatens to shoot down US spy planes violating its airspace&nbsp;&nbsp;FRANCE 24 English",
       "summary": "",
       "author": "",
       "category": ""
@@ -847,16 +857,6 @@
       "category": ""
     },
     {
-      "id": "CBMiVmh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vbWlsaXRhcnkvaXNyYWVsLW9yb24tYWR2YW5jZWQtc3VydmVpbGxhbmNlLWFpcmNyYWZ00gEA",
-      "title": "Oron: Israel set to test its most advanced spy plane yet - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vbWlsaXRhcnkvaXNyYWVsLW9yb24tYWR2YW5jZWQtc3VydmVpbGxhbmNlLWFpcmNyYWZ00gEA?oc=5",
-      "published": "2023-08-30T07:00:00.000Z",
-      "description": "Oron: Israel set to test its most advanced spy plane yet&nbsp;&nbsp;Interesting Engineering",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMwOTIzMjIvZW5kLW9mLWFuLWVyYS11LTItZmxpZXMtbGFzdC1vYmMtbWlzc2lvbi_SAQA",
       "title": "End of an era: U-2 flies last OBC mission - Air Force Link",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMwOTIzMjIvZW5kLW9mLWFuLWVyYS11LTItZmxpZXMtbGFzdC1vYmMtbWlzc2lvbi_SAQA?oc=5",
@@ -907,16 +907,6 @@
       "category": ""
     },
     {
-      "id": "CBMimQFodHRwczovL2FrZmlyZWluZm8uY29tLzIwMjEvMDcvMDgvcmVjb25uYWlzc2FuY2UtZmxpZ2h0LXB1dHMtc2l6ZS1vZi1tdW5zb24tY3JlZWstZmlyZS1hdC1tb3JlLXRoYW4tMzYwMDAtYWNyZXMtZmlyZWZpZ2h0ZXJzLWNvbnRpbnVlLXRvLWdvLW9uLW9mZmVuc2l2ZS_SAQA",
-      "title": "Reconnaissance flight puts size of Munson Creek Fire at more than 36000 acres; firefighters continue to go on offensive - akfireinfo.com",
-      "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL2FrZmlyZWluZm8uY29tLzIwMjEvMDcvMDgvcmVjb25uYWlzc2FuY2UtZmxpZ2h0LXB1dHMtc2l6ZS1vZi1tdW5zb24tY3JlZWstZmlyZS1hdC1tb3JlLXRoYW4tMzYwMDAtYWNyZXMtZmlyZWZpZ2h0ZXJzLWNvbnRpbnVlLXRvLWdvLW9uLW9mZmVuc2l2ZS_SAQA?oc=5",
-      "published": "2021-07-08T07:00:00.000Z",
-      "description": "Reconnaissance flight puts size of Munson Creek Fire at more than 36000 acres; firefighters continue to go on offensive&nbsp;&nbsp;akfireinfo.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiH2h0dHBzOi8vdm9pLmlkL2ZyL2Jlcml0YS8yODM2NTTSARxodHRwczovL3ZvaS5pZC9mci9hbXAvMjgzNjU0",
       "title": "Chinese Fighter Jet Cuts Its Reconnaissance Plane Path To Natural Turbulence, US Military: Aggressive And Unnecessary - VOI.ID",
       "link": "https://news.google.com/rss/articles/CBMiH2h0dHBzOi8vdm9pLmlkL2ZyL2Jlcml0YS8yODM2NTTSARxodHRwczovL3ZvaS5pZC9mci9hbXAvMjgzNjU0?oc=5",
@@ -927,11 +917,51 @@
       "category": ""
     },
     {
+      "id": "CBMimQFodHRwczovL2FrZmlyZWluZm8uY29tLzIwMjEvMDcvMDgvcmVjb25uYWlzc2FuY2UtZmxpZ2h0LXB1dHMtc2l6ZS1vZi1tdW5zb24tY3JlZWstZmlyZS1hdC1tb3JlLXRoYW4tMzYwMDAtYWNyZXMtZmlyZWZpZ2h0ZXJzLWNvbnRpbnVlLXRvLWdvLW9uLW9mZmVuc2l2ZS_SAQA",
+      "title": "Reconnaissance flight puts size of Munson Creek Fire at more than 36000 acres; firefighters continue to go on offensive - akfireinfo.com",
+      "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL2FrZmlyZWluZm8uY29tLzIwMjEvMDcvMDgvcmVjb25uYWlzc2FuY2UtZmxpZ2h0LXB1dHMtc2l6ZS1vZi1tdW5zb24tY3JlZWstZmlyZS1hdC1tb3JlLXRoYW4tMzYwMDAtYWNyZXMtZmlyZWZpZ2h0ZXJzLWNvbnRpbnVlLXRvLWdvLW9uLW9mZmVuc2l2ZS_SAQA?oc=5",
+      "published": "2021-07-08T07:00:00.000Z",
+      "description": "Reconnaissance flight puts size of Munson Creek Fire at more than 36000 acres; firefighters continue to go on offensive&nbsp;&nbsp;akfireinfo.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijgFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW4tc3VjY2Vzc2Z1bGx5LWxhdW5jaGVzLW1pbm90YXVyLWktcm9ja2V0LWZvci10aGUtbmF0aW9uYWwtcmVjb25uYWlzc2FuY2Utb2ZmaWNl0gEA",
+      "title": "Northrop Grumman Successfully Launches Minotaur I Rocket for the National Reconnaissance Office | Northrop ... - Northrop Grumman Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW4tc3VjY2Vzc2Z1bGx5LWxhdW5jaGVzLW1pbm90YXVyLWktcm9ja2V0LWZvci10aGUtbmF0aW9uYWwtcmVjb25uYWlzc2FuY2Utb2ZmaWNl0gEA?oc=5",
+      "published": "2021-06-15T07:00:00.000Z",
+      "description": "Northrop Grumman Successfully Launches Minotaur I Rocket for the National Reconnaissance Office | Northrop ...&nbsp;&nbsp;Northrop Grumman Newsroom",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSmh0dHBzOi8vd3d3LmJlYWxlLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMyOTY4OTYvaXN0LXByb2dyYW0v0gEA",
+      "title": "IST Program > Beale Air Force Base > Article Display - beale.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmJlYWxlLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMyOTY4OTYvaXN0LXByb2dyYW0v0gEA?oc=5",
+      "published": "2023-02-13T08:00:00.000Z",
+      "description": "IST Program > Beale Air Force Base > Article Display&nbsp;&nbsp;beale.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiJmh0dHBzOi8vd3d3LnNhYmEueWUvZW4vbmV3czMyOTI0OTkuaHRt0gEA",
       "title": "Al-Qassam announces downing of Skylark-2 reconnaissance plane in Beit Lahia - وكالة سبأ",
       "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3LnNhYmEueWUvZW4vbmV3czMyOTI0OTkuaHRt0gEA?oc=5",
       "published": "2023-12-31T08:00:00.000Z",
       "description": "Al-Qassam announces downing of Skylark-2 reconnaissance plane in Beit Lahia&nbsp;&nbsp;وكالة سبأ",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijgFodHRwczovL3d3dy5iZWFsZS5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMzI1ODMyLzl0aC1yZWNvbm5haXNzYW5jZS13aW5nLWxlYWRlcnNoaXAtdW5kZXJ0YWtlcy1jdWx0dXJlLXNoaWZ0LXdpdGgtbmV3LW1pc3Npb24tcHIv0gEA",
+      "title": "9th Reconnaissance Wing leadership undertakes culture shift with new mission, priorities a - beale.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5iZWFsZS5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMzI1ODMyLzl0aC1yZWNvbm5haXNzYW5jZS13aW5nLWxlYWRlcnNoaXAtdW5kZXJ0YWtlcy1jdWx0dXJlLXNoaWZ0LXdpdGgtbmV3LW1pc3Npb24tcHIv0gEA?oc=5",
+      "published": "2023-03-10T08:00:00.000Z",
+      "description": "9th Reconnaissance Wing leadership undertakes culture shift with new mission, priorities a&nbsp;&nbsp;beale.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -972,36 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMDkvMjkvY2hlY2stb3V0LXRoaXMtY3JhenktdmlkZW8tb2YtYS1ub2FhLWFpcmNyYWZ0LWZseWluZy1pbnNpZGUtaHVycmljYW5lLWlhbi_SAQA?oc=5",
       "published": "2022-09-29T07:00:00.000Z",
       "description": "Check Out This Crazy Video of a NOAA Aircraft Flying inside Hurricane Ian&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAxOC8wOC8xMC9wb2xpdGljcy9zb3V0aC1jaGluYS1zZWEtZmx5b3Zlci1pbnRsL2luZGV4Lmh0bWzSAUhodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDE4LzA4LzEwL3BvbGl0aWNzL3NvdXRoLWNoaW5hLXNlYS1mbHlvdmVyLWludGw",
-      "title": "'Leave immediately': US Navy plane warned over South China Sea - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNubi5jb20vMjAxOC8wOC8xMC9wb2xpdGljcy9zb3V0aC1jaGluYS1zZWEtZmx5b3Zlci1pbnRsL2luZGV4Lmh0bWzSAUhodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDE4LzA4LzEwL3BvbGl0aWNzL3NvdXRoLWNoaW5hLXNlYS1mbHlvdmVyLWludGw?oc=5",
-      "published": "2018-08-10T07:00:00.000Z",
-      "description": "'Leave immediately': US Navy plane warned over South China Sea&nbsp;&nbsp;CNN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvY2hpbmVzZS1qZXQtZmxldy1ub3NlLXVzLXBsYW5lLXNheXMtcGVudGFnb24tcmNuYTg2OTI20gEqaHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTg2OTI2",
-      "title": "Chinese jet flew past nose of U.S. plane, Pentagon says - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvY2hpbmVzZS1qZXQtZmxldy1ub3NlLXVzLXBsYW5lLXNheXMtcGVudGFnb24tcmNuYTg2OTI20gEqaHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTg2OTI2?oc=5",
-      "published": "2023-05-30T07:00:00.000Z",
-      "description": "Chinese jet flew past nose of U.S. plane, Pentagon says&nbsp;&nbsp;NBC News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiggFodHRwczovL3d3dy5mb3h3ZWF0aGVyLmNvbS9leHRyZW1lLXdlYXRoZXIvaHVycmljYW5lLWh1bnRlci1kZXNjcmliZXMtZmx5aW5nLWluc2lkZS1odXJyaWNhbmUtaWFuLWFzLXJvdWdoZXN0LWZsaWdodC1vZi1oaXMtY2FyZWVy0gGGAWh0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2V4dHJlbWUtd2VhdGhlci9odXJyaWNhbmUtaHVudGVyLWRlc2NyaWJlcy1mbHlpbmctaW5zaWRlLWh1cnJpY2FuZS1pYW4tYXMtcm91Z2hlc3QtZmxpZ2h0LW9mLWhpcy1jYXJlZXIuYW1w",
-      "title": "'We got rocked:' Hurricane Hunter describes Hurricane Ian as roughest flight of his career - Fox Weather",
-      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5mb3h3ZWF0aGVyLmNvbS9leHRyZW1lLXdlYXRoZXIvaHVycmljYW5lLWh1bnRlci1kZXNjcmliZXMtZmx5aW5nLWluc2lkZS1odXJyaWNhbmUtaWFuLWFzLXJvdWdoZXN0LWZsaWdodC1vZi1oaXMtY2FyZWVy0gGGAWh0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2V4dHJlbWUtd2VhdGhlci9odXJyaWNhbmUtaHVudGVyLWRlc2NyaWJlcy1mbHlpbmctaW5zaWRlLWh1cnJpY2FuZS1pYW4tYXMtcm91Z2hlc3QtZmxpZ2h0LW9mLWhpcy1jYXJlZXIuYW1w?oc=5",
-      "published": "2022-09-28T07:00:00.000Z",
-      "description": "'We got rocked:' Hurricane Hunter describes Hurricane Ian as roughest flight of his career&nbsp;&nbsp;Fox Weather",
       "summary": "",
       "author": "",
       "category": ""
