@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-08T03:27:32.000Z",
+  "published": "2024-06-08T04:30:35.000Z",
   "entries": [
     {
       "id": "CBMipQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2RpZC15b3Uta25vdy1zci03MS1jcmV3LW1lbWJlcnMtb24tYS1tb29ubGVzcy1jbGVhci1uaWdodC1jb3VsZC1zZWUtMy01LXRyaWxsaW9uLW1vcmUtc3RhcnMtYXQtODAwMDAtZmVldC10aGFuLXlvdS1jYW4tb24tdGhlLWdyb3VuZC_SAaUBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9kaWQteW91LWtub3ctc3ItNzEtY3Jldy1tZW1iZXJzLW9uLWEtbW9vbmxlc3MtY2xlYXItbmlnaHQtY291bGQtc2VlLTMtNS10cmlsbGlvbi1tb3JlLXN0YXJzLWF0LTgwMDAwLWZlZXQtdGhhbi15b3UtY2FuLW9uLXRoZS1ncm91bmQv",
@@ -237,6 +237,16 @@
       "category": ""
     },
     {
+      "id": "CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hbWVyaWNhbi1haXItZm9yY2UtcmMtMTM1dS1jb21iYXQtc2VudC1ub3J0aC1zb3V0aC1rb3JlYS1mbGlnaHQtMTkwMjk2MtIBAA",
+      "title": "US Spy Plane Sweeps North Korean Border - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hbWVyaWNhbi1haXItZm9yY2UtcmMtMTM1dS1jb21iYXQtc2VudC1ub3J0aC1zb3V0aC1rb3JlYS1mbGlnaHQtMTkwMjk2MtIBAA?oc=5",
+      "published": "2024-05-21T07:00:00.000Z",
+      "description": "US Spy Plane Sweeps North Korean Border&nbsp;&nbsp;Newsweek",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMibGh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zNTI2NTE1L3VzLXJlc3VtZXMtaXNyLWZsaWdodC1vcGVyYXRpb25zLWluLW5pZ2VyL9IBAA",
       "title": "U.S. Resumes ISR Flight Operations in Niger > U.S - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zNTI2NTE1L3VzLXJlc3VtZXMtaXNyLWZsaWdodC1vcGVyYXRpb25zLWluLW5pZ2VyL9IBAA?oc=5",
@@ -312,16 +322,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL3J1c3NpYS11a3JhaW5lLXdhci1hLTUwLXJhZGFyLXBsYW5lLXNob3QtZG93bi1jbGFpbS8zMjc3Njc2OC5odG1s0gFbaHR0cHM6Ly93d3cucmZlcmwub3JnL2FtcC9ydXNzaWEtdWtyYWluZS13YXItYS01MC1yYWRhci1wbGFuZS1zaG90LWRvd24tY2xhaW0vMzI3NzY3NjguaHRtbA?oc=5",
       "published": "2024-01-16T08:00:00.000Z",
       "description": "Did A Patriot Missile Down Russia's Hyper-Advanced Surveillance Plane?&nbsp;&nbsp;Radio Free Europe / Radio Liberty",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hbWVyaWNhbi1haXItZm9yY2UtcmMtMTM1dS1jb21iYXQtc2VudC1ub3J0aC1zb3V0aC1rb3JlYS1mbGlnaHQtMTkwMjk2MtIBAA",
-      "title": "US Spy Plane Sweeps North Korean Border - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9hbWVyaWNhbi1haXItZm9yY2UtcmMtMTM1dS1jb21iYXQtc2VudC1ub3J0aC1zb3V0aC1rb3JlYS1mbGlnaHQtMTkwMjk2MtIBAA?oc=5",
-      "published": "2024-05-21T07:00:00.000Z",
-      "description": "US Spy Plane Sweeps North Korean Border&nbsp;&nbsp;Newsweek",
       "summary": "",
       "author": "",
       "category": ""
@@ -422,16 +422,6 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnBhY2FmLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM0NzU0MTMvcm95YWwtYWlyLWZvcmNlLWZsaWVzLXdpdGgtdGhlLTgybmQtcmVjb25uYWlzc2FuY2Utc3F1YWRyb24v0gEA?oc=5",
       "published": "2023-07-27T07:00:00.000Z",
       "description": "Royal Air Force flies with the 82nd Reconnaissance Squadron&nbsp;&nbsp;pacaf.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiQ2h0dHBzOi8vbnoubmV3cy55YWhvby5jb20vdS1wbGFuZS1hcnJpdmVzLXVrLWNvbmR1Y3QtMTM1NzAwOTQ2Lmh0bWzSAQA",
-      "title": "U.S. plane arrives from UK to conduct reconnaissance near Crimea - Yahoo New Zealand News",
-      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbnoubmV3cy55YWhvby5jb20vdS1wbGFuZS1hcnJpdmVzLXVrLWNvbmR1Y3QtMTM1NzAwOTQ2Lmh0bWzSAQA?oc=5",
-      "published": "2024-02-26T08:00:00.000Z",
-      "description": "U.S. plane arrives from UK to conduct reconnaissance near Crimea&nbsp;&nbsp;Yahoo New Zealand News",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvY2hpbmVzZS1qZXQtYnV6emVkLXUtcy1zcHktcGxhbmUtcGVudGFnb24tc2F5cy1iYjc4Yzg0N9IBAA?oc=5",
       "published": "2023-05-30T07:00:00.000Z",
       "description": "Chinese Jet Fighter Buzzed U.S. Spy Plane, Pentagon Says&nbsp;&nbsp;The Wall Street Journal",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMDkvMjkvY2hlY2stb3V0LXRoaXMtY3JhenktdmlkZW8tb2YtYS1ub2FhLWFpcmNyYWZ0LWZseWluZy1pbnNpZGUtaHVycmljYW5lLWlhbi_SAQA",
+      "title": "Check Out This Crazy Video of a NOAA Aircraft Flying inside Hurricane Ian - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMDkvMjkvY2hlY2stb3V0LXRoaXMtY3JhenktdmlkZW8tb2YtYS1ub2FhLWFpcmNyYWZ0LWZseWluZy1pbnNpZGUtaHVycmljYW5lLWlhbi_SAQA?oc=5",
+      "published": "2022-09-29T07:00:00.000Z",
+      "description": "Check Out This Crazy Video of a NOAA Aircraft Flying inside Hurricane Ian&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
