@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-09T08:27:55.000Z",
+  "published": "2024-06-09T09:24:50.000Z",
   "entries": [
     {
       "id": "CBMiUmh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzEyLzIwL2phcGFuLWxvY2tzLWluLWZ1bmRpbmctZm9yLTItbmV3LWFlZ2lzLWRlc3Ryb3llcnPSAQA",
@@ -287,21 +287,21 @@
       "category": ""
     },
     {
-      "id": "CBMiRWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzAxLzA1L2phcGFuLWFlZ2lzLXRlbnNpb25zLWNoaW5hL9IBAA",
-      "title": "Japan to Expand Fleet of Aegis Destroyers Amid Tensions With China - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzAxLzA1L2phcGFuLWFlZ2lzLXRlbnNpb25zLWNoaW5hL9IBAA?oc=5",
-      "published": "2023-01-05T08:00:00.000Z",
-      "description": "Japan to Expand Fleet of Aegis Destroyers Amid Tensions With China&nbsp;&nbsp;The Defense Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiamh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzEyL2phcGFuZXNlLW1vZC1yZWxlYXNlcy1mdXJ0aGVyLWRldGFpbHMtb2YtYXNldi1ibWQtZGVzdHJveWVycy_SAQA",
       "title": "Japanese MoD releases further details about its future BMD destroyers - Naval News",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzEyL2phcGFuZXNlLW1vZC1yZWxlYXNlcy1mdXJ0aGVyLWRldGFpbHMtb2YtYXNldi1ibWQtZGVzdHJveWVycy_SAQA?oc=5",
       "published": "2022-12-25T08:00:00.000Z",
       "description": "Japanese MoD releases further details about its future BMD destroyers&nbsp;&nbsp;Naval News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NoaWVsZC1wYWNpZmljLWphcGFuLWdpYW50LWFlZ2lzLWRlc3Ryb3llctIBAA",
+      "title": "Shield of the Pacific: Japan as a Giant Aegis Destroyer - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NoaWVsZC1wYWNpZmljLWphcGFuLWdpYW50LWFlZ2lzLWRlc3Ryb3llctIBAA?oc=5",
+      "published": "2018-05-23T07:00:00.000Z",
+      "description": "Shield of the Pacific: Japan as a Giant Aegis Destroyer&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -317,11 +317,11 @@
       "category": ""
     },
     {
-      "id": "CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NoaWVsZC1wYWNpZmljLWphcGFuLWdpYW50LWFlZ2lzLWRlc3Ryb3llctIBAA",
-      "title": "Shield of the Pacific: Japan as a Giant Aegis Destroyer - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NoaWVsZC1wYWNpZmljLWphcGFuLWdpYW50LWFlZ2lzLWRlc3Ryb3llctIBAA?oc=5",
-      "published": "2018-05-23T07:00:00.000Z",
-      "description": "Shield of the Pacific: Japan as a Giant Aegis Destroyer&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "id": "CBMiRWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzAxLzA1L2phcGFuLWFlZ2lzLXRlbnNpb25zLWNoaW5hL9IBAA",
+      "title": "Japan to Expand Fleet of Aegis Destroyers Amid Tensions With China - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzAxLzA1L2phcGFuLWFlZ2lzLXRlbnNpb25zLWNoaW5hL9IBAA?oc=5",
+      "published": "2023-01-05T08:00:00.000Z",
+      "description": "Japan to Expand Fleet of Aegis Destroyers Amid Tensions With China&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -607,16 +607,6 @@
       "category": ""
     },
     {
-      "id": "CBMigQFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL25hdmFsLW5ld3MvMjAyMC8wMy9qbXNkZi1jb21taXNzaW9ucy1maXJzdC1vZi1jbGFzcy1hZWdpcy1kZXN0cm95ZXItZGRnLTE3OS1qcy1tYXlhLSVFMyU4MSVCRSVFMyU4MiU4NC_SAQA",
-      "title": "JMSDF Commissions First-of-Class AEGIS Destroyer DDG-179 JS Maya まや - Naval News",
-      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL25hdmFsLW5ld3MvMjAyMC8wMy9qbXNkZi1jb21taXNzaW9ucy1maXJzdC1vZi1jbGFzcy1hZWdpcy1kZXN0cm95ZXItZGRnLTE3OS1qcy1tYXlhLSVFMyU4MSVCRSVFMyU4MiU4NC_SAQA?oc=5",
-      "published": "2020-03-19T07:00:00.000Z",
-      "description": "JMSDF Commissions First-of-Class AEGIS Destroyer DDG-179 JS Maya まや&nbsp;&nbsp;Naval News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiL2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDE0LzA1LzA3L25leHQtYWN0LWFlZ2lz0gEA",
       "title": "The Next Act for Aegis - USNI News - USNI News",
       "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDE0LzA1LzA3L25leHQtYWN0LWFlZ2lz0gEA?oc=5",
@@ -627,21 +617,21 @@
       "category": ""
     },
     {
-      "id": "CBMia2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIxLzExL3NvdXRoLWtvcmVhcy1oaGktd2lucy1uZXcta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXItY29udHJhY3Qv0gEA",
-      "title": "South Korea's HHI Wins New KDX III Batch II Destroyer Contract - Naval News",
-      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIxLzExL3NvdXRoLWtvcmVhcy1oaGktd2lucy1uZXcta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXItY29udHJhY3Qv0gEA?oc=5",
-      "published": "2021-11-12T08:00:00.000Z",
-      "description": "South Korea's HHI Wins New KDX III Batch II Destroyer Contract&nbsp;&nbsp;Naval News",
+      "id": "CBMigQFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL25hdmFsLW5ld3MvMjAyMC8wMy9qbXNkZi1jb21taXNzaW9ucy1maXJzdC1vZi1jbGFzcy1hZWdpcy1kZXN0cm95ZXItZGRnLTE3OS1qcy1tYXlhLSVFMyU4MSVCRSVFMyU4MiU4NC_SAQA",
+      "title": "JMSDF Commissions First-of-Class AEGIS Destroyer DDG-179 JS Maya まや - Naval News",
+      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL25hdmFsLW5ld3MvMjAyMC8wMy9qbXNkZi1jb21taXNzaW9ucy1maXJzdC1vZi1jbGFzcy1hZWdpcy1kZXN0cm95ZXItZGRnLTE3OS1qcy1tYXlhLSVFMyU4MSVCRSVFMyU4MiU4NC_SAQA?oc=5",
+      "published": "2020-03-19T07:00:00.000Z",
+      "description": "JMSDF Commissions First-of-Class AEGIS Destroyer DDG-179 JS Maya まや&nbsp;&nbsp;Naval News",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA",
-      "title": "Japan's Building 2 Aegis Destroyers – The Diplomat - The Diplomat",
-      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA?oc=5",
-      "published": "2014-07-23T07:00:00.000Z",
-      "description": "Japan's Building 2 Aegis Destroyers – The Diplomat&nbsp;&nbsp;The Diplomat",
+      "id": "CBMia2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIxLzExL3NvdXRoLWtvcmVhcy1oaGktd2lucy1uZXcta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXItY29udHJhY3Qv0gEA",
+      "title": "South Korea's HHI Wins New KDX III Batch II Destroyer Contract - Naval News",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIxLzExL3NvdXRoLWtvcmVhcy1oaGktd2lucy1uZXcta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXItY29udHJhY3Qv0gEA?oc=5",
+      "published": "2021-11-12T08:00:00.000Z",
+      "description": "South Korea's HHI Wins New KDX III Batch II Destroyer Contract&nbsp;&nbsp;Naval News",
       "summary": "",
       "author": "",
       "category": ""
@@ -672,6 +662,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDIwLzExLzI4L25hdGlvbmFsL2Rlc3Ryb3llcnMtYWVnaXMtYXNob3JlL9IBAA?oc=5",
       "published": "2020-11-28T08:00:00.000Z",
       "description": "Cabinet set to approve destroyers as alternative to Aegis Ashore&nbsp;&nbsp;The Japan Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA",
+      "title": "Japan's Building 2 Aegis Destroyers – The Diplomat - The Diplomat",
+      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA?oc=5",
+      "published": "2014-07-23T07:00:00.000Z",
+      "description": "Japan's Building 2 Aegis Destroyers – The Diplomat&nbsp;&nbsp;The Diplomat",
       "summary": "",
       "author": "",
       "category": ""
@@ -847,11 +847,11 @@
       "category": ""
     },
     {
-      "id": "CBMigQFodHRwczovL3d3dy5qYXBhbnRpbWVzLmNvLmpwL25ld3MvMjAxOS8wNy8xOC9uYXRpb25hbC9qYXBhbmVzZS1tYXJpdGltZS1zZWxmLWRlZmVuc2UtZm9yY2UtbGF1bmNoZXMtbmV3LWFlZ2lzLWRlc3Ryb3llci15b2tvaGFtYS_SAQA",
-      "title": "Japanese Maritime Self-Defense Force launches new Aegis destroyer in Yokohama - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5qYXBhbnRpbWVzLmNvLmpwL25ld3MvMjAxOS8wNy8xOC9uYXRpb25hbC9qYXBhbmVzZS1tYXJpdGltZS1zZWxmLWRlZmVuc2UtZm9yY2UtbGF1bmNoZXMtbmV3LWFlZ2lzLWRlc3Ryb3llci15b2tvaGFtYS_SAQA?oc=5",
-      "published": "2019-07-18T07:00:00.000Z",
-      "description": "Japanese Maritime Self-Defense Force launches new Aegis destroyer in Yokohama&nbsp;&nbsp;The Japan Times",
+      "id": "CBMiPGh0dHBzOi8vd3d3Lmdsb2JhbHNlY3VyaXR5Lm9yZy9taWxpdGFyeS93b3JsZC9qYXBhbi9hc2V2Lmh0bdIBAA",
+      "title": "ASEV (Aegis system-equipped vessel) / Aegis Afloat - Global Security",
+      "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmdsb2JhbHNlY3VyaXR5Lm9yZy9taWxpdGFyeS93b3JsZC9qYXBhbi9hc2V2Lmh0bdIBAA?oc=5",
+      "published": "2023-03-28T07:00:00.000Z",
+      "description": "ASEV (Aegis system-equipped vessel) / Aegis Afloat&nbsp;&nbsp;Global Security",
       "summary": "",
       "author": "",
       "category": ""
@@ -862,16 +862,6 @@
       "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmJhaXJkbWFyaXRpbWUuY29tL3NlY3VyaXR5L25hdmFsL25hdmFsLXNoaXBzL2hoaS10by1idWlsZC10aHJlZS1uZXctYWVnaXMtZGVzdHJveWVycy1mb3Itc291dGgta29yZWFuLW5hdnkv0gEA?oc=5",
       "published": "2019-10-21T07:00:00.000Z",
       "description": "HHI to build three new Aegis destroyers for South Korean Navy&nbsp;&nbsp;Baird Maritime",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiPGh0dHBzOi8vd3d3Lmdsb2JhbHNlY3VyaXR5Lm9yZy9taWxpdGFyeS93b3JsZC9qYXBhbi9hc2V2Lmh0bdIBAA",
-      "title": "ASEV (Aegis system-equipped vessel) / Aegis Afloat - Global Security",
-      "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmdsb2JhbHNlY3VyaXR5Lm9yZy9taWxpdGFyeS93b3JsZC9qYXBhbi9hc2V2Lmh0bdIBAA?oc=5",
-      "published": "2023-03-28T07:00:00.000Z",
-      "description": "ASEV (Aegis system-equipped vessel) / Aegis Afloat&nbsp;&nbsp;Global Security",
       "summary": "",
       "author": "",
       "category": ""
@@ -897,21 +887,21 @@
       "category": ""
     },
     {
-      "id": "CBMiL2h0dHBzOi8vd3d3LmFqdXByZXNzLmNvbS92aWV3LzIwMjIwNzI4MTc1MTQwOTgx0gEA",
-      "title": "First 8,200-ton guided-missile Aegis destroyer launched at Hyundai shipyard - Aju Press",
-      "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmFqdXByZXNzLmNvbS92aWV3LzIwMjIwNzI4MTc1MTQwOTgx0gEA?oc=5",
-      "published": "2022-07-28T07:00:00.000Z",
-      "description": "First 8,200-ton guided-missile Aegis destroyer launched at Hyundai shipyard&nbsp;&nbsp;Aju Press",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMijQFodHRwczovL21ldGEtZGVmZW5zZS5mci9lbi8yMDIwLzEyLzEwL0phcGFuLXdpbGwtYnVpbGQtMi1hZGRpdGlvbmFsLUFlZ2lzLWRlc3Ryb3llcnMtZm9yLWl0cy1hbnRpLW1pc3NpbGUtZGVmZW5zZS8_d3BhcHBuaW5qYV92PTY2MGNiNDI2MDA5YTTSAQA",
       "title": "Japan to build 2 additional Aegis destroyers for missile defense - Meta-Defense",
       "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL21ldGEtZGVmZW5zZS5mci9lbi8yMDIwLzEyLzEwL0phcGFuLXdpbGwtYnVpbGQtMi1hZGRpdGlvbmFsLUFlZ2lzLWRlc3Ryb3llcnMtZm9yLWl0cy1hbnRpLW1pc3NpbGUtZGVmZW5zZS8_d3BhcHBuaW5qYV92PTY2MGNiNDI2MDA5YTTSAQA?oc=5",
       "published": "2020-12-10T08:00:00.000Z",
       "description": "Japan to build 2 additional Aegis destroyers for missile defense&nbsp;&nbsp;Meta-Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiL2h0dHBzOi8vd3d3LmFqdXByZXNzLmNvbS92aWV3LzIwMjIwNzI4MTc1MTQwOTgx0gEA",
+      "title": "First 8,200-ton guided-missile Aegis destroyer launched at Hyundai shipyard - Aju Press",
+      "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmFqdXByZXNzLmNvbS92aWV3LzIwMjIwNzI4MTc1MTQwOTgx0gEA?oc=5",
+      "published": "2022-07-28T07:00:00.000Z",
+      "description": "First 8,200-ton guided-missile Aegis destroyer launched at Hyundai shipyard&nbsp;&nbsp;Aju Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -957,21 +947,21 @@
       "category": ""
     },
     {
-      "id": "CBMiK2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hancvYXJ0aWNsZXMvMTMwNTU0MzLSAQA",
-      "title": "Woman takes charge of MSDF Aegis destroyer for 1st time | The Asahi Shimbun: Breaking News, Japan News and ... - 朝日新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hancvYXJ0aWNsZXMvMTMwNTU0MzLSAQA?oc=5",
-      "published": "2019-12-02T08:00:00.000Z",
-      "description": "Woman takes charge of MSDF Aegis destroyer for 1st time | The Asahi Shimbun: Breaking News, Japan News and ...&nbsp;&nbsp;朝日新聞デジタル",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiigFodHRwczovL2RlZmVuc2UtdXBkYXRlLmNvbS8yMDExMTAwNl9zdXBwb3J0aW5nLWV1cm9wZXMtbWlzc2lsZS1kZWZlbnNlLWluaXRpYXRpdmUtdS1zLW5hdnktdG8tcG9zaXRpb24tZm91ci1hZWdpcy1zaGlwcy1pbi1yb3RhLXNwYWluLmh0bWzSAQA",
       "title": "Supporting Europe's Missile defense Initiative, U.S. Navy to Position Four AEGIS ships in Rota, Spain - Defense Update",
       "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL2RlZmVuc2UtdXBkYXRlLmNvbS8yMDExMTAwNl9zdXBwb3J0aW5nLWV1cm9wZXMtbWlzc2lsZS1kZWZlbnNlLWluaXRpYXRpdmUtdS1zLW5hdnktdG8tcG9zaXRpb24tZm91ci1hZWdpcy1zaGlwcy1pbi1yb3RhLXNwYWluLmh0bWzSAQA?oc=5",
       "published": "2011-10-06T07:00:00.000Z",
       "description": "Supporting Europe's Missile defense Initiative, U.S. Navy to Position Four AEGIS ships in Rota, Spain&nbsp;&nbsp;Defense Update",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiK2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hancvYXJ0aWNsZXMvMTMwNTU0MzLSAQA",
+      "title": "Woman takes charge of MSDF Aegis destroyer for 1st time | The Asahi Shimbun: Breaking News, Japan News and ... - 朝日新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LmFzYWhpLmNvbS9hancvYXJ0aWNsZXMvMTMwNTU0MzLSAQA?oc=5",
+      "published": "2019-12-02T08:00:00.000Z",
+      "description": "Woman takes charge of MSDF Aegis destroyer for 1st time | The Asahi Shimbun: Breaking News, Japan News and ...&nbsp;&nbsp;朝日新聞デジタル",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2VpbmR1c3RyeWRhaWx5LmNvbS91cC10by0zODdtLWZvci1qYXBhbmVzZS1uYXZhbC1hYm0tY29tcG9uZW50cy0wODA3L9IBAA?oc=5",
       "published": "2008-08-17T10:56:49.000Z",
       "description": "Japan's Fleet BMD: Upgrades & UORs&nbsp;&nbsp;Defense Industry Daily",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibmh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2hvYmFydC1jbGFzcy1haXItd2FyZmFyZS1kZXN0cm95ZXJzLXRvLWJlLXVwZ3JhZGVkLXRvLWFlZ2lzLWJhc2VsaW5lLTkv0gEA",
+      "title": "Air Warfare Destroyers to be upgraded to 'Aegis' Baseline 9 - Asia Pacific Defence Reporter",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2hvYmFydC1jbGFzcy1haXItd2FyZmFyZS1kZXN0cm95ZXJzLXRvLWJlLXVwZ3JhZGVkLXRvLWFlZ2lzLWJhc2VsaW5lLTkv0gEA?oc=5",
+      "published": "2018-10-08T07:00:00.000Z",
+      "description": "Air Warfare Destroyers to be upgraded to 'Aegis' Baseline 9&nbsp;&nbsp;Asia Pacific Defence Reporter",
       "summary": "",
       "author": "",
       "category": ""
