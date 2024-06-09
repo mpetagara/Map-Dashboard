@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-09T02:26:26.000Z",
+  "published": "2024-06-09T03:28:19.000Z",
   "entries": [
     {
       "id": "CBMibGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYi01Mi1ib21iZXItY3Jldy1yZWNlaXZlcy1hd2FyZC1hZnRlci1iYXR0bGluZy1jYXRhc3Ryb3BoaWMtZW1lcmdlbmN5LTIwMjQtNtIBcGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vYi01Mi1ib21iZXItY3Jldy1yZWNlaXZlcy1hd2FyZC1hZnRlci1iYXR0bGluZy1jYXRhc3Ryb3BoaWMtZW1lcmdlbmN5LTIwMjQtNj9hbXA",
@@ -32,16 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDcvYi01Mi1jcmV3LWhlcm9pYy1yZWNvdmVyeS_SAQA?oc=5",
       "published": "2024-06-07T09:59:47.000Z",
       "description": "B-52 Crew Receive Award For Heroic Recovery at 1200 Feet After Uncontrolled Left Roll and Dive&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZWh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvYi01Mi1jcmV3LXJlY2VpdmVzLWN1cnRpcy1sZW1heS1hd2FyZC1mb3ItbWlkLWFpci1lbWVyZ2VuY3ktcmVjb3Zlcnkv0gEA",
-      "title": "B-52 crew honored for mid-air emergency recovery - Task & Purpose",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvYi01Mi1jcmV3LXJlY2VpdmVzLWN1cnRpcy1sZW1heS1hd2FyZC1mb3ItbWlkLWFpci1lbWVyZ2VuY3ktcmVjb3Zlcnkv0gEA?oc=5",
-      "published": "2024-06-08T20:32:54.000Z",
-      "description": "B-52 crew honored for mid-air emergency recovery&nbsp;&nbsp;Task & Purpose",
       "summary": "",
       "author": "",
       "category": ""
@@ -77,6 +67,16 @@
       "category": ""
     },
     {
+      "id": "CBMiXWh0dHBzOi8vd3d3Lmdsb3VjZXN0ZXJzaGlyZWxpdmUuY28udWsvbmV3cy9jaGVsdGVuaGFtLW5ld3MvaHVnZS11c2FmLWI1Mi1ib21iZXJzLWZsZXctOTMyNzU4NNIBYWh0dHBzOi8vd3d3Lmdsb3VjZXN0ZXJzaGlyZWxpdmUuY28udWsvbmV3cy9jaGVsdGVuaGFtLW5ld3MvaHVnZS11c2FmLWI1Mi1ib21iZXJzLWZsZXctOTMyNzU4NC5hbXA",
+      "title": "Where huge USAF B52 bombers flew on latest mission from RAF Fairford - Gloucestershire Live",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lmdsb3VjZXN0ZXJzaGlyZWxpdmUuY28udWsvbmV3cy9jaGVsdGVuaGFtLW5ld3MvaHVnZS11c2FmLWI1Mi1ib21iZXJzLWZsZXctOTMyNzU4NNIBYWh0dHBzOi8vd3d3Lmdsb3VjZXN0ZXJzaGlyZWxpdmUuY28udWsvbmV3cy9jaGVsdGVuaGFtLW5ld3MvaHVnZS11c2FmLWI1Mi1ib21iZXJzLWZsZXctOTMyNzU4NC5hbXA?oc=5",
+      "published": "2024-06-07T05:00:00.000Z",
+      "description": "Where huge USAF B52 bombers flew on latest mission from RAF Fairford&nbsp;&nbsp;Gloucestershire Live",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiU2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91c2FmLWItNTItYm9tYmVycy1iYWx0aWNzLW5lYXItcnVzc2lhbi10ZXJyaXRvcnkv0gEA",
       "title": "USAF B-52 Bombers Fly Over Baltics Near Russian Territory - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91c2FmLWItNTItYm9tYmVycy1iYWx0aWNzLW5lYXItcnVzc2lhbi10ZXJyaXRvcnkv0gEA?oc=5",
@@ -87,11 +87,11 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzgwMDAwOS9ib21iZXItdGFzay1mb3JjZS0yNC0zLXVuZGVyd2F5LWluLWV1cm9wZS_SAQA",
-      "title": "Bomber Task Force 24-3 underway in Europe - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzgwMDAwOS9ib21iZXItdGFzay1mb3JjZS0yNC0zLXVuZGVyd2F5LWluLWV1cm9wZS_SAQA?oc=5",
-      "published": "2024-06-03T08:03:45.000Z",
-      "description": "Bomber Task Force 24-3 underway in Europe&nbsp;&nbsp;U.S. Strategic Command",
+      "id": "CBMiaGh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3OTQ3MDgvYm9tYmVyLXRhc2stZm9yY2UtMjQtMy11bmRlcndheS1pbi1ldXJvcGUv0gEA",
+      "title": "Bomber Task Force 24-3 underway in Europe - Minot Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3OTQ3MDgvYm9tYmVyLXRhc2stZm9yY2UtMjQtMy11bmRlcndheS1pbi1ldXJvcGUv0gEA?oc=5",
+      "published": "2024-06-03T18:04:25.000Z",
+      "description": "Bomber Task Force 24-3 underway in Europe&nbsp;&nbsp;Minot Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -157,6 +157,16 @@
       "category": ""
     },
     {
+      "id": "CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9iLTUyLXN0cmF0b2ZvcnRyZXNzLWZseWluZy1oaWdoLWludG8tdGhlLWZ1dHVyZS13aXRoLXVwZ3JhZGVkLW1pZ2h0L3NzLUJCMW56eUJT0gEA",
+      "title": "B-52 Stratofortress: Flying High into the Future with Upgraded Might - MSN",
+      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9iLTUyLXN0cmF0b2ZvcnRyZXNzLWZseWluZy1oaWdoLWludG8tdGhlLWZ1dHVyZS13aXRoLXVwZ3JhZGVkLW1pZ2h0L3NzLUJCMW56eUJT0gEA?oc=5",
+      "published": "2024-06-04T08:15:01.000Z",
+      "description": "B-52 Stratofortress: Flying High into the Future with Upgraded Might&nbsp;&nbsp;MSN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiamh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDQvcmFmLWZhaXJmb3JkLWRyYXdzLXNwZWN0YXRvcnMtd2l0aC1icmVhdGh0YWtpbmctYi01Mi1ib21iZXItZGlzcGxheS_SAQA",
       "title": "RAF Fairford Draws Spectators With Breathtaking B-52 Bomber Display - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDQvcmFmLWZhaXJmb3JkLWRyYXdzLXNwZWN0YXRvcnMtd2l0aC1icmVhdGh0YWtpbmctYi01Mi1ib21iZXItZGlzcGxheS_SAQA?oc=5",
@@ -207,31 +217,21 @@
       "category": ""
     },
     {
-      "id": "CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA",
-      "title": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA?oc=5",
-      "published": "2024-06-02T07:00:00.000Z",
-      "description": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9iLTUyLXN0cmF0b2ZvcnRyZXNzLWZseWluZy1oaWdoLWludG8tdGhlLWZ1dHVyZS13aXRoLXVwZ3JhZGVkLW1pZ2h0L3NzLUJCMW56eUJT0gEA",
-      "title": "B-52 Stratofortress: Flying High into the Future with Upgraded Might - MSN",
-      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy91cy9iLTUyLXN0cmF0b2ZvcnRyZXNzLWZseWluZy1oaWdoLWludG8tdGhlLWZ1dHVyZS13aXRoLXVwZ3JhZGVkLW1pZ2h0L3NzLUJCMW56eUJT0gEA?oc=5",
-      "published": "2024-06-04T08:15:01.000Z",
-      "description": "B-52 Stratofortress: Flying High into the Future with Upgraded Might&nbsp;&nbsp;MSN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3ODEvdGVhbS1taW5vdHMtYWlyY3JhZnQtbWFpbnRhaW5lcnMta2VlcC1iLTUycy1mbHlpbmctaGlnaC_SAQA",
       "title": "Team Minot's aircraft maintainers keep B-52s flying high - Minot Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3ODEvdGVhbS1taW5vdHMtYWlyY3JhZnQtbWFpbnRhaW5lcnMta2VlcC1iLTUycy1mbHlpbmctaGlnaC_SAQA?oc=5",
       "published": "2024-03-01T08:00:00.000Z",
       "description": "Team Minot's aircraft maintainers keep B-52s flying high&nbsp;&nbsp;Minot Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA",
+      "title": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA?oc=5",
+      "published": "2024-06-02T07:00:00.000Z",
+      "description": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -367,21 +367,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZGh0dHBzOi8vd3d3LmpvaW50LWZvcmNlcy5jb20vZGVmZW5jZS1lcXVpcG1lbnQtbmV3cy83MzY3Mi1sM2hhcnJpcy1iLTUyLW1vZGVybmlzYXRpb24tY29udHJhY3QtYXdhcmTSAQA",
-      "title": "L3Harris B-52 Modernisation Contract Award - Joint Forces",
-      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmpvaW50LWZvcmNlcy5jb20vZGVmZW5jZS1lcXVpcG1lbnQtbmV3cy83MzY3Mi1sM2hhcnJpcy1iLTUyLW1vZGVybmlzYXRpb24tY29udHJhY3QtYXdhcmTSAQA?oc=5",
-      "published": "2024-06-07T10:43:27.000Z",
-      "description": "L3Harris B-52 Modernisation Contract Award&nbsp;&nbsp;Joint Forces",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyNC8wMi8yMC90aW5rZXItYWlyLWZvcmNlLWJhc2UtcmVhZGllcy1mb3ItYi01Mi11cGdyYWRlcy1hcy1lbmdpbmVzLXRlc3RlZC_SAQA",
       "title": "Tinker Air Force base readies for B-52 upgrades as engines tested - Defense News",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyNC8wMi8yMC90aW5rZXItYWlyLWZvcmNlLWJhc2UtcmVhZGllcy1mb3ItYi01Mi11cGdyYWRlcy1hcy1lbmdpbmVzLXRlc3RlZC_SAQA?oc=5",
       "published": "2024-02-20T08:00:00.000Z",
       "description": "Tinker Air Force base readies for B-52 upgrades as engines tested&nbsp;&nbsp;Defense News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZGh0dHBzOi8vd3d3LmpvaW50LWZvcmNlcy5jb20vZGVmZW5jZS1lcXVpcG1lbnQtbmV3cy83MzY3Mi1sM2hhcnJpcy1iLTUyLW1vZGVybmlzYXRpb24tY29udHJhY3QtYXdhcmTSAQA",
+      "title": "L3Harris B-52 Modernisation Contract Award - Joint Forces",
+      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmpvaW50LWZvcmNlcy5jb20vZGVmZW5jZS1lcXVpcG1lbnQtbmV3cy83MzY3Mi1sM2hhcnJpcy1iLTUyLW1vZGVybmlzYXRpb24tY29udHJhY3QtYXdhcmTSAQA?oc=5",
+      "published": "2024-06-07T10:43:27.000Z",
+      "description": "L3Harris B-52 Modernisation Contract Award&nbsp;&nbsp;Joint Forces",
       "summary": "",
       "author": "",
       "category": ""
@@ -457,16 +457,6 @@
       "category": ""
     },
     {
-      "id": "CBMiT2h0dHA6Ly93d3cuc3RyYXRlZ3lwYWdlLmNvbS9taWxpdGFyeV9waG90b3MvbWlsaXRhcnlfcGhvdG9zXzIwMjQwNjA4MjEzMDE4LmFzcHjSAQA",
-      "title": "Military Photos BUFF Rising Up - Strategy Page",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHA6Ly93d3cuc3RyYXRlZ3lwYWdlLmNvbS9taWxpdGFyeV9waG90b3MvbWlsaXRhcnlfcGhvdG9zXzIwMjQwNjA4MjEzMDE4LmFzcHjSAQA?oc=5",
-      "published": "2024-06-09T01:31:20.000Z",
-      "description": "Military Photos BUFF Rising Up&nbsp;&nbsp;Strategy Page",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtYm9tYmVyLWFuY2llbnQtbG9va3MtdW5zdG9wcGFibGUtMjEwNTI00gEA",
       "title": "B-52 Stratofortress Bomber Is Ancient But Looks Unstoppable - The National Interest Online",
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtYm9tYmVyLWFuY2llbnQtbG9va3MtdW5zdG9wcGFibGUtMjEwNTI00gEA?oc=5",
@@ -482,6 +472,16 @@
       "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm5hc2EuZ292L2ltYWdlLWFydGljbGUvYi01Mi1zdHJhdG9mb3J0cmVzcy0xMi_SAQA?oc=5",
       "published": "2023-09-29T08:32:01.000Z",
       "description": "B-52 Stratofortress&nbsp;&nbsp;NASA",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiT2h0dHA6Ly93d3cuc3RyYXRlZ3lwYWdlLmNvbS9taWxpdGFyeV9waG90b3MvbWlsaXRhcnlfcGhvdG9zXzIwMjQwNjA4MjEzMDE4LmFzcHjSAQA",
+      "title": "Military Photos BUFF Rising Up - Strategy Page",
+      "link": "https://news.google.com/rss/articles/CBMiT2h0dHA6Ly93d3cuc3RyYXRlZ3lwYWdlLmNvbS9taWxpdGFyeV9waG90b3MvbWlsaXRhcnlfcGhvdG9zXzIwMjQwNjA4MjEzMDE4LmFzcHjSAQA?oc=5",
+      "published": "2024-06-09T01:31:20.000Z",
+      "description": "Military Photos BUFF Rising Up&nbsp;&nbsp;Strategy Page",
       "summary": "",
       "author": "",
       "category": ""
@@ -647,21 +647,21 @@
       "category": ""
     },
     {
-      "id": "CBMimQFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMDMvZmlnaHRlci1qZXRzLWVmLTE4LWhvcm5ldHMtZnJvbS10aGUtc3BhbmlzaC1haXItZm9yY2UtZXNjb3J0ZWQtYi01MmgtYm9tYmVycy1mcm9tLXRoZS11bml0ZWQtc3RhdGVzLWFpci1mb3JjZS_SAQA",
-      "title": "Fighter jets EF-18 Hornets from the Spanish Air Force escorted B-52H bombers from the United States Air Force - Zona Militar",
-      "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMDMvZmlnaHRlci1qZXRzLWVmLTE4LWhvcm5ldHMtZnJvbS10aGUtc3BhbmlzaC1haXItZm9yY2UtZXNjb3J0ZWQtYi01MmgtYm9tYmVycy1mcm9tLXRoZS11bml0ZWQtc3RhdGVzLWFpci1mb3JjZS_SAQA?oc=5",
-      "published": "2024-06-03T16:02:40.000Z",
-      "description": "Fighter jets EF-18 Hornets from the Spanish Air Force escorted B-52H bombers from the United States Air Force&nbsp;&nbsp;Zona Militar",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS90cmFpbmluZy1zaW0vMjAyNC8wMi8xMi93ZWFwb25zLWhvdC1sZXNzb25zLWFuZC1taXN0YWtlcy1vbi1hLWItNTItYm9tYmVyLXRyYWluaW5nLWZsaWdodC_SAQA",
       "title": "'Weapons hot': Lessons and mistakes on a B-52 bomber training flight - Defense News",
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS90cmFpbmluZy1zaW0vMjAyNC8wMi8xMi93ZWFwb25zLWhvdC1sZXNzb25zLWFuZC1taXN0YWtlcy1vbi1hLWItNTItYm9tYmVyLXRyYWluaW5nLWZsaWdodC_SAQA?oc=5",
       "published": "2024-02-12T08:00:00.000Z",
       "description": "'Weapons hot': Lessons and mistakes on a B-52 bomber training flight&nbsp;&nbsp;Defense News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMimQFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMDMvZmlnaHRlci1qZXRzLWVmLTE4LWhvcm5ldHMtZnJvbS10aGUtc3BhbmlzaC1haXItZm9yY2UtZXNjb3J0ZWQtYi01MmgtYm9tYmVycy1mcm9tLXRoZS11bml0ZWQtc3RhdGVzLWFpci1mb3JjZS_SAQA",
+      "title": "Fighter jets EF-18 Hornets from the Spanish Air Force escorted B-52H bombers from the United States Air Force - Zona Militar",
+      "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMDMvZmlnaHRlci1qZXRzLWVmLTE4LWhvcm5ldHMtZnJvbS10aGUtc3BhbmlzaC1haXItZm9yY2UtZXNjb3J0ZWQtYi01MmgtYm9tYmVycy1mcm9tLXRoZS11bml0ZWQtc3RhdGVzLWFpci1mb3JjZS_SAQA?oc=5",
+      "published": "2024-06-03T16:02:40.000Z",
+      "description": "Fighter jets EF-18 Hornets from the Spanish Air Force escorted B-52H bombers from the United States Air Force&nbsp;&nbsp;Zona Militar",
       "summary": "",
       "author": "",
       "category": ""
