@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-09T22:29:11.000Z",
+  "published": "2024-06-09T23:22:51.000Z",
   "entries": [
     {
       "id": "CBMiaWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEyLzI3L2Fpci1mb3JjZS1wdWJsaXNoZXMtbmV3LWRvY3RyaW5lLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zL9IBAA",
@@ -297,16 +297,6 @@
       "category": ""
     },
     {
-      "id": "CBMiSWh0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL2dlbmVyYWwtb2ZmaWNlci1hbm5vdW5jZW1lbnRzLTEtbWFyY2gtMTE4NDc3MC_SAQA",
-      "title": "General Officer Announcements 1 March - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL2dlbmVyYWwtb2ZmaWNlci1hbm5vdW5jZW1lbnRzLTEtbWFyY2gtMTE4NDc3MC_SAQA?oc=5",
-      "published": "2024-03-01T08:00:00.000Z",
-      "description": "General Officer Announcements 1 March&nbsp;&nbsp;Mirage News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMijAFodHRwczovL3d3dy5yZXB1YmxpY3dvcmxkLmNvbS9kZWZlbmNlL2RlZmVuY2UtdGVjaG5vbG9neS9lbWJtLWotZW1lcmdlcy1hcy1kaXNhLXMtYW5zd2VyLXRvLXNlYW1sZXNzLWVsZWN0cm9uaWMtd2FyZmFyZS1jb21tYW5kLWFuZC1jb250cm9sL9IBjAFodHRwczovL3d3dy5yZXB1YmxpY3dvcmxkLmNvbS9kZWZlbmNlL2RlZmVuY2UtdGVjaG5vbG9neS9lbWJtLWotZW1lcmdlcy1hcy1kaXNhLXMtYW5zd2VyLXRvLXNlYW1sZXNzLWVsZWN0cm9uaWMtd2FyZmFyZS1jb21tYW5kLWFuZC1jb250cm9sLw",
       "title": "EMBM-J emerges as DISA's answer to seamless electronic warfare command and control - Republic World",
       "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5yZXB1YmxpY3dvcmxkLmNvbS9kZWZlbmNlL2RlZmVuY2UtdGVjaG5vbG9neS9lbWJtLWotZW1lcmdlcy1hcy1kaXNhLXMtYW5zd2VyLXRvLXNlYW1sZXNzLWVsZWN0cm9uaWMtd2FyZmFyZS1jb21tYW5kLWFuZC1jb250cm9sL9IBjAFodHRwczovL3d3dy5yZXB1YmxpY3dvcmxkLmNvbS9kZWZlbmNlL2RlZmVuY2UtdGVjaG5vbG9neS9lbWJtLWotZW1lcmdlcy1hcy1kaXNhLXMtYW5zd2VyLXRvLXNlYW1sZXNzLWVsZWN0cm9uaWMtd2FyZmFyZS1jb21tYW5kLWFuZC1jb250cm9sLw?oc=5",
@@ -357,21 +347,21 @@
       "category": ""
     },
     {
-      "id": "CBMikAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlLzIwMjAvMTAvMTIvdGhlLXBlbnRhZ29uLWlzLWRldmVsb3BpbmctbW9kZXJuLWFyY2hpdGVjdHVyZXMtdG8tZG9taW5hdGUtdGhlLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAQA",
-      "title": "The Pentagon is developing modern architectures to dominate the electromagnetic spectrum - C4ISRNET",
-      "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlLzIwMjAvMTAvMTIvdGhlLXBlbnRhZ29uLWlzLWRldmVsb3BpbmctbW9kZXJuLWFyY2hpdGVjdHVyZXMtdG8tZG9taW5hdGUtdGhlLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAQA?oc=5",
-      "published": "2020-10-12T07:00:00.000Z",
-      "description": "The Pentagon is developing modern architectures to dominate the electromagnetic spectrum&nbsp;&nbsp;C4ISRNET",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiT2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDE5LzEyL3dob2xsLWZpeC1ldy10YXNrLWZvcmNlLWdyb3Blcy1mb3ItYW5zd2Vycy_SAVVodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAxOS8xMi93aG9sbC1maXgtZXctdGFzay1mb3JjZS1ncm9wZXMtZm9yLWFuc3dlcnMvP2FtcD0x",
       "title": "Who’ll Fix EW? Task Force Gropes For Answers - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDE5LzEyL3dob2xsLWZpeC1ldy10YXNrLWZvcmNlLWdyb3Blcy1mb3ItYW5zd2Vycy_SAVVodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAxOS8xMi93aG9sbC1maXgtZXctdGFzay1mb3JjZS1ncm9wZXMtZm9yLWFuc3dlcnMvP2FtcD0x?oc=5",
       "published": "2019-12-18T08:00:00.000Z",
       "description": "Who’ll Fix EW? Task Force Gropes For Answers&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMikAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlLzIwMjAvMTAvMTIvdGhlLXBlbnRhZ29uLWlzLWRldmVsb3BpbmctbW9kZXJuLWFyY2hpdGVjdHVyZXMtdG8tZG9taW5hdGUtdGhlLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAQA",
+      "title": "The Pentagon is developing modern architectures to dominate the electromagnetic spectrum - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlLzIwMjAvMTAvMTIvdGhlLXBlbnRhZ29uLWlzLWRldmVsb3BpbmctbW9kZXJuLWFyY2hpdGVjdHVyZXMtdG8tZG9taW5hdGUtdGhlLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAQA?oc=5",
+      "published": "2020-10-12T07:00:00.000Z",
+      "description": "The Pentagon is developing modern architectures to dominate the electromagnetic spectrum&nbsp;&nbsp;C4ISRNET",
       "summary": "",
       "author": "",
       "category": ""
@@ -532,16 +522,6 @@
       "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYWRici5jb20uYXUvamVyaWNoby1tZWV0cy1qZW1zby_SAQA?oc=5",
       "published": "2018-07-17T07:00:00.000Z",
       "description": "JERICHO MEETS JEMSO&nbsp;&nbsp;ADBR",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiK2h0dHBzOi8vYWRici5jb20uYXUvZmVhdHVyZS1mb3JjZS1sZXZlbC1ldy_SAQA",
-      "title": "Feature: FORCE LEVEL EW | ADBR - ADBR",
-      "link": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vYWRici5jb20uYXUvZmVhdHVyZS1mb3JjZS1sZXZlbC1ldy_SAQA?oc=5",
-      "published": "2020-03-24T07:00:00.000Z",
-      "description": "Feature: FORCE LEVEL EW | ADBR&nbsp;&nbsp;ADBR",
       "summary": "",
       "author": "",
       "category": ""
