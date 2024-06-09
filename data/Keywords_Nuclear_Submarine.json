@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-09T14:26:25.000Z",
+  "published": "2024-06-09T15:26:08.000Z",
   "entries": [
     {
       "id": "CBMiV2h0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL25hdGlvbi13b3JsZC93b3JsZC9hbWVyaWNhcy9jdWJhL2FydGljbGUyODkwNjIyOTkuaHRtbNIBV2h0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL25hdGlvbi13b3JsZC93b3JsZC9hbWVyaWNhcy9jdWJhL2FydGljbGUyODkwNjIyOTkuaHRtbA",
@@ -217,16 +217,6 @@
       "category": ""
     },
     {
-      "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2J1c2luZXNzLzIwMjQvMDEvcmFjZS1wcmVwYXJlLWF1c3RyYWxpYS1udWNsZWFyLXN1YnMvMzkzNjAxL9IBAA",
-      "title": "The race is on to prepare Australia for nuclear subs - Defense One",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2J1c2luZXNzLzIwMjQvMDEvcmFjZS1wcmVwYXJlLWF1c3RyYWxpYS1udWNsZWFyLXN1YnMvMzkzNjAxL9IBAA?oc=5",
-      "published": "2024-01-24T08:00:00.000Z",
-      "description": "The race is on to prepare Australia for nuclear subs&nbsp;&nbsp;Defense One",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9hc2lhLXBhY2lmaWMvYXVzdHJhbGlhLWNvbmZpZGVudC1hYm91dC1yZWNlaXZpbmctbnVjbGVhci1zdWJtYXJpbmVzLWV2ZW4tdGhvdWdoLXVzLWZ1bmRpbmctMjAyNC0wMy0xMy_SAQA",
       "title": "Australia confident about receiving nuclear submarines even though US funding request cut - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9hc2lhLXBhY2lmaWMvYXVzdHJhbGlhLWNvbmZpZGVudC1hYm91dC1yZWNlaXZpbmctbnVjbGVhci1zdWJtYXJpbmVzLWV2ZW4tdGhvdWdoLXVzLWZ1bmRpbmctMjAyNC0wMy0xMy_SAQA?oc=5",
@@ -257,6 +247,16 @@
       "category": ""
     },
     {
+      "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2J1c2luZXNzLzIwMjQvMDEvcmFjZS1wcmVwYXJlLWF1c3RyYWxpYS1udWNsZWFyLXN1YnMvMzkzNjAxL9IBAA",
+      "title": "The race is on to prepare Australia for nuclear subs - Defense One",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2J1c2luZXNzLzIwMjQvMDEvcmFjZS1wcmVwYXJlLWF1c3RyYWxpYS1udWNsZWFyLXN1YnMvMzkzNjAxL9IBAA?oc=5",
+      "published": "2024-01-24T08:00:00.000Z",
+      "description": "The race is on to prepare Australia for nuclear subs&nbsp;&nbsp;Defense One",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2F1c3RyYWxpYS11bml0ZWQta2luZ2RvbS1hdWt1cy1zdWJtYXJpbmVzLWI4NzYzYjZmZDEzNDZhMGEwOGU4MzZmZWZkODU4OTY40gEA",
       "title": "$3 billion deal with the UK gets Australia closer to having a fleet of nuclear-powered submarines - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2F1c3RyYWxpYS11bml0ZWQta2luZ2RvbS1hdWt1cy1zdWJtYXJpbmVzLWI4NzYzYjZmZDEzNDZhMGEwOGU4MzZmZWZkODU4OTY40gEA?oc=5",
@@ -267,21 +267,21 @@
       "category": ""
     },
     {
-      "id": "CBMiT2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2NoaW5lc2UtY2l0aXplbi11c2VzLWRyb25lLXRvLXBob3RvZ3JhcGgtdXMtbmF2eS_SAU9odHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9jaGluZXNlLWNpdGl6ZW4tdXNlcy1kcm9uZS10by1waG90b2dyYXBoLXVzLW5hdnkv",
-      "title": "Home To US Nuclear Submarines, Chinese Citizen Flies UAV Over Virginia Shipyard; Comes After Norflock Incident - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2NoaW5lc2UtY2l0aXplbi11c2VzLWRyb25lLXRvLXBob3RvZ3JhcGgtdXMtbmF2eS_SAU9odHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9jaGluZXNlLWNpdGl6ZW4tdXNlcy1kcm9uZS10by1waG90b2dyYXBoLXVzLW5hdnkv?oc=5",
-      "published": "2024-06-03T10:13:20.000Z",
-      "description": "Home To US Nuclear Submarines, Chinese Citizen Flies UAV Over Virginia Shipyard; Comes After Norflock Incident&nbsp;&nbsp;EurAsian Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWZyZWFrZWQtbmF2eS1zdXJmYWNlZC0zLW1pc3NpbGUtc3VibWFyaW5lcy1zaW11bHRhbmVvdXNseS13YXJuaW5nLTIwODkyNNIBAA",
       "title": "China Freaked: The Navy Surfaced 3 Missile Submarines Simultaneously as A Warning - The National Interest Online",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWZyZWFrZWQtbmF2eS1zdXJmYWNlZC0zLW1pc3NpbGUtc3VibWFyaW5lcy1zaW11bHRhbmVvdXNseS13YXJuaW5nLTIwODkyNNIBAA?oc=5",
       "published": "2024-06-05T19:52:55.000Z",
       "description": "China Freaked: The Navy Surfaced 3 Missile Submarines Simultaneously as A Warning&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiT2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2NoaW5lc2UtY2l0aXplbi11c2VzLWRyb25lLXRvLXBob3RvZ3JhcGgtdXMtbmF2eS_SAU9odHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9jaGluZXNlLWNpdGl6ZW4tdXNlcy1kcm9uZS10by1waG90b2dyYXBoLXVzLW5hdnkv",
+      "title": "Home To US Nuclear Submarines, Chinese Citizen Flies UAV Over Virginia Shipyard; Comes After Norflock Incident - EurAsian Times",
+      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2NoaW5lc2UtY2l0aXplbi11c2VzLWRyb25lLXRvLXBob3RvZ3JhcGgtdXMtbmF2eS_SAU9odHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9jaGluZXNlLWNpdGl6ZW4tdXNlcy1kcm9uZS10by1waG90b2dyYXBoLXVzLW5hdnkv?oc=5",
+      "published": "2024-06-03T10:13:20.000Z",
+      "description": "Home To US Nuclear Submarines, Chinese Citizen Flies UAV Over Virginia Shipyard; Comes After Norflock Incident&nbsp;&nbsp;EurAsian Times",
       "summary": "",
       "author": "",
       "category": ""
@@ -417,21 +417,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVmh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzA1L2F1c3RyYWxpYS1jb2xsaW5zLXN1Ym1hcmluZXMtbGlmZS1leHRlbnNpb24v0gEA",
-      "title": "Australia Greenlights Life Extension Program for Collins Submarines - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzA1L2F1c3RyYWxpYS1jb2xsaW5zLXN1Ym1hcmluZXMtbGlmZS1leHRlbnNpb24v0gEA?oc=5",
-      "published": "2024-06-05T12:29:20.000Z",
-      "description": "Australia Greenlights Life Extension Program for Collins Submarines&nbsp;&nbsp;The Defense Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiY2h0dHBzOi8vY3RuZXdzanVua2llLmNvbS8yMDI0LzAzLzE5L3VzLW5hdnktY2hyaXN0ZW5zLWxhdGVzdC1udWNsZWFyLXN1Ym1hcmluZS11c3MtaWRhaG8taW4tZ3JvdG9uL9IBAA",
       "title": "US Navy Christens Latest Nuclear Submarine USS Idaho In Groton - CT News Junkie",
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vY3RuZXdzanVua2llLmNvbS8yMDI0LzAzLzE5L3VzLW5hdnktY2hyaXN0ZW5zLWxhdGVzdC1udWNsZWFyLXN1Ym1hcmluZS11c3MtaWRhaG8taW4tZ3JvdG9uL9IBAA?oc=5",
       "published": "2024-03-19T07:00:00.000Z",
       "description": "US Navy Christens Latest Nuclear Submarine USS Idaho In Groton&nbsp;&nbsp;CT News Junkie",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVmh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzA1L2F1c3RyYWxpYS1jb2xsaW5zLXN1Ym1hcmluZXMtbGlmZS1leHRlbnNpb24v0gEA",
+      "title": "Australia Greenlights Life Extension Program for Collins Submarines - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzA1L2F1c3RyYWxpYS1jb2xsaW5zLXN1Ym1hcmluZXMtbGlmZS1leHRlbnNpb24v0gEA?oc=5",
+      "published": "2024-06-05T12:29:20.000Z",
+      "description": "Australia Greenlights Life Extension Program for Collins Submarines&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -577,21 +577,21 @@
       "category": ""
     },
     {
-      "id": "CBMiiwFodHRwczovL3d3dy5zaGVwaGFyZG1lZGlhLmNvbS9uZXdzL25hdmFsLXdhcmZhcmUvdG9tYWhhd2stbWlzc2lsZXMtYW5kLW9wdHJvbmljcy1heGVkLWZyb20tcm95YWwtYXVzdHJhbGlhbi1uYXZ5LWNvbGxpbnMtc3VibWFyaW5lLXVwZ3JhZGUv0gEA",
-      "title": "Tomahawk missiles and optronics axed from Royal Australian Navy Collins submarine upgrade | Shephard - Shephard News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zaGVwaGFyZG1lZGlhLmNvbS9uZXdzL25hdmFsLXdhcmZhcmUvdG9tYWhhd2stbWlzc2lsZXMtYW5kLW9wdHJvbmljcy1heGVkLWZyb20tcm95YWwtYXVzdHJhbGlhbi1uYXZ5LWNvbGxpbnMtc3VibWFyaW5lLXVwZ3JhZGUv0gEA?oc=5",
-      "published": "2024-06-05T10:08:19.000Z",
-      "description": "Tomahawk missiles and optronics axed from Royal Australian Navy Collins submarine upgrade | Shephard&nbsp;&nbsp;Shephard News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1sYXVuY2hlcy1uZXctdGFjdGljYWwtbnVjbGVhci1hdHRhY2stc3VibWFyaW5lLWtjbmEtMjAyMy0wOS0wNy_SAQA",
       "title": "North Korea unveils first tactical, nuclear-armed submarine - Reuters",
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1sYXVuY2hlcy1uZXctdGFjdGljYWwtbnVjbGVhci1hdHRhY2stc3VibWFyaW5lLWtjbmEtMjAyMy0wOS0wNy_SAQA?oc=5",
       "published": "2023-09-08T07:00:00.000Z",
       "description": "North Korea unveils first tactical, nuclear-armed submarine&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiiwFodHRwczovL3d3dy5zaGVwaGFyZG1lZGlhLmNvbS9uZXdzL25hdmFsLXdhcmZhcmUvdG9tYWhhd2stbWlzc2lsZXMtYW5kLW9wdHJvbmljcy1heGVkLWZyb20tcm95YWwtYXVzdHJhbGlhbi1uYXZ5LWNvbGxpbnMtc3VibWFyaW5lLXVwZ3JhZGUv0gEA",
+      "title": "Tomahawk missiles and optronics axed from Royal Australian Navy Collins submarine upgrade | Shephard - Shephard News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zaGVwaGFyZG1lZGlhLmNvbS9uZXdzL25hdmFsLXdhcmZhcmUvdG9tYWhhd2stbWlzc2lsZXMtYW5kLW9wdHJvbmljcy1heGVkLWZyb20tcm95YWwtYXVzdHJhbGlhbi1uYXZ5LWNvbGxpbnMtc3VibWFyaW5lLXVwZ3JhZGUv0gEA?oc=5",
+      "published": "2024-06-05T10:08:19.000Z",
+      "description": "Tomahawk missiles and optronics axed from Royal Australian Navy Collins submarine upgrade | Shephard&nbsp;&nbsp;Shephard News",
       "summary": "",
       "author": "",
       "category": ""
@@ -708,20 +708,10 @@
     },
     {
       "id": "CBMiggFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbnVjbGVhci1zdWJzLWFyZS1jb21pbmctdG8tYXVzdHJhbGlhLW5vdy10aGUtY29hbGl0aW9uLXdhbnRzLXJlYWN0b3JzLXRvby13ZXJlLW5vdC1yZWFkeS1mb3ItaXQtMjMwMTE30gEA",
-      "title": "Nuclear subs are coming to Australia. Now the Coalition wants reactors, too. We're not ready for it - The Conversation",
+      "title": "Nuclear subs are coming to Australia. Now the Coalition wants reactors, too. We're not ready for it - The Conversation Indonesia",
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbnVjbGVhci1zdWJzLWFyZS1jb21pbmctdG8tYXVzdHJhbGlhLW5vdy10aGUtY29hbGl0aW9uLXdhbnRzLXJlYWN0b3JzLXRvby13ZXJlLW5vdC1yZWFkeS1mb3ItaXQtMjMwMTE30gEA?oc=5",
       "published": "2024-05-16T07:00:00.000Z",
-      "description": "Nuclear subs are coming to Australia. Now the Coalition wants reactors, too. We're not ready for it&nbsp;&nbsp;The Conversation",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWmh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU5MTc1MC9zb3ZpZXQtc3VibWFyaW5lLWstMjE5LWF2b2lkZWQtbnVjbGVhci1kaXNhc3Rlci1oaXN0b3J5L9IBAA",
-      "title": "The History Of The K-219 Soviet Submarine & Disaster - SlashGear",
-      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU5MTc1MC9zb3ZpZXQtc3VibWFyaW5lLWstMjE5LWF2b2lkZWQtbnVjbGVhci1kaXNhc3Rlci1oaXN0b3J5L9IBAA?oc=5",
-      "published": "2024-06-05T12:15:43.000Z",
-      "description": "The History Of The K-219 Soviet Submarine & Disaster&nbsp;&nbsp;SlashGear",
+      "description": "Nuclear subs are coming to Australia. Now the Coalition wants reactors, too. We're not ready for it&nbsp;&nbsp;The Conversation Indonesia",
       "summary": "",
       "author": "",
       "category": ""
@@ -732,6 +722,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYXUudXNlbWJhc3N5Lmdvdi91LXMtbmF2eS1zdWJtYXJpbmUtdmlzaXRzLXBlcnRoLXdlc3Rlcm4tYXVzdHJhbGlhLTIv0gEA?oc=5",
       "published": "2024-03-14T07:00:00.000Z",
       "description": "U.S. Navy Submarine Visits Perth, Western Australia&nbsp;&nbsp;US Embassy in Australia",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWmh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU5MTc1MC9zb3ZpZXQtc3VibWFyaW5lLWstMjE5LWF2b2lkZWQtbnVjbGVhci1kaXNhc3Rlci1oaXN0b3J5L9IBAA",
+      "title": "The History Of The K-219 Soviet Submarine & Disaster - SlashGear",
+      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU5MTc1MC9zb3ZpZXQtc3VibWFyaW5lLWstMjE5LWF2b2lkZWQtbnVjbGVhci1kaXNhc3Rlci1oaXN0b3J5L9IBAA?oc=5",
+      "published": "2024-06-05T12:15:43.000Z",
+      "description": "The History Of The K-219 Soviet Submarine & Disaster&nbsp;&nbsp;SlashGear",
       "summary": "",
       "author": "",
       "category": ""
@@ -792,6 +792,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NvdXRoLWtvcmVhLXVzLW5vcnRoLWtvcmVhLW51Y2xlYXItMGM2YTcxMzQ0NDUyZDViMTI0MjBjMTNmZDY2YTVhMWbSAQA?oc=5",
       "published": "2023-07-17T07:00:00.000Z",
       "description": "US deploys nuclear-armed submarine to South Korea in show of force against North Korea&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMib2h0dHBzOi8vd3d3Lm5hdnl0aW1lcy5jb20vbmV3cy95b3VyLW5hdnkvMjAyMy8xMi8zMC9uZXctaW4tMjAyNC1ldmVuLW1vcmUtdXMtYXVzdHJhbGlhLXN1Ym1hcmluZS1jb2xsYWJvcmF0aW9uL9IBAA",
+      "title": "Even more US-Australia submarine collaboration on the horizon - NavyTimes.com",
+      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5hdnl0aW1lcy5jb20vbmV3cy95b3VyLW5hdnkvMjAyMy8xMi8zMC9uZXctaW4tMjAyNC1ldmVuLW1vcmUtdXMtYXVzdHJhbGlhLXN1Ym1hcmluZS1jb2xsYWJvcmF0aW9uL9IBAA?oc=5",
+      "published": "2023-12-30T08:00:00.000Z",
+      "description": "Even more US-Australia submarine collaboration on the horizon&nbsp;&nbsp;NavyTimes.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -937,16 +947,6 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDYvMDMvdXMtbmF2eS1yb3lhbC1zdWJtYXJpbmUtc3Nnbi1taXNzaWxlcy1zcGVjaWFsLW9wZXJhdGlvbnMv0gEA",
-      "title": "US Navy style cruise missile and special forces SSGNs for the Royal Navy? Good idea - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDYvMDMvdXMtbmF2eS1yb3lhbC1zdWJtYXJpbmUtc3Nnbi1taXNzaWxlcy1zcGVjaWFsLW9wZXJhdGlvbnMv0gEA?oc=5",
-      "published": "2024-06-04T07:31:00.000Z",
-      "description": "US Navy style cruise missile and special forces SSGNs for the Royal Navy? Good idea&nbsp;&nbsp;The Telegraph",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidGh0dHBzOi8vd3d3LmxlbW9uZGUuZnIvZW4vaW50ZXJuYXRpb25hbC9hcnRpY2xlLzIwMjQvMDIvMjIvdWstZmFjZXMtc2NydXRpbnktb3Zlci1mYWlsZWQtbnVjbGVhci10ZXN0XzY1NDgwNTNfNC5odG1s0gEA",
       "title": "UK faces scrutiny over failed nuclear test - Le Monde",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmxlbW9uZGUuZnIvZW4vaW50ZXJuYXRpb25hbC9hcnRpY2xlLzIwMjQvMDIvMjIvdWstZmFjZXMtc2NydXRpbnktb3Zlci1mYWlsZWQtbnVjbGVhci10ZXN0XzY1NDgwNTNfNC5odG1s0gEA?oc=5",
@@ -957,11 +957,11 @@
       "category": ""
     },
     {
-      "id": "CBMiZGh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3ZpZGVvcy9pbmRpYXMtdW5kZXJzZWEtZm9ydHJlc3MtZm9yLW51Y2xlYXItc3VibWFyaW5lcy1wcm9qZWN0LXZhcnNoYS03Mjg0NDXSAWhodHRwczovL3d3dy53aW9uZXdzLmNvbS92aWRlb3MvaW5kaWFzLXVuZGVyc2VhLWZvcnRyZXNzLWZvci1udWNsZWFyLXN1Ym1hcmluZXMtcHJvamVjdC12YXJzaGEtNzI4NDQ1L2FtcA",
-      "title": "India's undersea fortress for nuclear submarines: Project Varsha - WION",
-      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3ZpZGVvcy9pbmRpYXMtdW5kZXJzZWEtZm9ydHJlc3MtZm9yLW51Y2xlYXItc3VibWFyaW5lcy1wcm9qZWN0LXZhcnNoYS03Mjg0NDXSAWhodHRwczovL3d3dy53aW9uZXdzLmNvbS92aWRlb3MvaW5kaWFzLXVuZGVyc2VhLWZvcnRyZXNzLWZvci1udWNsZWFyLXN1Ym1hcmluZXMtcHJvamVjdC12YXJzaGEtNzI4NDQ1L2FtcA?oc=5",
-      "published": "2024-06-03T18:25:01.000Z",
-      "description": "India's undersea fortress for nuclear submarines: Project Varsha&nbsp;&nbsp;WION",
+      "id": "CBMiVGh0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS93aHktdGhlLXVzLXdpbGwtc3RheS1kb21pbmFudC1pbi11bmRlcnNlYS13YXJmYXJlL9IBAA",
+      "title": "Why the US will stay dominant in undersea warfare | The Strategist - The Strategist",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS93aHktdGhlLXVzLXdpbGwtc3RheS1kb21pbmFudC1pbi11bmRlcnNlYS13YXJmYXJlL9IBAA?oc=5",
+      "published": "2024-04-26T07:00:00.000Z",
+      "description": "Why the US will stay dominant in undersea warfare | The Strategist&nbsp;&nbsp;The Strategist",
       "summary": "",
       "author": "",
       "category": ""
@@ -977,11 +977,11 @@
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS93aHktdGhlLXVzLXdpbGwtc3RheS1kb21pbmFudC1pbi11bmRlcnNlYS13YXJmYXJlL9IBAA",
-      "title": "Why the US will stay dominant in undersea warfare | The Strategist - The Strategist",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS93aHktdGhlLXVzLXdpbGwtc3RheS1kb21pbmFudC1pbi11bmRlcnNlYS13YXJmYXJlL9IBAA?oc=5",
-      "published": "2024-04-26T07:00:00.000Z",
-      "description": "Why the US will stay dominant in undersea warfare | The Strategist&nbsp;&nbsp;The Strategist",
+      "id": "CBMiZGh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3ZpZGVvcy9pbmRpYXMtdW5kZXJzZWEtZm9ydHJlc3MtZm9yLW51Y2xlYXItc3VibWFyaW5lcy1wcm9qZWN0LXZhcnNoYS03Mjg0NDXSAWhodHRwczovL3d3dy53aW9uZXdzLmNvbS92aWRlb3MvaW5kaWFzLXVuZGVyc2VhLWZvcnRyZXNzLWZvci1udWNsZWFyLXN1Ym1hcmluZXMtcHJvamVjdC12YXJzaGEtNzI4NDQ1L2FtcA",
+      "title": "India's undersea fortress for nuclear submarines: Project Varsha - WION",
+      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3ZpZGVvcy9pbmRpYXMtdW5kZXJzZWEtZm9ydHJlc3MtZm9yLW51Y2xlYXItc3VibWFyaW5lcy1wcm9qZWN0LXZhcnNoYS03Mjg0NDXSAWhodHRwczovL3d3dy53aW9uZXdzLmNvbS92aWRlb3MvaW5kaWFzLXVuZGVyc2VhLWZvcnRyZXNzLWZvci1udWNsZWFyLXN1Ym1hcmluZXMtcHJvamVjdC12YXJzaGEtNzI4NDQ1L2FtcA?oc=5",
+      "published": "2024-06-03T18:25:01.000Z",
+      "description": "India's undersea fortress for nuclear submarines: Project Varsha&nbsp;&nbsp;WION",
       "summary": "",
       "author": "",
       "category": ""

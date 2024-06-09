@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-09T14:26:16.000Z",
+  "published": "2024-06-09T15:26:00.000Z",
   "entries": [
     {
       "id": "CBMiQGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDcvYi01Mi1jcmV3LWhlcm9pYy1yZWNvdmVyeS_SAQA",
@@ -52,16 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3LmJvZWluZy5jb20vZGVmZW5zZS9iLTUy0gEA?oc=5",
       "published": "2024-01-23T05:29:16.000Z",
       "description": "B-52&nbsp;&nbsp;Boeing",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiUGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9iLTIxLXZzLWItNTJoLWRpZmZlcmVuY2UtYmV0d2Vlbi1yYWlkZXItc3RyYXRvZm9ydHJlc3Mv0gEA",
-      "title": "B-21 Vs. B-52H: What's The Difference Between The Raider And The Stratofortress? - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9iLTIxLXZzLWItNTJoLWRpZmZlcmVuY2UtYmV0d2Vlbi1yYWlkZXItc3RyYXRvZm9ydHJlc3Mv0gEA?oc=5",
-      "published": "2024-06-06T18:00:00.000Z",
-      "description": "B-21 Vs. B-52H: What's The Difference Between The Raider And The Stratofortress?&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
       "category": ""
@@ -117,6 +107,16 @@
       "category": ""
     },
     {
+      "id": "CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA",
+      "title": "How Many B-52 Bombers Are In The USAF Today? - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA?oc=5",
+      "published": "2024-05-19T07:00:00.000Z",
+      "description": "How Many B-52 Bombers Are In The USAF Today?&nbsp;&nbsp;Simple Flying",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiamh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDQvcmFmLWZhaXJmb3JkLWRyYXdzLXNwZWN0YXRvcnMtd2l0aC1icmVhdGh0YWtpbmctYi01Mi1ib21iZXItZGlzcGxheS_SAQA",
       "title": "RAF Fairford Draws Spectators With Breathtaking B-52 Bomber Display - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDQvcmFmLWZhaXJmb3JkLWRyYXdzLXNwZWN0YXRvcnMtd2l0aC1icmVhdGh0YWtpbmctYi01Mi1ib21iZXItZGlzcGxheS_SAQA?oc=5",
@@ -162,16 +162,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDI0LTAyLTIxL2I1Mi1ib21iZXItcGhpbGlwcGluZXMtY2hpbmEtMTMwNjc0NjcuaHRtbNIBAA?oc=5",
       "published": "2024-02-21T08:00:00.000Z",
       "description": "Air Force B-52 bomber, Philippine fighters make show of force over South China Sea&nbsp;&nbsp;Stars and Stripes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA",
-      "title": "How Many B-52 Bombers Are In The USAF Today? - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA?oc=5",
-      "published": "2024-05-19T07:00:00.000Z",
-      "description": "How Many B-52 Bombers Are In The USAF Today?&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
       "category": ""
@@ -687,16 +677,6 @@
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDUvMzAvYi01MmgtYm9tYmVycy1mcm9tLXRoZS11LXMtYWlyLWZvcmNlLWNvbmR1Y3RlZC1mbGlnaHRzLWFyb3VuZC10aGUtcnVzc2lhbi1lbmNsYXZlLW9mLWthbGluaW5ncmFkL9IBAA",
-      "title": "B-52H bombers from the U.S Air Force conducted flights around the Russian enclave of Kaliningrad - Zona Militar",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDUvMzAvYi01MmgtYm9tYmVycy1mcm9tLXRoZS11LXMtYWlyLWZvcmNlLWNvbmR1Y3RlZC1mbGlnaHRzLWFyb3VuZC10aGUtcnVzc2lhbi1lbmNsYXZlLW9mLWthbGluaW5ncmFkL9IBAA?oc=5",
-      "published": "2024-05-30T07:00:00.000Z",
-      "description": "B-52H bombers from the U.S Air Force conducted flights around the Russian enclave of Kaliningrad&nbsp;&nbsp;Zona Militar",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLWFpci1mb3JjZS1wYXJrZWQtYi01Mi1ib21iZXJzLWNsb3NlLWNoaW5hLWNyaXRpY2FsLXdhcmdhbWUtMjA5MTI40gEA",
       "title": "The U.S. Air Force Parked B-52 Bombers Close to China for Critical Wargame - The National Interest Online",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLWFpci1mb3JjZS1wYXJrZWQtYi01Mi1ib21iZXJzLWNsb3NlLWNoaW5hLWNyaXRpY2FsLXdhcmdhbWUtMjA5MTI40gEA?oc=5",
@@ -1002,6 +982,26 @@
       "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI4MTkwNTAzL3VzLWJvbWJlcnMtY2lyY2xlLWthbGluaW5ncmFkLXJ1c3NpYS11ay_SAVNodHRwczovL3d3dy50aGVzdW4uY28udWsvbmV3cy8yODE5MDUwMy91cy1ib21iZXJzLWNpcmNsZS1rYWxpbmluZ3JhZC1ydXNzaWEtdWsvYW1wLw?oc=5",
       "published": "2024-05-29T07:00:00.000Z",
       "description": "US nuclear-capable B-52 Stratofortress bombers circle Putin’s WW3 enclave Kaliningrad in mission from the U...&nbsp;&nbsp;The Sun",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYW1lcmljYW4tYi01Mi1ib21iZXJzLWNpcmNsZS1ydXNzaWFuLWVuY2xhdmUta2FsaW5pbmdyYWQv0gEA",
+      "title": "American B-52 bombers circle Russian enclave Kaliningrad - UK Defence Journal",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYW1lcmljYW4tYi01Mi1ib21iZXJzLWNpcmNsZS1ydXNzaWFuLWVuY2xhdmUta2FsaW5pbmdyYWQv0gEA?oc=5",
+      "published": "2024-05-29T07:00:00.000Z",
+      "description": "American B-52 bombers circle Russian enclave Kaliningrad&nbsp;&nbsp;UK Defence Journal",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vZ2xvYmFsbmF0aW9uLmlucXVpcmVyLm5ldC8yMjYyOTkvYi01MmgtYm9tYmVyLWpvaW5zLXBoLWpldHMtZm9yLXdwcy1wYXRyb2wtaXJrcy1jaGluYdIBYWh0dHBzOi8vZ2xvYmFsbmF0aW9uLmlucXVpcmVyLm5ldC8yMjYyOTkvYi01MmgtYm9tYmVyLWpvaW5zLXBoLWpldHMtZm9yLXdwcy1wYXRyb2wtaXJrcy1jaGluYS9hbXA",
+      "title": "B-52H bomber joins PH jets for WPS patrol, irks China - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZ2xvYmFsbmF0aW9uLmlucXVpcmVyLm5ldC8yMjYyOTkvYi01MmgtYm9tYmVyLWpvaW5zLXBoLWpldHMtZm9yLXdwcy1wYXRyb2wtaXJrcy1jaGluYdIBYWh0dHBzOi8vZ2xvYmFsbmF0aW9uLmlucXVpcmVyLm5ldC8yMjYyOTkvYi01MmgtYm9tYmVyLWpvaW5zLXBoLWpldHMtZm9yLXdwcy1wYXRyb2wtaXJrcy1jaGluYS9hbXA?oc=5",
+      "published": "2024-02-21T08:00:00.000Z",
+      "description": "B-52H bomber joins PH jets for WPS patrol, irks China&nbsp;&nbsp;Inquirer.net",
       "summary": "",
       "author": "",
       "category": ""
