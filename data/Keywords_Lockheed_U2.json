@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-10T13:28:41.000Z",
+  "published": "2024-06-10T14:31:10.000Z",
   "entries": [
     {
       "id": "CBMicGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91LTItZHJhZ29uLWxhZHktbWVldC1vbmUtb2YtdGhlLXVzLWFpci1mb3JjZXMtb2xkZXN0LWNvbGQtd2FyLWFpcmNyYWZ0LXN0aWxsLW9wZXJhdGluZy_SAQA",
@@ -217,16 +217,6 @@
       "category": ""
     },
     {
-      "id": "CBMilAFodHRwczovL3d3dy5taWxpdGFyeWFlcm9zcGFjZS5jb20vY29tcHV0ZXJzL2FydGljbGUvMTY3MTA4NTQvdS0yLXJlY29ubmFpc3NhbmNlLWFpcmNyYWZ0LXVwZ3JhZGUtaW52b2x2ZXMtbmV3LWNvY2twaXQtZGlzcGxheXMtYW5kLWF2aW9uaWNzLWNvbXB1dGVy0gEA",
-      "title": "U-2 reconnaissance aircraft upgrade involves new cockpit displays and avionics computer - Military & Aerospace Electronics",
-      "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5taWxpdGFyeWFlcm9zcGFjZS5jb20vY29tcHV0ZXJzL2FydGljbGUvMTY3MTA4NTQvdS0yLXJlY29ubmFpc3NhbmNlLWFpcmNyYWZ0LXVwZ3JhZGUtaW52b2x2ZXMtbmV3LWNvY2twaXQtZGlzcGxheXMtYW5kLWF2aW9uaWNzLWNvbXB1dGVy0gEA?oc=5",
-      "published": "2023-12-12T19:00:26.000Z",
-      "description": "U-2 reconnaissance aircraft upgrade involves new cockpit displays and avionics computer&nbsp;&nbsp;Military & Aerospace Electronics",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiUmh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtdHUtMnMtZHJhZ29uLWxhZHktMTA3OC1zb2Fycy1hZ2Fpbi_SAQA",
       "title": "USAF's TU-2S Dragon Lady 1078 soars again - Airforce Technology - Airforce Technology",
       "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtdHUtMnMtZHJhZ29uLWxhZHktMTA3OC1zb2Fycy1hZ2Fpbi_SAQA?oc=5",
@@ -252,6 +242,16 @@
       "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmxvY2toZWVkbWFydGluLmNvbS9lbi11cy9wcm9kdWN0cy91Mi1kcmFnb24tbGFkeS5odG1s0gEA?oc=5",
       "published": "2018-04-15T00:41:32.000Z",
       "description": "Products | U-2 Dragon Lady&nbsp;&nbsp;Lockheed Martin",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA",
+      "title": "Rare TU-2S plane takes to the skies after three years of maintenance - defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA?oc=5",
+      "published": "2024-03-25T07:00:00.000Z",
+      "description": "Rare TU-2S plane takes to the skies after three years of maintenance&nbsp;&nbsp;defence-blog.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -307,21 +307,21 @@
       "category": ""
     },
     {
-      "id": "CBMijQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1hdmlvbmljcy10ZWNobmljaWFuLWV4cGxhaW5zLXdoeS1kcmFnb24tbGFkeS1waWxvdHMtYnJlYXRoZS1wdXJlLW94eWdlbi1mb3ItYXMtbXVjaC1hcy0xNC1ob3Vycy1zdHJhaWdodC_SAY0BaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS91LTItYXZpb25pY3MtdGVjaG5pY2lhbi1leHBsYWlucy13aHktZHJhZ29uLWxhZHktcGlsb3RzLWJyZWF0aGUtcHVyZS1veHlnZW4tZm9yLWFzLW11Y2gtYXMtMTQtaG91cnMtc3RyYWlnaHQv",
-      "title": "U-2 Avionics Technician explains why Dragon Lady pilots breathe pure oxygen for as much as 14 hours straight - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1hdmlvbmljcy10ZWNobmljaWFuLWV4cGxhaW5zLXdoeS1kcmFnb24tbGFkeS1waWxvdHMtYnJlYXRoZS1wdXJlLW94eWdlbi1mb3ItYXMtbXVjaC1hcy0xNC1ob3Vycy1zdHJhaWdodC_SAY0BaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS91LTItYXZpb25pY3MtdGVjaG5pY2lhbi1leHBsYWlucy13aHktZHJhZ29uLWxhZHktcGlsb3RzLWJyZWF0aGUtcHVyZS1veHlnZW4tZm9yLWFzLW11Y2gtYXMtMTQtaG91cnMtc3RyYWlnaHQv?oc=5",
-      "published": "2024-02-09T08:27:14.000Z",
-      "description": "U-2 Avionics Technician explains why Dragon Lady pilots breathe pure oxygen for as much as 14 hours straight&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8",
       "title": "Beale Air Force Base retires third U-2 of 2024 - KTXL FOX 40 Sacramento",
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8?oc=5",
       "published": "2024-04-23T07:00:00.000Z",
       "description": "Beale Air Force Base retires third U-2 of 2024&nbsp;&nbsp;KTXL FOX 40 Sacramento",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1hdmlvbmljcy10ZWNobmljaWFuLWV4cGxhaW5zLXdoeS1kcmFnb24tbGFkeS1waWxvdHMtYnJlYXRoZS1wdXJlLW94eWdlbi1mb3ItYXMtbXVjaC1hcy0xNC1ob3Vycy1zdHJhaWdodC_SAY0BaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS91LTItYXZpb25pY3MtdGVjaG5pY2lhbi1leHBsYWlucy13aHktZHJhZ29uLWxhZHktcGlsb3RzLWJyZWF0aGUtcHVyZS1veHlnZW4tZm9yLWFzLW11Y2gtYXMtMTQtaG91cnMtc3RyYWlnaHQv",
+      "title": "U-2 Avionics Technician explains why Dragon Lady pilots breathe pure oxygen for as much as 14 hours straight - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1hdmlvbmljcy10ZWNobmljaWFuLWV4cGxhaW5zLXdoeS1kcmFnb24tbGFkeS1waWxvdHMtYnJlYXRoZS1wdXJlLW94eWdlbi1mb3ItYXMtbXVjaC1hcy0xNC1ob3Vycy1zdHJhaWdodC_SAY0BaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS91LTItYXZpb25pY3MtdGVjaG5pY2lhbi1leHBsYWlucy13aHktZHJhZ29uLWxhZHktcGlsb3RzLWJyZWF0aGUtcHVyZS1veHlnZW4tZm9yLWFzLW11Y2gtYXMtMTQtaG91cnMtc3RyYWlnaHQv?oc=5",
+      "published": "2024-02-09T08:27:14.000Z",
+      "description": "U-2 Avionics Technician explains why Dragon Lady pilots breathe pure oxygen for as much as 14 hours straight&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""
@@ -547,16 +547,6 @@
       "category": ""
     },
     {
-      "id": "CBMi0AFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3VzYWYtcHJlZGljdGVkLWEtc2l4LXllYXItdS0yLWRldmVsb3BtZW50LXBsYW4tYnV0LXRoYW5rcy10by1jaWEtc3B5bWFzdGVyLXJpY2hhcmQtYmlzc2VsbC1hbmQtbG9ja2hlZWQtYWlyY3JhZnQtZW5naW5lZXIta2VsbHktam9obnNvbi1pdC13YXMtZGVwbG95ZWQtaW4tc2xpZ2h0bHktb3Zlci1hLXllYXIv0gHQAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdXNhZi1wcmVkaWN0ZWQtYS1zaXgteWVhci11LTItZGV2ZWxvcG1lbnQtcGxhbi1idXQtdGhhbmtzLXRvLWNpYS1zcHltYXN0ZXItcmljaGFyZC1iaXNzZWxsLWFuZC1sb2NraGVlZC1haXJjcmFmdC1lbmdpbmVlci1rZWxseS1qb2huc29uLWl0LXdhcy1kZXBsb3llZC1pbi1zbGlnaHRseS1vdmVyLWEteWVhci8",
-      "title": "USAF predicted a six-year U-2 development plan but thanks to CIA spymaster Richard Bissell and Lockheed Air... - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMi0AFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3VzYWYtcHJlZGljdGVkLWEtc2l4LXllYXItdS0yLWRldmVsb3BtZW50LXBsYW4tYnV0LXRoYW5rcy10by1jaWEtc3B5bWFzdGVyLXJpY2hhcmQtYmlzc2VsbC1hbmQtbG9ja2hlZWQtYWlyY3JhZnQtZW5naW5lZXIta2VsbHktam9obnNvbi1pdC13YXMtZGVwbG95ZWQtaW4tc2xpZ2h0bHktb3Zlci1hLXllYXIv0gHQAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdXNhZi1wcmVkaWN0ZWQtYS1zaXgteWVhci11LTItZGV2ZWxvcG1lbnQtcGxhbi1idXQtdGhhbmtzLXRvLWNpYS1zcHltYXN0ZXItcmljaGFyZC1iaXNzZWxsLWFuZC1sb2NraGVlZC1haXJjcmFmdC1lbmdpbmVlci1rZWxseS1qb2huc29uLWl0LXdhcy1kZXBsb3llZC1pbi1zbGlnaHRseS1vdmVyLWEteWVhci8?oc=5",
-      "published": "2024-02-29T10:22:03.000Z",
-      "description": "USAF predicted a six-year U-2 development plan but thanks to CIA spymaster Richard Bissell and Lockheed Air...&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiogFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2xvY2toZWVkLW1hcnRpbi1za3Vuay13b3Jrcy10ZXN0cy11LTItbmV3LWFkdmFuY2VkLWNhcGFiaWxpdGllcy1pbi1maXJzdC1mbGlnaHQtb2YtdGhlLWRyYWdvbi1sYWR5cy1hdmlvbmljcy10ZWNoLXJlZnJlc2gtcHJvZ3JhbS_SAaIBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9sb2NraGVlZC1tYXJ0aW4tc2t1bmstd29ya3MtdGVzdHMtdS0yLW5ldy1hZHZhbmNlZC1jYXBhYmlsaXRpZXMtaW4tZmlyc3QtZmxpZ2h0LW9mLXRoZS1kcmFnb24tbGFkeXMtYXZpb25pY3MtdGVjaC1yZWZyZXNoLXByb2dyYW0v",
       "title": "Lockheed Martin Skunk Works tests U-2 new advanced capabilities in first flight of the Dragon Lady’s ... - The Aviation Geek Club",
       "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2xvY2toZWVkLW1hcnRpbi1za3Vuay13b3Jrcy10ZXN0cy11LTItbmV3LWFkdmFuY2VkLWNhcGFiaWxpdGllcy1pbi1maXJzdC1mbGlnaHQtb2YtdGhlLWRyYWdvbi1sYWR5cy1hdmlvbmljcy10ZWNoLXJlZnJlc2gtcHJvZ3JhbS_SAaIBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9sb2NraGVlZC1tYXJ0aW4tc2t1bmstd29ya3MtdGVzdHMtdS0yLW5ldy1hZHZhbmNlZC1jYXBhYmlsaXRpZXMtaW4tZmlyc3QtZmxpZ2h0LW9mLXRoZS1kcmFnb24tbGFkeXMtYXZpb25pY3MtdGVjaC1yZWZyZXNoLXByb2dyYW0v?oc=5",
@@ -572,6 +562,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFpcmRhdGFuZXdzLmNvbS91LTItc3B5LXBsYW5lLWNvbXBsZXRlcy1maXJzdC1mbGlnaHQtd2l0aC11cGRhdGVkLWF2aW9uaWNzLXBhY2thZ2Uv0gEA?oc=5",
       "published": "2023-09-26T14:07:05.000Z",
       "description": "U-2 spy plane completes first flight with updated avionics package&nbsp;&nbsp;Air Data News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMi0AFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3VzYWYtcHJlZGljdGVkLWEtc2l4LXllYXItdS0yLWRldmVsb3BtZW50LXBsYW4tYnV0LXRoYW5rcy10by1jaWEtc3B5bWFzdGVyLXJpY2hhcmQtYmlzc2VsbC1hbmQtbG9ja2hlZWQtYWlyY3JhZnQtZW5naW5lZXIta2VsbHktam9obnNvbi1pdC13YXMtZGVwbG95ZWQtaW4tc2xpZ2h0bHktb3Zlci1hLXllYXIv0gHQAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdXNhZi1wcmVkaWN0ZWQtYS1zaXgteWVhci11LTItZGV2ZWxvcG1lbnQtcGxhbi1idXQtdGhhbmtzLXRvLWNpYS1zcHltYXN0ZXItcmljaGFyZC1iaXNzZWxsLWFuZC1sb2NraGVlZC1haXJjcmFmdC1lbmdpbmVlci1rZWxseS1qb2huc29uLWl0LXdhcy1kZXBsb3llZC1pbi1zbGlnaHRseS1vdmVyLWEteWVhci8",
+      "title": "USAF predicted a six-year U-2 development plan but thanks to CIA spymaster Richard Bissell and Lockheed Air... - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMi0AFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3VzYWYtcHJlZGljdGVkLWEtc2l4LXllYXItdS0yLWRldmVsb3BtZW50LXBsYW4tYnV0LXRoYW5rcy10by1jaWEtc3B5bWFzdGVyLXJpY2hhcmQtYmlzc2VsbC1hbmQtbG9ja2hlZWQtYWlyY3JhZnQtZW5naW5lZXIta2VsbHktam9obnNvbi1pdC13YXMtZGVwbG95ZWQtaW4tc2xpZ2h0bHktb3Zlci1hLXllYXIv0gHQAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdXNhZi1wcmVkaWN0ZWQtYS1zaXgteWVhci11LTItZGV2ZWxvcG1lbnQtcGxhbi1idXQtdGhhbmtzLXRvLWNpYS1zcHltYXN0ZXItcmljaGFyZC1iaXNzZWxsLWFuZC1sb2NraGVlZC1haXJjcmFmdC1lbmdpbmVlci1rZWxseS1qb2huc29uLWl0LXdhcy1kZXBsb3llZC1pbi1zbGlnaHRseS1vdmVyLWEteWVhci8?oc=5",
+      "published": "2024-02-29T10:22:03.000Z",
+      "description": "USAF predicted a six-year U-2 development plan but thanks to CIA spymaster Richard Bissell and Lockheed Air...&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""
@@ -767,6 +767,16 @@
       "category": ""
     },
     {
+      "id": "CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ob3ctdS0yLWVuYWJsZWQtY29tbXVuaWNhdGlvbi1iZXR3ZWVuLWZpZ2h0ZXItamV0cy_SAQA",
+      "title": "How An Aging Spy Plane Enabled Communication Between Different Generation Fighter Jets - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ob3ctdS0yLWVuYWJsZWQtY29tbXVuaWNhdGlvbi1iZXR3ZWVuLWZpZ2h0ZXItamV0cy_SAQA?oc=5",
+      "published": "2023-07-15T07:00:00.000Z",
+      "description": "How An Aging Spy Plane Enabled Communication Between Different Generation Fighter Jets&nbsp;&nbsp;Simple Flying",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMipwFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjAtMDItMTgtVS1TLUFpci1Gb3JjZS1Mb2NraGVlZC1NYXJ0aW4tQ29sbGlucy1BZXJvc3BhY2UtQ29tcGxldGUtVS0yLVNZRVJTLTJDLVVwZ3JhZGVzLUVuaGFuY2luZy10aGUtRHJhZ29uLUxhZHlzLUltYWdpbmctQ2FwYWJpbGl0edIBAA",
       "title": "U.S. Air Force - Media - Lockheed Martin - Releases",
       "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjAtMDItMTgtVS1TLUFpci1Gb3JjZS1Mb2NraGVlZC1NYXJ0aW4tQ29sbGlucy1BZXJvc3BhY2UtQ29tcGxldGUtVS0yLVNZRVJTLTJDLVVwZ3JhZGVzLUVuaGFuY2luZy10aGUtRHJhZ29uLUxhZHlzLUltYWdpbmctQ2FwYWJpbGl0edIBAA?oc=5",
@@ -887,16 +897,6 @@
       "category": ""
     },
     {
-      "id": "CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA",
-      "title": "ER-2 High-Altitude Airborne Science Aircraft - NASA",
-      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA?oc=5",
-      "published": "2014-09-17T07:00:00.000Z",
-      "description": "ER-2 High-Altitude Airborne Science Aircraft&nbsp;&nbsp;NASA",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiU2h0dHBzOi8vd3d3LmNpYS5nb3YvbGVnYWN5L2hvbm9yaW5nLWhlcm9lcy9oZXJvZXMvYWdlbmN5LXBpbG90cy1pbi10aGUtdS0yLXByb2dyYW0v0gEA",
       "title": "Agency Pilots in the U-2 Program - CIA",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNpYS5nb3YvbGVnYWN5L2hvbm9yaW5nLWhlcm9lcy9oZXJvZXMvYWdlbmN5LXBpbG90cy1pbi10aGUtdS0yLXByb2dyYW0v0gEA?oc=5",
@@ -912,6 +912,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc2tpZXNtYWcuY29tL2ZlYXR1cmVzL21lZXQtbWF0dGhldy1ub3ZhLWJlYXViaWVuLWxvY2toZWVkLXUyLXBpbG90LWF2aWQtc2t5ZGl2ZXIv0gFdaHR0cHM6Ly9za2llc21hZy5jb20vZmVhdHVyZXMvbWVldC1tYXR0aGV3LW5vdmEtYmVhdWJpZW4tbG9ja2hlZWQtdTItcGlsb3QtYXZpZC1za3lkaXZlci8_YW1w?oc=5",
       "published": "2022-01-05T08:00:00.000Z",
       "description": "Meet Matthew ‘Nova’ Beaubien: Lockheed U-2 pilot & avid skydiver&nbsp;&nbsp;Skies Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA",
+      "title": "ER-2 High-Altitude Airborne Science Aircraft - NASA",
+      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA?oc=5",
+      "published": "2014-09-17T07:00:00.000Z",
+      "description": "ER-2 High-Altitude Airborne Science Aircraft&nbsp;&nbsp;NASA",
       "summary": "",
       "author": "",
       "category": ""
@@ -977,16 +987,6 @@
       "category": ""
     },
     {
-      "id": "CBMiUWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMdIBVWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMT9hbXA",
-      "title": "Photos of Lockheed Martin's U2 Dragon Lady - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMdIBVWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMT9hbXA?oc=5",
-      "published": "2013-11-22T08:00:00.000Z",
-      "description": "Photos of Lockheed Martin's U2 Dragon Lady&nbsp;&nbsp;Business Insider",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiLGh0dHBzOi8vd3d3Lmhpc3RvcnluZXQuY29tL2RyYWdvbi1sYWR5LWRvd24v0gEA",
       "title": "Dragon Lady Down: Crazy Night Landing in a U-2 Spyplane - HistoryNet",
       "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3Lmhpc3RvcnluZXQuY29tL2RyYWdvbi1sYWR5LWRvd24v0gEA?oc=5",
@@ -997,11 +997,11 @@
       "category": ""
     },
     {
-      "id": "CBMiWGh0dHBzOi8vd3d3Lndhcmhpc3RvcnlvbmxpbmUuY29tL2NvbGQtd2FyL2xvY2toZWVkLXN1Z2dlc3RlZC11LTItYW50aS1zaGlwLW1pc3NpbGVzLmh0bWzSAQA",
-      "title": "Lockheed nearly armed the U-2 with anti-ship missiles - War History Online",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndhcmhpc3RvcnlvbmxpbmUuY29tL2NvbGQtd2FyL2xvY2toZWVkLXN1Z2dlc3RlZC11LTItYW50aS1zaGlwLW1pc3NpbGVzLmh0bWzSAQA?oc=5",
-      "published": "2021-08-20T07:00:00.000Z",
-      "description": "Lockheed nearly armed the U-2 with anti-ship missiles&nbsp;&nbsp;War History Online",
+      "id": "CBMiUWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMdIBVWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMT9hbXA",
+      "title": "Photos of Lockheed Martin's U2 Dragon Lady - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMdIBVWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcGhvdG9zLW9mLWxvY2toZWVkLW1hcnRpbnMtdTItZHJhZ29uLWxhZHktMjAxMy0xMT9hbXA?oc=5",
+      "published": "2013-11-22T08:00:00.000Z",
+      "description": "Photos of Lockheed Martin's U2 Dragon Lady&nbsp;&nbsp;Business Insider",
       "summary": "",
       "author": "",
       "category": ""
