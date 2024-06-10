@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-10T06:37:38.000Z",
+  "published": "2024-06-10T07:22:06.000Z",
   "entries": [
     {
       "id": "CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL3RlY2hub2xvZ3kvMjAyNC8wNi9taXNzaWxlLXRocmVhdHMtYXJlLXByb2xpZmVyYXRpbmctaGVyZXMtaG93LXBlbnRhZ29uLXRyeWluZy1rZWVwLzM5NzE5My_SAQA",
@@ -62,16 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9qYXBhbi13YXJucy1yZXNpZGVudHMtdGFrZS1jb3Zlci1ub3J0aC1rb3JlYW4tbWlzc2lsZS10aHJlYXQtMjAyNC0wNS0yNy_SAQA?oc=5",
       "published": "2024-05-27T07:00:00.000Z",
       "description": "Japan warns residents to take cover from North Korean missile threat&nbsp;&nbsp;Reuters",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiiQFodHRwczovL3d3dy5kaWEubWlsL05ld3MtRmVhdHVyZXMvQXJ0aWNsZXMvQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc5MDYyMy9kaWEtcmVwb3J0LWNvbmZpcm1zLW5vcnRoLWtvcmVhbi1taXNzaWxlLWRlYnJpcy1mb3VuZC1pbi11a3JhaW5lL9IBAA",
-      "title": "DIA report confirms North Korean missile debris found in Ukraine - Defense Intelligence Agency",
-      "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5kaWEubWlsL05ld3MtRmVhdHVyZXMvQXJ0aWNsZXMvQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc5MDYyMy9kaWEtcmVwb3J0LWNvbmZpcm1zLW5vcnRoLWtvcmVhbi1taXNzaWxlLWRlYnJpcy1mb3VuZC1pbi11a3JhaW5lL9IBAA?oc=5",
-      "published": "2024-05-29T07:00:00.000Z",
-      "description": "DIA report confirms North Korean missile debris found in Ukraine&nbsp;&nbsp;Defense Intelligence Agency",
       "summary": "",
       "author": "",
       "category": ""
@@ -157,6 +147,16 @@
       "category": ""
     },
     {
+      "id": "CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA",
+      "title": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test - Northrop Grumman Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA?oc=5",
+      "published": "2024-03-29T07:00:00.000Z",
+      "description": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test&nbsp;&nbsp;Northrop Grumman Newsroom",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMikgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzc4Mjk3My9hdC1ndWxmLWNvb3BlcmF0aW9uLWNvdW5jaWwtdXMtcGFydGljaXBhdGVzLWluLW1hcml0aW1lLW1pc3NpbGUtZGVmZW5zZS13b3JraW5nL9IBAA",
       "title": "At Gulf Cooperation Council, U.S. Participates in Maritime, Missile Defense Working Groups - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzc4Mjk3My9hdC1ndWxmLWNvb3BlcmF0aW9uLWNvdW5jaWwtdXMtcGFydGljaXBhdGVzLWluLW1hcml0aW1lLW1pc3NpbGUtZGVmZW5zZS13b3JraW5nL9IBAA?oc=5",
@@ -207,21 +207,11 @@
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA",
-      "title": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test - Northrop Grumman Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA?oc=5",
-      "published": "2024-03-29T07:00:00.000Z",
-      "description": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test&nbsp;&nbsp;Northrop Grumman Newsroom",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicWh0dHBzOi8vbmV3cy5ub3J0aHJvcGdydW1tYW4uY29tL25ld3MvcmVsZWFzZXMvbm9ydGhyb3AtZ3J1bW1hbi1zdXBwb3J0cy1lbmQtdG8tZW5kLW1pc3NpbGUtZGVmZW5zZS1kZW1vbnN0cmF0aW9u0gEA",
-      "title": "Northrop Grumman Supports End-to-End Missile Defense Demonstration | Northrop Grumman - Northrop Grumman Newsroom",
+      "title": "Northrop Grumman Supports End-to-End Missile Defense Demonstration - Northrop Grumman Newsroom",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmV3cy5ub3J0aHJvcGdydW1tYW4uY29tL25ld3MvcmVsZWFzZXMvbm9ydGhyb3AtZ3J1bW1hbi1zdXBwb3J0cy1lbmQtdG8tZW5kLW1pc3NpbGUtZGVmZW5zZS1kZW1vbnN0cmF0aW9u0gEA?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
-      "description": "Northrop Grumman Supports End-to-End Missile Defense Demonstration | Northrop Grumman&nbsp;&nbsp;Northrop Grumman Newsroom",
+      "description": "Northrop Grumman Supports End-to-End Missile Defense Demonstration&nbsp;&nbsp;Northrop Grumman Newsroom",
       "summary": "",
       "author": "",
       "category": ""
@@ -247,21 +237,21 @@
       "category": ""
     },
     {
-      "id": "CBMiNWh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi85Lzc0NTk5NDAv0gE-aHR0cHM6Ly93d3cucHJhdmRhLmNvbS51YS9lbmcvbmV3cy8yMDI0LzA2LzkvNzQ1OTk0MC9pbmRleC5hbXA",
-      "title": "Fire and explosions reported in Russia's Belgorod Oblast amid threat of missile attacks – videos - Ukrainska Pravda",
-      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi85Lzc0NTk5NDAv0gE-aHR0cHM6Ly93d3cucHJhdmRhLmNvbS51YS9lbmcvbmV3cy8yMDI0LzA2LzkvNzQ1OTk0MC9pbmRleC5hbXA?oc=5",
-      "published": "2024-06-09T12:37:32.000Z",
-      "description": "Fire and explosions reported in Russia's Belgorod Oblast amid threat of missile attacks – videos&nbsp;&nbsp;Ukrainska Pravda",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMib2h0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvTmV3cy9BcnRpY2xlLzM3NDQ5NzAvY29hbGl0aW9uLWNvbmR1Y3RzLWFpci1taXNzaWxlLWRlZmVuc2UtZXhlcmNpc2UtaW4tYXJhYmlhbi1ndWxmL9IBAA",
       "title": "Coalition conducts Air & Missile Defense exercise in Arabian Gulf - US AIR FORCES CENTRAL",
       "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvTmV3cy9BcnRpY2xlLzM3NDQ5NzAvY29hbGl0aW9uLWNvbmR1Y3RzLWFpci1taXNzaWxlLWRlZmVuc2UtZXhlcmNpc2UtaW4tYXJhYmlhbi1ndWxmL9IBAA?oc=5",
       "published": "2024-04-17T07:00:00.000Z",
       "description": "Coalition conducts Air & Missile Defense exercise in Arabian Gulf&nbsp;&nbsp;US AIR FORCES CENTRAL",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiNWh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi85Lzc0NTk5NDAv0gE-aHR0cHM6Ly93d3cucHJhdmRhLmNvbS51YS9lbmcvbmV3cy8yMDI0LzA2LzkvNzQ1OTk0MC9pbmRleC5hbXA",
+      "title": "Fire and explosions reported in Russia's Belgorod Oblast amid threat of missile attacks – videos - Ukrainska Pravda",
+      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi85Lzc0NTk5NDAv0gE-aHR0cHM6Ly93d3cucHJhdmRhLmNvbS51YS9lbmcvbmV3cy8yMDI0LzA2LzkvNzQ1OTk0MC9pbmRleC5hbXA?oc=5",
+      "published": "2024-06-09T12:37:32.000Z",
+      "description": "Fire and explosions reported in Russia's Belgorod Oblast amid threat of missile attacks – videos&nbsp;&nbsp;Ukrainska Pravda",
       "summary": "",
       "author": "",
       "category": ""
@@ -457,21 +447,21 @@
       "category": ""
     },
     {
-      "id": "CBMibWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vcGluaW9uLzIwMjQvMDEvMTkvdGhlLXVzLWlzLWZhaWxpbmctdG8tcXVpY2tseS1maWVsZC1oeXBlcnNvbmljLW1pc3NpbGUtZGVmZW5zZS_SAQA",
-      "title": "The US is failing to quickly field hypersonic missile defense - Defense News",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vcGluaW9uLzIwMjQvMDEvMTkvdGhlLXVzLWlzLWZhaWxpbmctdG8tcXVpY2tseS1maWVsZC1oeXBlcnNvbmljLW1pc3NpbGUtZGVmZW5zZS_SAQA?oc=5",
-      "published": "2024-01-19T08:00:00.000Z",
-      "description": "The US is failing to quickly field hypersonic missile defense&nbsp;&nbsp;Defense News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvamFwYW4tYW5kLXRoZS11cy1mYXN0LXRyYWNrLWh5cGVyc29uaWMtZGVmZW5jZS10ZWNoLWFtaWQtdGVuc2lvbnMv0gEA",
       "title": "Japan and the US fast-track hypersonic defence tech amid tensions - Airforce Technology - Airforce Technology",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvamFwYW4tYW5kLXRoZS11cy1mYXN0LXRyYWNrLWh5cGVyc29uaWMtZGVmZW5jZS10ZWNoLWFtaWQtdGVuc2lvbnMv0gEA?oc=5",
       "published": "2024-05-30T16:41:03.000Z",
       "description": "Japan and the US fast-track hypersonic defence tech amid tensions - Airforce Technology&nbsp;&nbsp;Airforce Technology",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vcGluaW9uLzIwMjQvMDEvMTkvdGhlLXVzLWlzLWZhaWxpbmctdG8tcXVpY2tseS1maWVsZC1oeXBlcnNvbmljLW1pc3NpbGUtZGVmZW5zZS_SAQA",
+      "title": "The US is failing to quickly field hypersonic missile defense - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vcGluaW9uLzIwMjQvMDEvMTkvdGhlLXVzLWlzLWZhaWxpbmctdG8tcXVpY2tseS1maWVsZC1oeXBlcnNvbmljLW1pc3NpbGUtZGVmZW5zZS_SAQA?oc=5",
+      "published": "2024-01-19T08:00:00.000Z",
+      "description": "The US is failing to quickly field hypersonic missile defense&nbsp;&nbsp;Defense News",
       "summary": "",
       "author": "",
       "category": ""
@@ -557,16 +547,6 @@
       "category": ""
     },
     {
-      "id": "CBMiVmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91cy1sYXVuY2hlcy1taW51dGVtYW4taWlpLW51Y2xlYXItbWlzc2lsZS1kcmlsbC12aWRlby0xOTA3ODg50gEA",
-      "title": "US Launches Minuteman III Nuclear Missile Drill: Video - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91cy1sYXVuY2hlcy1taW51dGVtYW4taWlpLW51Y2xlYXItbWlzc2lsZS1kcmlsbC12aWRlby0xOTA3ODg50gEA?oc=5",
-      "published": "2024-06-04T11:04:58.000Z",
-      "description": "US Launches Minuteman III Nuclear Missile Drill: Video&nbsp;&nbsp;Newsweek",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigAFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC80LzE2L2lyYW5pYW4tYXR0YWNrLWhpZ2hsaWdodHMtbmVlZC1mb3ItaW50ZWdyYXRlZC1sYXllcmVkLW1pc3NpbGUtZGVmZW5zZdIBAA",
       "title": "JUST IN: Iranian Attack Highlights Need for Integrated, Layered Missile Defense - National Defense Magazine",
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC80LzE2L2lyYW5pYW4tYXR0YWNrLWhpZ2hsaWdodHMtbmVlZC1mb3ItaW50ZWdyYXRlZC1sYXllcmVkLW1pc3NpbGUtZGVmZW5zZdIBAA?oc=5",
@@ -592,6 +572,16 @@
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9sYW5kLzIwMjMvMTIvMTEvaG9tZWxhbmQtZGVmZW5zZS1pbnRlcmNlcHRvci1kZWZlYXRzLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qv0gEA?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "Homeland defense interceptor defeats ballistic missile in test&nbsp;&nbsp;Defense News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91cy1sYXVuY2hlcy1taW51dGVtYW4taWlpLW51Y2xlYXItbWlzc2lsZS1kcmlsbC12aWRlby0xOTA3ODg50gEA",
+      "title": "US Launches Minuteman III Nuclear Missile Drill: Video - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91cy1sYXVuY2hlcy1taW51dGVtYW4taWlpLW51Y2xlYXItbWlzc2lsZS1kcmlsbC12aWRlby0xOTA3ODg50gEA?oc=5",
+      "published": "2024-06-04T11:04:58.000Z",
+      "description": "US Launches Minuteman III Nuclear Missile Drill: Video&nbsp;&nbsp;Newsweek",
       "summary": "",
       "author": "",
       "category": ""
@@ -677,21 +667,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lL9IBZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lLw",
-      "title": "Ukraine downs 'cluster' Kh-101 missile for the very first time - Bulgarian Military",
-      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lL9IBZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lLw?oc=5",
-      "published": "2024-06-07T20:53:32.000Z",
-      "description": "Ukraine downs 'cluster' Kh-101 missile for the very first time&nbsp;&nbsp;Bulgarian Military",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMic2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzE1L3NtLTMtYmFsbGlzdGljLW1pc3NpbGUtaW50ZXJjZXB0b3ItdXNlZC1mb3ItZmlyc3QtdGltZS1pbi1jb21iYXQtb2ZmaWNpYWxzLWNvbmZpcm3SAQA",
       "title": "SM-3 Ballistic Missile Interceptor Used for First Time in Combat, Officials Confirm - USNI News - USNI News",
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzE1L3NtLTMtYmFsbGlzdGljLW1pc3NpbGUtaW50ZXJjZXB0b3ItdXNlZC1mb3ItZmlyc3QtdGltZS1pbi1jb21iYXQtb2ZmaWNpYWxzLWNvbmZpcm3SAQA?oc=5",
       "published": "2024-04-15T07:00:00.000Z",
       "description": "SM-3 Ballistic Missile Interceptor Used for First Time in Combat, Officials Confirm - USNI News&nbsp;&nbsp;USNI News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lL9IBZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lLw",
+      "title": "Ukraine downs 'cluster' Kh-101 missile for the very first time - Bulgarian Military",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lL9IBZmh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDcvdWtyYWluZS1kb3ducy1jbHVzdGVyLWtoLTEwMS1taXNzaWxlLWZvci10aGUtdmVyeS1maXJzdC10aW1lLw?oc=5",
+      "published": "2024-06-07T20:53:32.000Z",
+      "description": "Ukraine downs 'cluster' Kh-101 missile for the very first time&nbsp;&nbsp;Bulgarian Military",
       "summary": "",
       "author": "",
       "category": ""
@@ -827,6 +817,16 @@
       "category": ""
     },
     {
+      "id": "CBMibmh0dHBzOi8vd3d3Lndzai5jb20vcG9saXRpY3MvbmF0aW9uYWwtc2VjdXJpdHkvbWlzc2lsZXMtZGVtYW5kLXRocmVhdHMtd2FpdC10by1idXktdGhlbS1pcy15ZWFycy1sb25nLTMzMzJjMTUx0gEA",
+      "title": "The West Badly Needs More Missiles—but the Wait to Buy Them Is Years Long - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lndzai5jb20vcG9saXRpY3MvbmF0aW9uYWwtc2VjdXJpdHkvbWlzc2lsZXMtZGVtYW5kLXRocmVhdHMtd2FpdC10by1idXktdGhlbS1pcy15ZWFycy1sb25nLTMzMzJjMTUx0gEA?oc=5",
+      "published": "2024-01-03T08:00:00.000Z",
+      "description": "The West Badly Needs More Missiles—but the Wait to Buy Them Is Years Long&nbsp;&nbsp;The Wall Street Journal",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiYWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMy8xMy9ldXJvcGUvYnJpdGFpbi1haXItZGVmZW5zZS1sYXNlci1kcmFnb25maXJlLWludGwtaG5rLW1sL2luZGV4Lmh0bWzSAVpodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAzLzEzL2V1cm9wZS9icml0YWluLWFpci1kZWZlbnNlLWxhc2VyLWRyYWdvbmZpcmUtaW50bC1obmstbWw",
       "title": "Air defense for $13 a shot? How lasers could revolutionize the way militaries counter enemy missiles and drones - CNN",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMy8xMy9ldXJvcGUvYnJpdGFpbi1haXItZGVmZW5zZS1sYXNlci1kcmFnb25maXJlLWludGwtaG5rLW1sL2luZGV4Lmh0bWzSAVpodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzAzLzEzL2V1cm9wZS9icml0YWluLWFpci1kZWZlbnNlLWxhc2VyLWRyYWdvbmZpcmUtaW50bC1obmstbWw?oc=5",
@@ -927,21 +927,21 @@
       "category": ""
     },
     {
-      "id": "CBMiamh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDQvcnVzc2lhLXdhcm5zLW9mLXRvbWFoYXdrLWFnYWluc3QtYmFsdGljLWFuZC1ub3J0aGVybi1mbGVldC1zaGlwcy_SAWpodHRwczovL2J1bGdhcmlhbm1pbGl0YXJ5LmNvbS8yMDI0LzA2LzA0L3J1c3NpYS13YXJucy1vZi10b21haGF3ay1hZ2FpbnN0LWJhbHRpYy1hbmQtbm9ydGhlcm4tZmxlZXQtc2hpcHMv",
-      "title": "Russia warns of Tomahawk against Baltic and Northern Fleet ships - Bulgarian Military",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDQvcnVzc2lhLXdhcm5zLW9mLXRvbWFoYXdrLWFnYWluc3QtYmFsdGljLWFuZC1ub3J0aGVybi1mbGVldC1zaGlwcy_SAWpodHRwczovL2J1bGdhcmlhbm1pbGl0YXJ5LmNvbS8yMDI0LzA2LzA0L3J1c3NpYS13YXJucy1vZi10b21haGF3ay1hZ2FpbnN0LWJhbHRpYy1hbmQtbm9ydGhlcm4tZmxlZXQtc2hpcHMv?oc=5",
-      "published": "2024-06-04T11:25:08.000Z",
-      "description": "Russia warns of Tomahawk against Baltic and Northern Fleet ships&nbsp;&nbsp;Bulgarian Military",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihwFodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyNC8wNC9taW5kLWJvZ2dsaW5nLWlzcmFlbC11a3JhaW5lLWFyZS1tZXJlLXByZXZpZXdzLW9mLWEtbXVjaC1sYXJnZXItcGFjaWZpYy1taXNzaWxlLXdhci1vZmZpY2lhbHMtd2Fybi_SAY0BaHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjQvMDQvbWluZC1ib2dnbGluZy1pc3JhZWwtdWtyYWluZS1hcmUtbWVyZS1wcmV2aWV3cy1vZi1hLW11Y2gtbGFyZ2VyLXBhY2lmaWMtbWlzc2lsZS13YXItb2ZmaWNpYWxzLXdhcm4vP2FtcD0x",
       "title": "‘Mind-boggling’: Israel, Ukraine are mere previews of a much larger Pacific missile war, officials warn - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyNC8wNC9taW5kLWJvZ2dsaW5nLWlzcmFlbC11a3JhaW5lLWFyZS1tZXJlLXByZXZpZXdzLW9mLWEtbXVjaC1sYXJnZXItcGFjaWZpYy1taXNzaWxlLXdhci1vZmZpY2lhbHMtd2Fybi_SAY0BaHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjQvMDQvbWluZC1ib2dnbGluZy1pc3JhZWwtdWtyYWluZS1hcmUtbWVyZS1wcmV2aWV3cy1vZi1hLW11Y2gtbGFyZ2VyLXBhY2lmaWMtbWlzc2lsZS13YXItb2ZmaWNpYWxzLXdhcm4vP2FtcD0x?oc=5",
       "published": "2024-04-17T07:00:00.000Z",
       "description": "‘Mind-boggling’: Israel, Ukraine are mere previews of a much larger Pacific missile war, officials warn&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiamh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDQvcnVzc2lhLXdhcm5zLW9mLXRvbWFoYXdrLWFnYWluc3QtYmFsdGljLWFuZC1ub3J0aGVybi1mbGVldC1zaGlwcy_SAWpodHRwczovL2J1bGdhcmlhbm1pbGl0YXJ5LmNvbS8yMDI0LzA2LzA0L3J1c3NpYS13YXJucy1vZi10b21haGF3ay1hZ2FpbnN0LWJhbHRpYy1hbmQtbm9ydGhlcm4tZmxlZXQtc2hpcHMv",
+      "title": "Russia warns of Tomahawk against Baltic and Northern Fleet ships - Bulgarian Military",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYnVsZ2FyaWFubWlsaXRhcnkuY29tLzIwMjQvMDYvMDQvcnVzc2lhLXdhcm5zLW9mLXRvbWFoYXdrLWFnYWluc3QtYmFsdGljLWFuZC1ub3J0aGVybi1mbGVldC1zaGlwcy_SAWpodHRwczovL2J1bGdhcmlhbm1pbGl0YXJ5LmNvbS8yMDI0LzA2LzA0L3J1c3NpYS13YXJucy1vZi10b21haGF3ay1hZ2FpbnN0LWJhbHRpYy1hbmQtbm9ydGhlcm4tZmxlZXQtc2hpcHMv?oc=5",
+      "published": "2024-06-04T11:25:08.000Z",
+      "description": "Russia warns of Tomahawk against Baltic and Northern Fleet ships&nbsp;&nbsp;Bulgarian Military",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9wb2RjYXN0cy9jaGVjay02L3BvZGNhc3Qtc2hpZWxkaW5nLXNraWVzLW1pc3NpbGUtZGVmZW5zZS1jaGFuZ2luZy13b3JsZNIBAA?oc=5",
       "published": "2024-04-25T07:00:00.000Z",
       "description": "Podcast: Shielding The Skies—Missile Defense In A Changing World&nbsp;&nbsp;Aviation Week",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigwFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlL3JhZGFyLzIwMjMvMTEvMjAvcmF5dGhlb24tcmFkYXItZGVmZWF0cy1taXNzaWxlLWluLXVzLWFybXktdGVzdC1vZi1wYXRyaW90LXJlcGxhY2VtZW50L9IBAA",
+      "title": "Patriot replacement radar defeats cruise missile in Raytheon test - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlL3JhZGFyLzIwMjMvMTEvMjAvcmF5dGhlb24tcmFkYXItZGVmZWF0cy1taXNzaWxlLWluLXVzLWFybXktdGVzdC1vZi1wYXRyaW90LXJlcGxhY2VtZW50L9IBAA?oc=5",
+      "published": "2023-11-20T08:00:00.000Z",
+      "description": "Patriot replacement radar defeats cruise missile in Raytheon test&nbsp;&nbsp;C4ISRNET",
       "summary": "",
       "author": "",
       "category": ""
