@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-10T15:28:24.000Z",
+  "published": "2024-06-10T16:36:18.000Z",
   "entries": [
     {
       "id": "CBMiW2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA2LTA3L3N1Ym1hcmluZS1ib3NzbXVsdGktYmlsbGlvbi1hdWt1cy1wYXltZW50cy8xMDM5NTI1MjjSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAzOTUyNTI4",
@@ -62,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLWRvdWJ0ZnVsLWl0LWNvdWxkLWhlbHAtcy1rb3JlYS1udWNsZWFyLXBvd2VyZWQtc3Vicy0yMDI0LTA2LTAxL9IBAA?oc=5",
       "published": "2024-06-01T07:00:00.000Z",
       "description": "US doubtful it could help South Korea on nuclear-powered subs&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3Npci1rZWlyLXN0YXJtZXItc2F5cy1uYXRpb25hbC1zZWN1cml0eS1jb21lcy1maXJzdC1hcy1oZS1tYWtlcy1waXRjaC10by10b3J5LXZvdGVycy0xMzE0NzA0MNIBfGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9zaXIta2Vpci1zdGFybWVyLXNheXMtbmF0aW9uYWwtc2VjdXJpdHktY29tZXMtZmlyc3QtYXMtaGUtbWFrZXMtcGl0Y2gtdG8tdG9yeS12b3RlcnMtMTMxNDcwNDA",
+      "title": "Sir Keir Starmer says national security 'comes first' as he makes pitch to Tory voters - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L3Npci1rZWlyLXN0YXJtZXItc2F5cy1uYXRpb25hbC1zZWN1cml0eS1jb21lcy1maXJzdC1hcy1oZS1tYWtlcy1waXRjaC10by10b3J5LXZvdGVycy0xMzE0NzA0MNIBfGh0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9zaXIta2Vpci1zdGFybWVyLXNheXMtbmF0aW9uYWwtc2VjdXJpdHktY29tZXMtZmlyc3QtYXMtaGUtbWFrZXMtcGl0Y2gtdG8tdG9yeS12b3RlcnMtMTMxNDcwNDA?oc=5",
+      "published": "2024-06-02T21:44:26.000Z",
+      "description": "Sir Keir Starmer says national security 'comes first' as he makes pitch to Tory voters&nbsp;&nbsp;Sky News",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,16 +667,6 @@
       "category": ""
     },
     {
-      "id": "CBMiWWh0dHBzOi8vcXV3YS5vcmcvcGFraXN0YW4tbmF2eS1uZXdzL3Bha2lzdGFuLW5hdnktaGludHMtbmVlZC1mb3ItZGVkaWNhdGVkLW51Y2xlYXItYXNzZXQv0gEA",
-      "title": "Pakistan Navy Hints Need for Dedicated Nuclear Asset - Quwa",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vcXV3YS5vcmcvcGFraXN0YW4tbmF2eS1uZXdzL3Bha2lzdGFuLW5hdnktaGludHMtbmVlZC1mb3ItZGVkaWNhdGVkLW51Y2xlYXItYXNzZXQv0gEA?oc=5",
-      "published": "2024-06-10T02:02:16.000Z",
-      "description": "Pakistan Navy Hints Need for Dedicated Nuclear Asset&nbsp;&nbsp;Quwa",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiN2h0dHBzOi8vdGltZS5jb20vNjMzMjAxNC9taWRkbGUtZWFzdC1udWNsZWFyLXN1Ym1hcmluZS_SAQA",
       "title": "U.S. Announces Arrival of Nuclear Submarine in Middle East | TIME - TIME",
       "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vdGltZS5jb20vNjMzMjAxNC9taWRkbGUtZWFzdC1udWNsZWFyLXN1Ym1hcmluZS_SAQA?oc=5",
@@ -692,6 +692,16 @@
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wNS9wb2xpdGljcy91cy1taXNzaWxlLXN1Ym1hcmluZS1taWRkbGUtZWFzdC9pbmRleC5odG1s0gFMaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMS8wNS9wb2xpdGljcy91cy1taXNzaWxlLXN1Ym1hcmluZS1taWRkbGUtZWFzdA?oc=5",
       "published": "2023-11-05T07:00:00.000Z",
       "description": "In rare announcement, US says guided missile sub has arrived in Middle East, a message of deterrence to adversaries&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWWh0dHBzOi8vcXV3YS5vcmcvcGFraXN0YW4tbmF2eS1uZXdzL3Bha2lzdGFuLW5hdnktaGludHMtbmVlZC1mb3ItZGVkaWNhdGVkLW51Y2xlYXItYXNzZXQv0gEA",
+      "title": "Pakistan Navy Hints Need for Dedicated Nuclear Asset - Quwa",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vcXV3YS5vcmcvcGFraXN0YW4tbmF2eS1uZXdzL3Bha2lzdGFuLW5hdnktaGludHMtbmVlZC1mb3ItZGVkaWNhdGVkLW51Y2xlYXItYXNzZXQv0gEA?oc=5",
+      "published": "2024-06-10T02:02:16.000Z",
+      "description": "Pakistan Navy Hints Need for Dedicated Nuclear Asset&nbsp;&nbsp;Quwa",
       "summary": "",
       "author": "",
       "category": ""
@@ -727,21 +737,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWWh0dHBzOi8vd3d3LnRoZW1hbmRhcmluLmNvbS5hdS8yNDc3NDYtYXVzdHJhbGlhLXRvLXNlcnZpY2UtdXMtbnVjbGVhci1zdWJzLXdpdGhpbi1tb250aHMv0gEA",
-      "title": "Australia to service US nuclear subs within months - The Mandarin",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZW1hbmRhcmluLmNvbS5hdS8yNDc3NDYtYXVzdHJhbGlhLXRvLXNlcnZpY2UtdXMtbnVjbGVhci1zdWJzLXdpdGhpbi1tb250aHMv0gEA?oc=5",
-      "published": "2024-06-04T10:31:36.000Z",
-      "description": "Australia to service US nuclear subs within months&nbsp;&nbsp;The Mandarin",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiggFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL2ludGVybmF0aW9uYWwvYXJ0aWNsZS8yMDI0LzAzLzI3L2ZyYW5jZS10by1oZWxwLWJyYXppbC1kZXZlbG9wLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzXzY2NTk4MTJfNC5odG1s0gEA",
       "title": "France to help Brazil develop nuclear-powered submarines - Le Monde",
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL2ludGVybmF0aW9uYWwvYXJ0aWNsZS8yMDI0LzAzLzI3L2ZyYW5jZS10by1oZWxwLWJyYXppbC1kZXZlbG9wLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzXzY2NTk4MTJfNC5odG1s0gEA?oc=5",
       "published": "2024-03-27T07:00:00.000Z",
       "description": "France to help Brazil develop nuclear-powered submarines&nbsp;&nbsp;Le Monde",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWWh0dHBzOi8vd3d3LnRoZW1hbmRhcmluLmNvbS5hdS8yNDc3NDYtYXVzdHJhbGlhLXRvLXNlcnZpY2UtdXMtbnVjbGVhci1zdWJzLXdpdGhpbi1tb250aHMv0gEA",
+      "title": "Australia to service US nuclear subs within months - The Mandarin",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZW1hbmRhcmluLmNvbS5hdS8yNDc3NDYtYXVzdHJhbGlhLXRvLXNlcnZpY2UtdXMtbnVjbGVhci1zdWJzLXdpdGhpbi1tb250aHMv0gEA?oc=5",
+      "published": "2024-06-04T10:31:36.000Z",
+      "description": "Australia to service US nuclear subs within months&nbsp;&nbsp;The Mandarin",
       "summary": "",
       "author": "",
       "category": ""
@@ -757,21 +767,21 @@
       "category": ""
     },
     {
-      "id": "CBMiaWh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2F1a3VzLW5vLXJlZnVuZC1mb3ItOS00LWJpbGxpb24tZ2lmdC10by11cy11ay1zdWJtYXJpbmUtY29tcGFuaWVzL9IBAA",
-      "title": "AUKUS: No refund for $9.4 billion gift to US & UK submarine companies - APDR - Asia Pacific Defence Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2F1a3VzLW5vLXJlZnVuZC1mb3ItOS00LWJpbGxpb24tZ2lmdC10by11cy11ay1zdWJtYXJpbmUtY29tcGFuaWVzL9IBAA?oc=5",
-      "published": "2024-06-06T23:34:14.000Z",
-      "description": "AUKUS: No refund for $9.4 billion gift to US & UK submarine companies - APDR&nbsp;&nbsp;Asia Pacific Defence Reporter",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEwLzYvdHJ1bXAtcmV2ZWFsZWQtdXMtbnVjbGVhci1zdWJzLXNlY3JldHMtdG8tYXVzdHJhbGlhbi1idXNpbmVzc21hbi11cy1tZWRpYdIBdmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8xMC82L3RydW1wLXJldmVhbGVkLXVzLW51Y2xlYXItc3Vicy1zZWNyZXRzLXRvLWF1c3RyYWxpYW4tYnVzaW5lc3NtYW4tdXMtbWVkaWE",
       "title": "Trump revealed US nuclear submarine secrets to Australia businessman: Media - Al Jazeera English",
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEwLzYvdHJ1bXAtcmV2ZWFsZWQtdXMtbnVjbGVhci1zdWJzLXNlY3JldHMtdG8tYXVzdHJhbGlhbi1idXNpbmVzc21hbi11cy1tZWRpYdIBdmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8xMC82L3RydW1wLXJldmVhbGVkLXVzLW51Y2xlYXItc3Vicy1zZWNyZXRzLXRvLWF1c3RyYWxpYW4tYnVzaW5lc3NtYW4tdXMtbWVkaWE?oc=5",
       "published": "2023-10-06T07:00:00.000Z",
       "description": "Trump revealed US nuclear submarine secrets to Australia businessman: Media&nbsp;&nbsp;Al Jazeera English",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2F1a3VzLW5vLXJlZnVuZC1mb3ItOS00LWJpbGxpb24tZ2lmdC10by11cy11ay1zdWJtYXJpbmUtY29tcGFuaWVzL9IBAA",
+      "title": "AUKUS: No refund for $9.4 billion gift to US & UK submarine companies - APDR - Asia Pacific Defence Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2F1a3VzLW5vLXJlZnVuZC1mb3ItOS00LWJpbGxpb24tZ2lmdC10by11cy11ay1zdWJtYXJpbmUtY29tcGFuaWVzL9IBAA?oc=5",
+      "published": "2024-06-06T23:34:14.000Z",
+      "description": "AUKUS: No refund for $9.4 billion gift to US & UK submarine companies - APDR&nbsp;&nbsp;Asia Pacific Defence Reporter",
       "summary": "",
       "author": "",
       "category": ""
@@ -807,21 +817,21 @@
       "category": ""
     },
     {
-      "id": "CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NS5hbXA",
-      "title": "Trident missile test fails for second time in a row - BBC.com",
-      "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NS5hbXA?oc=5",
-      "published": "2024-02-21T08:00:00.000Z",
-      "description": "Trident missile test fails for second time in a row&nbsp;&nbsp;BBC.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYWh0dHBzOi8vZWFzdGFzaWFmb3J1bS5vcmcvMjAyMy8wOS8xNS9hdWt1cy1icmluZ3MtbW9yZS10aGFuLW51Y2xlYXItc3VibWFyaW5lcy10by1zb3V0aGVhc3QtYXNpYS_SAQA",
       "title": "AUKUS brings more than nuclear submarines to Southeast Asia - East Asia Forum",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZWFzdGFzaWFmb3J1bS5vcmcvMjAyMy8wOS8xNS9hdWt1cy1icmluZ3MtbW9yZS10aGFuLW51Y2xlYXItc3VibWFyaW5lcy10by1zb3V0aGVhc3QtYXNpYS_SAQA?oc=5",
       "published": "2023-09-15T07:00:00.000Z",
       "description": "AUKUS brings more than nuclear submarines to Southeast Asia&nbsp;&nbsp;East Asia Forum",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NS5hbXA",
+      "title": "Trident missile test fails for second time in a row - BBC.com",
+      "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NS5hbXA?oc=5",
+      "published": "2024-02-21T08:00:00.000Z",
+      "description": "Trident missile test fails for second time in a row&nbsp;&nbsp;BBC.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -907,21 +917,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vZ2NhcHRhaW4uY29tL2hlcmVzLXdoeS10aGUtdXMtbmF2eS1uZWVkcy1tb3JlLXZpcmdpbmlhLWNsYXNzLXN1Ym1hcmluZXMtbm93L9IBAA",
-      "title": "Here's Why the US Navy Needs More Virginia-Class Submarines Now - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZ2NhcHRhaW4uY29tL2hlcmVzLXdoeS10aGUtdXMtbmF2eS1uZWVkcy1tb3JlLXZpcmdpbmlhLWNsYXNzLXN1Ym1hcmluZXMtbm93L9IBAA?oc=5",
-      "published": "2024-06-01T07:00:00.000Z",
-      "description": "Here's Why the US Navy Needs More Virginia-Class Submarines Now&nbsp;&nbsp;gCaptain",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiamh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2RlZmVuc2UvNDE1MTU4OC1ydXNzaWEtZGVwbG95aW5nLWh5cGVyc29uaWMtbWlzc2lsZXMtb24tbmV3LW51Y2xlYXItc3VibWFyaW5lcy_SAW5odHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9kZWZlbnNlLzQxNTE1ODgtcnVzc2lhLWRlcGxveWluZy1oeXBlcnNvbmljLW1pc3NpbGVzLW9uLW5ldy1udWNsZWFyLXN1Ym1hcmluZXMvYW1wLw",
       "title": "Russia deploying hypersonic missiles on new nuclear submarines - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2RlZmVuc2UvNDE1MTU4OC1ydXNzaWEtZGVwbG95aW5nLWh5cGVyc29uaWMtbWlzc2lsZXMtb24tbmV3LW51Y2xlYXItc3VibWFyaW5lcy_SAW5odHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9kZWZlbnNlLzQxNTE1ODgtcnVzc2lhLWRlcGxveWluZy1oeXBlcnNvbmljLW1pc3NpbGVzLW9uLW5ldy1udWNsZWFyLXN1Ym1hcmluZXMvYW1wLw?oc=5",
       "published": "2023-08-14T07:00:00.000Z",
       "description": "Russia deploying hypersonic missiles on new nuclear submarines&nbsp;&nbsp;The Hill",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vZ2NhcHRhaW4uY29tL2hlcmVzLXdoeS10aGUtdXMtbmF2eS1uZWVkcy1tb3JlLXZpcmdpbmlhLWNsYXNzLXN1Ym1hcmluZXMtbm93L9IBAA",
+      "title": "Here's Why the US Navy Needs More Virginia-Class Submarines Now - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZ2NhcHRhaW4uY29tL2hlcmVzLXdoeS10aGUtdXMtbmF2eS1uZWVkcy1tb3JlLXZpcmdpbmlhLWNsYXNzLXN1Ym1hcmluZXMtbm93L9IBAA?oc=5",
+      "published": "2024-06-01T07:00:00.000Z",
+      "description": "Here's Why the US Navy Needs More Virginia-Class Submarines Now&nbsp;&nbsp;gCaptain",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL2ZyZW5jaC1uYXZ5LXJlY2VpdmVzLWl0cy1zZWNvbmQtbmV4dC1nZW5lcmF0aW9uLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmXSAQA?oc=5",
       "published": "2023-08-18T07:00:00.000Z",
       "description": "French Navy Receives its Second Next-Generation Nuclear-Powered Submarine&nbsp;&nbsp;The Maritime Executive",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMid2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvcG9saXRpY3MvZmVkZXJhbC9nb2luZy1kZWVwLXdoby1oYXMtdGhlLXJpZ2h0LXN0dWZmLWZvci1saWZlLW9uLWEtc3VibWFyaW5lLTIwMjQwNTIzLXA1amcwMS5odG1s0gF3aHR0cHM6Ly9hbXAuc21oLmNvbS5hdS9wb2xpdGljcy9mZWRlcmFsL2dvaW5nLWRlZXAtd2hvLWhhcy10aGUtcmlnaHQtc3R1ZmYtZm9yLWxpZmUtb24tYS1zdWJtYXJpbmUtMjAyNDA1MjMtcDVqZzAxLmh0bWw",
-      "title": "Going deep: Who has the right stuff for life on a submarine? - Sydney Morning Herald",
-      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnNtaC5jb20uYXUvcG9saXRpY3MvZmVkZXJhbC9nb2luZy1kZWVwLXdoby1oYXMtdGhlLXJpZ2h0LXN0dWZmLWZvci1saWZlLW9uLWEtc3VibWFyaW5lLTIwMjQwNTIzLXA1amcwMS5odG1s0gF3aHR0cHM6Ly9hbXAuc21oLmNvbS5hdS9wb2xpdGljcy9mZWRlcmFsL2dvaW5nLWRlZXAtd2hvLWhhcy10aGUtcmlnaHQtc3R1ZmYtZm9yLWxpZmUtb24tYS1zdWJtYXJpbmUtMjAyNDA1MjMtcDVqZzAxLmh0bWw?oc=5",
-      "published": "2024-06-08T18:27:00.000Z",
-      "description": "Going deep: Who has the right stuff for life on a submarine?&nbsp;&nbsp;Sydney Morning Herald",
       "summary": "",
       "author": "",
       "category": ""
