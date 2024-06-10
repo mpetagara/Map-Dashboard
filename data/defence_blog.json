@@ -7,8 +7,44 @@
   },
   "language": "",
   "generator": "",
-  "published": "2024-06-10T08:25:36.000Z",
+  "published": "2024-06-10T08:56:22.000Z",
   "entries": [
+    {
+      "id": "https://defence-blog.com/?p=74763",
+      "title": "Ukrainian Su-25s now armed with French Hammer bombs",
+      "link": "https://defence-blog.com/ukrainian-su-25s-now-armed-with-french-hammer-bombs/",
+      "published": "2024-06-10T08:56:22.000Z",
+      "description": "[object Object]",
+      "summary": {
+        "#text": "<p>Ukraine has successfully adapted its Su-25 attack aircraft to deploy the advanced French AASM HAMMER precision-guided bombs, enhancing their capability to strike Russian forces with greater accuracy and effectiveness. This development was reported by the defense publication Militarniy, citing a statement from Colonel Serhiy Holubtsov, the head of aviation for the Ukrainian Air Force Command. [&#8230;]</p>\nThe post <a href=\"https://defence-blog.com/ukrainian-su-25s-now-armed-with-french-hammer-bombs/\">Ukrainian Su-25s now armed with French Hammer bombs</a> first appeared on <a href=\"https://defence-blog.com\">Defence Blog</a>.",
+        "@_type": "html"
+      },
+      "author": {
+        "name": "Dylan Malyasov"
+      },
+      "category": [
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "Aviation"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "News"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "AASM-250 Hammer"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "Su-25"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "Ukraine"
+        }
+      ]
+    },
     {
       "id": "https://defence-blog.com/?p=74758",
       "title": "Mercedes-Benz expands defense portfolio with new Zetros 8×8",
@@ -378,50 +414,6 @@
         {
           "@_scheme": "https://defence-blog.com",
           "@_term": "Ukraine"
-        }
-      ]
-    },
-    {
-      "id": "https://defence-blog.com/?p=74719",
-      "title": "US Army to receive next generation Abrams tank",
-      "link": "https://defence-blog.com/us-army-to-receive-next-generation-abrams-tank/",
-      "published": "2024-06-07T10:50:36.000Z",
-      "description": "[object Object]",
-      "summary": {
-        "#text": "<p>The U.S. Army has awarded a contract to General Dynamics Land Systems (GDLS) to begin the preliminary design of the new M1E3 Abrams tank variant, which aims to be lighter and feature advanced technologies to enhance survivability on the battlefield. This initiative is part of a broader effort to modernize the Army’s combat vehicle fleet, [&#8230;]</p>\nThe post <a href=\"https://defence-blog.com/us-army-to-receive-next-generation-abrams-tank/\">US Army to receive next generation Abrams tank</a> first appeared on <a href=\"https://defence-blog.com\">Defence Blog</a>.",
-        "@_type": "html"
-      },
-      "author": {
-        "name": "Dylan Malyasov"
-      },
-      "category": [
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Army"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "News"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Abrams"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "future"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "General Dynamics"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "M1E3"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "USA"
         }
       ]
     }

@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-10T08:32:23.000Z",
+  "published": "2024-06-10T09:27:34.000Z",
   "entries": [
     {
       "id": "CBMiQGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDcvYi01Mi1jcmV3LWhlcm9pYy1yZWNvdmVyeS_SAQA",
@@ -287,6 +287,16 @@
       "category": ""
     },
     {
+      "id": "CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2Nzc0My9iLTUyLWJvbWJlcnMtcmV0dXJuLWhvbWUtYWZ0ZXItYnRmLWRlcGxveW1lbnQtZGllZ28tZ2FyY2lh0gEA",
+      "title": "B-52 Bombers return home after BTF deployment to Diego Garcia - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2Nzc0My9iLTUyLWJvbWJlcnMtcmV0dXJuLWhvbWUtYWZ0ZXItYnRmLWRlcGxveW1lbnQtZGllZ28tZ2FyY2lh0gEA?oc=5",
+      "published": "2024-04-03T07:00:00.000Z",
+      "description": "B-52 Bombers return home after BTF deployment to Diego Garcia&nbsp;&nbsp;DVIDS",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiUWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUyLXBoaWxpcHBpbmUtZmlnaHRlcnMtZmxpZXMtc291dGgtY2hpbmEtc2VhL9IBAA",
       "title": "B-52 Flies with Philippine Fighters over the South China Sea - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUyLXBoaWxpcHBpbmUtZmlnaHRlcnMtZmxpZXMtc291dGgtY2hpbmEtc2VhL9IBAA?oc=5",
@@ -302,16 +312,6 @@
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS90cmFpbmluZy1zaW0vMjAyNC8wMi8xMi93ZWFwb25zLWhvdC1sZXNzb25zLWFuZC1taXN0YWtlcy1vbi1hLWItNTItYm9tYmVyLXRyYWluaW5nLWZsaWdodC_SAQA?oc=5",
       "published": "2024-02-12T08:00:00.000Z",
       "description": "'Weapons hot': Lessons and mistakes on a B-52 bomber training flight&nbsp;&nbsp;Defense News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2Nzc0My9iLTUyLWJvbWJlcnMtcmV0dXJuLWhvbWUtYWZ0ZXItYnRmLWRlcGxveW1lbnQtZGllZ28tZ2FyY2lh0gEA",
-      "title": "B-52 Bombers return home after BTF deployment to Diego Garcia - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2Nzc0My9iLTUyLWJvbWJlcnMtcmV0dXJuLWhvbWUtYWZ0ZXItYnRmLWRlcGxveW1lbnQtZGllZ28tZ2FyY2lh0gEA?oc=5",
-      "published": "2024-04-03T07:00:00.000Z",
-      "description": "B-52 Bombers return home after BTF deployment to Diego Garcia&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
@@ -447,21 +447,21 @@
       "category": ""
     },
     {
-      "id": "CBMiXmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMjYvdS1zLWFpci1mb3JjZS1kZXBsb3lzLWItNTJoLWFuZC1iLTFiLWJvbWJlci10YXNrLWZvcmNlcy_SAQA",
-      "title": "U.S. Air Force Deploys B-52H And B-1B Bomber Task Forces - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMjYvdS1zLWFpci1mb3JjZS1kZXBsb3lzLWItNTJoLWFuZC1iLTFiLWJvbWJlci10YXNrLWZvcmNlcy_SAQA?oc=5",
-      "published": "2024-03-26T07:00:00.000Z",
-      "description": "U.S. Air Force Deploys B-52H And B-1B Bomber Task Forces&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvY2hpbmVzZS1maWdodGVyLWpldC1jcmFzaGVzLWFtZXJpY2FuLTUyLWJvbWJlci1zb3V0aC9zdG9yeT9pZD0xMDQzNzA1MjTSAWtodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9jaGluZXNlLWZpZ2h0ZXItamV0LWNyYXNoZXMtYW1lcmljYW4tNTItYm9tYmVyLXNvdXRoL3N0b3J5P2lkPTEwNDM3MDUyNA",
       "title": "Chinese fighter jet nearly collides with American B-52 bomber over South China Sea: US officials - ABC News",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvY2hpbmVzZS1maWdodGVyLWpldC1jcmFzaGVzLWFtZXJpY2FuLTUyLWJvbWJlci1zb3V0aC9zdG9yeT9pZD0xMDQzNzA1MjTSAWtodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9jaGluZXNlLWZpZ2h0ZXItamV0LWNyYXNoZXMtYW1lcmljYW4tNTItYm9tYmVyLXNvdXRoL3N0b3J5P2lkPTEwNDM3MDUyNA?oc=5",
       "published": "2023-10-26T07:00:00.000Z",
       "description": "Chinese fighter jet nearly collides with American B-52 bomber over South China Sea: US officials&nbsp;&nbsp;ABC News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMjYvdS1zLWFpci1mb3JjZS1kZXBsb3lzLWItNTJoLWFuZC1iLTFiLWJvbWJlci10YXNrLWZvcmNlcy_SAQA",
+      "title": "U.S. Air Force Deploys B-52H And B-1B Bomber Task Forces - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMjYvdS1zLWFpci1mb3JjZS1kZXBsb3lzLWItNTJoLWFuZC1iLTFiLWJvbWJlci10YXNrLWZvcmNlcy_SAQA?oc=5",
+      "published": "2024-03-26T07:00:00.000Z",
+      "description": "U.S. Air Force Deploys B-52H And B-1B Bomber Task Forces&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -597,21 +597,21 @@
       "category": ""
     },
     {
-      "id": "CBMiiAFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cvYnV6ei93YXJuaW5nLWNoaW5hLWFuZC1ub3J0aC1rb3JlYS0lRTIlODAlOTMtYi01Mmgtc3RyYXRvZm9ydHJlc3MtYm9tYmVycy1hcmUtYmFjay1pbmRvLXBhY2lmaWMtMjEwNDEx0gEA",
-      "title": "Warning To China and North Korea – B-52H Stratofortress Bombers Are Back in the Indo-Pacific - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cvYnV6ei93YXJuaW5nLWNoaW5hLWFuZC1ub3J0aC1rb3JlYS0lRTIlODAlOTMtYi01Mmgtc3RyYXRvZm9ydHJlc3MtYm9tYmVycy1hcmUtYmFjay1pbmRvLXBhY2lmaWMtMjEwNDEx0gEA?oc=5",
-      "published": "2024-04-05T07:00:00.000Z",
-      "description": "Warning To China and North Korea – B-52H Stratofortress Bombers Are Back in the Indo-Pacific&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiP2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMTcvYi01Mi1zb3V0aC1rb3JlYS1sYW5kaW5nL9IBAA",
       "title": "U.S. B-52 Strategic Bomber Makes First Landing in South Korea In 35 Years - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMTcvYi01Mi1zb3V0aC1rb3JlYS1sYW5kaW5nL9IBAA?oc=5",
       "published": "2023-10-17T07:00:00.000Z",
       "description": "U.S. B-52 Strategic Bomber Makes First Landing in South Korea In 35 Years&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiiAFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cvYnV6ei93YXJuaW5nLWNoaW5hLWFuZC1ub3J0aC1rb3JlYS0lRTIlODAlOTMtYi01Mmgtc3RyYXRvZm9ydHJlc3MtYm9tYmVycy1hcmUtYmFjay1pbmRvLXBhY2lmaWMtMjEwNDEx0gEA",
+      "title": "Warning To China and North Korea – B-52H Stratofortress Bombers Are Back in the Indo-Pacific - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cvYnV6ei93YXJuaW5nLWNoaW5hLWFuZC1ub3J0aC1rb3JlYS0lRTIlODAlOTMtYi01Mmgtc3RyYXRvZm9ydHJlc3MtYm9tYmVycy1hcmUtYmFjay1pbmRvLXBhY2lmaWMtMjEwNDEx0gEA?oc=5",
+      "published": "2024-04-05T07:00:00.000Z",
+      "description": "Warning To China and North Korea – B-52H Stratofortress Bombers Are Back in the Indo-Pacific&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -707,6 +707,16 @@
       "category": ""
     },
     {
+      "id": "CBMiUmh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vbWlsaXRhcnkvYjUyaC1ib21iZXJzLWNpdmlsaWFuLWFpcmZpZWxkLWxhbmRpbmfSAQA",
+      "title": "US' massive B-52H bombers test civilian airfield landing capability - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vbWlsaXRhcnkvYjUyaC1ib21iZXJzLWNpdmlsaWFuLWFpcmZpZWxkLWxhbmRpbmfSAQA?oc=5",
+      "published": "2024-04-19T07:00:00.000Z",
+      "description": "US' massive B-52H bombers test civilian airfield landing capability&nbsp;&nbsp;Interesting Engineering",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLWFpci1mb3JjZS1wYXJrZWQtYi01Mi1ib21iZXJzLWNsb3NlLWNoaW5hLWNyaXRpY2FsLXdhcmdhbWUtMjA5MTI40gEA",
       "title": "The U.S. Air Force Parked B-52 Bombers Close to China for Critical Wargame - The National Interest Online",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLWFpci1mb3JjZS1wYXJrZWQtYi01Mi1ib21iZXJzLWNsb3NlLWNoaW5hLWNyaXRpY2FsLXdhcmdhbWUtMjA5MTI40gEA?oc=5",
@@ -737,16 +747,6 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vbWlsaXRhcnkvYjUyaC1ib21iZXJzLWNpdmlsaWFuLWFpcmZpZWxkLWxhbmRpbmfSAQA",
-      "title": "US' massive B-52H bombers test civilian airfield landing capability - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vbWlsaXRhcnkvYjUyaC1ib21iZXJzLWNpdmlsaWFuLWFpcmZpZWxkLWxhbmRpbmfSAQA?oc=5",
-      "published": "2024-04-19T07:00:00.000Z",
-      "description": "US' massive B-52H bombers test civilian airfield landing capability&nbsp;&nbsp;Interesting Engineering",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiQWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ib2Vpbmctc3RyYXRvZm9ydHJlc3MtbGlmZXNwYW4tYW5hbHlzaXMv0gEA",
       "title": "Why Is The Boeing B-52 Stratofortress Expected To Have Such A Long Service Life? - Simple Flying",
       "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ib2Vpbmctc3RyYXRvZm9ydHJlc3MtbGlmZXNwYW4tYW5hbHlzaXMv0gEA?oc=5",
@@ -757,21 +757,21 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vc3VwZXJjYXJibG9uZGllLmNvbS9iLTUyLWJvbWJlci1jYXB0dXJlZC1mbHlpbmctb3ZlcmhlYWQtaW4tcmFyZS1zaWdodGluZy_SAQA",
-      "title": "B-52 Bomber captured flying overhead in rare sighting - Supercar Blondie",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc3VwZXJjYXJibG9uZGllLmNvbS9iLTUyLWJvbWJlci1jYXB0dXJlZC1mbHlpbmctb3ZlcmhlYWQtaW4tcmFyZS1zaWdodGluZy_SAQA?oc=5",
-      "published": "2024-04-17T07:00:00.000Z",
-      "description": "B-52 Bomber captured flying overhead in rare sighting&nbsp;&nbsp;Supercar Blondie",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZ2h0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvYXVkaXQtcmFpc2VzLWNvbmNlcm5zLW92ZXItdXNhZi1iLTUyLWJvbWJlci1zcGFyZXMtbWFuYWdlbWVudC_SAQA",
       "title": "Audit raises concerns over USAF B-52 bomber spares management - Airforce Technology - Airforce Technology",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvYXVkaXQtcmFpc2VzLWNvbmNlcm5zLW92ZXItdXNhZi1iLTUyLWJvbWJlci1zcGFyZXMtbWFuYWdlbWVudC_SAQA?oc=5",
       "published": "2023-12-07T08:00:00.000Z",
       "description": "Audit raises concerns over USAF B-52 bomber spares management - Airforce Technology&nbsp;&nbsp;Airforce Technology",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUmh0dHBzOi8vc3VwZXJjYXJibG9uZGllLmNvbS9iLTUyLWJvbWJlci1jYXB0dXJlZC1mbHlpbmctb3ZlcmhlYWQtaW4tcmFyZS1zaWdodGluZy_SAQA",
+      "title": "B-52 Bomber captured flying overhead in rare sighting - Supercar Blondie",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc3VwZXJjYXJibG9uZGllLmNvbS9iLTUyLWJvbWJlci1jYXB0dXJlZC1mbHlpbmctb3ZlcmhlYWQtaW4tcmFyZS1zaWdodGluZy_SAQA?oc=5",
+      "published": "2024-04-17T07:00:00.000Z",
+      "description": "B-52 Bomber captured flying overhead in rare sighting&nbsp;&nbsp;Supercar Blondie",
       "summary": "",
       "author": "",
       "category": ""
@@ -817,16 +817,6 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDIzLTEwLTE4L2I1Mi1ib21iZXItc291dGgta29yZWEtdHJpbGF0ZXJhbC0xMTc0NTYyMi5odG1s0gEA",
-      "title": "B-52 bomber makes rare touchdown in South Korea, may take part in trilateral drills - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDIzLTEwLTE4L2I1Mi1ib21iZXItc291dGgta29yZWEtdHJpbGF0ZXJhbC0xMTc0NTYyMi5odG1s0gEA?oc=5",
-      "published": "2023-10-18T07:00:00.000Z",
-      "description": "B-52 bomber makes rare touchdown in South Korea, may take part in trilateral drills&nbsp;&nbsp;Stars and Stripes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL25jYi1lZGl0ZWQtYWdhaW5zdC1ncm93aW5nLWNoaW5hLWNoYWxsZW5nZS11cy1taWxpdGFyeS_SAVVodHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9uY2ItZWRpdGVkLWFnYWluc3QtZ3Jvd2luZy1jaGluYS1jaGFsbGVuZ2UtdXMtbWlsaXRhcnkv",
       "title": "Once “Graveyard” For B-52 Bombers, US Deploys Stratofortress To Indo-Pacific Ahead Of Cope North Drills - EurAsian Times",
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL25jYi1lZGl0ZWQtYWdhaW5zdC1ncm93aW5nLWNoaW5hLWNoYWxsZW5nZS11cy1taWxpdGFyeS_SAVVodHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9uY2ItZWRpdGVkLWFnYWluc3QtZ3Jvd2luZy1jaGluYS1jaGFsbGVuZ2UtdXMtbWlsaXRhcnkv?oc=5",
@@ -867,6 +857,16 @@
       "category": ""
     },
     {
+      "id": "CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyMy8xMS8xNS9wcmF0dC13aW5zLWVuZ2luZS13b3JrLWNvbnRyYWN0LXRvLWtlZXAtYWdpbmctYi01Mi1hd2Fjcy1mbHlpbmcv0gEA",
+      "title": "Pratt wins engine-work contract to keep aging B-52, AWACS flying - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyMy8xMS8xNS9wcmF0dC13aW5zLWVuZ2luZS13b3JrLWNvbnRyYWN0LXRvLWtlZXAtYWdpbmctYi01Mi1hd2Fjcy1mbHlpbmcv0gEA?oc=5",
+      "published": "2023-11-15T08:00:00.000Z",
+      "description": "Pratt wins engine-work contract to keep aging B-52, AWACS flying&nbsp;&nbsp;Defense News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMid2h0dHBzOi8vZW5nbGlzaC5reW9kb25ld3MubmV0L25ld3MvMjAyMy8xMC9hODc4NmFiMjdmYTAtdXMtc3RyYXRlZ2ljLWJvbWJlci10by1sYW5kLWluLXMta29yZWEtYW1pZC1uLWtvcmVhLXRocmVhdC5odG1s0gEA",
       "title": "U.S. B-52 strategic bomber to land in South Korea amid North Korea threat - Kyodo News Plus",
       "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vZW5nbGlzaC5reW9kb25ld3MubmV0L25ld3MvMjAyMy8xMC9hODc4NmFiMjdmYTAtdXMtc3RyYXRlZ2ljLWJvbWJlci10by1sYW5kLWluLXMta29yZWEtYW1pZC1uLWtvcmVhLXRocmVhdC5odG1s0gEA?oc=5",
@@ -877,11 +877,11 @@
       "category": ""
     },
     {
-      "id": "CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyMy8xMS8xNS9wcmF0dC13aW5zLWVuZ2luZS13b3JrLWNvbnRyYWN0LXRvLWtlZXAtYWdpbmctYi01Mi1hd2Fjcy1mbHlpbmcv0gEA",
-      "title": "Pratt wins engine-work contract to keep aging B-52, AWACS flying - Defense News",
-      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyMy8xMS8xNS9wcmF0dC13aW5zLWVuZ2luZS13b3JrLWNvbnRyYWN0LXRvLWtlZXAtYWdpbmctYi01Mi1hd2Fjcy1mbHlpbmcv0gEA?oc=5",
-      "published": "2023-11-15T08:00:00.000Z",
-      "description": "Pratt wins engine-work contract to keep aging B-52, AWACS flying&nbsp;&nbsp;Defense News",
+      "id": "CBMiZWh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDIzLTEwLTE4L2I1Mi1ib21iZXItc291dGgta29yZWEtdHJpbGF0ZXJhbC0xMTc0NTYyMi5odG1s0gEA",
+      "title": "B-52 bomber makes rare touchdown in South Korea, may take part in trilateral drills - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDIzLTEwLTE4L2I1Mi1ib21iZXItc291dGgta29yZWEtdHJpbGF0ZXJhbC0xMTc0NTYyMi5odG1s0gEA?oc=5",
+      "published": "2023-10-18T07:00:00.000Z",
+      "description": "B-52 bomber makes rare touchdown in South Korea, may take part in trilateral drills&nbsp;&nbsp;Stars and Stripes",
       "summary": "",
       "author": "",
       "category": ""
@@ -967,16 +967,6 @@
       "category": ""
     },
     {
-      "id": "CBMicWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtYW5jaWVudC11cy1haXItZm9yY2UtYm9tYmVyLWV2ZW4tdGltZS1jYW50LXN0b3AtMjEwMjUz0gEA",
-      "title": "B-52 Stratofortress: The Ancient U.S. Air Force Bomber That Even Time Can't Stop - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtYW5jaWVudC11cy1haXItZm9yY2UtYm9tYmVyLWV2ZW4tdGltZS1jYW50LXN0b3AtMjEwMjUz0gEA?oc=5",
-      "published": "2024-03-27T07:00:00.000Z",
-      "description": "B-52 Stratofortress: The Ancient U.S. Air Force Bomber That Even Time Can't Stop&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiPWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzEwLzE3L3VzLWI1Mi1zb3V0aC1rb3JlYS_SAQA",
       "title": "US B-52 Bomber Lands at South Korean Air Base - The Defense Post",
       "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzEwLzE3L3VzLWI1Mi1zb3V0aC1rb3JlYS_SAQA?oc=5",
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8va2R2ci5jb20vbmV3cy9wcm9ibGVtLXNvbHZlcnMvc2VydmluZy10aG9zZS13aG8tc2VydmUvY29sb3JhZG8tdmV0ZXJhbi1yZXVuaXRlZC1iLTUyLWJvbWJlci12aWV0bmFtL9IBcGh0dHBzOi8va2R2ci5jb20vbmV3cy9wcm9ibGVtLXNvbHZlcnMvc2VydmluZy10aG9zZS13aG8tc2VydmUvY29sb3JhZG8tdmV0ZXJhbi1yZXVuaXRlZC1iLTUyLWJvbWJlci12aWV0bmFtL2FtcC8?oc=5",
       "published": "2023-10-23T07:00:00.000Z",
       "description": "Colorado veteran reunited with the B-52 he flew over Vietnam 50 years ago&nbsp;&nbsp;FOX 31 Denver",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L29sZC1iLTUyLWJvbWJlci1jb3VsZC1mbHktMTAwLXllYXJzLTIwNzAxNtIBAA",
+      "title": "The Old B-52 Bomber Could Fly for 100 Years - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L29sZC1iLTUyLWJvbWJlci1jb3VsZC1mbHktMTAwLXllYXJzLTIwNzAxNtIBAA?oc=5",
+      "published": "2023-10-22T07:00:00.000Z",
+      "description": "The Old B-52 Bomber Could Fly for 100 Years&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
