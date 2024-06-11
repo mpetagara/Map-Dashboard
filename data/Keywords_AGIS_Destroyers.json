@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-11T08:32:09.000Z",
+  "published": "2024-06-11T09:27:39.000Z",
   "entries": [
     {
       "id": "CBMiUmh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzEyLzIwL2phcGFuLWxvY2tzLWluLWZ1bmRpbmctZm9yLTItbmV3LWFlZ2lzLWRlc3Ryb3llcnPSAQA",
@@ -308,10 +308,10 @@
     },
     {
       "id": "CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NoaWVsZC1wYWNpZmljLWphcGFuLWdpYW50LWFlZ2lzLWRlc3Ryb3llctIBAA",
-      "title": "Shield of the Pacific: Japan as a Giant Aegis Destroyer - CSIS | Center for Strategic and International Studies",
+      "title": "Shield of the Pacific: Japan as a Giant Aegis Destroyer - csis.org",
       "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NoaWVsZC1wYWNpZmljLWphcGFuLWdpYW50LWFlZ2lzLWRlc3Ryb3llctIBAA?oc=5",
       "published": "2018-05-23T07:00:00.000Z",
-      "description": "Shield of the Pacific: Japan as a Giant Aegis Destroyer&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "description": "Shield of the Pacific: Japan as a Giant Aegis Destroyer&nbsp;&nbsp;csis.org",
       "summary": "",
       "author": "",
       "category": ""
@@ -412,16 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIyLzExLzIxL3R3by1qYXBhbmVzZS1kZXN0cm95ZXJzLXNjb3JlLWluLWJhbGxpc3RpYy1taXNzaWxlLWRlZmVuc2UtdGVzdC1vZmYtaGF3YWlp0gEA?oc=5",
       "published": "2022-11-21T08:00:00.000Z",
       "description": "Two Japanese Destroyers Score in Ballistic Missile Defense Test off Hawaii - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiT2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzA5LzE1L2phcGFuLWFlZ2lzLW1pc3NpbGUtZGVmZW5zZS13YXJzaGlwcy_SAQA",
-      "title": "Japan to Build Aegis-Equipped Ballistic Missile Defense Warships - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzA5LzE1L2phcGFuLWFlZ2lzLW1pc3NpbGUtZGVmZW5zZS13YXJzaGlwcy_SAQA?oc=5",
-      "published": "2022-09-15T07:00:00.000Z",
-      "description": "Japan to Build Aegis-Equipped Ballistic Missile Defense Warships&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -552,6 +542,16 @@
       "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3NsZGluZm8uY29tLzIwMjAvMDcvdXBncmFkaW5nLXRoZS1kaXJlY3QtZGVmZW5zZS1vZi1ldXJvcGUtcm90YXRpbmctb2xkZXItbmF2eS1zaGlwcy1vdXQtb2Ytcm90YS1mb3ItbW9kZXJuLWFlZ2lzLWRlc3Ryb3llcnMv0gEA?oc=5",
       "published": "2020-07-04T07:00:00.000Z",
       "description": "Upgrading the Direct Defense of Europe: Rotating Older Navy Ships Out of Rota for Modern Aegis Destroyers - Second ...&nbsp;&nbsp;Second Line of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiT2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzA5LzE1L2phcGFuLWFlZ2lzLW1pc3NpbGUtZGVmZW5zZS13YXJzaGlwcy_SAQA",
+      "title": "Japan to Build Aegis-Equipped Ballistic Missile Defense Warships - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIyLzA5LzE1L2phcGFuLWFlZ2lzLW1pc3NpbGUtZGVmZW5zZS13YXJzaGlwcy_SAQA?oc=5",
+      "published": "2022-09-15T07:00:00.000Z",
+      "description": "Japan to Build Aegis-Equipped Ballistic Missile Defense Warships&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -917,6 +917,16 @@
       "category": ""
     },
     {
+      "id": "CBMigwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vbmV3cy9uYXZ5LW5ld3MvMjAxNy9tYWRleC0yMDE3LXdoYXQtd2UtbGVhcm5lZC1vbi10aGUtcm9rLW5hdnktZnV0dXJlLWtkeC1paWktYmF0Y2gtaWktYWVnaXMtZGVzdHJveWVyc9IBAA",
+      "title": "MADEX 2017: What we Learned on the ROK Navy Future KDX-III Batch II Ae - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vbmV3cy9uYXZ5LW5ld3MvMjAxNy9tYWRleC0yMDE3LXdoYXQtd2UtbGVhcm5lZC1vbi10aGUtcm9rLW5hdnktZnV0dXJlLWtkeC1paWktYmF0Y2gtaWktYWVnaXMtZGVzdHJveWVyc9IBAA?oc=5",
+      "published": "2017-11-08T08:00:00.000Z",
+      "description": "MADEX 2017: What we Learned on the ROK Navy Future KDX-III Batch II Ae&nbsp;&nbsp;Army Recognition",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZGh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTMwMzExX2ludGVncmF0aW5nLWV1cm9wZWFuLXJhZGFycy13aXRoLWFlZ2lzc20tMy1taXNzaWxlLWRlZmVuc2VzLmh0bWzSAQA",
       "title": "Integrating European Radars with AEGIS/SM-3 Missile Defenses - Defense Update",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMTMwMzExX2ludGVncmF0aW5nLWV1cm9wZWFuLXJhZGFycy13aXRoLWFlZ2lzc20tMy1taXNzaWxlLWRlZmVuc2VzLmh0bWzSAQA?oc=5",
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXNpYXBhY2lmaWNkZWZlbmNlcmVwb3J0ZXIuY29tL2hvYmFydC1jbGFzcy1haXItd2FyZmFyZS1kZXN0cm95ZXJzLXRvLWJlLXVwZ3JhZGVkLXRvLWFlZ2lzLWJhc2VsaW5lLTkv0gEA?oc=5",
       "published": "2018-10-08T07:00:00.000Z",
       "description": "Air Warfare Destroyers to be upgraded to 'Aegis' Baseline 9&nbsp;&nbsp;Asia Pacific Defence Reporter",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiPmh0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM181MzQwNy5odG1s0gE-aHR0cHM6Ly9tLmtvcmVhdGltZXMuY28ua3IvcGFnZXMvYXJ0aWNsZS5hbXAuYXNwP25ld3NJZHg9NTM0MDc",
-      "title": "S. Korea to Build 6 Mini Aegis Destroyers - 코리아타임스",
-      "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM181MzQwNy5odG1s0gE-aHR0cHM6Ly9tLmtvcmVhdGltZXMuY28ua3IvcGFnZXMvYXJ0aWNsZS5hbXAuYXNwP25ld3NJZHg9NTM0MDc?oc=5",
-      "published": "2009-10-13T07:00:00.000Z",
-      "description": "S. Korea to Build 6 Mini Aegis Destroyers&nbsp;&nbsp;코리아타임스",
       "summary": "",
       "author": "",
       "category": ""

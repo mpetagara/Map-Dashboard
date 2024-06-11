@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-11T08:32:02.000Z",
+  "published": "2024-06-11T09:27:32.000Z",
   "entries": [
     {
       "id": "CBMiUWh0dHBzOi8vdGhlYnVsbGV0aW4ub3JnLzIwMjQvMDYvY2FuLW1pbmltdW0tZGV0ZXJyZW5jZS1zYXZlLW51Y2xlYXItYXJtcy1jb250cm9sL9IBAA",
@@ -107,16 +107,6 @@
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8",
-      "title": "Is Iran building nuclear weapons? Ex-Centcom head weighs in - NewsNation Now",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8?oc=5",
-      "published": "2024-06-04T20:40:37.000Z",
-      "description": "Is Iran building nuclear weapons? Ex-Centcom head weighs in&nbsp;&nbsp;NewsNation Now",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZ2h0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMi0wNC9mZWF0dXJlcy9udWNsZWFyLXRocmVhdHMtYW5kLWFsZXJ0cy1sb29raW5nLWNvbGQtd2FyLWJhY2tncm91bmTSAQA",
       "title": "Nuclear Threats and Alerts: Looking at the Cold War Background - Arms Control Association",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMi0wNC9mZWF0dXJlcy9udWNsZWFyLXRocmVhdHMtYW5kLWFsZXJ0cy1sb29raW5nLWNvbGQtd2FyLWJhY2tncm91bmTSAQA?oc=5",
@@ -132,6 +122,16 @@
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmtldHYuY29tL2FydGljbGUvb2ZmdXR0LWFpci1mb3JjZS1iYXNlLWdyb3VuZGJyZWFraW5nLW51Y2xlYXItY29tbWFuZC1mYWNpbGl0eS82MDY4NDU4OdIBAA?oc=5",
       "published": "2024-05-03T07:00:00.000Z",
       "description": "'They're getting the mission done': Groundbreaking for new nuclear command facility at Offutt Air Force Base&nbsp;&nbsp;KETV Omaha",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8",
+      "title": "Is Iran building nuclear weapons? Ex-Centcom head weighs in - NewsNation Now",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8?oc=5",
+      "published": "2024-06-04T20:40:37.000Z",
+      "description": "Is Iran building nuclear weapons? Ex-Centcom head weighs in&nbsp;&nbsp;NewsNation Now",
       "summary": "",
       "author": "",
       "category": ""
@@ -358,10 +358,10 @@
     },
     {
       "id": "CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLW9mZmljaWFsLXVyZ2VzLWNoaW5hLXJ1c3NpYS1kZWNsYXJlLW9ubHktaHVtYW5zLW5vdC1haS1jb250cm9sLW51Y2xlYXItMjAyNC0wNS0wMi_SAQA",
-      "title": "US official urges China, Russia to declare only humans, not AI, control nuclear weapons - Reuters.com",
+      "title": "US official urges China, Russia to declare only humans, not AI, control nuclear weapons - Reuters",
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLW9mZmljaWFsLXVyZ2VzLWNoaW5hLXJ1c3NpYS1kZWNsYXJlLW9ubHktaHVtYW5zLW5vdC1haS1jb250cm9sLW51Y2xlYXItMjAyNC0wNS0wMi_SAQA?oc=5",
       "published": "2024-05-02T07:00:00.000Z",
-      "description": "US official urges China, Russia to declare only humans, not AI, control nuclear weapons&nbsp;&nbsp;Reuters.com",
+      "description": "US official urges China, Russia to declare only humans, not AI, control nuclear weapons&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -438,10 +438,10 @@
     },
     {
       "id": "CBMiRWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VuY2VydGFpbi1mdXR1cmUtdXMtcnVzc2lhLWFybXMtY29udHJvbNIBAA",
-      "title": "The Uncertain Future of U.S.-Russia Arms Control - CSIS | Center for Strategic and International Studies",
+      "title": "The Uncertain Future of U.S.-Russia Arms Control - csis.org",
       "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VuY2VydGFpbi1mdXR1cmUtdXMtcnVzc2lhLWFybXMtY29udHJvbNIBAA?oc=5",
       "published": "2024-02-14T08:00:00.000Z",
-      "description": "The Uncertain Future of U.S.-Russia Arms Control&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "description": "The Uncertain Future of U.S.-Russia Arms Control&nbsp;&nbsp;csis.org",
       "summary": "",
       "author": "",
       "category": ""
@@ -708,10 +708,10 @@
     },
     {
       "id": "CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VzLXJvay1udWNsZWFyLWNvbnN1bHRhdGl2ZS1ncm91cHMtc3VjY2Vzc2Z1bC1sYXVuY2hpbmfSAQA",
-      "title": "The U.S.-ROK Nuclear Consultative Group's Successful Launching - CSIS | Center for Strategic and International Studies",
+      "title": "The U.S.-ROK Nuclear Consultative Group's Successful Launching - csis.org",
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VzLXJvay1udWNsZWFyLWNvbnN1bHRhdGl2ZS1ncm91cHMtc3VjY2Vzc2Z1bC1sYXVuY2hpbmfSAQA?oc=5",
       "published": "2023-07-20T07:00:00.000Z",
-      "description": "The U.S.-ROK Nuclear Consultative Group's Successful Launching&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "description": "The U.S.-ROK Nuclear Consultative Group's Successful Launching&nbsp;&nbsp;csis.org",
       "summary": "",
       "author": "",
       "category": ""
