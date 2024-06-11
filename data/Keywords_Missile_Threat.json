@@ -4,24 +4,24 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-11T07:22:11.000Z",
+  "published": "2024-06-11T08:31:58.000Z",
   "entries": [
-    {
-      "id": "CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL2RlYnJpZWYtYW1lcmljYW4taW5zaWRlcnMtdmlldy11a3JhaW5pYW4tYWlyLWRlZmVuc2UtcmVjb3Jk0gEA",
-      "title": "The Debrief: An American Insider’s View Of Ukrainian Air Defense Record - Aviation Week",
-      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL2RlYnJpZWYtYW1lcmljYW4taW5zaWRlcnMtdmlldy11a3JhaW5pYW4tYWlyLWRlZmVuc2UtcmVjb3Jk0gEA?oc=5",
-      "published": "2024-06-10T20:58:38.000Z",
-      "description": "The Debrief: An American Insider’s View Of Ukrainian Air Defense Record&nbsp;&nbsp;Aviation Week",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
     {
       "id": "CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL3RlY2hub2xvZ3kvMjAyNC8wNi9taXNzaWxlLXRocmVhdHMtYXJlLXByb2xpZmVyYXRpbmctaGVyZXMtaG93LXBlbnRhZ29uLXRyeWluZy1rZWVwLzM5NzE5My_SAQA",
       "title": "Missile threats are proliferating. Here's how the Pentagon is trying to keep up - Defense One",
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL3RlY2hub2xvZ3kvMjAyNC8wNi9taXNzaWxlLXRocmVhdHMtYXJlLXByb2xpZmVyYXRpbmctaGVyZXMtaG93LXBlbnRhZ29uLXRyeWluZy1rZWVwLzM5NzE5My_SAQA?oc=5",
       "published": "2024-06-06T22:17:56.000Z",
       "description": "Missile threats are proliferating. Here's how the Pentagon is trying to keep up&nbsp;&nbsp;Defense One",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL2RlYnJpZWYtYW1lcmljYW4taW5zaWRlcnMtdmlldy11a3JhaW5pYW4tYWlyLWRlZmVuc2UtcmVjb3Jk0gEA",
+      "title": "The Debrief: An American Insider’s View Of Ukrainian Air Defense Record - Aviation Week",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL2RlYnJpZWYtYW1lcmljYW4taW5zaWRlcnMtdmlldy11a3JhaW5pYW4tYWlyLWRlZmVuc2UtcmVjb3Jk0gEA?oc=5",
+      "published": "2024-06-10T20:58:38.000Z",
+      "description": "The Debrief: An American Insider’s View Of Ukrainian Air Defense Record&nbsp;&nbsp;Aviation Week",
       "summary": "",
       "author": "",
       "category": ""
@@ -58,10 +58,10 @@
     },
     {
       "id": "CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9qYXBhbi13YXJucy1yZXNpZGVudHMtdGFrZS1jb3Zlci1ub3J0aC1rb3JlYW4tbWlzc2lsZS10aHJlYXQtMjAyNC0wNS0yNy_SAQA",
-      "title": "Japan warns residents to take cover from North Korean missile threat - Reuters",
+      "title": "Japan warns residents to take cover from North Korean missile threat - Reuters.com",
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9qYXBhbi13YXJucy1yZXNpZGVudHMtdGFrZS1jb3Zlci1ub3J0aC1rb3JlYW4tbWlzc2lsZS10aHJlYXQtMjAyNC0wNS0yNy_SAQA?oc=5",
       "published": "2024-05-27T07:00:00.000Z",
-      "description": "Japan warns residents to take cover from North Korean missile threat&nbsp;&nbsp;Reuters",
+      "description": "Japan warns residents to take cover from North Korean missile threat&nbsp;&nbsp;Reuters.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -320,7 +320,7 @@
       "id": "CBMijAFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzMvanVzdC1pbi1rYW1pa2F6ZS1kcm9uZS10aHJlYXQtcHV0dGluZy1haXItZGVmZW5zZS1iYWNrLWluLWFybXktbWFuZXV2ZXItZm9ybWF0aW9uc9IBAA",
       "title": "JUST IN: Kamikaze Drone Threat Putting Air Defense Back in Army Maneuver Formations - National Defense Magazine",
       "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzMvanVzdC1pbi1rYW1pa2F6ZS1kcm9uZS10aHJlYXQtcHV0dGluZy1haXItZGVmZW5zZS1iYWNrLWluLWFybXktbWFuZXV2ZXItZm9ybWF0aW9uc9IBAA?oc=5",
-      "published": "2024-06-03T21:15:10.000Z",
+      "published": "2024-06-03T07:00:00.000Z",
       "description": "JUST IN: Kamikaze Drone Threat Putting Air Defense Back in Army Maneuver Formations&nbsp;&nbsp;National Defense Magazine",
       "summary": "",
       "author": "",
@@ -458,10 +458,10 @@
     },
     {
       "id": "CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L3doYXQtYXJlLWlzcmFlbHMtaXJvbi1kb21lLWFycm93LW1pc3NpbGUtZGVmZW5jZXMtMjAyNC0wNC0xNC_SAQA",
-      "title": "What are Israel's Iron Dome and Arrow missile defences? - Reuters",
+      "title": "What are Israel's Iron Dome and Arrow missile defences? - Reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L3doYXQtYXJlLWlzcmFlbHMtaXJvbi1kb21lLWFycm93LW1pc3NpbGUtZGVmZW5jZXMtMjAyNC0wNC0xNC_SAQA?oc=5",
       "published": "2024-04-14T07:00:00.000Z",
-      "description": "What are Israel's Iron Dome and Arrow missile defences?&nbsp;&nbsp;Reuters",
+      "description": "What are Israel's Iron Dome and Arrow missile defences?&nbsp;&nbsp;Reuters.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -472,16 +472,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzY5MjY1Ny9leHBlcmltZW50aW5nLXdpdGgtam9pbnQtaW50ZXJvcGVyYWJpbGl0eS1hdC1wcm9qZWN0LWNvbnZlcmdlbmNlLWNhcHN0b25lLTQv0gEA?oc=5",
       "published": "2024-03-01T08:00:00.000Z",
       "description": "Experimenting With Joint Interoperability at Project Convergence Capstone 4&nbsp;&nbsp;Department of Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiUmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9zb2NpZXR5L3Byb2plY3QtMjAyNS1taWxpdGFyeS1wZW50YWdvbi1zcGVuZGluZy_SAVhodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvc29jaWV0eS9wcm9qZWN0LTIwMjUtbWlsaXRhcnktcGVudGFnb24tc3BlbmRpbmcvdG5hbXAv",
-      "title": "Conservatives Are Gearing Up for a Major Military Expansion Under Trump 2.0 - The Nation",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9zb2NpZXR5L3Byb2plY3QtMjAyNS1taWxpdGFyeS1wZW50YWdvbi1zcGVuZGluZy_SAVhodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvc29jaWV0eS9wcm9qZWN0LTIwMjUtbWlsaXRhcnktcGVudGFnb24tc3BlbmRpbmcvdG5hbXAv?oc=5",
-      "published": "2024-06-05T07:00:00.000Z",
-      "description": "Conservatives Are Gearing Up for a Major Military Expansion Under Trump 2.0&nbsp;&nbsp;The Nation",
       "summary": "",
       "author": "",
       "category": ""
@@ -532,6 +522,16 @@
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vYXNpYS5uaWtrZWkuY29tL1BvbGl0aWNzL0RlZmVuc2UvVS5TLi1jb25maWRlbnQtY2Fycmllci1jYW4tb3BlcmF0ZS11bmRlci1DaGluYS1taXNzaWxlLXRocmVhdC1hZG1pcmFs0gEA?oc=5",
       "published": "2024-02-05T08:00:00.000Z",
       "description": "U.S. 'confident' carrier can operate under China missile threat: admiral&nbsp;&nbsp;Nikkei Asia",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9zb2NpZXR5L3Byb2plY3QtMjAyNS1taWxpdGFyeS1wZW50YWdvbi1zcGVuZGluZy_SAVhodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvc29jaWV0eS9wcm9qZWN0LTIwMjUtbWlsaXRhcnktcGVudGFnb24tc3BlbmRpbmcvdG5hbXAv",
+      "title": "Conservatives Are Gearing Up for a Major Military Expansion Under Trump 2.0 - The Nation",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9zb2NpZXR5L3Byb2plY3QtMjAyNS1taWxpdGFyeS1wZW50YWdvbi1zcGVuZGluZy_SAVhodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvc29jaWV0eS9wcm9qZWN0LTIwMjUtbWlsaXRhcnktcGVudGFnb24tc3BlbmRpbmcvdG5hbXAv?oc=5",
+      "published": "2024-06-05T07:00:00.000Z",
+      "description": "Conservatives Are Gearing Up for a Major Military Expansion Under Trump 2.0&nbsp;&nbsp;The Nation",
       "summary": "",
       "author": "",
       "category": ""
@@ -607,21 +607,21 @@
       "category": ""
     },
     {
-      "id": "CBMiSmh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LXRvLWNvbmR1Y3QtMjAtbGl2ZS1maXJlLW1pc3NpbGUv0gFKaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktdG8tY29uZHVjdC0yMC1saXZlLWZpcmUtbWlzc2lsZS8",
-      "title": "Chinese Missile Rain ‘Endangers’ Guam; US To Conduct 20 Live-Fire Tests Using SM-3, Thaad & Patriot - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LXRvLWNvbmR1Y3QtMjAtbGl2ZS1maXJlLW1pc3NpbGUv0gFKaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktdG8tY29uZHVjdC0yMC1saXZlLWZpcmUtbWlzc2lsZS8?oc=5",
-      "published": "2024-06-06T17:23:01.000Z",
-      "description": "Chinese Missile Rain ‘Endangers’ Guam; US To Conduct 20 Live-Fire Tests Using SM-3, Thaad & Patriot&nbsp;&nbsp;EurAsian Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiX2h0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDI0L2phbnVhcnkvYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utd2VzdGVybi1wYWNpZmlj0gEA",
       "title": "Air and Missile Defense in the Western Pacific - USNI News",
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDI0L2phbnVhcnkvYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utd2VzdGVybi1wYWNpZmlj0gEA?oc=5",
       "published": "2024-01-01T00:28:25.000Z",
       "description": "Air and Missile Defense in the Western Pacific&nbsp;&nbsp;USNI News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSmh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LXRvLWNvbmR1Y3QtMjAtbGl2ZS1maXJlLW1pc3NpbGUv0gFKaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktdG8tY29uZHVjdC0yMC1saXZlLWZpcmUtbWlzc2lsZS8",
+      "title": "Chinese Missile Rain ‘Endangers’ Guam; US To Conduct 20 Live-Fire Tests Using SM-3, Thaad & Patriot - EurAsian Times",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LXRvLWNvbmR1Y3QtMjAtbGl2ZS1maXJlLW1pc3NpbGUv0gFKaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktdG8tY29uZHVjdC0yMC1saXZlLWZpcmUtbWlzc2lsZS8?oc=5",
+      "published": "2024-06-06T17:23:01.000Z",
+      "description": "Chinese Missile Rain ‘Endangers’ Guam; US To Conduct 20 Live-Fire Tests Using SM-3, Thaad & Patriot&nbsp;&nbsp;EurAsian Times",
       "summary": "",
       "author": "",
       "category": ""
@@ -668,10 +668,10 @@
     },
     {
       "id": "CBMiWGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLW1pc3NpbGUtZGVmZW5zZS1wcm9wb3NhbC1zdGlycy1kZWJhdGUtcGFsYXUtMjAyMy0xMi0yMC_SAQA",
-      "title": "US missile defense proposal stirs debate in Palau - Reuters.com",
+      "title": "US missile defense proposal stirs debate in Palau - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLW1pc3NpbGUtZGVmZW5zZS1wcm9wb3NhbC1zdGlycy1kZWJhdGUtcGFsYXUtMjAyMy0xMi0yMC_SAQA?oc=5",
       "published": "2023-12-20T08:00:00.000Z",
-      "description": "US missile defense proposal stirs debate in Palau&nbsp;&nbsp;Reuters.com",
+      "description": "US missile defense proposal stirs debate in Palau&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -837,16 +837,6 @@
       "category": ""
     },
     {
-      "id": "CBMiYmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtbWlsaXRhcnktYmxvZ2dlcnMtYWlyLWRlZmVuc2VzLWJlbGdvcm9kLXMtMzAwLXMtNDAwLWhpbWFycy0xOTA4MDY20gEA",
-      "title": "Russians Press Putin on Air Defense after Reported Ukraine Cross-Border Salvo - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtbWlsaXRhcnktYmxvZ2dlcnMtYWlyLWRlZmVuc2VzLWJlbGdvcm9kLXMtMzAwLXMtNDAwLWhpbWFycy0xOTA4MDY20gEA?oc=5",
-      "published": "2024-06-04T17:19:14.000Z",
-      "description": "Russians Press Putin on Air Defense after Reported Ukraine Cross-Border Salvo&nbsp;&nbsp;Newsweek",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzAzL25vcnRoLWtvcmVhLXRlc3RzLWh5cGVyc29uaWMtd2VhcG9uLWZvbGxvd2luZy11LXMtbmF2eS1iYWxsaXN0aWMtbWlzc2lsZS1pbnRlcmNlcHQtdGVzdNIBAA",
       "title": "North Korea Tests Hypersonic Weapon Following U.S. Navy Ballistic Missile Intercept Test - USNI News - USNI News",
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzAzL25vcnRoLWtvcmVhLXRlc3RzLWh5cGVyc29uaWMtd2VhcG9uLWZvbGxvd2luZy11LXMtbmF2eS1iYWxsaXN0aWMtbWlzc2lsZS1pbnRlcmNlcHQtdGVzdNIBAA?oc=5",
@@ -872,6 +862,16 @@
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL05ld3MvQXJ0aWNsZS1WaWV3L0FydGljbGUvMTgwNjk2OS9uYXRpb25hbC1ndWFyZC1hdC10aGUtZm9yZWZyb250LWluLW1pc3NpbGUtZGVmZW5zZS_SAQA?oc=5",
       "published": "2024-02-07T14:41:32.000Z",
       "description": "National Guard at the forefront in missile defense&nbsp;&nbsp;National Guard Bureau",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtbWlsaXRhcnktYmxvZ2dlcnMtYWlyLWRlZmVuc2VzLWJlbGdvcm9kLXMtMzAwLXMtNDAwLWhpbWFycy0xOTA4MDY20gEA",
+      "title": "Russians Press Putin on Air Defense after Reported Ukraine Cross-Border Salvo - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtbWlsaXRhcnktYmxvZ2dlcnMtYWlyLWRlZmVuc2VzLWJlbGdvcm9kLXMtMzAwLXMtNDAwLWhpbWFycy0xOTA4MDY20gEA?oc=5",
+      "published": "2024-06-04T17:19:14.000Z",
+      "description": "Russians Press Putin on Air Defense after Reported Ukraine Cross-Border Salvo&nbsp;&nbsp;Newsweek",
       "summary": "",
       "author": "",
       "category": ""
@@ -967,21 +967,21 @@
       "category": ""
     },
     {
-      "id": "CBMimwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vbmV3cy9hcm15LW5ld3MvYXJteS1uZXdzLTIwMjQvZ2VybWFueS10by1ib29zdC1pcmlzLXQtYWlyLWRlZmVuc2UtbWlzc2lsZS1zeXN0ZW1zLXByb2R1Y3Rpb24tYW1pZC1yaXNpbmctZGVtYW5kLWFuZC11a3JhaW5lLXdhctIBAA",
-      "title": "Germany to Boost IRIS-T Air Defense Missile Systems Production Amid Rising Demand and Ukraine War - Army Recognition",
-      "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vbmV3cy9hcm15LW5ld3MvYXJteS1uZXdzLTIwMjQvZ2VybWFueS10by1ib29zdC1pcmlzLXQtYWlyLWRlZmVuc2UtbWlzc2lsZS1zeXN0ZW1zLXByb2R1Y3Rpb24tYW1pZC1yaXNpbmctZGVtYW5kLWFuZC11a3JhaW5lLXdhctIBAA?oc=5",
-      "published": "2024-06-06T15:29:36.000Z",
-      "description": "Germany to Boost IRIS-T Air Defense Missile Systems Production Amid Rising Demand and Ukraine War&nbsp;&nbsp;Army Recognition",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyMy8xMS8yMC9saXZlLWZpcmUtdGVzdC1zdWNjZXNzLWZvci1ydHhzLXJheXRoZW9uLWxvd2VyLXRpZXItYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utc2Vuc9IBAA",
       "title": "Live-fire test success for RTX's Raytheon Lower Tier Air and Missile Defense Sensor - Raytheon Technologies",
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyMy8xMS8yMC9saXZlLWZpcmUtdGVzdC1zdWNjZXNzLWZvci1ydHhzLXJheXRoZW9uLWxvd2VyLXRpZXItYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utc2Vuc9IBAA?oc=5",
       "published": "2023-11-20T08:00:00.000Z",
       "description": "Live-fire test success for RTX's Raytheon Lower Tier Air and Missile Defense Sensor&nbsp;&nbsp;Raytheon Technologies",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMimwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vbmV3cy9hcm15LW5ld3MvYXJteS1uZXdzLTIwMjQvZ2VybWFueS10by1ib29zdC1pcmlzLXQtYWlyLWRlZmVuc2UtbWlzc2lsZS1zeXN0ZW1zLXByb2R1Y3Rpb24tYW1pZC1yaXNpbmctZGVtYW5kLWFuZC11a3JhaW5lLXdhctIBAA",
+      "title": "Germany to Boost IRIS-T Air Defense Missile Systems Production Amid Rising Demand and Ukraine War - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL2FybXlyZWNvZ25pdGlvbi5jb20vbmV3cy9hcm15LW5ld3MvYXJteS1uZXdzLTIwMjQvZ2VybWFueS10by1ib29zdC1pcmlzLXQtYWlyLWRlZmVuc2UtbWlzc2lsZS1zeXN0ZW1zLXByb2R1Y3Rpb24tYW1pZC1yaXNpbmctZGVtYW5kLWFuZC11a3JhaW5lLXdhctIBAA?oc=5",
+      "published": "2024-06-06T15:29:36.000Z",
+      "description": "Germany to Boost IRIS-T Air Defense Missile Systems Production Amid Rising Demand and Ukraine War&nbsp;&nbsp;Army Recognition",
       "summary": "",
       "author": "",
       "category": ""
@@ -997,11 +997,11 @@
       "category": ""
     },
     {
-      "id": "CBMiOGh0dHBzOi8vd3d3LmNhbGNhbGlzdGVjaC5jb20vY3RlY2huZXdzL2FydGljbGUva2U3aHBoZnFu0gEA",
-      "title": "Iron Dome's new nemesis: The rising threat of Hezbollah's UAVs - CTech",
-      "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmNhbGNhbGlzdGVjaC5jb20vY3RlY2huZXdzL2FydGljbGUva2U3aHBoZnFu0gEA?oc=5",
-      "published": "2024-06-05T10:45:00.000Z",
-      "description": "Iron Dome's new nemesis: The rising threat of Hezbollah's UAVs&nbsp;&nbsp;CTech",
+      "id": "CBMiYWh0dHBzOi8vd3d3Lm5hdmFsLXRlY2hub2xvZ3kuY29tL25ld3MvcnR4cy1zbS02LWRlc3Ryb3lzLWJhbGxpc3RpYy1taXNzaWxlLXRocmVhdC1pbi10ZXN0LWF0LXNlYS_SAQA",
+      "title": "RTX's SM-6 destroys ballistic missile threat in test at sea - Naval Technology",
+      "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5hdmFsLXRlY2hub2xvZ3kuY29tL25ld3MvcnR4cy1zbS02LWRlc3Ryb3lzLWJhbGxpc3RpYy1taXNzaWxlLXRocmVhdC1pbi10ZXN0LWF0LXNlYS_SAQA?oc=5",
+      "published": "2024-04-04T07:00:00.000Z",
+      "description": "RTX's SM-6 destroys ballistic missile threat in test at sea&nbsp;&nbsp;Naval Technology",
       "summary": "",
       "author": "",
       "category": ""
