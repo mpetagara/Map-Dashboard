@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-11T22:27:02.000Z",
+  "published": "2024-06-11T23:22:51.000Z",
   "entries": [
     {
       "id": "CBMiaWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEyLzI3L2Fpci1mb3JjZS1wdWJsaXNoZXMtbmV3LWRvY3RyaW5lLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zL9IBAA",
@@ -22,6 +22,16 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDcyMTg4L3VzLXN0cmF0ZWdpYy1jb21tYW5kLXN0YW5kcy11cC1qb2ludC1lbXMtb3BlcmF0aW9ucy1jZW50ZXIv0gEA?oc=5",
       "published": "2023-07-26T07:00:00.000Z",
       "description": "U.S. Strategic Command stands up Joint EMS Operations Center&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
+      "title": "JEC Director - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
+      "published": "2023-08-25T21:29:54.000Z",
+      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -57,21 +67,21 @@
       "category": ""
     },
     {
-      "id": "CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2Rpc2EtcmVsZWFzZXMtbmV3LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5LXRvLWVuaGFuY2UtbW9kZXJuLXdhcmZpZ2h0aW5nLTMwMjAwOTQyMS5odG1s0gEA",
-      "title": "DISA releases new electromagnetic spectrum capability to enhance modern warfighting - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2Rpc2EtcmVsZWFzZXMtbmV3LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5LXRvLWVuaGFuY2UtbW9kZXJuLXdhcmZpZ2h0aW5nLTMwMjAwOTQyMS5odG1s0gEA?oc=5",
-      "published": "2023-12-07T08:00:00.000Z",
-      "description": "DISA releases new electromagnetic spectrum capability to enhance modern warfighting&nbsp;&nbsp;PR Newswire",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzEyL2RvZHMtbmV3LWNsb3VkLWJhc2VkLXZpc3VhbGl6YXRpb24tdG9vbC10YXJnZXRzLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAXNodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyMy8xMi9kb2RzLW5ldy1jbG91ZC1iYXNlZC12aXN1YWxpemF0aW9uLXRvb2wtdGFyZ2V0cy1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0vP2FtcD0x",
       "title": "DoD’s new cloud-based visualization tool targets electromagnetic spectrum - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzEyL2RvZHMtbmV3LWNsb3VkLWJhc2VkLXZpc3VhbGl6YXRpb24tdG9vbC10YXJnZXRzLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAXNodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyMy8xMi9kb2RzLW5ldy1jbG91ZC1iYXNlZC12aXN1YWxpemF0aW9uLXRvb2wtdGFyZ2V0cy1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0vP2FtcD0x?oc=5",
       "published": "2023-12-08T08:00:00.000Z",
       "description": "DoD’s new cloud-based visualization tool targets electromagnetic spectrum&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2Rpc2EtcmVsZWFzZXMtbmV3LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5LXRvLWVuaGFuY2UtbW9kZXJuLXdhcmZpZ2h0aW5nLTMwMjAwOTQyMS5odG1s0gEA",
+      "title": "DISA releases new electromagnetic spectrum capability to enhance modern warfighting - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2Rpc2EtcmVsZWFzZXMtbmV3LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5LXRvLWVuaGFuY2UtbW9kZXJuLXdhcmZpZ2h0aW5nLTMwMjAwOTQyMS5odG1s0gEA?oc=5",
+      "published": "2023-12-07T08:00:00.000Z",
+      "description": "DISA releases new electromagnetic spectrum capability to enhance modern warfighting&nbsp;&nbsp;PR Newswire",
       "summary": "",
       "author": "",
       "category": ""
@@ -137,16 +147,6 @@
       "category": ""
     },
     {
-      "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA",
-      "title": "J1 Director, Human Capital > U.S - Department of Defense",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA?oc=5",
-      "published": "2023-09-24T10:56:22.000Z",
-      "description": "J1 Director, Human Capital > U.S&nbsp;&nbsp;Department of Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaWh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzEyL2Rpc2EtdW52ZWlscy0xc3QtaXRlcmF0aW9uLW9mLWpvaW50LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5L9IBAA",
       "title": "DISA Unveils 1st Iteration of Joint Electromagnetic Spectrum Capability - Executive Gov",
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzEyL2Rpc2EtdW52ZWlscy0xc3QtaXRlcmF0aW9uLW9mLWpvaW50LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5L9IBAA?oc=5",
@@ -157,21 +157,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA",
-      "title": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office - MeriTalk",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
-      "published": "2023-07-27T07:00:00.000Z",
-      "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZmh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiL9IBdWh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiLz9vdXRwdXRUeXBlPWFtcA",
-      "title": "New STRATCOM center to oversee major informational operations from Offutt AFB - WOWT",
-      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiL9IBdWh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiLz9vdXRwdXRUeXBlPWFtcA?oc=5",
-      "published": "2023-07-26T07:00:00.000Z",
-      "description": "New STRATCOM center to oversee major informational operations from Offutt AFB&nbsp;&nbsp;WOWT",
+      "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA",
+      "title": "J1 Director, Human Capital > U.S - Department of Defense",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA?oc=5",
+      "published": "2023-09-24T10:56:22.000Z",
+      "description": "J1 Director, Human Capital > U.S&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -192,6 +182,26 @@
       "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA3L3N0cmF0Y29tLW9wZW5zLWpvaW50LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1mYWNpbGl0eS_SAQA?oc=5",
       "published": "2023-07-31T07:00:00.000Z",
       "description": "STRATCOM Opens Joint Electromagnetic Spectrum Facility; Gen. Anthony Cotton Quoted&nbsp;&nbsp;Executive Gov",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA",
+      "title": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office - MeriTalk",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
+      "published": "2023-07-27T07:00:00.000Z",
+      "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZmh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiL9IBdWh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiLz9vdXRwdXRUeXBlPWFtcA",
+      "title": "New STRATCOM center to oversee major informational operations from Offutt AFB - WOWT",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiL9IBdWh0dHBzOi8vd3d3Lndvd3QuY29tLzIwMjMvMDcvMjYvbmV3LXN0cmF0Y29tLWNlbnRlci1vdmVyc2VlLW1ham9yLWluZm9ybWF0aW9uYWwtb3BlcmF0aW9ucy1vZmZ1dHQtYWZiLz9vdXRwdXRUeXBlPWFtcA?oc=5",
+      "published": "2023-07-26T07:00:00.000Z",
+      "description": "New STRATCOM center to oversee major informational operations from Offutt AFB&nbsp;&nbsp;WOWT",
       "summary": "",
       "author": "",
       "category": ""
@@ -307,36 +317,6 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vd3d3LmJlbnppbmdhLmNvbS9tYXJrZXRzL2VxdWl0aWVzLzI0LzA0LzM4MDE5NzEzL3doYXRzLWdvaW5nLW9uLXdpdGgtcGFsYW50aXItdGVjaG5vbG9naWVzLXNoYXJlcy1tb25kYXnSAS1odHRwczovL3d3dy5iZW56aW5nYS5jb20vYW1wL2NvbnRlbnQvMzgwMTk3MTM",
-      "title": "What's Going On With Palantir Technologies Shares Monday? - Palantir Technologies (NYSE:PLTR) - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJlbnppbmdhLmNvbS9tYXJrZXRzL2VxdWl0aWVzLzI0LzA0LzM4MDE5NzEzL3doYXRzLWdvaW5nLW9uLXdpdGgtcGFsYW50aXItdGVjaG5vbG9naWVzLXNoYXJlcy1tb25kYXnSAS1odHRwczovL3d3dy5iZW56aW5nYS5jb20vYW1wL2NvbnRlbnQvMzgwMTk3MTM?oc=5",
-      "published": "2024-04-01T07:00:00.000Z",
-      "description": "What's Going On With Palantir Technologies Shares Monday? - Palantir Technologies (NYSE:PLTR)&nbsp;&nbsp;Benzinga",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8zNzg5L9IBAA",
-      "title": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ... - National Guard Bureau",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8zNzg5L9IBAA?oc=5",
-      "published": "2020-06-07T09:38:17.000Z",
-      "description": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ...&nbsp;&nbsp;National Guard Bureau",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNzg5Lmh0bWzSAQA",
-      "title": "National Guard Biography - National Guard Bureau",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNzg5Lmh0bWzSAQA?oc=5",
-      "published": "2020-03-27T22:26:58.000Z",
-      "description": "National Guard Biography&nbsp;&nbsp;National Guard Bureau",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA3L2Rpc2Etc2Vla3Mtam9pbnQtZWxlY3Ryb21hZ25ldGljLWJhdHRsZS1tYW5hZ2VtZW50LXN5c3RlbS_SAWRodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyMS8wNy9kaXNhLXNlZWtzLWpvaW50LWVsZWN0cm9tYWduZXRpYy1iYXR0bGUtbWFuYWdlbWVudC1zeXN0ZW0vP2FtcD0x",
       "title": "DISA Seeks ‘Radical’ New Electromagnetic Battle Management System - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA3L2Rpc2Etc2Vla3Mtam9pbnQtZWxlY3Ryb21hZ25ldGljLWJhdHRsZS1tYW5hZ2VtZW50LXN5c3RlbS_SAWRodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyMS8wNy9kaXNhLXNlZWtzLWpvaW50LWVsZWN0cm9tYWduZXRpYy1iYXR0bGUtbWFuYWdlbWVudC1zeXN0ZW0vP2FtcD0x?oc=5",
@@ -357,21 +337,21 @@
       "category": ""
     },
     {
-      "id": "CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ",
-      "title": "DoD Needs Tighter Reins On EW Acquisition - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ?oc=5",
-      "published": "2020-12-09T08:00:00.000Z",
-      "description": "DoD Needs Tighter Reins On EW Acquisition&nbsp;&nbsp;Breaking Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9jMi1jb21tcy8yMDE2LzExLzMwL2pvaW50LWZvcmNlLW11c3QtY2xvc2UtZ2Fwcy1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0v0gEA",
       "title": "Joint force must close gaps in electromagnetic spectrum - C4ISRNET",
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9jMi1jb21tcy8yMDE2LzExLzMwL2pvaW50LWZvcmNlLW11c3QtY2xvc2UtZ2Fwcy1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0v0gEA?oc=5",
       "published": "2016-11-30T08:00:00.000Z",
       "description": "Joint force must close gaps in electromagnetic spectrum&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ",
+      "title": "DoD Needs Tighter Reins On EW Acquisition - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ?oc=5",
+      "published": "2020-12-09T08:00:00.000Z",
+      "description": "DoD Needs Tighter Reins On EW Acquisition&nbsp;&nbsp;Breaking Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -392,6 +372,16 @@
       "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlLzIwMjAvMTAvMTIvdGhlLXBlbnRhZ29uLWlzLWRldmVsb3BpbmctbW9kZXJuLWFyY2hpdGVjdHVyZXMtdG8tZG9taW5hdGUtdGhlLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAQA?oc=5",
       "published": "2020-10-12T07:00:00.000Z",
       "description": "The Pentagon is developing modern architectures to dominate the electromagnetic spectrum&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA",
+      "title": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ... - National Guard Bureau",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA?oc=5",
+      "published": "2020-06-08T17:09:27.000Z",
+      "description": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ...&nbsp;&nbsp;National Guard Bureau",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,6 +457,16 @@
       "category": ""
     },
     {
+      "id": "CBMiamh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxOC8wNy8yNS9jb25ncmVzcy1wdXRzLWVsZWN0cm9uaWMtd2FyZmFyZS1pbi1pdHMtY3Jvc3NoYWlycy_SAQA",
+      "title": "Congress puts electronic warfare in its crosshairs - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxOC8wNy8yNS9jb25ncmVzcy1wdXRzLWVsZWN0cm9uaWMtd2FyZmFyZS1pbi1pdHMtY3Jvc3NoYWlycy_SAQA?oc=5",
+      "published": "2018-07-25T07:00:00.000Z",
+      "description": "Congress puts electronic warfare in its crosshairs&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMifWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS8yMDE2LzExLzE1L2Fpci1mb3JjZS13YW50cy1pbmR1c3RyeS1pbnB1dC1mb3ItZW5oYW5jZWQtZWxlY3Ryb21hZ25ldGljLWJhdHRsZS1tYW5hZ2VtZW50LWNhcGFiaWxpdHkv0gEA",
       "title": "Air Force wants industry input for enhanced electromagnetic battle management capability - C4ISRNET",
       "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS8yMDE2LzExLzE1L2Fpci1mb3JjZS13YW50cy1pbmR1c3RyeS1pbnB1dC1mb3ItZW5oYW5jZWQtZWxlY3Ryb21hZ25ldGljLWJhdHRsZS1tYW5hZ2VtZW50LWNhcGFiaWxpdHkv0gEA?oc=5",
@@ -492,16 +492,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9hcnRpY2xlLzE4MDUwMDYvdXNzdHJhdGNvbS1hbm5vdW5jZXMtaW5pdGlhbC1vcGVyYXRpb25hbC1jYXBhYmlsaXR5LW9mLW5jMy1lbnRlcnByaXNlLWNlbnRlci_SAQA?oc=5",
       "published": "2019-04-03T07:00:00.000Z",
       "description": "USSTRATCOM announces initial operational capability of NC3 Enterprise Center&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSGh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIzL2p1bmUvcnVuLXNpbGVudC1ub3QtZGVlcNIBAA",
-      "title": "Run Silent, Not Deep | Proceedings - June 2023 Vol. 149/6/1,444 - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIzL2p1bmUvcnVuLXNpbGVudC1ub3QtZGVlcNIBAA?oc=5",
-      "published": "2023-05-31T18:43:45.000Z",
-      "description": "Run Silent, Not Deep | Proceedings - June 2023 Vol. 149/6/1,444&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
