@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-11T06:34:10.000Z",
+  "published": "2024-06-11T07:22:20.000Z",
   "entries": [
     {
       "id": "CBMiMWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvQXJ0L2lncGhvdG8vMjAwMzI4Mzg3Mi_SAQA",
@@ -257,21 +257,21 @@
       "category": ""
     },
     {
-      "id": "CBMiNGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS93aGVuLWRpZC10aGUta2MtMTM1LXJldGlyZS_SAQA",
-      "title": "When Did The KC-135 Retire? - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS93aGVuLWRpZC10aGUta2MtMTM1LXJldGlyZS_SAQA?oc=5",
-      "published": "2024-05-09T07:00:00.000Z",
-      "description": "When Did The KC-135 Retire?&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiSmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMjEvdmlkZW8tb2Ytc3UtMjdzLXJhZi1yYy0xMzUtdHlwaG9vbnMv0gEA",
       "title": "Russian MOD Releases Video Of Su-27s Shadowing RAF RC-135 And Typhoons Over Black Sea - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMjEvdmlkZW8tb2Ytc3UtMjdzLXJhZi1yYy0xMzUtdHlwaG9vbnMv0gEA?oc=5",
       "published": "2023-10-21T07:00:00.000Z",
       "description": "Russian MOD Releases Video Of Su-27s Shadowing RAF RC-135 And Typhoons Over Black Sea&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiNGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS93aGVuLWRpZC10aGUta2MtMTM1LXJldGlyZS_SAQA",
+      "title": "When Did The KC-135 Retire? - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS93aGVuLWRpZC10aGUta2MtMTM1LXJldGlyZS_SAQA?oc=5",
+      "published": "2024-05-09T07:00:00.000Z",
+      "description": "When Did The KC-135 Retire?&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,6 +467,16 @@
       "category": ""
     },
     {
+      "id": "CBMigAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Zvcm1lci1rYy0xMzUtY3Jldy1jaGllZi1leHBsYWlucy1ob3ctaGUtd2FzLWFibGUtdG8tbG9nLTEwMDAwLWZseWluZy1ob3Vycy1pbi10aGUtc3RyYXRvdGFua2VyL9IBgAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Zvcm1lci1rYy0xMzUtY3Jldy1jaGllZi1leHBsYWlucy1ob3ctaGUtd2FzLWFibGUtdG8tbG9nLTEwMDAwLWZseWluZy1ob3Vycy1pbi10aGUtc3RyYXRvdGFua2VyLw",
+      "title": "Former KC-135 crew chief explains how he was able to log 10,000 Flying Hours in the Stratotanker - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Zvcm1lci1rYy0xMzUtY3Jldy1jaGllZi1leHBsYWlucy1ob3ctaGUtd2FzLWFibGUtdG8tbG9nLTEwMDAwLWZseWluZy1ob3Vycy1pbi10aGUtc3RyYXRvdGFua2VyL9IBgAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Zvcm1lci1rYy0xMzUtY3Jldy1jaGllZi1leHBsYWlucy1ob3ctaGUtd2FzLWFibGUtdG8tbG9nLTEwMDAwLWZseWluZy1ob3Vycy1pbi10aGUtc3RyYXRvdGFua2VyLw?oc=5",
+      "published": "2024-03-10T10:19:36.000Z",
+      "description": "Former KC-135 crew chief explains how he was able to log 10,000 Flying Hours in the Stratotanker&nbsp;&nbsp;The Aviation Geek Club",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ",
       "title": "US spy plane flies over S. Korea amid heightened tensions - koreatimes",
       "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ?oc=5",
@@ -577,21 +587,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1uZWFyLWJsYWNrLXNlYS_SAQA",
-      "title": "British surveillance aircraft patrols near Black Sea - UK Defence Journal",
-      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1uZWFyLWJsYWNrLXNlYS_SAQA?oc=5",
-      "published": "2024-05-29T07:00:00.000Z",
-      "description": "British surveillance aircraft patrols near Black Sea&nbsp;&nbsp;UK Defence Journal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiQWh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvdGhlLWJvZWluZy1rYy0xMzUtc3RyYXRvdGFua2Vy0gFFaHR0cHM6Ly93d3cuYWVyb3RpbWUuYWVyby9hcnRpY2xlcy90aGUtYm9laW5nLWtjLTEzNS1zdHJhdG90YW5rZXIvYW1w",
       "title": "The Boeing KC-135 Stratotanker: a vital military asset - AeroTime",
       "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvdGhlLWJvZWluZy1rYy0xMzUtc3RyYXRvdGFua2Vy0gFFaHR0cHM6Ly93d3cuYWVyb3RpbWUuYWVyby9hcnRpY2xlcy90aGUtYm9laW5nLWtjLTEzNS1zdHJhdG90YW5rZXIvYW1w?oc=5",
       "published": "2023-07-29T07:00:00.000Z",
       "description": "The Boeing KC-135 Stratotanker: a vital military asset&nbsp;&nbsp;AeroTime",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1uZWFyLWJsYWNrLXNlYS_SAQA",
+      "title": "British surveillance aircraft patrols near Black Sea - UK Defence Journal",
+      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1uZWFyLWJsYWNrLXNlYS_SAQA?oc=5",
+      "published": "2024-05-29T07:00:00.000Z",
+      "description": "British surveillance aircraft patrols near Black Sea&nbsp;&nbsp;UK Defence Journal",
       "summary": "",
       "author": "",
       "category": ""
@@ -667,16 +677,6 @@
       "category": ""
     },
     {
-      "id": "CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9wYWNhZi1ib3NzLWNoaW5hLWludGVyY2VwdHMtdXMtYWlyY3JhZnQv0gEA",
-      "title": "PACAF Boss: China Risks 'Disaster' With Unsafe Intercepts of US Aircraft - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9wYWNhZi1ib3NzLWNoaW5hLWludGVyY2VwdHMtdXMtYWlyY3JhZnQv0gEA?oc=5",
-      "published": "2023-09-11T07:00:00.000Z",
-      "description": "PACAF Boss: China Risks 'Disaster' With Unsafe Intercepts of US Aircraft&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiUGh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1ibGFjay1zZWEv0gEA",
       "title": "British surveillance aircraft patrols Black Sea - UK Defence Journal",
       "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1ibGFjay1zZWEv0gEA?oc=5",
@@ -702,6 +702,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91cy1hbm90aGVyLWludGVyY2VwdC1jaGluZXNlLWZpZ2h0ZXItcmMtMTM1LXZpZGVvL9IBAA?oc=5",
       "published": "2023-05-30T07:00:00.000Z",
       "description": "US: Another 'Unprofessional' Intercept of RC-135 by Chinese Fighter. Watch the Video&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiU2h0dHBzOi8vdWthdmlhdGlvbi5uZXdzL3J1c3NpYS1hdHRlbXB0ZWQtdG8tc2hvb3QtZG93bi1hbi1yYWYtcml2ZXQtam9pbnQtYWlyY3JhZnQv0gFTaHR0cHM6Ly91a2F2aWF0aW9uLm5ld3MvcnVzc2lhLWF0dGVtcHRlZC10by1zaG9vdC1kb3duLWFuLXJhZi1yaXZldC1qb2ludC1haXJjcmFmdC8",
+      "title": "Russia attempted to shoot down an RAF Rivet Joint aircraft - UK Aviation News",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdWthdmlhdGlvbi5uZXdzL3J1c3NpYS1hdHRlbXB0ZWQtdG8tc2hvb3QtZG93bi1hbi1yYWYtcml2ZXQtam9pbnQtYWlyY3JhZnQv0gFTaHR0cHM6Ly91a2F2aWF0aW9uLm5ld3MvcnVzc2lhLWF0dGVtcHRlZC10by1zaG9vdC1kb3duLWFuLXJhZi1yaXZldC1qb2ludC1haXJjcmFmdC8?oc=5",
+      "published": "2023-09-14T07:00:00.000Z",
+      "description": "Russia attempted to shoot down an RAF Rivet Joint aircraft&nbsp;&nbsp;UK Aviation News",
       "summary": "",
       "author": "",
       "category": ""
@@ -772,16 +782,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRlZmVuY2UuZ292LmF1L25ld3MtZXZlbnRzL25ld3MvMjAyNC0wMS0wOC9leHBhbmRpbmctYWlyLWFpci1yZWZ1ZWxsaW5nLXN1cHBvcnTSAQA?oc=5",
       "published": "2024-01-08T08:00:00.000Z",
       "description": "Expanding air-to-air refuelling support&nbsp;&nbsp;Australian Department of Defence",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiU2h0dHBzOi8vdWthdmlhdGlvbi5uZXdzL3J1c3NpYS1hdHRlbXB0ZWQtdG8tc2hvb3QtZG93bi1hbi1yYWYtcml2ZXQtam9pbnQtYWlyY3JhZnQv0gFTaHR0cHM6Ly91a2F2aWF0aW9uLm5ld3MvcnVzc2lhLWF0dGVtcHRlZC10by1zaG9vdC1kb3duLWFuLXJhZi1yaXZldC1qb2ludC1haXJjcmFmdC8",
-      "title": "Russia attempted to shoot down an RAF Rivet Joint aircraft - UK Aviation News",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdWthdmlhdGlvbi5uZXdzL3J1c3NpYS1hdHRlbXB0ZWQtdG8tc2hvb3QtZG93bi1hbi1yYWYtcml2ZXQtam9pbnQtYWlyY3JhZnQv0gFTaHR0cHM6Ly91a2F2aWF0aW9uLm5ld3MvcnVzc2lhLWF0dGVtcHRlZC10by1zaG9vdC1kb3duLWFuLXJhZi1yaXZldC1qb2ludC1haXJjcmFmdC8?oc=5",
-      "published": "2023-09-14T07:00:00.000Z",
-      "description": "Russia attempted to shoot down an RAF Rivet Joint aircraft&nbsp;&nbsp;UK Aviation News",
       "summary": "",
       "author": "",
       "category": ""
@@ -882,16 +882,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtY29udGludWVzLXBhdHJvbHMtbmVhci11a3JhaW5lL9IBAA?oc=5",
       "published": "2024-02-14T08:00:00.000Z",
       "description": "British surveillance aircraft continues patrols near Ukraine&nbsp;&nbsp;UK Defence Journal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMimwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L1J1c3NpYW4tcGlsb3QtdHJpZWQtc2hvb3QtUkFGLXN1cnZlaWxsYW5jZS1wbGFuZS1CbGFjay1TZWEtd3JvbmdseS10aG91Z2h0LXBlcm1pc3Npb24tbWlzc2lsZS1taXNzZWQuaHRtbNIBnwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L2FtcC9SdXNzaWFuLXBpbG90LXRyaWVkLXNob290LVJBRi1zdXJ2ZWlsbGFuY2UtcGxhbmUtQmxhY2stU2VhLXdyb25nbHktdGhvdWdodC1wZXJtaXNzaW9uLW1pc3NpbGUtbWlzc2VkLmh0bWw",
-      "title": "Russian pilot tried to shoot down RAF surveillance aircraft over the Black Sea in 2022 because he believed he - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L1J1c3NpYW4tcGlsb3QtdHJpZWQtc2hvb3QtUkFGLXN1cnZlaWxsYW5jZS1wbGFuZS1CbGFjay1TZWEtd3JvbmdseS10aG91Z2h0LXBlcm1pc3Npb24tbWlzc2lsZS1taXNzZWQuaHRtbNIBnwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L2FtcC9SdXNzaWFuLXBpbG90LXRyaWVkLXNob290LVJBRi1zdXJ2ZWlsbGFuY2UtcGxhbmUtQmxhY2stU2VhLXdyb25nbHktdGhvdWdodC1wZXJtaXNzaW9uLW1pc3NpbGUtbWlzc2VkLmh0bWw?oc=5",
-      "published": "2023-09-14T07:00:00.000Z",
-      "description": "Russian pilot tried to shoot down RAF surveillance aircraft over the Black Sea in 2022 because he believed he&nbsp;&nbsp;Daily Mail",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9mbGlnaHRyYWRhcjI0LW1vc3QtdHJhY2tlZC1wbGFuZS1ib2VpbmctcmMtMTM1L9IBAA?oc=5",
       "published": "2022-03-09T08:00:00.000Z",
       "description": "FlightRadar24's Most Tracked Plane Now: A Look At The Boeing RC-135&nbsp;&nbsp;Simple Flying",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiOGh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9lcXVpcG1lbnQvcmMtMTM1di13LXJpdmV0LWpvaW500gEA",
+      "title": "RC-135V/W Rivet Joint - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9lcXVpcG1lbnQvcmMtMTM1di13LXJpdmV0LWpvaW500gEA?oc=5",
+      "published": "2015-09-24T17:03:19.000Z",
+      "description": "RC-135V/W Rivet Joint&nbsp;&nbsp;Military.com",
       "summary": "",
       "author": "",
       "category": ""
