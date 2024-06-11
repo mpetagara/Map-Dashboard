@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-11T02:22:30.000Z",
+  "published": "2024-06-11T03:29:25.000Z",
   "entries": [
     {
       "id": "CBMidmh0dHBzOi8vd3d3LjUwMWNzdy51c2FmZS5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzkyMjUwLzk1dGgtcnMtc2hhcnBlbnMtYWNlLXdpdGgtc3VwcG9ydC1mcm9tLTUwMXN0LWNzdy_SAQA",
@@ -262,16 +262,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vYXUubmV3cy55YWhvby5jb20vdS1wbGFuZS1hcnJpdmVzLXVrLWNvbmR1Y3QtMTM1NzAwOTQ2Lmh0bWzSAQA?oc=5",
       "published": "2024-02-26T08:00:00.000Z",
       "description": "U.S. plane arrives from UK to conduct reconnaissance near Crimea&nbsp;&nbsp;Yahoo News Australia",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL1NjcmFtYmxlLVJ1c3NpYW4tY3liZXJoYWNrZXJzLXVubGVhc2hlZC1HUFMtamFtbWluZy1hdHRhY2stR3JhbnQtU2hhcHBzLVJBRi1qZXQtTkFUTy1sYXVuY2hlcy1tYWpvci1yZWNvbm5haXNzYW5jZS1haXJjcmFmdC1vcGVyYXRpb24taWRlbnRpZnktc291cmNlLWVsZWN0cm9uaWMtd2FyZmFyZS1hdHRhY2stRGVmZW5jZS1TZWNyZXRhcnlzLVBvbGFuZC1mbGlnaHQuaHRtbNIBiwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL2FtcC9TY3JhbWJsZS1SdXNzaWFuLWN5YmVyaGFja2Vycy11bmxlYXNoZWQtR1BTLWphbW1pbmctYXR0YWNrLUdyYW50LVNoYXBwcy1SQUYtamV0LU5BVE8tbGF1bmNoZXMtbWFqb3ItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtb3BlcmF0aW9uLWlkZW50aWZ5LXNvdXJjZS1lbGVjdHJvbmljLXdhcmZhcmUtYXR0YWNrLURlZmVuY2UtU2VjcmV0YXJ5cy1Qb2xhbmQtZmxpZ2h0Lmh0bWw",
-      "title": "Scramble to find Russian cyberhackers who unleashed GPS jamming attack on Grant Shapps' RAF jet: NATO launches - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMihwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL1NjcmFtYmxlLVJ1c3NpYW4tY3liZXJoYWNrZXJzLXVubGVhc2hlZC1HUFMtamFtbWluZy1hdHRhY2stR3JhbnQtU2hhcHBzLVJBRi1qZXQtTkFUTy1sYXVuY2hlcy1tYWpvci1yZWNvbm5haXNzYW5jZS1haXJjcmFmdC1vcGVyYXRpb24taWRlbnRpZnktc291cmNlLWVsZWN0cm9uaWMtd2FyZmFyZS1hdHRhY2stRGVmZW5jZS1TZWNyZXRhcnlzLVBvbGFuZC1mbGlnaHQuaHRtbNIBiwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL2FtcC9TY3JhbWJsZS1SdXNzaWFuLWN5YmVyaGFja2Vycy11bmxlYXNoZWQtR1BTLWphbW1pbmctYXR0YWNrLUdyYW50LVNoYXBwcy1SQUYtamV0LU5BVE8tbGF1bmNoZXMtbWFqb3ItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtb3BlcmF0aW9uLWlkZW50aWZ5LXNvdXJjZS1lbGVjdHJvbmljLXdhcmZhcmUtYXR0YWNrLURlZmVuY2UtU2VjcmV0YXJ5cy1Qb2xhbmQtZmxpZ2h0Lmh0bWw?oc=5",
-      "published": "2024-03-15T07:00:00.000Z",
-      "description": "Scramble to find Russian cyberhackers who unleashed GPS jamming attack on Grant Shapps' RAF jet: NATO launches&nbsp;&nbsp;Daily Mail",
       "summary": "",
       "author": "",
       "category": ""
@@ -547,21 +537,21 @@
       "category": ""
     },
     {
-      "id": "CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA",
-      "title": "First Rivet Joint delivered to the Royal Air Force - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA?oc=5",
-      "published": "2013-11-19T08:00:00.000Z",
-      "description": "First Rivet Joint delivered to the Royal Air Force&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDQvMTEvcnVzc2lhbi1zdS0yNy1uZWFybHktc2hvdC1kb3duLWJyaXRpc2gtcml2ZXQtam9pbnQtbGFzdC15ZWFyL9IBAA",
       "title": "Pentagon Leaks: Russian Su-27 Nearly Shot Down British Rivet Joint Last Year - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDQvMTEvcnVzc2lhbi1zdS0yNy1uZWFybHktc2hvdC1kb3duLWJyaXRpc2gtcml2ZXQtam9pbnQtbGFzdC15ZWFyL9IBAA?oc=5",
       "published": "2023-04-11T07:00:00.000Z",
       "description": "Pentagon Leaks: Russian Su-27 Nearly Shot Down British Rivet Joint Last Year&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA",
+      "title": "First Rivet Joint delivered to the Royal Air Force - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA?oc=5",
+      "published": "2013-11-19T08:00:00.000Z",
+      "description": "First Rivet Joint delivered to the Royal Air Force&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -607,21 +597,21 @@
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDIzLzA0LzA5L2xlYWtlZC1kb2N1bWVudHMtc3VydmVpbGxhbmNlLXBsYW5lLXJpdmV0LWpvaW50L9IBAA",
-      "title": "Russia nearly shot down British spy plane near Ukraine, leaked document says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDIzLzA0LzA5L2xlYWtlZC1kb2N1bWVudHMtc3VydmVpbGxhbmNlLXBsYW5lLXJpdmV0LWpvaW50L9IBAA?oc=5",
-      "published": "2023-04-09T07:00:00.000Z",
-      "description": "Russia nearly shot down British spy plane near Ukraine, leaked document says&nbsp;&nbsp;The Washington Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiU2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLXN1cGVyLXNweS1wbGFuZS10aGF0LWVhdmVzZHJvcHBlZC1vbi1ydXNzaWEtZHVyaW4v0gFTaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtc3VwZXItc3B5LXBsYW5lLXRoYXQtZWF2ZXNkcm9wcGVkLW9uLXJ1c3NpYS1kdXJpbi8",
       "title": "US ‘Super Spy Plane’ That Eavesdropped On Russia During Ukraine War Retires From Service - EurAsian Times",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLXN1cGVyLXNweS1wbGFuZS10aGF0LWVhdmVzZHJvcHBlZC1vbi1ydXNzaWEtZHVyaW4v0gFTaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtc3VwZXItc3B5LXBsYW5lLXRoYXQtZWF2ZXNkcm9wcGVkLW9uLXJ1c3NpYS1kdXJpbi8?oc=5",
       "published": "2023-10-01T07:00:00.000Z",
       "description": "US ‘Super Spy Plane’ That Eavesdropped On Russia During Ukraine War Retires From Service&nbsp;&nbsp;EurAsian Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMi7QFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvd29ybGQvc2NyYW1ibGUtdG8tZmluZC1ydXNzaWFuLWN5YmVyaGFja2Vycy13aG8tdW5sZWFzaGVkLWdwcy1qYW1taW5nLWF0dGFjay1vbi1ncmFudC1zaGFwcC1zLXJhZi1qZXQtbmF0by1sYXVuY2hlcy1tYWpvci1yZWNvbm5haXNzYW5jZS1vcGVyYXRpb24tdG8taWRlbnRpZnktc291cmNlLW9mLWVsZWN0cm9uaWMtd2FyZmFyZS1hdHRhY2svYXItQkIxalRPTFbSAQA",
+      "title": "Scramble to find Russian cyberhackers who unleashed GPS jamming attack on Grant Shapps' RAF jet: NATO launches ... - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi7QFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvd29ybGQvc2NyYW1ibGUtdG8tZmluZC1ydXNzaWFuLWN5YmVyaGFja2Vycy13aG8tdW5sZWFzaGVkLWdwcy1qYW1taW5nLWF0dGFjay1vbi1ncmFudC1zaGFwcC1zLXJhZi1qZXQtbmF0by1sYXVuY2hlcy1tYWpvci1yZWNvbm5haXNzYW5jZS1vcGVyYXRpb24tdG8taWRlbnRpZnktc291cmNlLW9mLWVsZWN0cm9uaWMtd2FyZmFyZS1hdHRhY2svYXItQkIxalRPTFbSAQA?oc=5",
+      "published": "2024-03-14T22:39:03.000Z",
+      "description": "Scramble to find Russian cyberhackers who unleashed GPS jamming attack on Grant Shapps' RAF jet: NATO launches ...&nbsp;&nbsp;MSN",
       "summary": "",
       "author": "",
       "category": ""
@@ -917,21 +907,21 @@
       "category": ""
     },
     {
-      "id": "CBMiYmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTMtMTAtMzAvcml2ZXQtam9pbnQtYWlyd29ydGhpbmVzcy1xdWVzdGlvbmVkLXVr0gEA",
-      "title": "Rivet Joint Airworthiness Questioned by UK - Aviation International News",
-      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTMtMTAtMzAvcml2ZXQtam9pbnQtYWlyd29ydGhpbmVzcy1xdWVzdGlvbmVkLXVr0gEA?oc=5",
-      "published": "2013-10-30T07:00:00.000Z",
-      "description": "Rivet Joint Airworthiness Questioned by UK&nbsp;&nbsp;Aviation International News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OS5hbXA",
       "title": "Russian pilot fired two missiles at British RAF plane carrying 30 aircrew - Daily Record",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OS5hbXA?oc=5",
       "published": "2023-09-14T07:00:00.000Z",
       "description": "Russian pilot fired two missiles at British RAF plane carrying 30 aircrew&nbsp;&nbsp;Daily Record",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTMtMTAtMzAvcml2ZXQtam9pbnQtYWlyd29ydGhpbmVzcy1xdWVzdGlvbmVkLXVr0gEA",
+      "title": "Rivet Joint Airworthiness Questioned by UK - Aviation International News",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTMtMTAtMzAvcml2ZXQtam9pbnQtYWlyd29ydGhpbmVzcy1xdWVzdGlvbmVkLXVr0gEA?oc=5",
+      "published": "2013-10-30T07:00:00.000Z",
+      "description": "Rivet Joint Airworthiness Questioned by UK&nbsp;&nbsp;Aviation International News",
       "summary": "",
       "author": "",
       "category": ""
@@ -962,6 +952,16 @@
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi9zZWN1cml0eS8yMDIyLzA4L3J1c3NpYS1hY2N1c2VzLWJyaXRpc2gtc3B5LXBsYW5lLXZpb2xhdGluZy1haXJzcGFjZS1ub3J0aC1rb2xhLXBlbmluc3VsYdIBAA?oc=5",
       "published": "2022-08-16T07:00:00.000Z",
       "description": "Russia accuses British spy plane of violating airspace north of Kola Peninsula&nbsp;&nbsp;The Independent Barents Observer",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM0Mzg0OS9vZmZ1dHRzLW1haW50ZW5hbmNlLXRyYWluaW5nLXN5c3RlbS1yZXR1cm5zLWZ1bGwtbWlzc2lvbi1jYXBhYmxlLXN0YXR1c9IBAA",
+      "title": "Offutt's Maintenance Training System returns to full mission capable status - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM0Mzg0OS9vZmZ1dHRzLW1haW50ZW5hbmNlLXRyYWluaW5nLXN5c3RlbS1yZXR1cm5zLWZ1bGwtbWlzc2lvbi1jYXBhYmxlLXN0YXR1c9IBAA?oc=5",
+      "published": "2019-09-27T07:00:00.000Z",
+      "description": "Offutt's Maintenance Training System returns to full mission capable status&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
