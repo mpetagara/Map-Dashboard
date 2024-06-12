@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-12T18:33:10.000Z",
+  "published": "2024-06-12T19:18:26.000Z",
   "entries": [
     {
       "id": "CBMiN2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDQvMTgvYi0yLW1hc3MtZmx5LW9mZi_SAQA",
@@ -117,21 +117,11 @@
       "category": ""
     },
     {
-      "id": "CBMiTGh0dHBzOi8vc2NyYW1ibGUubmwvbWlsaXRhcnktbmV3cy91c2FmLWItMmEtc3Bpcml0LWJvbWJlcnMtZGVwbG95LXRvLWljZWxhbmTSAQA",
+      "id": "CBMiUGh0dHBzOi8vd3d3LnNjcmFtYmxlLm5sL21pbGl0YXJ5LW5ld3MvdXNhZi1iLTJhLXNwaXJpdC1ib21iZXJzLWRlcGxveS10by1pY2VsYW5k0gEA",
       "title": "USAF B-2A Spirit Bombers deploy to Iceland - Scramble (NL)",
-      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2NyYW1ibGUubmwvbWlsaXRhcnktbmV3cy91c2FmLWItMmEtc3Bpcml0LWJvbWJlcnMtZGVwbG95LXRvLWljZWxhbmTSAQA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnNjcmFtYmxlLm5sL21pbGl0YXJ5LW5ld3MvdXNhZi1iLTJhLXNwaXJpdC1ib21iZXJzLWRlcGxveS10by1pY2VsYW5k0gEA?oc=5",
       "published": "2023-08-15T07:00:00.000Z",
       "description": "USAF B-2A Spirit Bombers deploy to Iceland&nbsp;&nbsp;Scramble (NL)",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VpbmR1c3RyeWRhaWx5LmNvbS91c2FzLWIyLWJvbWJlcnMtbGVhZGluZy10aGUtd2F5LWluLWNvbnRyYWN0aW5nLWZvci1hdmFpbGFiaWxpdHktMDI5NTAv0gEA",
-      "title": "USA's B-2 Bombers Leading the Way in Contracting for Availability - Defense Industry Daily",
-      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VpbmR1c3RyeWRhaWx5LmNvbS91c2FzLWIyLWJvbWJlcnMtbGVhZGluZy10aGUtd2F5LWluLWNvbnRyYWN0aW5nLWZvci1hdmFpbGFiaWxpdHktMDI5NTAv0gEA?oc=5",
-      "published": "2024-05-06T07:00:00.000Z",
-      "description": "USA's B-2 Bombers Leading the Way in Contracting for Availability&nbsp;&nbsp;Defense Industry Daily",
       "summary": "",
       "author": "",
       "category": ""
@@ -202,6 +192,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItMi1zdGVhbHRoLWJvbWJlci1kZXNpZ25lZC1tYWtlLXJ1c3NpYS1hbmQtY2hpbmEtc3dlYXQtMjA3OTky0gEA?oc=5",
       "published": "2023-12-16T08:00:00.000Z",
       "description": "The B-2 Stealth Bomber Is Designed to Make Russia and China Sweat&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VpbmR1c3RyeWRhaWx5LmNvbS91c2FzLWIyLWJvbWJlcnMtbGVhZGluZy10aGUtd2F5LWluLWNvbnRyYWN0aW5nLWZvci1hdmFpbGFiaWxpdHktMDI5NTAv0gEA",
+      "title": "USA's B-2 Bombers Leading the Way in Contracting for Availability - Defense Industry Daily",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VpbmR1c3RyeWRhaWx5LmNvbS91c2FzLWIyLWJvbWJlcnMtbGVhZGluZy10aGUtd2F5LWluLWNvbnRyYWN0aW5nLWZvci1hdmFpbGFiaWxpdHktMDI5NTAv0gEA?oc=5",
+      "published": "2024-05-06T07:00:00.000Z",
+      "description": "USA's B-2 Bombers Leading the Way in Contracting for Availability&nbsp;&nbsp;Defense Industry Daily",
       "summary": "",
       "author": "",
       "category": ""
@@ -397,26 +397,6 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjExNjQ3My9ib21iZXItdGFzay1mb3JjZS1jb25kdWN0cy1pY2VsYW5kaWMtbWlzc2lvbi13aXRoLW5vcndlZ2lhbi1mLTM1cy11cy1mLTE1cy_SAQA",
-      "title": "Bomber Task Force conducts Icelandic mission with Norwegian F-35s, U.S. F-15s - Whiteman Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjExNjQ3My9ib21iZXItdGFzay1mb3JjZS1jb25kdWN0cy1pY2VsYW5kaWMtbWlzc2lvbi13aXRoLW5vcndlZ2lhbi1mLTM1cy11cy1mLTE1cy_SAQA?oc=5",
-      "published": "2020-03-18T07:00:00.000Z",
-      "description": "Bomber Task Force conducts Icelandic mission with Norwegian F-35s, U.S. F-15s&nbsp;&nbsp;Whiteman Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMTkvbmV3LWItMjEtcmFpZGVyLXBob3RvLXJlbGVhc2VkLWJ5LW5vcnRocm9wLWdydW1tYW4v0gEA",
-      "title": "New B-21 Raider Photo Released By Northrop Grumman - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMTkvbmV3LWItMjEtcmFpZGVyLXBob3RvLXJlbGVhc2VkLWJ5LW5vcnRocm9wLWdydW1tYW4v0gEA?oc=5",
-      "published": "2024-03-19T07:00:00.000Z",
-      "description": "New B-21 Raider Photo Released By Northrop Grumman&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDgvMjkvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1tYWtlcy1maXJzdC1oaXN0b3JpYy12aXNpdC10by1pY2VsYW5kL9IBAA",
       "title": "B-2 Spirit Stealth Bomber Makes First Historic Visit to Iceland - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDgvMjkvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1tYWtlcy1maXJzdC1oaXN0b3JpYy12aXNpdC10by1pY2VsYW5kL9IBAA?oc=5",
@@ -447,16 +427,6 @@
       "category": ""
     },
     {
-      "id": "CBMiWWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtYi0yLWJvbWJlci1uaWdodG1hcmUtaGFzLWFycml2ZWQtMjExMTY40gEA",
-      "title": "The Air Force's B-2 Bomber Nightmare Has Arrived - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtYi0yLWJvbWJlci1uaWdodG1hcmUtaGFzLWFycml2ZWQtMjExMTY40gEA?oc=5",
-      "published": "2024-05-25T07:00:00.000Z",
-      "description": "The Air Force's B-2 Bomber Nightmare Has Arrived&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiamh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi92aWRlby1zaG93cy1pbi1kZXRhaWwtbW92ZW1lbnQtb2YtY29udHJvbC1zdXJmYWNlcy1vZi1hLWItMmEtc3Bpcml0LWJvbWJlci_SAQA",
       "title": "Video shows in detail movement of control surfaces of a B-2A Spirit bomber - Aeroflap",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi92aWRlby1zaG93cy1pbi1kZXRhaWwtbW92ZW1lbnQtb2YtY29udHJvbC1zdXJmYWNlcy1vZi1hLWItMmEtc3Bpcml0LWJvbWJlci_SAQA?oc=5",
@@ -467,21 +437,21 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMTAvbGV0cy1oYXZlLWFub3RoZXItbG9vay1hdC10aGUtYi0ycy1haXItZGF0YS1wb3J0cy1hbmQtYXN0cm9pbmVydGlhbC1uYXZpZ2F0aW9uLXN5c3RlbS_SAQA",
-      "title": "Let's Have Another Look At The B-2's Air Data Ports And Astroinertial Navigation System - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMTAvbGV0cy1oYXZlLWFub3RoZXItbG9vay1hdC10aGUtYi0ycy1haXItZGF0YS1wb3J0cy1hbmQtYXN0cm9pbmVydGlhbC1uYXZpZ2F0aW9uLXN5c3RlbS_SAQA?oc=5",
-      "published": "2021-09-10T07:00:00.000Z",
-      "description": "Let's Have Another Look At The B-2's Air Data Ports And Astroinertial Navigation System&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDkvMTAvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1wZXJmb3Jtcy1ob3QtcGl0LXJlZnVlbGluZy1pbi1sYWplcy1maWVsZC1hem9yZXMv0gEA",
       "title": "B-2 Spirit Stealth Bomber Performs Hot-Pit Refueling At Lajes Field, Azores - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTkvMDkvMTAvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1wZXJmb3Jtcy1ob3QtcGl0LXJlZnVlbGluZy1pbi1sYWplcy1maWVsZC1hem9yZXMv0gEA?oc=5",
       "published": "2019-09-10T07:00:00.000Z",
       "description": "B-2 Spirit Stealth Bomber Performs Hot-Pit Refueling At Lajes Field, Azores&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMTAvbGV0cy1oYXZlLWFub3RoZXItbG9vay1hdC10aGUtYi0ycy1haXItZGF0YS1wb3J0cy1hbmQtYXN0cm9pbmVydGlhbC1uYXZpZ2F0aW9uLXN5c3RlbS_SAQA",
+      "title": "Let's Have Another Look At The B-2's Air Data Ports And Astroinertial Navigation System - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMTAvbGV0cy1oYXZlLWFub3RoZXItbG9vay1hdC10aGUtYi0ycy1haXItZGF0YS1wb3J0cy1hbmQtYXN0cm9pbmVydGlhbC1uYXZpZ2F0aW9uLXN5c3RlbS_SAQA?oc=5",
+      "published": "2021-09-10T07:00:00.000Z",
+      "description": "Let's Have Another Look At The B-2's Air Data Ports And Astroinertial Navigation System&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -537,16 +507,6 @@
       "category": ""
     },
     {
-      "id": "CBMiiwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIwLzAzLzEyL3Rha2UtYS1sb29rLWF0LXRoZXNlLWNvb2wtYWVyaWFsLXNob3RzLW9mLXRoZS11LXMtYi0yLXN0ZWFsdGgtYm9tYmVycy1hcnJpdmluZy10by1yYWYtZmFpcmZvcmQtdG9kYXkv0gEA",
-      "title": "Take A Look At These Cool Aerial Shots Of The U.S. B-2 Stealth Bombers Arriving To RAF Fairford Today - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIwLzAzLzEyL3Rha2UtYS1sb29rLWF0LXRoZXNlLWNvb2wtYWVyaWFsLXNob3RzLW9mLXRoZS11LXMtYi0yLXN0ZWFsdGgtYm9tYmVycy1hcnJpdmluZy10by1yYWYtZmFpcmZvcmQtdG9kYXkv0gEA?oc=5",
-      "published": "2020-03-12T07:00:00.000Z",
-      "description": "Take A Look At These Cool Aerial Shots Of The U.S. B-2 Stealth Bombers Arriving To RAF Fairford Today&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzA5LzE4L3Utcy1iLTItc3RlYWx0aC1ib21iZXItdHdvLWYtMTVjcy1hbmQtdHdvLXJhZi1mLTM1YnMtaW50ZWdyYXRlLWR1cmluZy10cmFpbmluZy1taXNzaW9uLW92ZXItdWsv0gEA",
       "title": "U.S. B-2 Stealth Bomber, Two F-15Cs and Two RAF F-35Bs Integrate During Training Mission Over UK - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzA5LzE4L3Utcy1iLTItc3RlYWx0aC1ib21iZXItdHdvLWYtMTVjcy1hbmQtdHdvLXJhZi1mLTM1YnMtaW50ZWdyYXRlLWR1cmluZy10cmFpbmluZy1taXNzaW9uLW92ZXItdWsv0gEA?oc=5",
@@ -562,6 +522,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvMjU2MTEtZ2FtZS1jaGFuZ2VyLW9mLW1pbGl0YXJ5LWFpcmNyYWZ0LWItMi1zcGlyaXQtc3RlYWx0aC1ib21iZXLSAWhodHRwczovL3d3dy5hZXJvdGltZS5hZXJvL2FydGljbGVzLzI1NjExLWdhbWUtY2hhbmdlci1vZi1taWxpdGFyeS1haXJjcmFmdC1iLTItc3Bpcml0LXN0ZWFsdGgtYm9tYmVyL2FtcA?oc=5",
       "published": "2020-08-08T07:00:00.000Z",
       "description": "Game changer of military aircraft: B-2 Spirit Stealth Bomber&nbsp;&nbsp;AeroTime",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiX2h0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdGhlLW5pZ2h0LXVzYWYtYi0yYS1zcGlyaXRzLWJvbWJlZC1jaGluZXNlLWVtYmFzc3ktaW4tYmVsZ3JhZGUv0gFfaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS90aGUtbmlnaHQtdXNhZi1iLTJhLXNwaXJpdHMtYm9tYmVkLWNoaW5lc2UtZW1iYXNzeS1pbi1iZWxncmFkZS8",
+      "title": "The Night USAF B-2A Spirits Bombed Chinese Embassy in Belgrade - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdGhlLW5pZ2h0LXVzYWYtYi0yYS1zcGlyaXRzLWJvbWJlZC1jaGluZXNlLWVtYmFzc3ktaW4tYmVsZ3JhZGUv0gFfaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS90aGUtbmlnaHQtdXNhZi1iLTJhLXNwaXJpdHMtYm9tYmVkLWNoaW5lc2UtZW1iYXNzeS1pbi1iZWxncmFkZS8?oc=5",
+      "published": "2019-10-17T14:36:57.000Z",
+      "description": "The Night USAF B-2A Spirits Bombed Chinese Embassy in Belgrade&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""
@@ -617,16 +587,6 @@
       "category": ""
     },
     {
-      "id": "CBMiKGh0dHBzOi8vYXZpYXRpb25waG90b2RpZ2VzdC5jb20vMjc2NzUtMi_SAQA",
-      "title": "A first! 509th Bomb Wing B-2A Stealth Bomber lands at Amberley. - Aviation Photography Digest",
-      "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYXZpYXRpb25waG90b2RpZ2VzdC5jb20vMjc2NzUtMi_SAQA?oc=5",
-      "published": "2022-03-23T07:00:00.000Z",
-      "description": "A first! 509th Bomb Wing B-2A Stealth Bomber lands at Amberley.&nbsp;&nbsp;Aviation Photography Digest",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi91c2FmLXNlbmRzLXRocmVlLWItMmEtc3Bpcml0LWJvbWJlcnMtZm9yLXRyYWluaW5nLXdpdGgtYi0xYi1sYW5jZXJzLW92ZXItbm9ydGhlcm4tZXVyb3BlL9IBfGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi91c2FmLXNlbmRzLXRocmVlLWItMmEtc3Bpcml0LWJvbWJlcnMtZm9yLXRyYWluaW5nLXdpdGgtYi0xYi1sYW5jZXJzLW92ZXItbm9ydGhlcm4tZXVyb3BlL2FtcC8",
       "title": "USAF sends three B-2A Spirit bombers for training with B-1B Lancers over northern Europe - Aeroflap",
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi91c2FmLXNlbmRzLXRocmVlLWItMmEtc3Bpcml0LWJvbWJlcnMtZm9yLXRyYWluaW5nLXdpdGgtYi0xYi1sYW5jZXJzLW92ZXItbm9ydGhlcm4tZXVyb3BlL9IBfGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi91c2FmLXNlbmRzLXRocmVlLWItMmEtc3Bpcml0LWJvbWJlcnMtZm9yLXRyYWluaW5nLXdpdGgtYi0xYi1sYW5jZXJzLW92ZXItbm9ydGhlcm4tZXVyb3BlL2FtcC8?oc=5",
@@ -662,26 +622,6 @@
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2EyNzc4OC9hbWVyaWNhcy10aHJlZS1oZWF2eS1ib21iZXJzLXRvZ2V0aGVyLXdpbmctdG8td2luZy_SAQA?oc=5",
       "published": "2017-08-16T07:00:00.000Z",
       "description": "Watch America's Three Heavy Bombers Fly Wing to Wing&nbsp;&nbsp;Popular Mechanics",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiUGh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2EzMDc1NDAyNC9iLTIxLWJvbWJlci1pbWFnZXMv0gEA",
-      "title": "B-21 Bomber | Everything We Know About the B-21 Raider - Popular Mechanics",
-      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2EzMDc1NDAyNC9iLTIxLWJvbWJlci1pbWFnZXMv0gEA?oc=5",
-      "published": "2021-03-10T08:00:00.000Z",
-      "description": "B-21 Bomber | Everything We Know About the B-21 Raider&nbsp;&nbsp;Popular Mechanics",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMijwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzA4LzMwL3Utcy1iLTItc3Bpcml0LWJvbWJlcnMtY29uZHVjdC1qb2ludC10cmFpbmluZy13aXRoLXJhZi1mLTM1Yi1qZXRzLWFuZC1oZXJlLWFyZS1zb21lLXN0dW5uaW5nLXBob3RvZ3JhcGhzL9IBAA",
-      "title": "U.S. B-2 Spirit Bombers Conduct Joint Training With RAF F-35B Jets. And Here Are Some Stunning Photographs. - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzA4LzMwL3Utcy1iLTItc3Bpcml0LWJvbWJlcnMtY29uZHVjdC1qb2ludC10cmFpbmluZy13aXRoLXJhZi1mLTM1Yi1qZXRzLWFuZC1oZXJlLWFyZS1zb21lLXN0dW5uaW5nLXBob3RvZ3JhcGhzL9IBAA?oc=5",
-      "published": "2019-08-30T07:00:00.000Z",
-      "description": "U.S. B-2 Spirit Bombers Conduct Joint Training With RAF F-35B Jets. And Here Are Some Stunning Photographs.&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -737,16 +677,6 @@
       "category": ""
     },
     {
-      "id": "CBMiSWh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi9VU0FGLXNlbmRzLUItMi1zdGVhbHRoLWJvbWJlcnMtdG8tSWNlbGFuZC_SAQA",
-      "title": "USAF sends B-2 stealth bombers to Iceland - Aeroflap",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi9VU0FGLXNlbmRzLUItMi1zdGVhbHRoLWJvbWJlcnMtdG8tSWNlbGFuZC_SAQA?oc=5",
-      "published": "2021-08-24T07:00:00.000Z",
-      "description": "USAF sends B-2 stealth bombers to Iceland&nbsp;&nbsp;Aeroflap",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Nvb2wtdmlkZW8tc2hvd3MtdWZvcy1vaC1uby13YWl0LWItMmEtZGVhdGgtMTEtYW5kLTEyLWxhbmRpbmctYXQtcmFmLWZhaXJmb3JkLWVhcmxpZXItdGhpcy1tb3JuaW5nL9IBgwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Nvb2wtdmlkZW8tc2hvd3MtdWZvcy1vaC1uby13YWl0LWItMmEtZGVhdGgtMTEtYW5kLTEyLWxhbmRpbmctYXQtcmFmLWZhaXJmb3JkLWVhcmxpZXItdGhpcy1tb3JuaW5nLw",
       "title": "Cool video shows UFOs… Oh, no wait B-2A Death 11 and 12 Landing at RAF Fairford Earlier this Morning - The Aviation Geek Club",
       "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Nvb2wtdmlkZW8tc2hvd3MtdWZvcy1vaC1uby13YWl0LWItMmEtZGVhdGgtMTEtYW5kLTEyLWxhbmRpbmctYXQtcmFmLWZhaXJmb3JkLWVhcmxpZXItdGhpcy1tb3JuaW5nL9IBgwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2Nvb2wtdmlkZW8tc2hvd3MtdWZvcy1vaC1uby13YWl0LWItMmEtZGVhdGgtMTEtYW5kLTEyLWxhbmRpbmctYXQtcmFmLWZhaXJmb3JkLWVhcmxpZXItdGhpcy1tb3JuaW5nLw?oc=5",
@@ -787,11 +717,11 @@
       "category": ""
     },
     {
-      "id": "CBMiVWh0dHBzOi8vc29mcmVwLmNvbS9uZXdzL3Utcy1zd2Fwcy1jb252ZW50aW9uYWwtYm9tYmVycy1udWNsZWFyLW9uZXMtbmVhci1ub3J0aC1rb3JlYS_SAVlodHRwczovL3NvZnJlcC5jb20vYW1wL25ld3MvdS1zLXN3YXBzLWNvbnZlbnRpb25hbC1ib21iZXJzLW51Y2xlYXItb25lcy1uZWFyLW5vcnRoLWtvcmVhLw",
-      "title": "U.S. swaps out conventional bombers for nuclear ones near North Korea - SOFREP",
-      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vc29mcmVwLmNvbS9uZXdzL3Utcy1zd2Fwcy1jb252ZW50aW9uYWwtYm9tYmVycy1udWNsZWFyLW9uZXMtbmVhci1ub3J0aC1rb3JlYS_SAVlodHRwczovL3NvZnJlcC5jb20vYW1wL25ld3MvdS1zLXN3YXBzLWNvbnZlbnRpb25hbC1ib21iZXJzLW51Y2xlYXItb25lcy1uZWFyLW5vcnRoLWtvcmVhLw?oc=5",
-      "published": "2018-01-22T08:00:00.000Z",
-      "description": "U.S. swaps out conventional bombers for nuclear ones near North Korea&nbsp;&nbsp;SOFREP",
+      "id": "CBMiV2h0dHBzOi8vZmx5YXdheXNpbXVsYXRpb24uY29tL2Rvd25sb2Fkcy9maWxlcy8yMzIzMi9mc3gtYXJlYS01MS1iLTItc3Bpcml0LXNraW4tcGFjay0xL9IBAA",
+      "title": "Area 51 B-2 Spirit Skin Pack 1 for FSX - Fly Away Simulation",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vZmx5YXdheXNpbXVsYXRpb24uY29tL2Rvd25sb2Fkcy9maWxlcy8yMzIzMi9mc3gtYXJlYS01MS1iLTItc3Bpcml0LXNraW4tcGFjay0xL9IBAA?oc=5",
+      "published": "2015-08-17T22:34:35.000Z",
+      "description": "Area 51 B-2 Spirit Skin Pack 1 for FSX&nbsp;&nbsp;Fly Away Simulation",
       "summary": "",
       "author": "",
       "category": ""
