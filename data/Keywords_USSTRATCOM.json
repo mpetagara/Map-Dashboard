@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-12T17:26:55.000Z",
+  "published": "2024-06-12T18:33:13.000Z",
   "entries": [
     {
       "id": "CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3OTk5OTUvc3RyYXRjb20tY29tbWFuZGVyLWltbWVyc2VzLWluLWVsbHN3b3J0aHMtYm9tYmVyLXRhc2stZm9yY2UtMjQtNi13aGlsZS12aXNpdGluZy_SAQA",
@@ -42,6 +42,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2NTE2MTEvdXNzdHJhdGNvbS1jb21tYW5kLWNoYXBsYWluLWFuZC1yZWxpZ2lvdXMtYWZmYWlycy1zZWwtdmlzaXQta2lydGxhbmQv0gEA?oc=5",
       "published": "2024-01-22T15:31:36.000Z",
       "description": "USSTRATCOM Command Chaplain and Religious Affairs SEL Visit Kirtland&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMif2h0dHBzOi8vd3d3LmNyYW1lci5zZW5hdGUuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvc2VuYXRvci1jcmFtZXItcXVlc3Rpb25zLXN0cmF0Y29tLXNwYWNlY29tLWxlYWRlcnNoaXAtdGVzdGlmeS1hdC1zYXNjLWhlYXJpbmfSAQA",
+      "title": "Senator Cramer Questions STRATCOM, SPACECOM Leadership at SASC Hearing - Kevin Cramer",
+      "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmNyYW1lci5zZW5hdGUuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvc2VuYXRvci1jcmFtZXItcXVlc3Rpb25zLXN0cmF0Y29tLXNwYWNlY29tLWxlYWRlcnNoaXAtdGVzdGlmeS1hdC1zYXNjLWhlYXJpbmfSAQA?oc=5",
+      "published": "2024-02-29T08:00:00.000Z",
+      "description": "Senator Cramer Questions STRATCOM, SPACECOM Leadership at SASC Hearing&nbsp;&nbsp;Kevin Cramer",
       "summary": "",
       "author": "",
       "category": ""
@@ -137,21 +147,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
-      "title": "JEC Director - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
-      "published": "2023-08-25T21:29:54.000Z",
-      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzUyODQ5My91c3N0cmF0Y29tLWNvbW1hbmRlcnMtdmlzaXQtdG8tcm9rL9IBAA",
       "title": "USSTRATCOM Commander's visit to ROK - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzUyODQ5My91c3N0cmF0Y29tLWNvbW1hbmRlcnMtdmlzaXQtdG8tcm9rL9IBAA?oc=5",
       "published": "2023-09-18T13:51:51.000Z",
       "description": "USSTRATCOM Commander's visit to ROK&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
+      "title": "JEC Director - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
+      "published": "2023-08-25T21:29:54.000Z",
+      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -287,11 +297,51 @@
       "category": ""
     },
     {
+      "id": "CBMiZmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS93aG8tZGF2aWQtZnJhbmtsaW4tc2xhdGVyLWFpci1mb3JjZS1tYW4tY2hhcmdlZC1vdmVyLXNlY3JldC1kb2NzLWxlYWstMTg3NTg2NtIBAA",
+      "title": "Who Is David Franklin Slater? Air Force Man Charged Over Secret Docs Leak - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS93aG8tZGF2aWQtZnJhbmtsaW4tc2xhdGVyLWFpci1mb3JjZS1tYW4tY2hhcmdlZC1vdmVyLXNlY3JldC1kb2NzLWxlYWstMTg3NTg2NtIBAA?oc=5",
+      "published": "2024-03-05T08:00:00.000Z",
+      "description": "Who Is David Franklin Slater? Air Force Man Charged Over Secret Docs Leak&nbsp;&nbsp;Newsweek",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vd3d3LmtydHYuY29tL25ld3MvbWlsaXRhcnktbWF0dGVycy8zNDFzdC1taXNzaWxlLXdpbmctcHJlc2VudGVkLXdpdGgtdGhlLW9tYWhhLXRyb3BoedIBAA",
+      "title": "341st Missile Wing presented with the Omaha Trophy - KRTV NEWS Great Falls",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmtydHYuY29tL25ld3MvbWlsaXRhcnktbWF0dGVycy8zNDFzdC1taXNzaWxlLXdpbmctcHJlc2VudGVkLXdpdGgtdGhlLW9tYWhhLXRyb3BoedIBAA?oc=5",
+      "published": "2024-04-02T07:00:00.000Z",
+      "description": "341st Missile Wing presented with the Omaha Trophy&nbsp;&nbsp;KRTV NEWS Great Falls",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiVmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8yMTgzNjA2L2NvbW1hbmRhbnQv0gEA",
       "title": "Commandant - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8yMTgzNjA2L2NvbW1hbmRhbnQv0gEA?oc=5",
       "published": "2023-10-11T12:09:55.000Z",
       "description": "Commandant&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA",
+      "title": "J1 Director, Human Capital > U.S - Department of Defense",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA?oc=5",
+      "published": "2023-09-24T10:56:22.000Z",
+      "description": "J1 Director, Human Capital > U.S&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9jb3R0b24tc3RyYXRjb20tdmlzaXQtamFwYW4tc291dGgta29yZWEv0gEA",
+      "title": "Cotton Talks Extended Deterrence in First Visits to Japan, S. Korea as STRATCOM Boss - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9jb3R0b24tc3RyYXRjb20tdmlzaXQtamFwYW4tc291dGgta29yZWEv0gEA?oc=5",
+      "published": "2023-09-05T07:00:00.000Z",
+      "description": "Cotton Talks Extended Deterrence in First Visits to Japan, S. Korea as STRATCOM Boss&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -317,11 +367,31 @@
       "category": ""
     },
     {
+      "id": "CBMia2h0dHBzOi8vd3d3LmdvdmNvbndpcmUuY29tLzIwMjMvMTAvYWlyLWZvcmNlLWludGVuZHMtdG8tcmFpc2Utc3RyYXRjb20taXQtc3VwcG9ydC1jb250cmFjdC1jZWlsaW5nLXRvLTEtNGIv0gEA",
+      "title": "Air Force Intends to Raise STRATCOM IT Support Contract Ceiling to $1.4B - GovCon Wire",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmdvdmNvbndpcmUuY29tLzIwMjMvMTAvYWlyLWZvcmNlLWludGVuZHMtdG8tcmFpc2Utc3RyYXRjb20taXQtc3VwcG9ydC1jb250cmFjdC1jZWlsaW5nLXRvLTEtNGIv0gEA?oc=5",
+      "published": "2023-10-11T07:00:00.000Z",
+      "description": "Air Force Intends to Raise STRATCOM IT Support Contract Ceiling to $1.4B&nbsp;&nbsp;GovCon Wire",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMie2h0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL05ld3MvQXJ0aWNsZS1WaWV3L0FydGljbGUvMjQyMjY1OC9hcm15LWd1YXJkLXVuaXQtd2lucy1vbWFoYS10cm9waHktZm9yLXN0cmF0ZWdpYy1kZXRlcnJlbmNlL9IBAA",
       "title": "Army Guard unit wins Omaha Trophy for strategic deterrence - National Guard Bureau",
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL05ld3MvQXJ0aWNsZS1WaWV3L0FydGljbGUvMjQyMjY1OC9hcm15LWd1YXJkLXVuaXQtd2lucy1vbWFoYS10cm9waHktZm9yLXN0cmF0ZWdpYy1kZXRlcnJlbmNlL9IBAA?oc=5",
       "published": "2023-09-12T00:17:09.000Z",
       "description": "Army Guard unit wins Omaha Trophy for strategic deterrence&nbsp;&nbsp;National Guard Bureau",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilQFodHRwczovL3d3dy4zbmV3c25vdy5jb20vbmV3cy9sb2NhbC1uZXdzL25lYnJhc2thLW1hbi1yZWNlbnQtc3RyYXRjb20tZW1wbG95ZWUtYWNjdXNlZC1vZi1zaGFyaW5nLWNsYXNzaWZpZWQtZG9jdW1lbnRzLXRocm91Z2gtZm9yZWlnbi1kYXRpbmctd2Vic2l0ZdIBAA",
+      "title": "Nebraska man, recent STRATCOM employee, accused of sharing classified documents through foreign dating website - KMTV 3 News Now Omaha",
+      "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy4zbmV3c25vdy5jb20vbmV3cy9sb2NhbC1uZXdzL25lYnJhc2thLW1hbi1yZWNlbnQtc3RyYXRjb20tZW1wbG95ZWUtYWNjdXNlZC1vZi1zaGFyaW5nLWNsYXNzaWZpZWQtZG9jdW1lbnRzLXRocm91Z2gtZm9yZWlnbi1kYXRpbmctd2Vic2l0ZdIBAA?oc=5",
+      "published": "2024-03-04T08:00:00.000Z",
+      "description": "Nebraska man, recent STRATCOM employee, accused of sharing classified documents through foreign dating website&nbsp;&nbsp;KMTV 3 News Now Omaha",
       "summary": "",
       "author": "",
       "category": ""
@@ -357,6 +427,26 @@
       "category": ""
     },
     {
+      "id": "CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0MDEzNDkvcm9rLWN3bWQtZGlyZWN0b3ItZGlzY3Vzc2VzLXVzLXJvay1leHRlbmRlZC1kZXRlcnJlbmNlLWVmZm9ydHMtZHVyaW5nLXZpc2l0LXRvL9IBAA",
+      "title": "ROK CWMD director discusses U.S.-ROK Extended Deterrence efforts during visit to USSTRATCO - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0MDEzNDkvcm9rLWN3bWQtZGlyZWN0b3ItZGlzY3Vzc2VzLXVzLXJvay1leHRlbmRlZC1kZXRlcnJlbmNlLWVmZm9ydHMtZHVyaW5nLXZpc2l0LXRvL9IBAA?oc=5",
+      "published": "2023-05-17T07:00:00.000Z",
+      "description": "ROK CWMD director discusses U.S.-ROK Extended Deterrence efforts during visit to USSTRATCO&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzMyNDIxNTkvbmV3LWNvbW1hbmRlci1zYW1lLW1pc3Npb24tYXMtdXMtc3RyYXRlZ2ljLWNvbW1hbmQtY29uZHVjdHMtY2hhbmdlLW9mLWNvbW1hbmQv0gEA",
+      "title": "New commander- same mission as U.S. Strategic Command conducts change of command - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzMyNDIxNTkvbmV3LWNvbW1hbmRlci1zYW1lLW1pc3Npb24tYXMtdXMtc3RyYXRlZ2ljLWNvbW1hbmQtY29uZHVjdHMtY2hhbmdlLW9mLWNvbW1hbmQv0gEA?oc=5",
+      "published": "2022-12-09T08:00:00.000Z",
+      "description": "New commander- same mission as U.S. Strategic Command conducts change of command&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMidWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvOTg0MzA4L2xvb2tpbmctZ2xhc3MtdXNzdHJhdGNvbXMtYWlyYm9ybmUtY29tbWFuZC1wb3N0L9IBAA",
       "title": "Looking Glass: USSTRATCOM's Airborne Command Post - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvOTg0MzA4L2xvb2tpbmctZ2xhc3MtdXNzdHJhdGNvbXMtYWlyYm9ybmUtY29tbWFuZC1wb3N0L9IBAA?oc=5",
@@ -377,21 +467,21 @@
       "category": ""
     },
     {
-      "id": "CBMihAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE2MDcyMTMvdXNzdHJhdGNvbS1icmF6aWwtc2lnbi1hZ3JlZW1lbnQtdG8tc2hhcmUtc3BhY2Utc2VydmljZXMtZGF0YS_SAQA",
-      "title": "USSTRATCOM, Brazil sign agreement to share space services, data - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE2MDcyMTMvdXNzdHJhdGNvbS1icmF6aWwtc2lnbi1hZ3JlZW1lbnQtdG8tc2hhcmUtc3BhY2Utc2VydmljZXMtZGF0YS_SAQA?oc=5",
-      "published": "2018-08-20T07:00:00.000Z",
-      "description": "USSTRATCOM, Brazil sign agreement to share space services, data&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiemh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMTIwNjAxMC91c3N0cmF0Y29tLXdvcmtzLXdpdGgtbmF0by1hbGxpZXMtYWNhZGVtaWMtcGFydG5lcnMv0gEA",
       "title": "USSTRATCOM Works With NATO Allies, Academic Partners - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMTIwNjAxMC91c3N0cmF0Y29tLXdvcmtzLXdpdGgtbmF0by1hbGxpZXMtYWNhZGVtaWMtcGFydG5lcnMv0gEA?oc=5",
       "published": "2017-06-07T07:00:00.000Z",
       "description": "USSTRATCOM Works With NATO Allies, Academic Partners&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE2MDcyMTMvdXNzdHJhdGNvbS1icmF6aWwtc2lnbi1hZ3JlZW1lbnQtdG8tc2hhcmUtc3BhY2Utc2VydmljZXMtZGF0YS_SAQA",
+      "title": "USSTRATCOM, Brazil sign agreement to share space services, data - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE2MDcyMTMvdXNzdHJhdGNvbS1icmF6aWwtc2lnbi1hZ3JlZW1lbnQtdG8tc2hhcmUtc3BhY2Utc2VydmljZXMtZGF0YS_SAQA?oc=5",
+      "published": "2018-08-20T07:00:00.000Z",
+      "description": "USSTRATCOM, Brazil sign agreement to share space services, data&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -432,16 +522,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE1NDg3ODMvdXNzdHJhdGNvbXMtbmV3LWNvbW1hbmQtYW5kLWNvbnRyb2wtZmFjaWxpdHktdHJhbnNpdGlvbnMtdG8tcGhhc2UtaWkv0gEA?oc=5",
       "published": "2018-06-12T07:00:00.000Z",
       "description": "USSTRATCOM's New Command and Control Facility Transitions to Phase II&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0MDEzNDkvcm9rLWN3bWQtZGlyZWN0b3ItZGlzY3Vzc2VzLXVzLXJvay1leHRlbmRlZC1kZXRlcnJlbmNlLWVmZm9ydHMtZHVyaW5nLXZpc2l0LXRvL9IBAA",
-      "title": "ROK CWMD director discusses U.S.-ROK Extended Deterrence efforts during visit to USSTRATCO - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0MDEzNDkvcm9rLWN3bWQtZGlyZWN0b3ItZGlzY3Vzc2VzLXVzLXJvay1leHRlbmRlZC1kZXRlcnJlbmNlLWVmZm9ydHMtZHVyaW5nLXZpc2l0LXRvL9IBAA?oc=5",
-      "published": "2023-05-17T07:00:00.000Z",
-      "description": "ROK CWMD director discusses U.S.-ROK Extended Deterrence efforts during visit to USSTRATCO&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -502,6 +582,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
       "published": "2023-07-27T07:00:00.000Z",
       "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiV2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zdHJhdGVnaWMtY29tbWFuZC1tb2Rlcm5pemF0aW9uLW51Y2xlYXItZm9yY2VzLWRlbGF5L9IBAA",
+      "title": "Still 'In the Beginnings' of Nuclear Modernization, STRATCOM Has Low Margin for Delay - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zdHJhdGVnaWMtY29tbWFuZC1tb2Rlcm5pemF0aW9uLW51Y2xlYXItZm9yY2VzLWRlbGF5L9IBAA?oc=5",
+      "published": "2023-09-08T07:00:00.000Z",
+      "description": "Still 'In the Beginnings' of Nuclear Modernization, STRATCOM Has Low Margin for Delay&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -912,96 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMTA1Njg3My91c3NvY29tLWRlcHV0eS1jb21tYW5kZXItdmlzaXRzLXVzc3RyYXRjb20v0gEA?oc=5",
       "published": "2017-01-23T08:00:00.000Z",
       "description": "USSOCOM deputy commander visits USSTRATCOM&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE4MjU4ODIvMTAwdGgtc3BhY2Utc2hhcmluZy1hZ3JlZW1lbnQtc2lnbmVkLXJvbWFuaWEtc3BhY2UtYWdlbmN5LWpvaW5zL9IBAA",
-      "title": "100th space sharing agreement signed, Romania Space Agency joins - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE4MjU4ODIvMTAwdGgtc3BhY2Utc2hhcmluZy1hZ3JlZW1lbnQtc2lnbmVkLXJvbWFuaWEtc3BhY2UtYWdlbmN5LWpvaW5zL9IBAA?oc=5",
-      "published": "2019-04-25T07:00:00.000Z",
-      "description": "100th space sharing agreement signed, Romania Space Agency joins&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMilAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzk4NDMwNi91c3N0cmF0Y29tLWhvc3RzLWNhbmFkaWFuLWFybWVkLWZvcmNlcy1zdHJhdGVnaWMtam9pbnQtc3RhZmYtZGlyZWN0b3Itb2Ytc3RhZmYv0gEA",
-      "title": "USSTRATCOM hosts Canadian Armed Forces Strategic Joint Staff director of staff - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzk4NDMwNi91c3N0cmF0Y29tLWhvc3RzLWNhbmFkaWFuLWFybWVkLWZvcmNlcy1zdHJhdGVnaWMtam9pbnQtc3RhZmYtZGlyZWN0b3Itb2Ytc3RhZmYv0gEA?oc=5",
-      "published": "2019-01-27T18:46:23.000Z",
-      "description": "USSTRATCOM hosts Canadian Armed Forces Strategic Joint Staff director of staff&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzI5NjU2NDcvdXMtc3RyYXRlZ2ljLWNvbW1hbmQtY2VsZWJyYXRlcy1hLWxlZ2FjeS1zcGFubmluZy1vdmVyLTUwLXllYXJzL9IBAA",
-      "title": "U.S. Strategic Command celebrates a legacy spanning over 50 years - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzI5NjU2NDcvdXMtc3RyYXRlZ2ljLWNvbW1hbmQtY2VsZWJyYXRlcy1hLWxlZ2FjeS1zcGFubmluZy1vdmVyLTUwLXllYXJzL9IBAA?oc=5",
-      "published": "2022-03-14T07:00:00.000Z",
-      "description": "U.S. Strategic Command celebrates a legacy spanning over 50 years&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzIzMjEzNTYvdXNzdHJhdGNvbS1haXJtYW4tc2F2ZXMtZm91ci1wZW9wbGUtYXdhcmRlZC1haXJtYW5zLW1lZGFsLWZvci1oZXJvaWMtYWN0aW9ucy_SAQA",
-      "title": "USSTRATCOM Airman saves four people, awarded Airman's Medal for heroic actions - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzIzMjEzNTYvdXNzdHJhdGNvbS1haXJtYW4tc2F2ZXMtZm91ci1wZW9wbGUtYXdhcmRlZC1haXJtYW5zLW1lZGFsLWZvci1oZXJvaWMtYWN0aW9ucy_SAQA?oc=5",
-      "published": "2020-08-21T07:00:00.000Z",
-      "description": "USSTRATCOM Airman saves four people, awarded Airman's Medal for heroic actions&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMigQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE4Mzc4NzMvdmF1Z2huLW5hdGl2ZS1uZXVtYW4tcHJvbW90ZWQtdG8tcmFuay1vZi1icmlnYWRpZXItZ2VuZXJhbC_SAQA",
-      "title": "Vaughn native: Neuman promoted to rank of brigadier general - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE4Mzc4NzMvdmF1Z2huLW5hdGl2ZS1uZXVtYW4tcHJvbW90ZWQtdG8tcmFuay1vZi1icmlnYWRpZXItZ2VuZXJhbC_SAQA?oc=5",
-      "published": "2019-05-06T07:00:00.000Z",
-      "description": "Vaughn native: Neuman promoted to rank of brigadier general&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE0OTczNDMvdXNzdHJhdGNvbS1kZW5tYXJrLXNpZ24tYWdyZWVtZW50LXRvLXNoYXJlLXNwYWNlLXNlcnZpY2VzLWRhdGEv0gEA",
-      "title": "USSTRATCOM, Denmark sign agreement to share space services, data - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE0OTczNDMvdXNzdHJhdGNvbS1kZW5tYXJrLXNpZ24tYWdyZWVtZW50LXRvLXNoYXJlLXNwYWNlLXNlcnZpY2VzLWRhdGEv0gEA?oc=5",
-      "published": "2019-01-27T18:02:37.000Z",
-      "description": "USSTRATCOM, Denmark sign agreement to share space services, data&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNzg5Lmh0bWzSAQA",
-      "title": "National Guard Biography - National Guard Bureau",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNzg5Lmh0bWzSAQA?oc=5",
-      "published": "2020-03-27T22:26:58.000Z",
-      "description": "National Guard Biography&nbsp;&nbsp;National Guard Bureau",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzIxMTU1OTkvdXNzdHJhdGNvbS1jb21tYW5kZXItdmlzaXRzLXdoaXRlbWFuLWFmYi1hbmQtcmVjZWl2ZXMtZmFtaWxpYXJpemF0aW9uLWZsaWdodC_SAQA",
-      "title": "USSTRATCOM Commander visits Whiteman AFB and receives familiarization flight - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzIxMTU1OTkvdXNzdHJhdGNvbS1jb21tYW5kZXItdmlzaXRzLXdoaXRlbWFuLWFmYi1hbmQtcmVjZWl2ZXMtZmFtaWxpYXJpemF0aW9uLWZsaWdodC_SAQA?oc=5",
-      "published": "2020-03-11T07:00:00.000Z",
-      "description": "USSTRATCOM Commander visits Whiteman AFB and receives familiarization flight&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzExMzQ2NDkvZHItbWF0dGhldy1rcm9lbmlnLWRpc2N1c3Nlcy1udWNsZWFyLXN0cmF0ZWd5LWF0LXVzc3RyYXRjb20v0gEA",
-      "title": "Dr. Matthew Kroenig discusses nuclear strategy at USSTRATCOM - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzExMzQ2NDkvZHItbWF0dGhldy1rcm9lbmlnLWRpc2N1c3Nlcy1udWNsZWFyLXN0cmF0ZWd5LWF0LXVzc3RyYXRjb20v0gEA?oc=5",
-      "published": "2017-03-29T07:00:00.000Z",
-      "description": "Dr. Matthew Kroenig discusses nuclear strategy at USSTRATCOM&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
