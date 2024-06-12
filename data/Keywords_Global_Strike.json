@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-12T05:28:57.000Z",
+  "published": "2024-06-12T06:34:17.000Z",
   "entries": [
     {
       "id": "CBMib2h0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9EaXNwbGF5L0FydGljbGUvMzc5ODkzMi9ib21iZXItY3Jldy1lYXJucy1hZmdzYy1nZW5lcmFsLWN1cnRpcy1lLWxlbWF5LWF3YXJkL9IBAA",
@@ -237,16 +237,6 @@
       "category": ""
     },
     {
-      "id": "CBMiTmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrL9IBUmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrLz9hbXA",
-      "title": "US conducts second Minuteman III ICBM test in a week - defence-blog.com",
-      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrL9IBUmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrLz9hbXA?oc=5",
-      "published": "2024-06-06T11:25:59.000Z",
-      "description": "US conducts second Minuteman III ICBM test in a week&nbsp;&nbsp;defence-blog.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYmh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2NjQ3NS9nbG9iYWwtc3RyaWtlLWNvbW1hbmQtcmVwb3J0cy1pbml0aWFsLWljYm0tcGNiLXN1cnZleS1yZXN1bHRz0gEA",
       "title": "Global Strike Command Reports Initial ICBM PCB Survey Results - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2NjQ3NS9nbG9iYWwtc3RyaWtlLWNvbW1hbmQtcmVwb3J0cy1pbml0aWFsLWljYm0tcGNiLXN1cnZleS1yZXN1bHRz0gEA?oc=5",
@@ -262,6 +252,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5iYXJrc2RhbGUuYWYubWlsL05ld3MvRGlzcGxheS9BcnRpY2xlLzM3NDU2NjcvY29udGludWluZy1hLW5ldy1zdGFydC1hZmdzYy1ob3N0cy1pbnRlcm5hbC13b3Jrc2hvcC1vbi11cy1hcm1zLWNvbnRyb2wtdHJlYXR5L9IBAA?oc=5",
       "published": "2024-04-17T07:00:00.000Z",
       "description": "Continuing a New START: AFGSC hosts internal workshop on US arms control treaty&nbsp;&nbsp;Barksdale Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrL9IBUmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrLz9hbXA",
+      "title": "US conducts second Minuteman III ICBM test in a week - defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrL9IBUmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zZWNvbmQtbWludXRlbWFuLWlpaS1pY2JtLXRlc3QtaW4tYS13ZWVrLz9hbXA?oc=5",
+      "published": "2024-06-06T11:25:59.000Z",
+      "description": "US conducts second Minuteman III ICBM test in a week&nbsp;&nbsp;defence-blog.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -457,21 +457,21 @@
       "category": ""
     },
     {
-      "id": "CBMilwFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjY0ODcvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1tYWxtc3Ryb20tZmUtd2FycmVuLWFuZC1taW5vdC1hZmJzLXJvdW5kLTEtZW52aXJvbm1lbnRhbC1zYW1wbGluZy1yZXN1bHRzLWNvbXBsZXRl0gEA",
-      "title": "Air Force Global Strike Command: Malmstrom, FE Warren and Minot AFBs round 1 environmental sampling results ... - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjY0ODcvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1tYWxtc3Ryb20tZmUtd2FycmVuLWFuZC1taW5vdC1hZmJzLXJvdW5kLTEtZW52aXJvbm1lbnRhbC1zYW1wbGluZy1yZXN1bHRzLWNvbXBsZXRl0gEA?oc=5",
-      "published": "2024-03-18T07:00:00.000Z",
-      "description": "Air Force Global Strike Command: Malmstrom, FE Warren and Minot AFBs round 1 environmental sampling results ...&nbsp;&nbsp;DVIDS",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA",
       "title": "The Striker Women of BTF 24-2 - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA?oc=5",
       "published": "2024-04-24T07:00:00.000Z",
       "description": "The Striker Women of BTF 24-2&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilwFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjY0ODcvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1tYWxtc3Ryb20tZmUtd2FycmVuLWFuZC1taW5vdC1hZmJzLXJvdW5kLTEtZW52aXJvbm1lbnRhbC1zYW1wbGluZy1yZXN1bHRzLWNvbXBsZXRl0gEA",
+      "title": "Air Force Global Strike Command: Malmstrom, FE Warren and Minot AFBs round 1 environmental sampling results ... - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjY0ODcvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1tYWxtc3Ryb20tZmUtd2FycmVuLWFuZC1taW5vdC1hZmJzLXJvdW5kLTEtZW52aXJvbm1lbnRhbC1zYW1wbGluZy1yZXN1bHRzLWNvbXBsZXRl0gEA?oc=5",
+      "published": "2024-03-18T07:00:00.000Z",
+      "description": "Air Force Global Strike Command: Malmstrom, FE Warren and Minot AFBs round 1 environmental sampling results ...&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
@@ -577,31 +577,21 @@
       "category": ""
     },
     {
-      "id": "CBMihwFodHRwczovL3d3dy53aGl0ZW1hbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTg1NzAxL2RpcmVjdG9ycy1mcm9tLW5hdGlvbmFsLWxhYm9yYXRvcmllcy1pbW1lcnNlLWluLWdsb2JhbC1zdHJpa2UtbWlzc2lvbi_SAQA",
-      "title": "Directors from National Laboratories immerse in Global Strike mission - Whiteman Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy53aGl0ZW1hbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTg1NzAxL2RpcmVjdG9ycy1mcm9tLW5hdGlvbmFsLWxhYm9yYXRvcmllcy1pbW1lcnNlLWluLWdsb2JhbC1zdHJpa2UtbWlzc2lvbi_SAQA?oc=5",
-      "published": "2023-11-03T07:00:00.000Z",
-      "description": "Directors from National Laboratories immerse in Global Strike mission&nbsp;&nbsp;Whiteman Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMidmh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9ncmFwaGljLzMwNzAzL2FmZ3NjLWFubm91bmNlcy1maXJzdC1mdWxseS1wdWJsaWMtbWNjcy12aXJ0dWFsLXRvd24taGFsbC1zY2hlZHVsZWQtanVuZS02LTIwMjTSAQA",
-      "title": "Graphics - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9ncmFwaGljLzMwNzAzL2FmZ3NjLWFubm91bmNlcy1maXJzdC1mdWxseS1wdWJsaWMtbWNjcy12aXJ0dWFsLXRvd24taGFsbC1zY2hlZHVsZWQtanVuZS02LTIwMjTSAQA?oc=5",
-      "published": "2024-05-31T14:33:00.000Z",
-      "description": "Graphics&nbsp;&nbsp;DVIDS",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NjMwODQvdGVhbS1raXJ0bGFuZC1hdHRlbmRzLWdhdGhlcmluZy1vZi1uYXRpb25zLXBvdy13b3cv0gEA",
       "title": "Team Kirtland Attends Gathering of Nations Pow-Wow - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NjMwODQvdGVhbS1raXJ0bGFuZC1hdHRlbmRzLWdhdGhlcmluZy1vZi1uYXRpb25zLXBvdy13b3cv0gEA?oc=5",
       "published": "2024-05-01T07:00:00.000Z",
       "description": "Team Kirtland Attends Gathering of Nations Pow-Wow&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihwFodHRwczovL3d3dy53aGl0ZW1hbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTg1NzAxL2RpcmVjdG9ycy1mcm9tLW5hdGlvbmFsLWxhYm9yYXRvcmllcy1pbW1lcnNlLWluLWdsb2JhbC1zdHJpa2UtbWlzc2lvbi_SAQA",
+      "title": "Directors from National Laboratories immerse in Global Strike mission - Whiteman Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy53aGl0ZW1hbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTg1NzAxL2RpcmVjdG9ycy1mcm9tLW5hdGlvbmFsLWxhYm9yYXRvcmllcy1pbW1lcnNlLWluLWdsb2JhbC1zdHJpa2UtbWlzc2lvbi_SAQA?oc=5",
+      "published": "2023-11-03T07:00:00.000Z",
+      "description": "Directors from National Laboratories immerse in Global Strike mission&nbsp;&nbsp;Whiteman Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,16 +647,6 @@
       "category": ""
     },
     {
-      "id": "CBMiV2h0dHBzOi8vd3d3Lmdsb2JhbHRyYWRlbWFnLmNvbS9ob3ctYS1jYW5hZGlhbi1yYWlsLXN0cmlrZS1jb3VsZC1pbXBhY3QtZnJlaWdodC1tYXJrZXRzL9IBAA",
-      "title": "How A Canadian Rail Strike Could Impact Freight Markets - Global Trade Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lmdsb2JhbHRyYWRlbWFnLmNvbS9ob3ctYS1jYW5hZGlhbi1yYWlsLXN0cmlrZS1jb3VsZC1pbXBhY3QtZnJlaWdodC1tYXJrZXRzL9IBAA?oc=5",
-      "published": "2024-06-07T11:02:13.000Z",
-      "description": "How A Canadian Rail Strike Could Impact Freight Markets&nbsp;&nbsp;Global Trade Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NjAzNzYvbWFsbXN0cm9tLWtlbm5lbC1wZXJmb3Jtcy1kZW1vLWZvci1sb2NhbC1lbGVtZW50YXJ5LXNjaG9vbC_SAQA",
       "title": "Malmstrom kennel performs demo for local elementary school - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NjAzNzYvbWFsbXN0cm9tLWtlbm5lbC1wZXJmb3Jtcy1kZW1vLWZvci1sb2NhbC1lbGVtZW50YXJ5LXNjaG9vbC_SAQA?oc=5",
@@ -692,6 +672,16 @@
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3N0YXRlbmV3cy5jb20vYXJ0aWNsZS8yMDI0LzA1L2FjdGl2aXN0cy1zdXBwb3J0LXN0cmlrZS1mb3ItcmFmYWgtbW92ZW1lbnQtY2FsbC1mb3ItZGl2ZXN0bWVudD9jdD1jb250ZW50X29wZW4mY3Y9Y2JveF9sYXRlc3TSAQA?oc=5",
       "published": "2024-05-10T07:00:00.000Z",
       "description": "Activists support Strike for Rafah movement, call for divestment&nbsp;&nbsp;The State News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiV2h0dHBzOi8vd3d3Lmdsb2JhbHRyYWRlbWFnLmNvbS9ob3ctYS1jYW5hZGlhbi1yYWlsLXN0cmlrZS1jb3VsZC1pbXBhY3QtZnJlaWdodC1tYXJrZXRzL9IBAA",
+      "title": "How A Canadian Rail Strike Could Impact Freight Markets - Global Trade Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lmdsb2JhbHRyYWRlbWFnLmNvbS9ob3ctYS1jYW5hZGlhbi1yYWlsLXN0cmlrZS1jb3VsZC1pbXBhY3QtZnJlaWdodC1tYXJrZXRzL9IBAA?oc=5",
+      "published": "2024-06-07T11:02:13.000Z",
+      "description": "How A Canadian Rail Strike Could Impact Freight Markets&nbsp;&nbsp;Global Trade Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -747,6 +737,16 @@
       "category": ""
     },
     {
+      "id": "CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzIzMjQvbWVldC10ZWFtLW1pbm90cy1hbGwtd29tYW4taGVsby1mbGlnaHQv0gEA",
+      "title": "Meet Team Minot's All-Woman Helo Flight - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzIzMjQvbWVldC10ZWFtLW1pbm90cy1hbGwtd29tYW4taGVsby1mbGlnaHQv0gEA?oc=5",
+      "published": "2024-04-02T07:00:00.000Z",
+      "description": "Meet Team Minot's All-Woman Helo Flight&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMihAFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy9wcmlvcml0eS0xLWFpci1yZXNjdWUtcmVjZWl2ZXMtNS15ZWFyLXRyYWluaW5nLWNvbnRyYWN0LXdpdGgtYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC_SAQA",
       "title": "Priority 1 Air Rescue receives 5-year training contract with Air Force Global Strike Command - Vertical Magazine",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy9wcmlvcml0eS0xLWFpci1yZXNjdWUtcmVjZWl2ZXMtNS15ZWFyLXRyYWluaW5nLWNvbnRyYWN0LXdpdGgtYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC_SAQA?oc=5",
@@ -757,21 +757,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzIzMjQvbWVldC10ZWFtLW1pbm90cy1hbGwtd29tYW4taGVsby1mbGlnaHQv0gEA",
-      "title": "Meet Team Minot's All-Woman Helo Flight - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzIzMjQvbWVldC10ZWFtLW1pbm90cy1hbGwtd29tYW4taGVsby1mbGlnaHQv0gEA?oc=5",
-      "published": "2024-04-02T12:56:15.000Z",
-      "description": "Meet Team Minot's All-Woman Helo Flight&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiPmh0dHBzOi8vd3d3LnByZXNzZW56YS5jb20vMjAyNC8wMy9hLWdsb2JhbC1zdHJpa2UtYWdhaW5zdC13YXIv0gEA",
       "title": "A global strike against war - PRESSENZA – International News Agency",
       "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnByZXNzZW56YS5jb20vMjAyNC8wMy9hLWdsb2JhbC1zdHJpa2UtYWdhaW5zdC13YXIv0gEA?oc=5",
       "published": "2024-03-16T07:00:00.000Z",
       "description": "A global strike against war&nbsp;&nbsp;PRESSENZA – International News Agency",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA",
+      "title": "908th looks to industry to accelerate change and readiness - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA?oc=5",
+      "published": "2023-11-27T08:00:00.000Z",
+      "description": "908th looks to industry to accelerate change and readiness&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -797,11 +797,11 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA",
-      "title": "908th looks to industry to accelerate change and readiness - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA?oc=5",
-      "published": "2023-11-27T08:00:00.000Z",
-      "description": "908th looks to industry to accelerate change and readiness&nbsp;&nbsp;afgsc.af.mil",
+      "id": "CBMijQFodHRwczovL3d3dy5hZmdzYy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzAyNTMzL21hbG1zdHJvbS1hZmItY29uZHVjdHMtZ3JvdW5kYnJlYWtpbmctY2VyZW1vbnktZm9yLXNlbnRpbmVsLXdlYXBvbnMtZ2VuZXJhdGlvbi_SAQA",
+      "title": "Malmstrom AFB conducts groundbreaking ceremony for Sentinel Weapons Generation Facility - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5hZmdzYy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzAyNTMzL21hbG1zdHJvbS1hZmItY29uZHVjdHMtZ3JvdW5kYnJlYWtpbmctY2VyZW1vbnktZm9yLXNlbnRpbmVsLXdlYXBvbnMtZ2VuZXJhdGlvbi_SAQA?oc=5",
+      "published": "2024-03-09T08:00:00.000Z",
+      "description": "Malmstrom AFB conducts groundbreaking ceremony for Sentinel Weapons Generation Facility&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -812,6 +812,16 @@
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzIzMzgvc3RyYXRjb20tY29tbWFuZGVyLWF3YXJkcy1vbWFoYS10cm9waHktdG8tbWFsbXN0cm9tLWFmYi_SAQA?oc=5",
       "published": "2024-04-04T07:00:00.000Z",
       "description": "STRATCOM commander awards Omaha Trophy to Malmstrom AFB&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiemh0dHBzOi8vd3d3LmFmbWMuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzU0NDY0MS9lZHdhcmRzLWFmYi1ob3N0cy1oeXBlcnNvbmljLXdlYXBvbi1mYW1pbGlhcml6YXRpb24tdHJhaW5pbmcv0gEA",
+      "title": "Edwards AFB Hosts Hypersonic Weapon Familiarization Training - afmc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFmbWMuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzU0NDY0MS9lZHdhcmRzLWFmYi1ob3N0cy1oeXBlcnNvbmljLXdlYXBvbi1mYW1pbGlhcml6YXRpb24tdHJhaW5pbmcv0gEA?oc=5",
+      "published": "2023-09-29T07:00:00.000Z",
+      "description": "Edwards AFB Hosts Hypersonic Weapon Familiarization Training&nbsp;&nbsp;afmc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -877,21 +887,21 @@
       "category": ""
     },
     {
-      "id": "CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3NjAvYnRmLTI0LTItYm9tYmVycy1yZXR1cm4taG9tZS1hZnRlci1nbG9iYWwtZ3VhcmRpYW4v0gEA",
-      "title": "BTF 24-2 bombers return home after Global Guardian > Air Force Global Strike Command AFSTRAT-AIR > Article Display - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3NjAvYnRmLTI0LTItYm9tYmVycy1yZXR1cm4taG9tZS1hZnRlci1nbG9iYWwtZ3VhcmRpYW4v0gEA?oc=5",
-      "published": "2024-03-01T08:00:00.000Z",
-      "description": "BTF 24-2 bombers return home after Global Guardian > Air Force Global Strike Command AFSTRAT-AIR > Article Display&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MDczNTEvOTFzdC1taXNzaWxlLXdpbmctY2VsZWJyYXRlcy13b21lbnMtaGlzdG9yeS1tb250aC_SAQA",
       "title": "91st Missile Wing celebrates Women's History Month - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MDczNTEvOTFzdC1taXNzaWxlLXdpbmctY2VsZWJyYXRlcy13b21lbnMtaGlzdG9yeS1tb250aC_SAQA?oc=5",
       "published": "2024-03-14T07:00:00.000Z",
       "description": "91st Missile Wing celebrates Women's History Month&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3NjAvYnRmLTI0LTItYm9tYmVycy1yZXR1cm4taG9tZS1hZnRlci1nbG9iYWwtZ3VhcmRpYW4v0gEA",
+      "title": "BTF 24-2 bombers return home after Global Guardian > Air Force Global Strike Command AFSTRAT-AIR > Article Display - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3NjAvYnRmLTI0LTItYm9tYmVycy1yZXR1cm4taG9tZS1hZnRlci1nbG9iYWwtZ3VhcmRpYW4v0gEA?oc=5",
+      "published": "2024-03-01T08:00:00.000Z",
+      "description": "BTF 24-2 bombers return home after Global Guardian > Air Force Global Strike Command AFSTRAT-AIR > Article Display&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy53YmV6Lm9yZy9yZXNldC13aXRoLXNhc2hhLWFubi1zaW1vbnMvMjAyMy8xMi8xMi9jaGljYWdvLWFyZWEtYnVzaW5lc3Nlcy1zY2hvb2xzLXJlc3BvbmQtdG8tY2FsbC1mb3ItZ2xvYmFsLWdhemEtc29saWRhcml0eS1zdHJpa2XSAQA?oc=5",
       "published": "2023-12-12T08:00:00.000Z",
       "description": "Chicago-area businesses, schools respond to call for global Gaza solidarity strike&nbsp;&nbsp;WBEZ Chicago",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiY2h0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1NDk5MDkvMm5kLWJvbWItd2luZy13ZWxjb21lcy1uZXctY29tbWFuZGVyL9IBAA",
-      "title": "2nd Bomb Wing welcomes new commander - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1NDk5MDkvMm5kLWJvbWItd2luZy13ZWxjb21lcy1uZXctY29tbWFuZGVyL9IBAA?oc=5",
-      "published": "2023-10-02T07:00:00.000Z",
-      "description": "2nd Bomb Wing welcomes new commander&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
