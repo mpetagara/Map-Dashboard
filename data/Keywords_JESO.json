@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-13T11:20:03.000Z",
+  "published": "2024-06-13T12:55:01.000Z",
   "entries": [
     {
       "id": "CBMiaWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEyLzI3L2Fpci1mb3JjZS1wdWJsaXNoZXMtbmV3LWRvY3RyaW5lLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zL9IBAA",
@@ -22,6 +22,16 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDcyMTg4L3VzLXN0cmF0ZWdpYy1jb21tYW5kLXN0YW5kcy11cC1qb2ludC1lbXMtb3BlcmF0aW9ucy1jZW50ZXIv0gEA?oc=5",
       "published": "2023-07-26T07:00:00.000Z",
       "description": "U.S. Strategic Command stands up Joint EMS Operations Center&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
+      "title": "JEC Director - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
+      "published": "2023-08-25T21:29:54.000Z",
+      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -107,16 +117,6 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
-      "title": "JEC Director - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
-      "published": "2023-07-26T17:09:01.000Z",
-      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibmh0dHBzOi8vd3d3LmtldHYuY29tL2FydGljbGUvZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtdXNzdHJhdGNvbS1vZmZ1dHQtYWlyLWZvcmNlLWJhc2UtamVjLzQ0NjUxNzYz0gEA",
       "title": "Joint Electromagnetic Operations Center launched out of USSTRATCOM, Offutt Air Force Base - KETV Omaha",
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmtldHYuY29tL2FydGljbGUvZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtdXNzdHJhdGNvbS1vZmZ1dHQtYWlyLWZvcmNlLWJhc2UtamVjLzQ0NjUxNzYz0gEA?oc=5",
@@ -138,10 +138,10 @@
     },
     {
       "id": "CBMiygFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDMyOTU2MjExOS9lbi9QYWxhbnRpci10by1EZWxpdmVyLUVsZWN0cm9tYWduZXRpYy1CYXR0bGUtTWFuYWdlbWVudC0tLUpvaW50LURlY2lzaW9uLVN1cHBvcnQtRU1CTS1KLURTLVByb3RvdHlwZS10by10aGUtRGVmZW5zZS1JbmZvcm1hdGlvbi1TeXN0ZW1zLUFnZW5jeS1ESVNB0gEA",
-      "title": "Palantir to Deliver Electromagnetic Battle Management - Joint Decision Support (EMBM-J DS) Prototype to the Defense ... - businesswire.com",
+      "title": "Palantir to Deliver Electromagnetic Battle Management - Joint Decision Support (EMBM-J DS) Prototype to the Defense ... - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMiygFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDMyOTU2MjExOS9lbi9QYWxhbnRpci10by1EZWxpdmVyLUVsZWN0cm9tYWduZXRpYy1CYXR0bGUtTWFuYWdlbWVudC0tLUpvaW50LURlY2lzaW9uLVN1cHBvcnQtRU1CTS1KLURTLVByb3RvdHlwZS10by10aGUtRGVmZW5zZS1JbmZvcm1hdGlvbi1TeXN0ZW1zLUFnZW5jeS1ESVNB0gEA?oc=5",
       "published": "2024-03-29T07:00:00.000Z",
-      "description": "Palantir to Deliver Electromagnetic Battle Management - Joint Decision Support (EMBM-J DS) Prototype to the Defense ...&nbsp;&nbsp;businesswire.com",
+      "description": "Palantir to Deliver Electromagnetic Battle Management - Joint Decision Support (EMBM-J DS) Prototype to the Defense ...&nbsp;&nbsp;Business Wire",
       "summary": "",
       "author": "",
       "category": ""
@@ -167,11 +167,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA",
-      "title": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office - MeriTalk",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
-      "published": "2023-07-27T07:00:00.000Z",
-      "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
+      "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA",
+      "title": "J1 Director, Human Capital > U.S - Department of Defense",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA?oc=5",
+      "published": "2023-09-24T10:56:22.000Z",
+      "description": "J1 Director, Human Capital > U.S&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -192,6 +192,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA3L3N0cmF0Y29tLW9wZW5zLWpvaW50LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1mYWNpbGl0eS_SAQA?oc=5",
       "published": "2023-07-31T07:00:00.000Z",
       "description": "STRATCOM Opens Joint Electromagnetic Spectrum Facility; Gen. Anthony Cotton Quoted&nbsp;&nbsp;Executive Gov",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA",
+      "title": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office - MeriTalk",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
+      "published": "2023-07-27T07:00:00.000Z",
+      "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
       "summary": "",
       "author": "",
       "category": ""
@@ -247,21 +257,21 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8xMi8wMy9jb25ncmVzcy1yZXF1aXJlcy1zaGFrZS11cC1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0tb3BlcmF0aW9ucy_SAQA",
-      "title": "Congress seeks shake-up in electromagnetic spectrum operations - C4ISRNET",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8xMi8wMy9jb25ncmVzcy1yZXF1aXJlcy1zaGFrZS11cC1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0tb3BlcmF0aW9ucy_SAQA?oc=5",
-      "published": "2020-12-03T08:00:00.000Z",
-      "description": "Congress seeks shake-up in electromagnetic spectrum operations&nbsp;&nbsp;C4ISRNET",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMifmh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8wOC8xMC9jaGFuZ2VzLXRvLWVsZWN0cm9uaWMtd2FyZmFyZS1kb2N1bWVudC1pbXBhY3RzLWFsbC11cy1zZXJ2aWNlLWJyYW5jaGVzL9IBAA",
       "title": "Pentagon updates electronic warfare handbook with new cross-branch approach - C4ISRNET",
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8wOC8xMC9jaGFuZ2VzLXRvLWVsZWN0cm9uaWMtd2FyZmFyZS1kb2N1bWVudC1pbXBhY3RzLWFsbC11cy1zZXJ2aWNlLWJyYW5jaGVzL9IBAA?oc=5",
       "published": "2020-08-10T07:00:00.000Z",
       "description": "Pentagon updates electronic warfare handbook with new cross-branch approach&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8xMi8wMy9jb25ncmVzcy1yZXF1aXJlcy1zaGFrZS11cC1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0tb3BlcmF0aW9ucy_SAQA",
+      "title": "Congress seeks shake-up in electromagnetic spectrum operations - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8xMi8wMy9jb25ncmVzcy1yZXF1aXJlcy1zaGFrZS11cC1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0tb3BlcmF0aW9ucy_SAQA?oc=5",
+      "published": "2020-12-03T08:00:00.000Z",
+      "description": "Congress seeks shake-up in electromagnetic spectrum operations&nbsp;&nbsp;C4ISRNET",
       "summary": "",
       "author": "",
       "category": ""
@@ -417,21 +427,21 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxNy8xMi8wNi90aGUtc29sdXRpb24tdG8tbW9yZS1qYW1taW5nLW1heS1iZS1hbm90aGVyLWJhdHRsZS1tYW5hZ2VtZW50LXN5c3RlbS_SAQA",
-      "title": "The solution to more jamming may be another battle management system - C4ISRNET",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxNy8xMi8wNi90aGUtc29sdXRpb24tdG8tbW9yZS1qYW1taW5nLW1heS1iZS1hbm90aGVyLWJhdHRsZS1tYW5hZ2VtZW50LXN5c3RlbS_SAQA?oc=5",
-      "published": "2017-12-06T08:00:00.000Z",
-      "description": "The solution to more jamming may be another battle management system&nbsp;&nbsp;C4ISRNET",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigAFodHRwczovL3RoZXN0cmF0ZWd5YnJpZGdlLm9yZy90aGUtYnJpZGdlLzIwMjEvMDMvMjUvYnJlYWtpbmctdGhlLW1vdmUtY291bnRlcm1vdmUtY3ljbGUtdXNpbmctbmV0LWFzc2Vzc21lbnQtdG8tZ3VpZGUtdGVjaG5vbG9nedIBiwFodHRwczovL3RoZXN0cmF0ZWd5YnJpZGdlLm9yZy90aGUtYnJpZGdlLzIwMjEvMDMvMjUvYnJlYWtpbmctdGhlLW1vdmUtY291bnRlcm1vdmUtY3ljbGUtdXNpbmctbmV0LWFzc2Vzc21lbnQtdG8tZ3VpZGUtdGVjaG5vbG9neT9mb3JtYXQ9YW1w",
       "title": "Breaking the Move-Countermove Cycle: Using Net Assessment to Guide Technology - The Strategy Bridge",
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3RoZXN0cmF0ZWd5YnJpZGdlLm9yZy90aGUtYnJpZGdlLzIwMjEvMDMvMjUvYnJlYWtpbmctdGhlLW1vdmUtY291bnRlcm1vdmUtY3ljbGUtdXNpbmctbmV0LWFzc2Vzc21lbnQtdG8tZ3VpZGUtdGVjaG5vbG9nedIBiwFodHRwczovL3RoZXN0cmF0ZWd5YnJpZGdlLm9yZy90aGUtYnJpZGdlLzIwMjEvMDMvMjUvYnJlYWtpbmctdGhlLW1vdmUtY291bnRlcm1vdmUtY3ljbGUtdXNpbmctbmV0LWFzc2Vzc21lbnQtdG8tZ3VpZGUtdGVjaG5vbG9neT9mb3JtYXQ9YW1w?oc=5",
       "published": "2021-03-25T07:00:00.000Z",
       "description": "Breaking the Move-Countermove Cycle: Using Net Assessment to Guide Technology&nbsp;&nbsp;The Strategy Bridge",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxNy8xMi8wNi90aGUtc29sdXRpb24tdG8tbW9yZS1qYW1taW5nLW1heS1iZS1hbm90aGVyLWJhdHRsZS1tYW5hZ2VtZW50LXN5c3RlbS_SAQA",
+      "title": "The solution to more jamming may be another battle management system - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxNy8xMi8wNi90aGUtc29sdXRpb24tdG8tbW9yZS1qYW1taW5nLW1heS1iZS1hbm90aGVyLWJhdHRsZS1tYW5hZ2VtZW50LXN5c3RlbS_SAQA?oc=5",
+      "published": "2017-12-06T08:00:00.000Z",
+      "description": "The solution to more jamming may be another battle management system&nbsp;&nbsp;C4ISRNET",
       "summary": "",
       "author": "",
       "category": ""
