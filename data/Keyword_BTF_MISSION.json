@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-12T23:22:55.000Z",
+  "published": "2024-06-13T02:21:33.000Z",
   "entries": [
     {
       "id": "CBMicmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzQxNDAvOS1lYnMtbWFpbnRlbmFuY2Utc2VsLXNlbmRzLW91dC1iLTEtZm9yLWJ0Zi1taXNzaW9uL9IBAA",
@@ -127,6 +127,16 @@
       "category": ""
     },
     {
+      "id": "CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA",
+      "title": "9 EBS Airmen execute global deterrence mission during BTF 24-2 - dyess.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA?oc=5",
+      "published": "2024-04-09T07:00:00.000Z",
+      "description": "9 EBS Airmen execute global deterrence mission during BTF 24-2&nbsp;&nbsp;dyess.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiigFodHRwczovL3d3dy5taW5vdC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzAwMDgxL21pbm90LWFpci1mb3JjZS1iYXNlLXdlbGNvbWVzLWFpcm1lbi1ob21lLWZyb20tYm9tYmVyLXRhc2stZm9yY2UtZGVwbG95bWVudC_SAQA",
       "title": "Minot Air Force Base welcomes Airmen home from Bomber Task Force deployment - Minot Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5taW5vdC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzAwMDgxL21pbm90LWFpci1mb3JjZS1iYXNlLXdlbGNvbWVzLWFpcm1lbi1ob21lLWZyb20tYm9tYmVyLXRhc2stZm9yY2UtZGVwbG95bWVudC_SAQA?oc=5",
@@ -142,16 +152,6 @@
       "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2ODE0NjEvbWlub3QtbWFpbnRhaW5lcnMtcHJvcGVsLW1pc3Npb24tZHVyaW5nLWJ0Zi0yNC0zL9IBAA?oc=5",
       "published": "2024-02-20T08:00:00.000Z",
       "description": "Minot Maintainers Propel Mission During BTF 24-3&nbsp;&nbsp;Minot Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA",
-      "title": "9 EBS Airmen execute global deterrence mission during BTF 24-2 - dyess.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA?oc=5",
-      "published": "2024-04-09T07:00:00.000Z",
-      "description": "9 EBS Airmen execute global deterrence mission during BTF 24-2&nbsp;&nbsp;dyess.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -347,21 +347,21 @@
       "category": ""
     },
     {
-      "id": "CBMib2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIyL2I1MnMtYnJvdWdodC11bmRlci1uYXRvLWNvbW1hbmQtZm9yLXRoZS1maXJzdC10aW1lLWR1cmluZy1taXNzaW9uLW92ZXItcm9tYW5pYdIBAA",
-      "title": "B-52s brought under NATO command for the first time during mission over Romania - Allied Air Command",
-      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIyL2I1MnMtYnJvdWdodC11bmRlci1uYXRvLWNvbW1hbmQtZm9yLXRoZS1maXJzdC10aW1lLWR1cmluZy1taXNzaW9uLW92ZXItcm9tYW5pYdIBAA?oc=5",
-      "published": "2022-08-29T07:00:00.000Z",
-      "description": "B-52s brought under NATO command for the first time during mission over Romania&nbsp;&nbsp;Allied Air Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMifmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMjM4MjgzNC91cy1iLTUycy1jcm9zcy1hdGxhbnRpYy1mb3ItYnRmLW1pc3Npb24tc3VwcG9ydGluZy1uYXRvL9IBAA",
       "title": "U.S. B-52s Cross Atlantic for BTF Mission Supporting NATO - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMjM4MjgzNC91cy1iLTUycy1jcm9zcy1hdGxhbnRpYy1mb3ItYnRmLW1pc3Npb24tc3VwcG9ydGluZy1uYXRvL9IBAA?oc=5",
       "published": "2020-10-15T07:00:00.000Z",
       "description": "U.S. B-52s Cross Atlantic for BTF Mission Supporting NATO&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMib2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIyL2I1MnMtYnJvdWdodC11bmRlci1uYXRvLWNvbW1hbmQtZm9yLXRoZS1maXJzdC10aW1lLWR1cmluZy1taXNzaW9uLW92ZXItcm9tYW5pYdIBAA",
+      "title": "B-52s brought under NATO command for the first time during mission over Romania - Allied Air Command",
+      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIyL2I1MnMtYnJvdWdodC11bmRlci1uYXRvLWNvbW1hbmQtZm9yLXRoZS1maXJzdC10aW1lLWR1cmluZy1taXNzaW9uLW92ZXItcm9tYW5pYdIBAA?oc=5",
+      "published": "2022-08-29T07:00:00.000Z",
+      "description": "B-52s brought under NATO command for the first time during mission over Romania&nbsp;&nbsp;Allied Air Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -397,21 +397,21 @@
       "category": ""
     },
     {
-      "id": "CBMiU2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIzL2JvbWJlci10YXNrLWZvcmNlLWJlZ2lucy13aXRoLWEtZmx5b3Zlci1vZi1lc3Rvbmlh0gEA",
-      "title": "Bomber Task Force begins with a flyover of Estonia - Allied Air Command",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIzL2JvbWJlci10YXNrLWZvcmNlLWJlZ2lucy13aXRoLWEtZmx5b3Zlci1vZi1lc3Rvbmlh0gEA?oc=5",
-      "published": "2023-02-27T08:00:00.000Z",
-      "description": "Bomber Task Force begins with a flyover of Estonia&nbsp;&nbsp;Allied Air Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXGh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMzNDg1NTIvYm9tYmVyLXRhc2stZm9yY2UtMjMtMi1yZXR1cm4v0gEA",
       "title": "Bomber Task Force 23-2: Return - Minot Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMzNDg1NTIvYm9tYmVyLXRhc2stZm9yY2UtMjMtMi1yZXR1cm4v0gEA?oc=5",
       "published": "2023-03-31T07:00:00.000Z",
       "description": "Bomber Task Force 23-2: Return&nbsp;&nbsp;Minot Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiU2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIzL2JvbWJlci10YXNrLWZvcmNlLWJlZ2lucy13aXRoLWEtZmx5b3Zlci1vZi1lc3Rvbmlh0gEA",
+      "title": "Bomber Task Force begins with a flyover of Estonia - Allied Air Command",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIzL2JvbWJlci10YXNrLWZvcmNlLWJlZ2lucy13aXRoLWEtZmx5b3Zlci1vZi1lc3Rvbmlh0gEA?oc=5",
+      "published": "2023-02-27T08:00:00.000Z",
+      "description": "Bomber Task Force begins with a flyover of Estonia&nbsp;&nbsp;Allied Air Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -437,21 +437,21 @@
       "category": ""
     },
     {
-      "id": "CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA",
-      "title": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific - Airforce Technology",
-      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA?oc=5",
-      "published": "2023-05-08T07:00:00.000Z",
-      "description": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific&nbsp;&nbsp;Airforce Technology",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihwFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMjMwNzE2L2FuZGVyc2VuLWVsbHN3b3J0aC1tYXhpbWl6ZS1iLTFiLWxhbmNlci1jYXBhYmlsaXRpZXMtZHVyaW5nLWJ0Zi1taXNzaW9ucy_SAQA",
       "title": "Andersen, Ellsworth maximize B-1B Lancer capabilities during BTF missions - pacaf.af.mil",
       "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMjMwNzE2L2FuZGVyc2VuLWVsbHN3b3J0aC1tYXhpbWl6ZS1iLTFiLWxhbmNlci1jYXBhYmlsaXRpZXMtZHVyaW5nLWJ0Zi1taXNzaW9ucy_SAQA?oc=5",
       "published": "2022-11-29T08:00:00.000Z",
       "description": "Andersen, Ellsworth maximize B-1B Lancer capabilities during BTF missions&nbsp;&nbsp;pacaf.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA",
+      "title": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific - Airforce Technology",
+      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA?oc=5",
+      "published": "2023-05-08T07:00:00.000Z",
+      "description": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific&nbsp;&nbsp;Airforce Technology",
       "summary": "",
       "author": "",
       "category": ""
@@ -527,21 +527,21 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA",
-      "title": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display - US AIR FORCES CENTRAL",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA?oc=5",
-      "published": "2023-06-13T07:00:00.000Z",
-      "description": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display&nbsp;&nbsp;US AIR FORCES CENTRAL",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiV2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIxL2FsbGllcy1zdWNjZXNzZnVsbHktY29tcGxldGUtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbtIBAA",
       "title": "Allied Air Command | Allies successfully complete Bomber Task Force mission - Allied Air Command",
       "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIxL2FsbGllcy1zdWNjZXNzZnVsbHktY29tcGxldGUtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbtIBAA?oc=5",
       "published": "2021-11-16T08:00:00.000Z",
       "description": "Allied Air Command | Allies successfully complete Bomber Task Force mission&nbsp;&nbsp;Allied Air Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA",
+      "title": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display - US AIR FORCES CENTRAL",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA?oc=5",
+      "published": "2023-06-13T07:00:00.000Z",
+      "description": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display&nbsp;&nbsp;US AIR FORCES CENTRAL",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,21 +657,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQwOTE5L3VzLWJhc2VkLWItNTItYm9tYmVyLWNvbmR1Y3RzLW1pc3Npb24tb3Zlci1iYXJlbnRzLXNlYdIBAA",
-      "title": "United States European Command - U.S. European Command",
-      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQwOTE5L3VzLWJhc2VkLWItNTItYm9tYmVyLWNvbmR1Y3RzLW1pc3Npb24tb3Zlci1iYXJlbnRzLXNlYdIBAA?oc=5",
-      "published": "2020-12-04T08:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMib2h0dHBzOi8vd3d3LjkxOXNvdy5hZnJjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzIzNTY3NDUvMzQ1dGgtZWJzLXRha2VzLXBhcnQtaW4tZ2xvYmFsLWJ0Zi1taXNzaW9uL9IBAA",
       "title": "345th EBS takes part in Global BTF mission - 919sow.afrc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LjkxOXNvdy5hZnJjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzIzNTY3NDUvMzQ1dGgtZWJzLXRha2VzLXBhcnQtaW4tZ2xvYmFsLWJ0Zi1taXNzaW9uL9IBAA?oc=5",
       "published": "2020-09-22T07:00:00.000Z",
       "description": "345th EBS takes part in Global BTF mission&nbsp;&nbsp;919sow.afrc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQwOTE5L3VzLWJhc2VkLWItNTItYm9tYmVyLWNvbmR1Y3RzLW1pc3Npb24tb3Zlci1iYXJlbnRzLXNlYdIBAA",
+      "title": "United States European Command - U.S. European Command",
+      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQwOTE5L3VzLWJhc2VkLWItNTItYm9tYmVyLWNvbmR1Y3RzLW1pc3Npb24tb3Zlci1iYXJlbnRzLXNlYdIBAA?oc=5",
+      "published": "2020-12-04T08:00:00.000Z",
+      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -817,21 +817,21 @@
       "category": ""
     },
     {
-      "id": "CBMilwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzE0ODk1OC91cy1wYXJ0bmVycy1jb25kdWN0LW1pZGRsZS1lYXN0LWJ0Zi10aHJvdWdoLWFpci1sYW5kLWFuZC1zZWEv0gEA",
-      "title": "US, partners conduct Middle East BTF through air, land and sea - US AIR FORCES CENTRAL",
-      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzE0ODk1OC91cy1wYXJ0bmVycy1jb25kdWN0LW1pZGRsZS1lYXN0LWJ0Zi10aHJvdWdoLWFpci1sYW5kLWFuZC1zZWEv0gEA?oc=5",
-      "published": "2022-09-06T07:00:00.000Z",
-      "description": "US, partners conduct Middle East BTF through air, land and sea&nbsp;&nbsp;US AIR FORCES CENTRAL",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigAFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8yMTcwNDg1L2ItMXMtY29uZHVjdC1zb3V0aC1jaGluYS1zZWEtbWlzc2lvbi1kZW1vbnN0cmF0ZXMtZ2xvYmFsLXByZXNlbmNlL9IBAA",
       "title": "B-1s conduct South China Sea mission, demonstrates global presence - pacaf.af.mil",
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8yMTcwNDg1L2ItMXMtY29uZHVjdC1zb3V0aC1jaGluYS1zZWEtbWlzc2lvbi1kZW1vbnN0cmF0ZXMtZ2xvYmFsLXByZXNlbmNlL9IBAA?oc=5",
       "published": "2020-04-30T07:00:00.000Z",
       "description": "B-1s conduct South China Sea mission, demonstrates global presence&nbsp;&nbsp;pacaf.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzE0ODk1OC91cy1wYXJ0bmVycy1jb25kdWN0LW1pZGRsZS1lYXN0LWJ0Zi10aHJvdWdoLWFpci1sYW5kLWFuZC1zZWEv0gEA",
+      "title": "US, partners conduct Middle East BTF through air, land and sea - US AIR FORCES CENTRAL",
+      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzE0ODk1OC91cy1wYXJ0bmVycy1jb25kdWN0LW1pZGRsZS1lYXN0LWJ0Zi10aHJvdWdoLWFpci1sYW5kLWFuZC1zZWEv0gEA?oc=5",
+      "published": "2022-09-06T07:00:00.000Z",
+      "description": "US, partners conduct Middle East BTF through air, land and sea&nbsp;&nbsp;US AIR FORCES CENTRAL",
       "summary": "",
       "author": "",
       "category": ""
@@ -917,21 +917,21 @@
       "category": ""
     },
     {
-      "id": "CBMiPWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTItb3BlcmF0b3JzLXNhZmV0eS1wYXVzZS_SAQA",
-      "title": "Air Force: B-2 Operators Not 'Sitting On Their Hands' as Safety Pause Continues - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTItb3BlcmF0b3JzLXNhZmV0eS1wYXVzZS_SAQA?oc=5",
-      "published": "2023-05-12T07:00:00.000Z",
-      "description": "Air Force: B-2 Operators Not 'Sitting On Their Hands' as Safety Pause Continues&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9BcnRpY2xlLzE5OTg0MTIvOTZ0aC1hbXUtbWFpbnRhaW5lcnMtcHJvdmlkZS1taXNzaW9uLXN1Y2Nlc3MtdG8tYnRmLTIwLTEv0gEA",
       "title": "96th AMU maintainers provide mission success to BTF 20-1 - Barksdale Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9BcnRpY2xlLzE5OTg0MTIvOTZ0aC1hbXUtbWFpbnRhaW5lcnMtcHJvdmlkZS1taXNzaW9uLXN1Y2Nlc3MtdG8tYnRmLTIwLTEv0gEA?oc=5",
       "published": "2019-10-25T07:00:00.000Z",
       "description": "96th AMU maintainers provide mission success to BTF 20-1&nbsp;&nbsp;Barksdale Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiPWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTItb3BlcmF0b3JzLXNhZmV0eS1wYXVzZS_SAQA",
+      "title": "Air Force: B-2 Operators Not 'Sitting On Their Hands' as Safety Pause Continues - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTItb3BlcmF0b3JzLXNhZmV0eS1wYXVzZS_SAQA?oc=5",
+      "published": "2023-05-12T07:00:00.000Z",
+      "description": "Air Force: B-2 Operators Not 'Sitting On Their Hands' as Safety Pause Continues&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
