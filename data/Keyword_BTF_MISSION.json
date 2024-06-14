@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-14T12:55:10.000Z",
+  "published": "2024-06-14T13:27:32.000Z",
   "entries": [
     {
       "id": "CBMiWGh0dHBzOi8vd3d3LmthZGVuYS5hZi5taWwvTmV3cy9BcnRpY2xlLzM3OTUyNzcvYnRmLWZsaWVzLWZhcnRoZXItd2l0aC05MDl0aC1hcnMtc3VwcG9ydC_SAQA",
@@ -177,21 +177,21 @@
       "category": ""
     },
     {
-      "id": "CBMiRGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91c2FmLWItMnMtYnJpdGlzaC1mLTM1cy1ub3J0aC1zZWEv0gEA",
-      "title": "USAF B-2s Fly with British F-35s Over the North Sea - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91c2FmLWItMnMtYnJpdGlzaC1mLTM1cy1ub3J0aC1zZWEv0gEA?oc=5",
-      "published": "2023-12-14T08:00:00.000Z",
-      "description": "USAF B-2s Fly with British F-35s Over the North Sea&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieGh0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9EaXNwbGF5L0FydGljbGUvMzQ2NTYxMy9iLTUyLXN0cmF0b2ZvcnRyZXNzZXMtcmV0dXJuLXRvLWluZG8tcGFjaWZpYy1mb3ItYnRmLW1pc3Npb25zL9IBAA",
       "title": "B-52 Stratofortresses return to Indo-Pacific for BTF missions - Barksdale Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9EaXNwbGF5L0FydGljbGUvMzQ2NTYxMy9iLTUyLXN0cmF0b2ZvcnRyZXNzZXMtcmV0dXJuLXRvLWluZG8tcGFjaWZpYy1mb3ItYnRmLW1pc3Npb25zL9IBAA?oc=5",
       "published": "2023-07-12T07:00:00.000Z",
       "description": "B-52 Stratofortresses return to Indo-Pacific for BTF missions&nbsp;&nbsp;Barksdale Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91c2FmLWItMnMtYnJpdGlzaC1mLTM1cy1ub3J0aC1zZWEv0gEA",
+      "title": "USAF B-2s Fly with British F-35s Over the North Sea - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91c2FmLWItMnMtYnJpdGlzaC1mLTM1cy1ub3J0aC1zZWEv0gEA?oc=5",
+      "published": "2023-12-14T08:00:00.000Z",
+      "description": "USAF B-2s Fly with British F-35s Over the North Sea&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -287,6 +287,16 @@
       "category": ""
     },
     {
+      "id": "CBMiZWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzI1MzkyOTAvYi0ycy1sYW5kLWF0LWxhamVzLWZpZWxkLXRvLWpvaW4tYnRmLW1pc3Npb24v0gEA",
+      "title": "B-2s land at Lajes Field to join BTF mission - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzI1MzkyOTAvYi0ycy1sYW5kLWF0LWxhamVzLWZpZWxkLXRvLWpvaW4tYnRmLW1pc3Npb24v0gEA?oc=5",
+      "published": "2021-03-17T07:00:00.000Z",
+      "description": "B-2s land at Lajes Field to join BTF mission&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMibGh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvTmV3cy9BcnRpY2xlLzMxNDg4ODYvdXMtcGFydG5lcnMtY29uZHVjdC1taWRkbGUtZWFzdC1idGYtdGhyb3VnaC1haXItbGFuZC1hbmQtc2VhL9IBAA",
       "title": "US, partners conduct Middle East BTF through air, land and sea - US AIR FORCES CENTRAL",
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvTmV3cy9BcnRpY2xlLzMxNDg4ODYvdXMtcGFydG5lcnMtY29uZHVjdC1taWRkbGUtZWFzdC1idGYtdGhyb3VnaC1haXItbGFuZC1hbmQtc2VhL9IBAA?oc=5",
@@ -347,21 +357,21 @@
       "category": ""
     },
     {
-      "id": "CBMihgFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMTUzODE3L2ItMWJzLWNvbmR1Y3QtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbi1pbi1zdXBwb3J0LW9mLXNvdXRoY29tL9IBAA",
-      "title": "B-1Bs conduct CONUS to CONUS Bomber Task Force Mission in support of SOUTHCOM - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMTUzODE3L2ItMWJzLWNvbmR1Y3QtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbi1pbi1zdXBwb3J0LW9mLXNvdXRoY29tL9IBAA?oc=5",
-      "published": "2022-09-09T07:00:00.000Z",
-      "description": "B-1Bs conduct CONUS to CONUS Bomber Task Force Mission in support of SOUTHCOM&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMifmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMjM4MjgzNC91cy1iLTUycy1jcm9zcy1hdGxhbnRpYy1mb3ItYnRmLW1pc3Npb24tc3VwcG9ydGluZy1uYXRvL9IBAA",
       "title": "U.S. B-52s Cross Atlantic for BTF Mission Supporting NATO - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMjM4MjgzNC91cy1iLTUycy1jcm9zcy1hdGxhbnRpYy1mb3ItYnRmLW1pc3Npb24tc3VwcG9ydGluZy1uYXRvL9IBAA?oc=5",
       "published": "2020-10-15T07:00:00.000Z",
       "description": "U.S. B-52s Cross Atlantic for BTF Mission Supporting NATO&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMTUzODE3L2ItMWJzLWNvbmR1Y3QtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbi1pbi1zdXBwb3J0LW9mLXNvdXRoY29tL9IBAA",
+      "title": "B-1Bs conduct CONUS to CONUS Bomber Task Force Mission in support of SOUTHCOM - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMTUzODE3L2ItMWJzLWNvbmR1Y3QtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbi1pbi1zdXBwb3J0LW9mLXNvdXRoY29tL9IBAA?oc=5",
+      "published": "2022-09-09T07:00:00.000Z",
+      "description": "B-1Bs conduct CONUS to CONUS Bomber Task Force Mission in support of SOUTHCOM&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -387,11 +397,11 @@
       "category": ""
     },
     {
-      "id": "CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA",
-      "title": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific - Airforce Technology",
-      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA?oc=5",
-      "published": "2023-05-08T07:00:00.000Z",
-      "description": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific&nbsp;&nbsp;Airforce Technology",
+      "id": "CBMiXmh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjUzOTg3NC9iLTJzLWxhbmQtYXQtbGFqZXMtZmllbGQtdG8tam9pbi1idGYtbWlzc2lvbi_SAQA",
+      "title": "B-2s land at Lajes Field to join BTF mission - Whiteman Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LndoaXRlbWFuLmFmLm1pbC9OZXdzL0FydGljbGUvMjUzOTg3NC9iLTJzLWxhbmQtYXQtbGFqZXMtZmllbGQtdG8tam9pbi1idGYtbWlzc2lvbi_SAQA?oc=5",
+      "published": "2021-03-17T07:00:00.000Z",
+      "description": "B-2s land at Lajes Field to join BTF mission&nbsp;&nbsp;Whiteman Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -402,6 +412,16 @@
       "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zMjMwNzE2L2FuZGVyc2VuLWVsbHN3b3J0aC1tYXhpbWl6ZS1iLTFiLWxhbmNlci1jYXBhYmlsaXRpZXMtZHVyaW5nLWJ0Zi1taXNzaW9ucy_SAQA?oc=5",
       "published": "2022-11-29T08:00:00.000Z",
       "description": "Andersen, Ellsworth maximize B-1B Lancer capabilities during BTF missions&nbsp;&nbsp;pacaf.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA",
+      "title": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific - Airforce Technology",
+      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZnMtYjUyaC1idGYtaW5kby1wYWNpZmljL9IBAA?oc=5",
+      "published": "2023-05-08T07:00:00.000Z",
+      "description": "USAF's B-52H bombers undertake BTF mission in Indo-Pacific&nbsp;&nbsp;Airforce Technology",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,21 +487,21 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA",
-      "title": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display - US AIR FORCES CENTRAL",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA?oc=5",
-      "published": "2023-06-13T07:00:00.000Z",
-      "description": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display&nbsp;&nbsp;US AIR FORCES CENTRAL",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiV2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIxL2FsbGllcy1zdWNjZXNzZnVsbHktY29tcGxldGUtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbtIBAA",
       "title": "Allied Air Command | Allies successfully complete Bomber Task Force mission - Allied Air Command",
       "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDIxL2FsbGllcy1zdWNjZXNzZnVsbHktY29tcGxldGUtYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbtIBAA?oc=5",
       "published": "2021-11-16T08:00:00.000Z",
       "description": "Allied Air Command | Allies successfully complete Bomber Task Force mission&nbsp;&nbsp;Allied Air Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA",
+      "title": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display - US AIR FORCES CENTRAL",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmY2VudC5hZi5taWwvVW5pdHMvMzc5dGgtQWlyLUV4cGVkaXRpb25hcnktV2luZy9OZXdzL0Rpc3BsYXkvQXJ0aWNsZS8zNDIzOTYyLzkxMi1lYXJzLXN1cHBvcnRzLWhpc3RvcmljLWJ0Zi_SAQA?oc=5",
+      "published": "2023-06-13T07:00:00.000Z",
+      "description": "912 EARS supports historic BTF > U.S. Air Forces Central > Article Display&nbsp;&nbsp;US AIR FORCES CENTRAL",
       "summary": "",
       "author": "",
       "category": ""
@@ -817,21 +837,21 @@
       "category": ""
     },
     {
-      "id": "CBMiSWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1kZXBsb3ktdG8tZ3VhbS1ib21iZXItdGFzay1mb3JjZS_SAQA",
-      "title": "BUFFs in Guam: B-52s Deploy for Another Bomber Task Force - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1kZXBsb3ktdG8tZ3VhbS1ib21iZXItdGFzay1mb3JjZS_SAQA?oc=5",
-      "published": "2023-06-16T07:00:00.000Z",
-      "description": "BUFFs in Guam: B-52s Deploy for Another Bomber Task Force&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibmh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZi1iLTItc3Bpcml0LWFpcmNyYWZ0LWFycml2ZXMtYXQtbGFqZXMtZmllbGQtdG8tam9pbi1idGYtbWlzc2lvbnMv0gEA",
       "title": "USAF B-2 Spirit aircraft arrives at Lajes field to join BTF missions - Airforce Technology",
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXNhZi1iLTItc3Bpcml0LWFpcmNyYWZ0LWFycml2ZXMtYXQtbGFqZXMtZmllbGQtdG8tam9pbi1idGYtbWlzc2lvbnMv0gEA?oc=5",
       "published": "2021-03-18T07:00:00.000Z",
       "description": "USAF B-2 Spirit aircraft arrives at Lajes field to join BTF missions&nbsp;&nbsp;Airforce Technology",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1kZXBsb3ktdG8tZ3VhbS1ib21iZXItdGFzay1mb3JjZS_SAQA",
+      "title": "BUFFs in Guam: B-52s Deploy for Another Bomber Task Force - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1kZXBsb3ktdG8tZ3VhbS1ib21iZXItdGFzay1mb3JjZS_SAQA?oc=5",
+      "published": "2023-06-16T07:00:00.000Z",
+      "description": "BUFFs in Guam: B-52s Deploy for Another Bomber Task Force&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -897,21 +917,21 @@
       "category": ""
     },
     {
-      "id": "CBMiTGh0dHBzOi8vYWxtYXNoYXJlcS5jb20vZW5fR0IvYXJ0aWNsZXMvY25taV9hbS9mZWF0dXJlcy8yMDIyLzExLzE4L2ZlYXR1cmUtMDTSAQA",
-      "title": "US bomber flyover sends message of solidarity with regional allies - المشارق",
-      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYWxtYXNoYXJlcS5jb20vZW5fR0IvYXJ0aWNsZXMvY25taV9hbS9mZWF0dXJlcy8yMDIyLzExLzE4L2ZlYXR1cmUtMDTSAQA?oc=5",
-      "published": "2022-11-18T08:00:00.000Z",
-      "description": "US bomber flyover sends message of solidarity with regional allies&nbsp;&nbsp;المشارق",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjAvMDUvMjEvdS1zLWItMS1sYW5jZXJzLWNvbnRpbnVlLXRoZWlyLXdvcmxkLXRvdXItd2l0aC1maXJzdC1ldmVyLW1pc3Npb24tb3Zlci1zd2VkZW4v0gEA",
       "title": "U.S. B-1 Lancers Continue Their \"World Tour\" With First Ever Mission Over Sweden - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjAvMDUvMjEvdS1zLWItMS1sYW5jZXJzLWNvbnRpbnVlLXRoZWlyLXdvcmxkLXRvdXItd2l0aC1maXJzdC1ldmVyLW1pc3Npb24tb3Zlci1zd2VkZW4v0gEA?oc=5",
       "published": "2020-05-21T07:00:00.000Z",
       "description": "U.S. B-1 Lancers Continue Their \"World Tour\" With First Ever Mission Over Sweden&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTGh0dHBzOi8vYWxtYXNoYXJlcS5jb20vZW5fR0IvYXJ0aWNsZXMvY25taV9hbS9mZWF0dXJlcy8yMDIyLzExLzE4L2ZlYXR1cmUtMDTSAQA",
+      "title": "US bomber flyover sends message of solidarity with regional allies - المشارق",
+      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYWxtYXNoYXJlcS5jb20vZW5fR0IvYXJ0aWNsZXMvY25taV9hbS9mZWF0dXJlcy8yMDIyLzExLzE4L2ZlYXR1cmUtMDTSAQA?oc=5",
+      "published": "2022-11-18T08:00:00.000Z",
+      "description": "US bomber flyover sends message of solidarity with regional allies&nbsp;&nbsp;المشارق",
       "summary": "",
       "author": "",
       "category": ""
@@ -982,26 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYWxtYXNoYXJlcS5jb20vZW5fR0IvYXJ0aWNsZXMvY25taV9hbS9mZWF0dXJlcy8yMDIzLzAzLzA2L2ZlYXR1cmUtMDLSAQA?oc=5",
       "published": "2023-03-06T08:00:00.000Z",
       "description": "US prepared to support key Middle East partners with strategic bombers&nbsp;&nbsp;المشارق",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzAxLzE0L2xvb2stYXQtdGhlc2UtZHJhbWF0aWMtc2hvdHMtb2YtYS1iLTItc3Bpcml0LWJvbWJlci10YWtpbmctb2ZmLW9uLWl0cy1maXJzdC1zb3J0aWUtZnJvbS1oYXdhaWkv0gEA",
-      "title": "Look At These Dramatic Shots Of A B-2 Spirit Bomber Taking Off On Its First Sortie From Hawaii - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzAxLzE0L2xvb2stYXQtdGhlc2UtZHJhbWF0aWMtc2hvdHMtb2YtYS1iLTItc3Bpcml0LWJvbWJlci10YWtpbmctb2ZmLW9uLWl0cy1maXJzdC1zb3J0aWUtZnJvbS1oYXdhaWkv0gEA?oc=5",
-      "published": "2019-01-14T08:00:00.000Z",
-      "description": "Look At These Dramatic Shots Of A B-2 Spirit Bomber Taking Off On Its First Sortie From Hawaii&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMioQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2xhdGVzdC1hdmlvbmljcy1zb2Z0d2FyZS11cGRhdGUtZm9yLXRoZS1iLTFiLWxhbmNlci1mbGVldC10ZXN0ZWQtZHVyaW5nLTMwLWhvdXItdHdvLXNoaXAtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2Utc29ydGllL9IBoQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2xhdGVzdC1hdmlvbmljcy1zb2Z0d2FyZS11cGRhdGUtZm9yLXRoZS1iLTFiLWxhbmNlci1mbGVldC10ZXN0ZWQtZHVyaW5nLTMwLWhvdXItdHdvLXNoaXAtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2Utc29ydGllLw",
-      "title": "Latest avionics software update for the B-1B Lancer fleet tested during 30 hour two-ship CONUS to CONUS Bom... - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2xhdGVzdC1hdmlvbmljcy1zb2Z0d2FyZS11cGRhdGUtZm9yLXRoZS1iLTFiLWxhbmNlci1mbGVldC10ZXN0ZWQtZHVyaW5nLTMwLWhvdXItdHdvLXNoaXAtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2Utc29ydGllL9IBoQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2xhdGVzdC1hdmlvbmljcy1zb2Z0d2FyZS11cGRhdGUtZm9yLXRoZS1iLTFiLWxhbmNlci1mbGVldC10ZXN0ZWQtZHVyaW5nLTMwLWhvdXItdHdvLXNoaXAtY29udXMtdG8tY29udXMtYm9tYmVyLXRhc2stZm9yY2Utc29ydGllLw?oc=5",
-      "published": "2022-02-14T12:25:27.000Z",
-      "description": "Latest avionics software update for the B-1B Lancer fleet tested during 30 hour two-ship CONUS to CONUS Bom...&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""

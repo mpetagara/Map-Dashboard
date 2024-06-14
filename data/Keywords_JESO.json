@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-14T12:55:18.000Z",
+  "published": "2024-06-14T13:27:40.000Z",
   "entries": [
     {
       "id": "CBMiaWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEyLzI3L2Fpci1mb3JjZS1wdWJsaXNoZXMtbmV3LWRvY3RyaW5lLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zL9IBAA",
@@ -22,6 +22,16 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDcyMTg4L3VzLXN0cmF0ZWdpYy1jb21tYW5kLXN0YW5kcy11cC1qb2ludC1lbXMtb3BlcmF0aW9ucy1jZW50ZXIv0gEA?oc=5",
       "published": "2023-07-26T07:00:00.000Z",
       "description": "U.S. Strategic Command stands up Joint EMS Operations Center&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
+      "title": "JEC Director - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
+      "published": "2023-08-25T21:29:54.000Z",
+      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -107,16 +117,6 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
-      "title": "JEC Director - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
-      "published": "2023-07-26T17:09:01.000Z",
-      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibmh0dHBzOi8vd3d3LmtldHYuY29tL2FydGljbGUvZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtdXNzdHJhdGNvbS1vZmZ1dHQtYWlyLWZvcmNlLWJhc2UtamVjLzQ0NjUxNzYz0gEA",
       "title": "Joint Electromagnetic Operations Center launched out of USSTRATCOM, Offutt Air Force Base - KETV Omaha",
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmtldHYuY29tL2FydGljbGUvZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtdXNzdHJhdGNvbS1vZmZ1dHQtYWlyLWZvcmNlLWJhc2UtamVjLzQ0NjUxNzYz0gEA?oc=5",
@@ -167,11 +167,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA",
-      "title": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office - MeriTalk",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
-      "published": "2023-07-27T07:00:00.000Z",
-      "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
+      "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA",
+      "title": "J1 Director, Human Capital > U.S - Department of Defense",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA?oc=5",
+      "published": "2023-09-24T10:56:22.000Z",
+      "description": "J1 Director, Human Capital > U.S&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -192,6 +192,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzA3L3N0cmF0Y29tLW9wZW5zLWpvaW50LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1mYWNpbGl0eS_SAQA?oc=5",
       "published": "2023-07-31T07:00:00.000Z",
       "description": "STRATCOM Opens Joint Electromagnetic Spectrum Facility; Gen. Anthony Cotton Quoted&nbsp;&nbsp;Executive Gov",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA",
+      "title": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office - MeriTalk",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
+      "published": "2023-07-27T07:00:00.000Z",
+      "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
       "summary": "",
       "author": "",
       "category": ""
@@ -482,6 +492,16 @@
       "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIzL2p1bmUvcnVuLXNpbGVudC1ub3QtZGVlcNIBAA?oc=5",
       "published": "2023-05-31T18:43:45.000Z",
       "description": "Run Silent, Not Deep | Proceedings - June 2023 Vol. 149/6/1,444&nbsp;&nbsp;USNI News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNDI5Lmh0bWzSAQA",
+      "title": "National Guard Biography - National Guard Bureau",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNDI5Lmh0bWzSAQA?oc=5",
+      "published": "2018-11-17T21:09:34.000Z",
+      "description": "National Guard Biography&nbsp;&nbsp;National Guard Bureau",
       "summary": "",
       "author": "",
       "category": ""
