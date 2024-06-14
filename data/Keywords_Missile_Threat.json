@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-14T17:30:54.000Z",
+  "published": "2024-06-14T18:33:56.000Z",
   "entries": [
     {
       "id": "CBMikgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzgwMjQ0NS90aGlyZC1tZWV0aW5nLW9mLW51Y2xlYXItY29uc3VsdGF0aXZlLWdyb3VwLWVuaGFuY2VzLXVzLXNvdXRoLWtvcmVhLWFsbGlhbmNlLWRlL9IBAA",
@@ -37,26 +37,6 @@
       "category": ""
     },
     {
-      "id": "CBMigQFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzYvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS10by10ZXN0LXNhdGVsbGl0ZS1oeXBlcnNvbmljLXRyYWNraW5nLXRlY2hub2xvZ3nSAQA",
-      "title": "JUST IN: Missile Defense Agency to Test Satellite Hypersonic Tracking Technology - National Defense Magazine",
-      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzYvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS10by10ZXN0LXNhdGVsbGl0ZS1oeXBlcnNvbmljLXRyYWNraW5nLXRlY2hub2xvZ3nSAQA?oc=5",
-      "published": "2024-06-06T19:44:19.000Z",
-      "description": "JUST IN: Missile Defense Agency to Test Satellite Hypersonic Tracking Technology&nbsp;&nbsp;National Defense Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiX2h0dHBzOi8vYW1hYy51cy9uZXdzbGluZS9uYXRpb25hbC1zZWN1cml0eS9iaWRlbnMtbWlzc2lsZS1kZWZlbnNlLWZhaWx1cmVzLXB1dC1hbWVyaWNhLWF0LXJpc2sv0gEA",
-      "title": "Biden’s Missile Defense Failures Put America At Risk - AMAC Official Website - Join and Explore the Benefits",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYW1hYy51cy9uZXdzbGluZS9uYXRpb25hbC1zZWN1cml0eS9iaWRlbnMtbWlzc2lsZS1kZWZlbnNlLWZhaWx1cmVzLXB1dC1hbWVyaWNhLWF0LXJpc2sv0gEA?oc=5",
-      "published": "2024-06-14T00:21:41.000Z",
-      "description": "Biden’s Missile Defense Failures Put America At Risk&nbsp;&nbsp;AMAC Official Website - Join and Explore the Benefits",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvcG9saXRpY3MvcGF0cmlvdC1taXNzaWxlcy11a3JhaW5lLXdhci5odG1s0gEA",
       "title": "U.S. to Send Another Patriot Missile Battery to Ukraine - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDYvMTEvdXMvcG9saXRpY3MvcGF0cmlvdC1taXNzaWxlcy11a3JhaW5lLXdhci5odG1s0gEA?oc=5",
@@ -77,11 +57,41 @@
       "category": ""
     },
     {
+      "id": "CBMiX2h0dHBzOi8vYW1hYy51cy9uZXdzbGluZS9uYXRpb25hbC1zZWN1cml0eS9iaWRlbnMtbWlzc2lsZS1kZWZlbnNlLWZhaWx1cmVzLXB1dC1hbWVyaWNhLWF0LXJpc2sv0gEA",
+      "title": "Biden’s Missile Defense Failures Put America At Risk - AMAC Official Website - Join and Explore the Benefits",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYW1hYy51cy9uZXdzbGluZS9uYXRpb25hbC1zZWN1cml0eS9iaWRlbnMtbWlzc2lsZS1kZWZlbnNlLWZhaWx1cmVzLXB1dC1hbWVyaWNhLWF0LXJpc2sv0gEA?oc=5",
+      "published": "2024-06-14T00:21:41.000Z",
+      "description": "Biden’s Missile Defense Failures Put America At Risk&nbsp;&nbsp;AMAC Official Website - Join and Explore the Benefits",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigQFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzYvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS10by10ZXN0LXNhdGVsbGl0ZS1oeXBlcnNvbmljLXRyYWNraW5nLXRlY2hub2xvZ3nSAQA",
+      "title": "JUST IN: Missile Defense Agency to Test Satellite Hypersonic Tracking Technology - National Defense Magazine",
+      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzYvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS10by10ZXN0LXNhdGVsbGl0ZS1oeXBlcnNvbmljLXRyYWNraW5nLXRlY2hub2xvZ3nSAQA?oc=5",
+      "published": "2024-06-06T19:44:19.000Z",
+      "description": "JUST IN: Missile Defense Agency to Test Satellite Hypersonic Tracking Technology&nbsp;&nbsp;National Defense Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL2RlYnJpZWYtYW1lcmljYW4taW5zaWRlcnMtdmlldy11a3JhaW5pYW4tYWlyLWRlZmVuc2UtcmVjb3Jk0gEA",
       "title": "The Debrief: An American Insider’s View Of Ukrainian Air Defense Record - Aviation Week",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL2RlYnJpZWYtYW1lcmljYW4taW5zaWRlcnMtdmlldy11a3JhaW5pYW4tYWlyLWRlZmVuc2UtcmVjb3Jk0gEA?oc=5",
       "published": "2024-06-10T20:58:38.000Z",
       "description": "The Debrief: An American Insider’s View Of Ukrainian Air Defense Record&nbsp;&nbsp;Aviation Week",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiS2h0dHBzOi8vY2EubmV3cy55YWhvby5jb20vdmlkZW8tc2hvd3MtcnVzc2lhbi1taXNzaWxlLWxhdW5jaC0yMzAzNTg0NTkuaHRtbNIBAA",
+      "title": "Video shows Russian missile launch in White Sea, not off Florida coast | Fact check - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vY2EubmV3cy55YWhvby5jb20vdmlkZW8tc2hvd3MtcnVzc2lhbi1taXNzaWxlLWxhdW5jaC0yMzAzNTg0NTkuaHRtbNIBAA?oc=5",
+      "published": "2024-06-13T23:10:13.000Z",
+      "description": "Video shows Russian missile launch in White Sea, not off Florida coast | Fact check&nbsp;&nbsp;Yahoo News Canada",
       "summary": "",
       "author": "",
       "category": ""
@@ -102,16 +112,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MTEzNzY2My9hcm15LXVzaW5nLW1pY3Jvd2F2ZS10ZWNobm9sb2d5LXRvLWNvbWJhdC1kcm9uZS1hbmQtbWlzc2lsZS10aHJlYXRz0gEA?oc=5",
       "published": "2024-06-10T12:04:59.000Z",
       "description": "The Army is using microwave technology to combat drone threats&nbsp;&nbsp;Fast Company",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiS2h0dHBzOi8vY2EubmV3cy55YWhvby5jb20vdmlkZW8tc2hvd3MtcnVzc2lhbi1taXNzaWxlLWxhdW5jaC0yMzAzNTg0NTkuaHRtbNIBAA",
-      "title": "Video shows Russian missile launch in White Sea, not off Florida coast | Fact check - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vY2EubmV3cy55YWhvby5jb20vdmlkZW8tc2hvd3MtcnVzc2lhbi1taXNzaWxlLWxhdW5jaC0yMzAzNTg0NTkuaHRtbNIBAA?oc=5",
-      "published": "2024-06-13T23:10:13.000Z",
-      "description": "Video shows Russian missile launch in White Sea, not off Florida coast | Fact check&nbsp;&nbsp;Yahoo News Canada",
       "summary": "",
       "author": "",
       "category": ""
@@ -297,21 +297,21 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA",
-      "title": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions - Modern Diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA?oc=5",
-      "published": "2024-06-11T11:05:20.000Z",
-      "description": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions&nbsp;&nbsp;Modern Diplomacy",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiMWh0dHBzOi8vbWlzc2lsZXRocmVhdC5jc2lzLm9yZy9taXNzaWxlL2h3YXNvbmctNS_SAQA",
       "title": "Hwasong-5 | Missile Threat - Missile Threat",
       "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vbWlzc2lsZXRocmVhdC5jc2lzLm9yZy9taXNzaWxlL2h3YXNvbmctNS_SAQA?oc=5",
       "published": "2024-04-23T07:00:00.000Z",
       "description": "Hwasong-5 | Missile Threat&nbsp;&nbsp;Missile Threat",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA",
+      "title": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions - Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA?oc=5",
+      "published": "2024-06-11T11:05:20.000Z",
+      "description": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions&nbsp;&nbsp;Modern Diplomacy",
       "summary": "",
       "author": "",
       "category": ""
@@ -387,11 +387,11 @@
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzMvanVzdC1pbi1rYW1pa2F6ZS1kcm9uZS10aHJlYXQtcHV0dGluZy1haXItZGVmZW5zZS1iYWNrLWluLWFybXktbWFuZXV2ZXItZm9ybWF0aW9uc9IBAA",
-      "title": "JUST IN: Kamikaze Drone Threat Putting Air Defense Back in Army Maneuver Formations - National Defense Magazine",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uYXRpb25hbGRlZmVuc2VtYWdhemluZS5vcmcvYXJ0aWNsZXMvMjAyNC82LzMvanVzdC1pbi1rYW1pa2F6ZS1kcm9uZS10aHJlYXQtcHV0dGluZy1haXItZGVmZW5zZS1iYWNrLWluLWFybXktbWFuZXV2ZXItZm9ybWF0aW9uc9IBAA?oc=5",
-      "published": "2024-06-03T07:00:00.000Z",
-      "description": "JUST IN: Kamikaze Drone Threat Putting Air Defense Back in Army Maneuver Formations&nbsp;&nbsp;National Defense Magazine",
+      "id": "CBMiYGh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9wb2RjYXN0cy9jaGVjay02L3BvZGNhc3Qtc2hpZWxkaW5nLXNraWVzLW1pc3NpbGUtZGVmZW5zZS1jaGFuZ2luZy13b3JsZNIBAA",
+      "title": "Podcast: Shielding The Skies—Missile Defense In A Changing World - Aviation Week",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9wb2RjYXN0cy9jaGVjay02L3BvZGNhc3Qtc2hpZWxkaW5nLXNraWVzLW1pc3NpbGUtZGVmZW5zZS1jaGFuZ2luZy13b3JsZNIBAA?oc=5",
+      "published": "2024-04-25T07:00:00.000Z",
+      "description": "Podcast: Shielding The Skies—Missile Defense In A Changing World&nbsp;&nbsp;Aviation Week",
       "summary": "",
       "author": "",
       "category": ""
@@ -402,16 +402,6 @@
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE4NDY3L25hdnktd2Fyc2hpcHMtYXJteXMtcGF0cmlvdC1wYWMtMy1haXItZGVmZW5zZS1taXNzaWxlcy_SAQA?oc=5",
       "published": "2024-06-10T14:30:00.000Z",
       "description": "The Navy's Warships Can Now Fire the Army's Patriot PAC-3 Air Defense Missiles&nbsp;&nbsp;Popular Mechanics",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYGh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9wb2RjYXN0cy9jaGVjay02L3BvZGNhc3Qtc2hpZWxkaW5nLXNraWVzLW1pc3NpbGUtZGVmZW5zZS1jaGFuZ2luZy13b3JsZNIBAA",
-      "title": "Podcast: Shielding The Skies—Missile Defense In A Changing World - Aviation Week",
-      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9wb2RjYXN0cy9jaGVjay02L3BvZGNhc3Qtc2hpZWxkaW5nLXNraWVzLW1pc3NpbGUtZGVmZW5zZS1jaGFuZ2luZy13b3JsZNIBAA?oc=5",
-      "published": "2024-04-25T07:00:00.000Z",
-      "description": "Podcast: Shielding The Skies—Missile Defense In A Changing World&nbsp;&nbsp;Aviation Week",
       "summary": "",
       "author": "",
       "category": ""
@@ -627,21 +617,21 @@
       "category": ""
     },
     {
-      "id": "CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWhhcy10aG91c2FuZHMtbWlzc2lsZXMtaXQtY291bGQtdXNlLXdhci1hZ2FpbnN0LWFtZXJpY2EtMjExMzU40gEA",
-      "title": "China Has Thousands of Missiles It Could Use in a War Against America - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWhhcy10aG91c2FuZHMtbWlzc2lsZXMtaXQtY291bGQtdXNlLXdhci1hZ2FpbnN0LWFtZXJpY2EtMjExMzU40gEA?oc=5",
-      "published": "2024-06-08T13:05:14.000Z",
-      "description": "China Has Thousands of Missiles It Could Use in a War Against America&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9sYW5kLzIwMjMvMTIvMTEvaG9tZWxhbmQtZGVmZW5zZS1pbnRlcmNlcHRvci1kZWZlYXRzLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qv0gEA",
       "title": "Homeland defense interceptor defeats ballistic missile in test - Defense News",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9sYW5kLzIwMjMvMTIvMTEvaG9tZWxhbmQtZGVmZW5zZS1pbnRlcmNlcHRvci1kZWZlYXRzLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qv0gEA?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "Homeland defense interceptor defeats ballistic missile in test&nbsp;&nbsp;Defense News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWhhcy10aG91c2FuZHMtbWlzc2lsZXMtaXQtY291bGQtdXNlLXdhci1hZ2FpbnN0LWFtZXJpY2EtMjExMzU40gEA",
+      "title": "China Has Thousands of Missiles It Could Use in a War Against America - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWhhcy10aG91c2FuZHMtbWlzc2lsZXMtaXQtY291bGQtdXNlLXdhci1hZ2FpbnN0LWFtZXJpY2EtMjExMzU40gEA?oc=5",
+      "published": "2024-06-08T13:05:14.000Z",
+      "description": "China Has Thousands of Missiles It Could Use in a War Against America&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -672,16 +662,6 @@
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmxvY2toZWVkbWFydGluLmNvbS9lbi11cy9uZXdzL2ZlYXR1cmVzLzIwMjQvYWR2YW5jaW5nLS1haGVhZC1vZi1yZWFkeS0td2l0aC1uZXh0LWdlbmVyYXRpb24taW50ZXJjZXB0b3IuaHRtbNIBAA?oc=5",
       "published": "2024-04-15T07:00:00.000Z",
       "description": "Advancing 'Ahead of Ready' with Next Generation Interceptor&nbsp;&nbsp;Lockheed Martin",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMieGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWtpbS1qb25nLXVuLWh5cGVyc29uaWMtaW50ZXJtZWRpYXRlcmFuZ2UtbWlzc2lsZS03Njg3MDRmZTY1YmRmYmNjNzMxMWZlYzJjZTM0YmQ5MtIBAA",
-      "title": "North Korea says it tested a new hypersonic intermediate-range missile that's easier to hide - The Associated Press",
-      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWtpbS1qb25nLXVuLWh5cGVyc29uaWMtaW50ZXJtZWRpYXRlcmFuZ2UtbWlzc2lsZS03Njg3MDRmZTY1YmRmYmNjNzMxMWZlYzJjZTM0YmQ5MtIBAA?oc=5",
-      "published": "2024-04-03T07:00:00.000Z",
-      "description": "North Korea says it tested a new hypersonic intermediate-range missile that's easier to hide&nbsp;&nbsp;The Associated Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -867,9 +847,9 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vd3d3LndhZmYuY29tLzIwMjQvMDMvMjUvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1leGVjdXRpdmUtZGlyZWN0b3ItYWNjdXNlZC1taXN1c2luZy1vZmZpY2UtcGVyc29uYWwtZ2Fpbi_SAX9odHRwczovL3d3dy53YWZmLmNvbS8yMDI0LzAzLzI1L21pc3NpbGUtZGVmZW5zZS1hZ2VuY3ktZXhlY3V0aXZlLWRpcmVjdG9yLWFjY3VzZWQtbWlzdXNpbmctb2ZmaWNlLXBlcnNvbmFsLWdhaW4vP291dHB1dFR5cGU9YW1w",
+      "id": "CBMicGh0dHBzOi8vd3d3LndhZmYuY29tLzIwMjQvMDMvMjUvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1leGVjdXRpdmUtZGlyZWN0b3ItYWNjdXNlZC1taXN1c2luZy1vZmZpY2UtcGVyc29uYWwtZ2Fpbi_SAQA",
       "title": "Missile Defense Agency Executive Director accused of misusing office for personal gain - WAFF",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndhZmYuY29tLzIwMjQvMDMvMjUvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1leGVjdXRpdmUtZGlyZWN0b3ItYWNjdXNlZC1taXN1c2luZy1vZmZpY2UtcGVyc29uYWwtZ2Fpbi_SAX9odHRwczovL3d3dy53YWZmLmNvbS8yMDI0LzAzLzI1L21pc3NpbGUtZGVmZW5zZS1hZ2VuY3ktZXhlY3V0aXZlLWRpcmVjdG9yLWFjY3VzZWQtbWlzdXNpbmctb2ZmaWNlLXBlcnNvbmFsLWdhaW4vP291dHB1dFR5cGU9YW1w?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LndhZmYuY29tLzIwMjQvMDMvMjUvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1leGVjdXRpdmUtZGlyZWN0b3ItYWNjdXNlZC1taXN1c2luZy1vZmZpY2UtcGVyc29uYWwtZ2Fpbi_SAQA?oc=5",
       "published": "2024-03-25T07:00:00.000Z",
       "description": "Missile Defense Agency Executive Director accused of misusing office for personal gain&nbsp;&nbsp;WAFF",
       "summary": "",
@@ -917,21 +897,21 @@
       "category": ""
     },
     {
-      "id": "CBMiSmh0dHBzOi8vYXUubmV3cy55YWhvby5jb20vcnVzc2lhbi13YXJzaGlwcy1hcnJpdmUtY3ViYS1zaG93LTE2MTk1Mjg4Ni5odG1s0gEA",
-      "title": "Russian warships in Cuba are no threat, US says - Yahoo News Australia",
-      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vYXUubmV3cy55YWhvby5jb20vcnVzc2lhbi13YXJzaGlwcy1hcnJpdmUtY3ViYS1zaG93LTE2MTk1Mjg4Ni5odG1s0gEA?oc=5",
-      "published": "2024-06-13T13:37:44.000Z",
-      "description": "Russian warships in Cuba are no threat, US says&nbsp;&nbsp;Yahoo News Australia",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiW2h0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDI0LzA1LzA0L3dvcmxkL3BvbGl0aWNzL21pc3NpbGUtZGVmZW5zZS1nbG9iYWwtdXJnZW5jeS_SAQA",
       "title": "Missile defense successes fuel global urgency to acquire systems - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDI0LzA1LzA0L3dvcmxkL3BvbGl0aWNzL21pc3NpbGUtZGVmZW5zZS1nbG9iYWwtdXJnZW5jeS_SAQA?oc=5",
       "published": "2024-05-04T07:00:00.000Z",
       "description": "Missile defense successes fuel global urgency to acquire systems&nbsp;&nbsp;The Japan Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSmh0dHBzOi8vYXUubmV3cy55YWhvby5jb20vcnVzc2lhbi13YXJzaGlwcy1hcnJpdmUtY3ViYS1zaG93LTE2MTk1Mjg4Ni5odG1s0gEA",
+      "title": "Russian warships in Cuba are no threat, US says - Yahoo News Australia",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vYXUubmV3cy55YWhvby5jb20vcnVzc2lhbi13YXJzaGlwcy1hcnJpdmUtY3ViYS1zaG93LTE2MTk1Mjg4Ni5odG1s0gEA?oc=5",
+      "published": "2024-06-13T13:37:44.000Z",
+      "description": "Russian warships in Cuba are no threat, US says&nbsp;&nbsp;Yahoo News Australia",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +982,26 @@
       "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZW5hdGlvbi5jb20vYXJ0aWNsZS9zb2NpZXR5L3Byb2plY3QtMjAyNS1taWxpdGFyeS1wZW50YWdvbi1zcGVuZGluZy_SAVhodHRwczovL3d3dy50aGVuYXRpb24uY29tL2FydGljbGUvc29jaWV0eS9wcm9qZWN0LTIwMjUtbWlsaXRhcnktcGVudGFnb24tc3BlbmRpbmcvdG5hbXAv?oc=5",
       "published": "2024-06-05T07:00:00.000Z",
       "description": "Conservatives Are Gearing Up for a Major Military Expansion Under Trump 2.0&nbsp;&nbsp;The Nation",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wOS93b3JsZC9pcm9uLWRvbWUtaXNyYWVsLWRlZmVuc2UtZXhwbGFpbmVkLWludGwtZGcvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTAvMDkvd29ybGQvaXJvbi1kb21lLWlzcmFlbC1kZWZlbnNlLWV4cGxhaW5lZC1pbnRsLWRn",
+      "title": "The Iron Dome, explained and visualized - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wOS93b3JsZC9pcm9uLWRvbWUtaXNyYWVsLWRlZmVuc2UtZXhwbGFpbmVkLWludGwtZGcvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTAvMDkvd29ybGQvaXJvbi1kb21lLWlzcmFlbC1kZWZlbnNlLWV4cGxhaW5lZC1pbnRsLWRn?oc=5",
+      "published": "2023-10-09T07:00:00.000Z",
+      "description": "The Iron Dome, explained and visualized&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDI0LzA2LzA5L3VrcmFpbmUtZ2FtYmxlLWhpbWFycy1taXNzaWxlLW9uc2xhdWdodC1pbnNpZGUtcnVzc2lhL9IBAA",
+      "title": "How Ukraine's threat of a missile onslaught rattled Putin – but failed to wake the West - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDI0LzA2LzA5L3VrcmFpbmUtZ2FtYmxlLWhpbWFycy1taXNzaWxlLW9uc2xhdWdodC1pbnNpZGUtcnVzc2lhL9IBAA?oc=5",
+      "published": "2024-06-09T05:00:00.000Z",
+      "description": "How Ukraine's threat of a missile onslaught rattled Putin – but failed to wake the West&nbsp;&nbsp;The Telegraph",
       "summary": "",
       "author": "",
       "category": ""
