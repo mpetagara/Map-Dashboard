@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-14T14:30:09.000Z",
+  "published": "2024-06-14T15:28:11.000Z",
   "entries": [
     {
       "id": "CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzM0MTg10gEA",
@@ -12,6 +12,16 @@
       "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzM0MTg10gEA?oc=5",
       "published": "2024-06-12T14:06:12.000Z",
       "description": "US Spy Plane Gets Front Row Seat to Latest Wave of Ukrainian Missile Strikes in Crimea&nbsp;&nbsp;Kyiv Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicGh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9ydXNzaWEtdWtyYWluZS9taXNzaWxlLWludGVyY2VwdGluZy1wYXRyaW90LW1pc3NpbGUtZGVzdHJveXMtcnVzc2lhbi1zdXJ2ZWlsbGFuY2UtcGxhbmXSAQA",
+      "title": "Missile-Intercepting Patriot Missile Destroys Russian Surveillance Plane - Warrior Maven",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9ydXNzaWEtdWtyYWluZS9taXNzaWxlLWludGVyY2VwdGluZy1wYXRyaW90LW1pc3NpbGUtZGVzdHJveXMtcnVzc2lhbi1zdXJ2ZWlsbGFuY2UtcGxhbmXSAQA?oc=5",
+      "published": "2024-06-14T15:12:43.000Z",
+      "description": "Missile-Intercepting Patriot Missile Destroys Russian Surveillance Plane&nbsp;&nbsp;Warrior Maven",
       "summary": "",
       "author": "",
       "category": ""
@@ -187,21 +197,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3dvcmxkLzIwMjQvMDIvMjQvcnVzc2lhLXNweS1wbGFuZS11a3JhaW5lLWNsYWltcy1lYm9mLXZweC5jbm7SAQA",
-      "title": "Ukraine claims it shot down ‘rare’ Russian spy plane - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3dvcmxkLzIwMjQvMDIvMjQvcnVzc2lhLXNweS1wbGFuZS11a3JhaW5lLWNsYWltcy1lYm9mLXZweC5jbm7SAQA?oc=5",
-      "published": "2024-02-23T08:00:00.000Z",
-      "description": "Ukraine claims it shot down ‘rare’ Russian spy plane&nbsp;&nbsp;CNN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiSmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtYTUwLXNweS1wbGFuZS11a3JhaW5lLWhpdC10YWdhbnJvZy0xODc3NjMw0gEA",
       "title": "Russian Advanced A-50 Spy Plane Hit in Strike on Aircraft Factory: Kyiv - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtYTUwLXNweS1wbGFuZS11a3JhaW5lLWhpdC10YWdhbnJvZy0xODc3NjMw0gEA?oc=5",
       "published": "2024-03-10T08:00:00.000Z",
       "description": "Russian Advanced A-50 Spy Plane Hit in Strike on Aircraft Factory: Kyiv&nbsp;&nbsp;Newsweek",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3dvcmxkLzIwMjQvMDIvMjQvcnVzc2lhLXNweS1wbGFuZS11a3JhaW5lLWNsYWltcy1lYm9mLXZweC5jbm7SAQA",
+      "title": "Ukraine claims it shot down ‘rare’ Russian spy plane - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vdmlkZW9zL3dvcmxkLzIwMjQvMDIvMjQvcnVzc2lhLXNweS1wbGFuZS11a3JhaW5lLWNsYWltcy1lYm9mLXZweC5jbm7SAQA?oc=5",
+      "published": "2024-02-23T08:00:00.000Z",
+      "description": "Ukraine claims it shot down ‘rare’ Russian spy plane&nbsp;&nbsp;CNN",
       "summary": "",
       "author": "",
       "category": ""
@@ -217,9 +227,9 @@
       "category": ""
     },
     {
-      "id": "CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv",
+      "id": "CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gEA",
       "title": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies - KTXL FOX 40 Sacramento",
-      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gEA?oc=5",
       "published": "2024-02-16T08:00:00.000Z",
       "description": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies&nbsp;&nbsp;KTXL FOX 40 Sacramento",
       "summary": "",
@@ -237,21 +247,21 @@
       "category": ""
     },
     {
-      "id": "CBMilwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTE2NzM1L05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s0gGbAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1MTY3MzUvYW1wL05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s",
-      "title": "NATO fighter jets scramble to intercept Russian spy planes over the Baltic Sea in latest tense aerial stand-of - Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTE2NzM1L05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s0gGbAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1MTY3MzUvYW1wL05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s?oc=5",
-      "published": "2024-06-11T08:54:06.000Z",
-      "description": "NATO fighter jets scramble to intercept Russian spy planes over the Baltic Sea in latest tense aerial stand-of&nbsp;&nbsp;Daily Mail",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzMxODYz0gEA",
       "title": "Busy Skies in NATO's East – A New US Spy Plane, A Rare Ukrainian Flight Into Europe, and British Fighters - Kyiv Post",
       "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzMxODYz0gEA?oc=5",
       "published": "2024-04-29T07:00:00.000Z",
       "description": "Busy Skies in NATO's East – A New US Spy Plane, A Rare Ukrainian Flight Into Europe, and British Fighters&nbsp;&nbsp;Kyiv Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTE2NzM1L05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s0gGbAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1MTY3MzUvYW1wL05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s",
+      "title": "NATO fighter jets scramble to intercept Russian spy planes over the Baltic Sea in latest tense aerial stand-of - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzNTE2NzM1L05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s0gGbAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1MTY3MzUvYW1wL05BVE8tZmlnaHRlci1qZXRzLXNjcmFtYmxlLWludGVyY2VwdC1SdXNzaWFuLXNweS1wbGFuZXMtQmFsdGljLVNlYS1sYXRlc3QtdGVuc2UtYWVyaWFsLXN0YW5kLW9mZi5odG1s?oc=5",
+      "published": "2024-06-11T08:54:06.000Z",
+      "description": "NATO fighter jets scramble to intercept Russian spy planes over the Baltic Sea in latest tense aerial stand-of&nbsp;&nbsp;Daily Mail",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtbmF2eS1kZWZ1ZWwtamV0LWhhd2FpaS1iMjQ1NTg0MC5odG1s0gEA?oc=5",
       "published": "2023-11-29T08:00:00.000Z",
       "description": "US Navy trying to recover spy plane that ended up in Hawaii bay&nbsp;&nbsp;The Independent",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtZm9yY2VkLXJlY29uc2lkZXItYWlyLXN0cmF0ZWd5LWFmdGVyLWxvc3MtcHJpemVkLXNweS1wbGFuZS11ay0xODYxNjM00gEA",
-      "title": "Russia Forced to Reconsider Air Strategy After Loss of Prized Spy Plane: UK - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtZm9yY2VkLXJlY29uc2lkZXItYWlyLXN0cmF0ZWd5LWFmdGVyLWxvc3MtcHJpemVkLXNweS1wbGFuZS11ay0xODYxNjM00gEA?oc=5",
-      "published": "2024-01-18T08:00:00.000Z",
-      "description": "Russia Forced to Reconsider Air Strategy After Loss of Prized Spy Plane: UK&nbsp;&nbsp;Newsweek",
       "summary": "",
       "author": "",
       "category": ""
