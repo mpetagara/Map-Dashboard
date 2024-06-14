@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-14T21:24:19.000Z",
+  "published": "2024-06-14T22:28:56.000Z",
   "entries": [
     {
       "id": "CBMibmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItd2FsbC1zaGlwcGluZy1jb250YWluZXJzLWJlaW5nLXVzZWQtY29vbGluZy1jZW50ZXJzLXBob2VuaXgv0gF9aHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMTMvZm9ybWVyLWJvcmRlci13YWxsLXNoaXBwaW5nLWNvbnRhaW5lcnMtYmVpbmctdXNlZC1jb29saW5nLWNlbnRlcnMtcGhvZW5peC8_b3V0cHV0VHlwZT1hbXA",
@@ -107,21 +107,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVmh0dHBzOi8vd2ducmFkaW8uY29tL25ld3MvaGVhdC1jYXJ0ZWwtbGllcy1tYWtlLWJvcmRlci10b3duLWEtZGVhdGgtdHJhcC1mb3ItbWlncmFudHMv0gFaaHR0cHM6Ly93Z25yYWRpby5jb20vbmV3cy9oZWF0LWNhcnRlbC1saWVzLW1ha2UtYm9yZGVyLXRvd24tYS1kZWF0aC10cmFwLWZvci1taWdyYW50cy9hbXAv",
-      "title": "Heat, cartel lies make border town a death trap for migrants - WGN Radio - Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd2ducmFkaW8uY29tL25ld3MvaGVhdC1jYXJ0ZWwtbGllcy1tYWtlLWJvcmRlci10b3duLWEtZGVhdGgtdHJhcC1mb3ItbWlncmFudHMv0gFaaHR0cHM6Ly93Z25yYWRpby5jb20vbmV3cy9oZWF0LWNhcnRlbC1saWVzLW1ha2UtYm9yZGVyLXRvd24tYS1kZWF0aC10cmFwLWZvci1taWdyYW50cy9hbXAv?oc=5",
-      "published": "2024-06-14T01:16:31.000Z",
-      "description": "Heat, cartel lies make border town a death trap for migrants&nbsp;&nbsp;WGN Radio - Chicago",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3BpY3R1cmVzL3NjZW5lcy1hbG9uZy11cy1tZXhpY28tYm9yZGVyLWJpZGVuLWltcG9zZXMtc3dlZXBpbmctYXN5bHVtLWJhbi0yMDI0LTA2LTA1L9IBAA",
       "title": "Scenes along US-Mexico border as Biden imposes sweeping asylum ban - Reuters",
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3BpY3R1cmVzL3NjZW5lcy1hbG9uZy11cy1tZXhpY28tYm9yZGVyLWJpZGVuLWltcG9zZXMtc3dlZXBpbmctYXN5bHVtLWJhbi0yMDI0LTA2LTA1L9IBAA?oc=5",
       "published": "2024-06-05T07:00:00.000Z",
       "description": "Scenes along US-Mexico border as Biden imposes sweeping asylum ban&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVmh0dHBzOi8vd2ducmFkaW8uY29tL25ld3MvaGVhdC1jYXJ0ZWwtbGllcy1tYWtlLWJvcmRlci10b3duLWEtZGVhdGgtdHJhcC1mb3ItbWlncmFudHMv0gFaaHR0cHM6Ly93Z25yYWRpby5jb20vbmV3cy9oZWF0LWNhcnRlbC1saWVzLW1ha2UtYm9yZGVyLXRvd24tYS1kZWF0aC10cmFwLWZvci1taWdyYW50cy9hbXAv",
+      "title": "Heat, cartel lies make border town a death trap for migrants - WGN Radio - Chicago",
+      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd2ducmFkaW8uY29tL25ld3MvaGVhdC1jYXJ0ZWwtbGllcy1tYWtlLWJvcmRlci10b3duLWEtZGVhdGgtdHJhcC1mb3ItbWlncmFudHMv0gFaaHR0cHM6Ly93Z25yYWRpby5jb20vbmV3cy9oZWF0LWNhcnRlbC1saWVzLW1ha2UtYm9yZGVyLXRvd24tYS1kZWF0aC10cmFwLWZvci1taWdyYW50cy9hbXAv?oc=5",
+      "published": "2024-06-14T01:16:31.000Z",
+      "description": "Heat, cartel lies make border town a death trap for migrants&nbsp;&nbsp;WGN Radio - Chicago",
       "summary": "",
       "author": "",
       "category": ""
@@ -647,16 +647,6 @@
       "category": ""
     },
     {
-      "id": "CBMiZmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjcvcnVzc2lhLWRyb25lLXdhbGwtc2l4LW5hdG8tY291bnRyaWVzLWFubm91bmNlLWJvcmRlci1kZWZlbnNlLXBsYW4uaHRtbNIBamh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI3L3J1c3NpYS1kcm9uZS13YWxsLXNpeC1uYXRvLWNvdW50cmllcy1hbm5vdW5jZS1ib3JkZXItZGVmZW5zZS1wbGFuLmh0bWw",
-      "title": "'Drone wall' against Russia: Six NATO countries announce border defense plan - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjcvcnVzc2lhLWRyb25lLXdhbGwtc2l4LW5hdG8tY291bnRyaWVzLWFubm91bmNlLWJvcmRlci1kZWZlbnNlLXBsYW4uaHRtbNIBamh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI3L3J1c3NpYS1kcm9uZS13YWxsLXNpeC1uYXRvLWNvdW50cmllcy1hbm5vdW5jZS1ib3JkZXItZGVmZW5zZS1wbGFuLmh0bWw?oc=5",
-      "published": "2024-05-27T07:00:00.000Z",
-      "description": "'Drone wall' against Russia: Six NATO countries announce border defense plan&nbsp;&nbsp;CNBC",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FyaXpvbmEtYm9yZGVyLXdhbGwtYnJlYWNoZXMtYXN5bHVtLWltbWlncmF0aW9uLWJlZGRkMmNhMGZmZDAyODg0Y2UwZDBhZDE3ODVmNTM40gEA",
       "title": "Immigration: Illegal crossings surge along U.S. and Mexico border - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FyaXpvbmEtYm9yZGVyLXdhbGwtYnJlYWNoZXMtYXN5bHVtLWltbWlncmF0aW9uLWJlZGRkMmNhMGZmZDAyODg0Y2UwZDBhZDE3ODVmNTM40gEA?oc=5",
@@ -667,11 +657,11 @@
       "category": ""
     },
     {
-      "id": "CBMiYGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L9IBZGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L2FtcC8",
-      "title": "More wall, border technology proposed for fiscal 2025 - Border Report",
-      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L9IBZGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L2FtcC8?oc=5",
-      "published": "2024-06-07T23:07:30.000Z",
-      "description": "More wall, border technology proposed for fiscal 2025&nbsp;&nbsp;Border Report",
+      "id": "CBMiZmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjcvcnVzc2lhLWRyb25lLXdhbGwtc2l4LW5hdG8tY291bnRyaWVzLWFubm91bmNlLWJvcmRlci1kZWZlbnNlLXBsYW4uaHRtbNIBamh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI3L3J1c3NpYS1kcm9uZS13YWxsLXNpeC1uYXRvLWNvdW50cmllcy1hbm5vdW5jZS1ib3JkZXItZGVmZW5zZS1wbGFuLmh0bWw",
+      "title": "'Drone wall' against Russia: Six NATO countries announce border defense plan - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDUvMjcvcnVzc2lhLWRyb25lLXdhbGwtc2l4LW5hdG8tY291bnRyaWVzLWFubm91bmNlLWJvcmRlci1kZWZlbnNlLXBsYW4uaHRtbNIBamh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA1LzI3L3J1c3NpYS1kcm9uZS13YWxsLXNpeC1uYXRvLWNvdW50cmllcy1hbm5vdW5jZS1ib3JkZXItZGVmZW5zZS1wbGFuLmh0bWw?oc=5",
+      "published": "2024-05-27T07:00:00.000Z",
+      "description": "'Drone wall' against Russia: Six NATO countries announce border defense plan&nbsp;&nbsp;CNBC",
       "summary": "",
       "author": "",
       "category": ""
@@ -712,6 +702,16 @@
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JvcmRlci13YWxsLWJpZGVuLWltbWlncmF0aW9uLXRleGFzLXJpby1ncmFuZGUtMTQ3ZDdhYjQ5N2U2OTkxZTllYTkyOTI0MmYyMWNlYjLSAQA?oc=5",
       "published": "2023-10-05T07:00:00.000Z",
       "description": "The Biden administration says it is using executive power to allow border wall construction in Texas&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L9IBZGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L2FtcC8",
+      "title": "More wall, border technology proposed for fiscal 2025 - Border Report",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L9IBZGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vbmV3cy9wb2xpdGljcy9tb3JlLXdhbGwtYm9yZGVyLXRlY2hub2xvZ3ktcHJvcG9zZWQtZm9yLWZpc2NhbC0yMDI1L2FtcC8?oc=5",
+      "published": "2024-06-07T23:07:30.000Z",
+      "description": "More wall, border technology proposed for fiscal 2025&nbsp;&nbsp;Border Report",
       "summary": "",
       "author": "",
       "category": ""
@@ -807,21 +807,21 @@
       "category": ""
     },
     {
-      "id": "CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9pbnRlcm5hdGlvbmFsL2FydGljbGUtODA1NDM40gEA",
-      "title": "US officials: Illegal immigrants from Muslim nations pose border risks - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9pbnRlcm5hdGlvbmFsL2FydGljbGUtODA1NDM40gEA?oc=5",
-      "published": "2024-06-08T15:45:00.000Z",
-      "description": "US officials: Illegal immigrants from Muslim nations pose border risks&nbsp;&nbsp;The Jerusalem Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjIvdXMvcG9saXRpY3Mvbmlra2ktaGFsZXktYm9yZGVyLWNhbmFkYS5odG1s0gEA",
       "title": "A Border Wall to the North? Republicans Want to Discuss. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjIvdXMvcG9saXRpY3Mvbmlra2ktaGFsZXktYm9yZGVyLWNhbmFkYS5odG1s0gEA?oc=5",
       "published": "2024-01-22T08:00:00.000Z",
       "description": "A Border Wall to the North? Republicans Want to Discuss.&nbsp;&nbsp;The New York Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9pbnRlcm5hdGlvbmFsL2FydGljbGUtODA1NDM40gEA",
+      "title": "US officials: Illegal immigrants from Muslim nations pose border risks - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9pbnRlcm5hdGlvbmFsL2FydGljbGUtODA1NDM40gEA?oc=5",
+      "published": "2024-06-08T15:45:00.000Z",
+      "description": "US officials: Illegal immigrants from Muslim nations pose border risks&nbsp;&nbsp;The Jerusalem Post",
       "summary": "",
       "author": "",
       "category": ""
