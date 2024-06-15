@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-15T05:29:00.000Z",
+  "published": "2024-06-15T06:31:43.000Z",
   "entries": [
     {
       "id": "CBMiZGh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMS0xMi9hcm1zLWNvbnRyb2wtdG9kYXkvbWlsaXRhcnktcm9sZS1udWNsZWFyLWNvbW1hbmQtYW5kLWNvbnRyb2zSAQA",
@@ -92,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9zaG93cy1ldmVudHMvc3BhY2Utc3ltcG9zaXVtL3Vzc2YtYmVnaW4tbWFqb3ItbnVjbGVhci1jb21tYW5kLWNvbnRyb2wtY29tcGV0aXRpb27SAQA?oc=5",
       "published": "2024-04-08T07:00:00.000Z",
       "description": "USSF To Begin Major Nuclear Command-And-Control Competition&nbsp;&nbsp;Aviation Week",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiY2h0dHBzOi8vd3d3LmtldHYuY29tL2FydGljbGUvb2ZmdXR0LWFpci1mb3JjZS1iYXNlLWdyb3VuZGJyZWFraW5nLW51Y2xlYXItY29tbWFuZC1mYWNpbGl0eS82MDY4NDU4OdIBAA",
+      "title": "'They're getting the mission done': Groundbreaking for new nuclear command facility at Offutt Air Force Base - KETV Omaha",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmtldHYuY29tL2FydGljbGUvb2ZmdXR0LWFpci1mb3JjZS1iYXNlLWdyb3VuZGJyZWFraW5nLW51Y2xlYXItY29tbWFuZC1mYWNpbGl0eS82MDY4NDU4OdIBAA?oc=5",
+      "published": "2024-05-03T07:00:00.000Z",
+      "description": "'They're getting the mission done': Groundbreaking for new nuclear command facility at Offutt Air Force Base&nbsp;&nbsp;KETV Omaha",
       "summary": "",
       "author": "",
       "category": ""
@@ -187,16 +197,6 @@
       "category": ""
     },
     {
-      "id": "CBMid2h0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0wNy9mZWF0dXJlcy9hcm1zLWNvbnRyb2wtYXNzb2NpYXRpb25zLTIwMjMtYW5udWFsLW1lZXRpbmctZXhjZXJwdHMtcmVtYXJrcy1rZXlub3Rl0gEA",
-      "title": "The Arms Control Association's 2023 Annual Meeting: Excerpts of Remarks by Keynote Speakers, as Prepared for ... - Arms Control Association",
-      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0wNy9mZWF0dXJlcy9hcm1zLWNvbnRyb2wtYXNzb2NpYXRpb25zLTIwMjMtYW5udWFsLW1lZXRpbmctZXhjZXJwdHMtcmVtYXJrcy1rZXlub3Rl0gEA?oc=5",
-      "published": "2024-05-25T21:09:41.000Z",
-      "description": "The Arms Control Association's 2023 Annual Meeting: Excerpts of Remarks by Keynote Speakers, as Prepared for ...&nbsp;&nbsp;Arms Control Association",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiqAFodHRwczovL3d3dy5ldXJvcGVhbmxlYWRlcnNoaXBuZXR3b3JrLm9yZy9yZXBvcnQvZnJlbmNoLXRoaW5raW5nLW9uLWFpLWludGVncmF0aW9uLWFuZC1pbnRlcmFjdGlvbi13aXRoLW51Y2xlYXItY29tbWFuZC1hbmQtY29udHJvbC1mb3JjZS1zdHJ1Y3R1cmUtYW5kLWRlY2lzaW9uLW1ha2luZy_SAQA",
       "title": "French thinking on AI integration and interaction with nuclear command and control, force structure, and decision-making - European Leadership Network",
       "link": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5ldXJvcGVhbmxlYWRlcnNoaXBuZXR3b3JrLm9yZy9yZXBvcnQvZnJlbmNoLXRoaW5raW5nLW9uLWFpLWludGVncmF0aW9uLWFuZC1pbnRlcmFjdGlvbi13aXRoLW51Y2xlYXItY29tbWFuZC1hbmQtY29udHJvbC1mb3JjZS1zdHJ1Y3R1cmUtYW5kLWRlY2lzaW9uLW1ha2luZy_SAQA?oc=5",
@@ -212,26 +212,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzMzNjAyL2RhZi1jYWxscy1mb3ItYWZtYy1jaGFuZ2VzLXRvLXN1cHBvcnQtc2VydmljZXMtcmVhZGluZXNzLWFnaWxpdHktYWdhaW5zdC1ncmVhdC_SAQA?oc=5",
       "published": "2024-04-08T07:00:00.000Z",
       "description": "DAF calls for AFMC changes to support service's readiness, agility against great power adv&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZmh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0xMi9ib29rLXJldmlld3MvYWktYW5kLWJvbWItbnVjbGVhci1zdHJhdGVneS1hbmQtcmlzay1kaWdpdGFsLWFnZdIBAA",
-      "title": "AI and the Bomb: Nuclear Strategy and Risk in the Digital Age - Arms Control Association",
-      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0xMi9ib29rLXJldmlld3MvYWktYW5kLWJvbWItbnVjbGVhci1zdHJhdGVneS1hbmQtcmlzay1kaWdpdGFsLWFnZdIBAA?oc=5",
-      "published": "2023-12-05T08:00:00.000Z",
-      "description": "AI and the Bomb: Nuclear Strategy and Risk in the Digital Age&nbsp;&nbsp;Arms Control Association",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMimQFodHRwczovL3d3dy5uYXZ5Lm1pbC9QcmVzcy1PZmZpY2UvUHJlc3MtUmVsZWFzZXMvZGlzcGxheS1wcmVzc3JlbGVhc2VzL0FydGljbGUvMzY0MDU5My9zZWNyZXRhcnktZGVsLXRvcm8tcHJlc2lkZXMtb3Zlci1uYXZhbC1yZWFjdG9ycy1jaGFuZ2Utb2YtY29tbWFuZC_SAQA",
-      "title": "Secretary Del Toro Presides Over Naval Reactors Change of Command - navy.mil",
-      "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5uYXZ5Lm1pbC9QcmVzcy1PZmZpY2UvUHJlc3MtUmVsZWFzZXMvZGlzcGxheS1wcmVzc3JlbGVhc2VzL0FydGljbGUvMzY0MDU5My9zZWNyZXRhcnktZGVsLXRvcm8tcHJlc2lkZXMtb3Zlci1uYXZhbC1yZWFjdG9ycy1jaGFuZ2Utb2YtY29tbWFuZC_SAQA?oc=5",
-      "published": "2024-01-10T08:00:00.000Z",
-      "description": "Secretary Del Toro Presides Over Naval Reactors Change of Command&nbsp;&nbsp;navy.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -267,6 +247,26 @@
       "category": ""
     },
     {
+      "id": "CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8",
+      "title": "Is Iran building nuclear weapons? Ex-Centcom head weighs in - NewsNation Now",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8?oc=5",
+      "published": "2024-06-04T07:00:00.000Z",
+      "description": "Is Iran building nuclear weapons? Ex-Centcom head weighs in&nbsp;&nbsp;NewsNation Now",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VuY2VydGFpbi1mdXR1cmUtdXMtcnVzc2lhLWFybXMtY29udHJvbNIBAA",
+      "title": "The Uncertain Future of U.S.-Russia Arms Control - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VuY2VydGFpbi1mdXR1cmUtdXMtcnVzc2lhLWFybXMtY29udHJvbNIBAA?oc=5",
+      "published": "2024-02-14T08:00:00.000Z",
+      "description": "The Uncertain Future of U.S.-Russia Arms Control&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMicmh0dHBzOi8vd3d3LmV1cm9wZWFubGVhZGVyc2hpcG5ldHdvcmsub3JnL2V2ZW50L2FpLWFuZC1udWNsZWFyLWNvbW1hbmQtY29udHJvbC1hbmQtY29tbXVuaWNhdGlvbnMtcDUtcGVyc3BlY3RpdmVzL9IBAA",
       "title": "AI and nuclear command, control and communications: P5 perspectives - European Leadership Network",
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmV1cm9wZWFubGVhZGVyc2hpcG5ldHdvcmsub3JnL2V2ZW50L2FpLWFuZC1udWNsZWFyLWNvbW1hbmQtY29udHJvbC1hbmQtY29tbXVuaWNhdGlvbnMtcDUtcGVyc3BlY3RpdmVzL9IBAA?oc=5",
@@ -287,16 +287,6 @@
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8",
-      "title": "Is Iran building nuclear weapons? Ex-Centcom head weighs in - NewsNation Now",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL9IBWGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3dvcmxkL3dhci1pbi1pc3JhZWwva2VubmV0aC1mcmFuay1tY2tlbnppZS1pcmFuLW51a2VzL2FtcC8?oc=5",
-      "published": "2024-06-04T07:00:00.000Z",
-      "description": "Is Iran building nuclear weapons? Ex-Centcom head weighs in&nbsp;&nbsp;NewsNation Now",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMioAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjQvMDMvMjcvdGhlLWxhZG9nYS13YXMtdGhlLXNvdmlldC11bmlvbnMtcGx1c2gtbnVjbGVhci13YXItY29tbWFuZC12ZWhpY2xlLWEtZHJvbmUtanVzdC1ibGV3LW9uZS11cC1pbi1lYXN0ZXJuLXVrcmFpbmUv0gEA",
       "title": "The Ladoga Was The Soviet Union's Plush Nuclear-War Command Vehicle - Forbes",
       "link": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjQvMDMvMjcvdGhlLWxhZG9nYS13YXMtdGhlLXNvdmlldC11bmlvbnMtcGx1c2gtbnVjbGVhci13YXItY29tbWFuZC12ZWhpY2xlLWEtZHJvbmUtanVzdC1ibGV3LW9uZS11cC1pbi1lYXN0ZXJuLXVrcmFpbmUv0gEA?oc=5",
@@ -307,11 +297,11 @@
       "category": ""
     },
     {
-      "id": "CBMiRWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VuY2VydGFpbi1mdXR1cmUtdXMtcnVzc2lhLWFybXMtY29udHJvbNIBAA",
-      "title": "The Uncertain Future of U.S.-Russia Arms Control - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VuY2VydGFpbi1mdXR1cmUtdXMtcnVzc2lhLWFybXMtY29udHJvbNIBAA?oc=5",
-      "published": "2024-02-14T08:00:00.000Z",
-      "description": "The Uncertain Future of U.S.-Russia Arms Control&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "id": "CBMiZmh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0xMi9ib29rLXJldmlld3MvYWktYW5kLWJvbWItbnVjbGVhci1zdHJhdGVneS1hbmQtcmlzay1kaWdpdGFsLWFnZdIBAA",
+      "title": "AI and the Bomb: Nuclear Strategy and Risk in the Digital Age - Arms Control Association",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0xMi9ib29rLXJldmlld3MvYWktYW5kLWJvbWItbnVjbGVhci1zdHJhdGVneS1hbmQtcmlzay1kaWdpdGFsLWFnZdIBAA?oc=5",
+      "published": "2023-12-05T08:00:00.000Z",
+      "description": "AI and the Bomb: Nuclear Strategy and Risk in the Digital Age&nbsp;&nbsp;Arms Control Association",
       "summary": "",
       "author": "",
       "category": ""
@@ -397,6 +387,26 @@
       "category": ""
     },
     {
+      "id": "CBMiZ2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L3dlYXBvbnMvYTYwOTQwODc5L2Fpci1mb3JjZS1uZXctbmlnaHR3YXRjaC1haXJjcmFmdC1zZWN1cml0eS_SAQA",
+      "title": "A Look at the Air Force’s Upcoming 'Doomsday Plane' Replacement - Popular Mechanics",
+      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L3dlYXBvbnMvYTYwOTQwODc5L2Fpci1mb3JjZS1uZXctbmlnaHR3YXRjaC1haXJjcmFmdC1zZWN1cml0eS_SAQA?oc=5",
+      "published": "2024-06-03T07:00:00.000Z",
+      "description": "A Look at the Air Force’s Upcoming 'Doomsday Plane' Replacement&nbsp;&nbsp;Popular Mechanics",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzL21hZ2F6aW5lLzIwMjQvMDQvMjkvdGhlLWZyaWdodGVuaW5nbHktZmFzdC1wYXRoLXRvLW51Y2xlYXItYXJtYWdlZGRvbi0wMDE1NDU5MdIBAA",
+      "title": "72 Minutes Until the End of the World? - POLITICO - POLITICO",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzL21hZ2F6aW5lLzIwMjQvMDQvMjkvdGhlLWZyaWdodGVuaW5nbHktZmFzdC1wYXRoLXRvLW51Y2xlYXItYXJtYWdlZGRvbi0wMDE1NDU5MdIBAA?oc=5",
+      "published": "2024-04-29T07:00:00.000Z",
+      "description": "72 Minutes Until the End of the World? - POLITICO&nbsp;&nbsp;POLITICO",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiX2h0dHBzOi8vd3d3Lm50aS5vcmcvYXRvbWljLXB1bHNlL2RyLWphbWVzLWpvaG5zb24tb24taG93LWFpLWlzLXRyYW5zZm9ybWluZy1udWNsZWFyLWRldGVycmVuY2Uv0gEA",
       "title": "Dr. James Johnson on How AI is Transforming Nuclear Deterrence - Nuclear Threat Initiative",
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm50aS5vcmcvYXRvbWljLXB1bHNlL2RyLWphbWVzLWpvaG5zb24tb24taG93LWFpLWlzLXRyYW5zZm9ybWluZy1udWNsZWFyLWRldGVycmVuY2Uv0gEA?oc=5",
@@ -462,16 +472,6 @@
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8xNzIxMDA0L21vYmlsaXphdGlvbi1hc3Npc3RhbnQtdG8tdGhlLWNvbW1hbmRlci_SAQA?oc=5",
       "published": "2023-10-11T12:09:56.000Z",
       "description": "Mobilization Assistant to the Commander&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMieWh0dHBzOi8vd3d3LjE2YWYuYWYubWlsL05ld3Nyb29tL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTUyMjYvc3RyYXRjb20tY29tbWFuZGVyLXZpc2l0cy1udWtlLXRyZWF0eS1tb25pdG9yaW5nLWNlbnRlci_SAQA",
-      "title": "STRATCOM commander visits nuke treaty monitoring center > Sixteenth Air Force (Air Forces Cyber) > Article Display - 16af.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LjE2YWYuYWYubWlsL05ld3Nyb29tL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTUyMjYvc3RyYXRjb20tY29tbWFuZGVyLXZpc2l0cy1udWtlLXRyZWF0eS1tb25pdG9yaW5nLWNlbnRlci_SAQA?oc=5",
-      "published": "2023-11-21T08:00:00.000Z",
-      "description": "STRATCOM commander visits nuke treaty monitoring center > Sixteenth Air Force (Air Forces Cyber) > Article Display&nbsp;&nbsp;16af.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -597,11 +597,11 @@
       "category": ""
     },
     {
-      "id": "CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MTcwMzcvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA",
-      "title": "Minuteman III test launch showcases readiness of U.S. nuclear force's safe, effective dete - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MTcwMzcvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA?oc=5",
-      "published": "2023-09-06T07:00:00.000Z",
-      "description": "Minuteman III test launch showcases readiness of U.S. nuclear force's safe, effective dete&nbsp;&nbsp;U.S. Strategic Command",
+      "id": "CBMiZWh0dHBzOi8vc2VhcG93ZXJtYWdhemluZS5vcmcvc3RyYXRjb20tY29tbWFuZGVyLWFmZmlybXMtbmVlZC1mb3Itc2VhLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLW51Y2xlYXIv0gEA",
+      "title": "STRATCOM Commander Affirms Need for Sea-Launched Cruise Missile-Nuclear - Seapower - SEAPOWER Magazine Online",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2VhcG93ZXJtYWdhemluZS5vcmcvc3RyYXRjb20tY29tbWFuZGVyLWFmZmlybXMtbmVlZC1mb3Itc2VhLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLW51Y2xlYXIv0gEA?oc=5",
+      "published": "2024-02-29T08:00:00.000Z",
+      "description": "STRATCOM Commander Affirms Need for Sea-Launched Cruise Missile-Nuclear - Seapower&nbsp;&nbsp;SEAPOWER Magazine Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -612,6 +612,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbmV4dGJpZ2lkZWFjbHViLmNvbS9tYWdhemluZS9leHBlY3QtbnVjbGVhci13YXItYnJlYWtzLWJvb2tiaXRlLzQ4NjIyL9IBUmh0dHBzOi8vbmV4dGJpZ2lkZWFjbHViLmNvbS9tYWdhemluZS9leHBlY3QtbnVjbGVhci13YXItYnJlYWtzLWJvb2tiaXRlLzQ4NjIyL2FtcC8?oc=5",
       "published": "2024-04-04T07:00:00.000Z",
       "description": "What to Expect if Nuclear War Breaks Out&nbsp;&nbsp;Next Big Idea Club Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MTcwMzcvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA",
+      "title": "Minuteman III test launch showcases readiness of U.S. nuclear force's safe, effective dete - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MTcwMzcvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA?oc=5",
+      "published": "2023-09-06T07:00:00.000Z",
+      "description": "Minuteman III test launch showcases readiness of U.S. nuclear force's safe, effective dete&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -642,16 +652,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0xMi9uZXdzL2Ryb25lcy10YXJnZXQtdWtyYWluaWFuLXJ1c3NpYW4tbnVjbGVhci1mYWNpbGl0aWVz0gEA?oc=5",
       "published": "2023-12-05T08:00:00.000Z",
       "description": "Drones Target Ukrainian, Russian Nuclear Facilities&nbsp;&nbsp;Arms Control Association",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMigwFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9nZXJtYW4tc3BhY2UtY29tbWFuZGVyLXdhcm5zLXJ1c3NpYW4tbnVjbGVhci13ZWFwb24tY291bGQtZGVzdHJveS1nbG9iYWwtY29tbW9ucy1ub2JvZHktd291bGQtc3Vydml2ZdIBhwFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9nZXJtYW4tc3BhY2UtY29tbWFuZGVyLXdhcm5zLXJ1c3NpYW4tbnVjbGVhci13ZWFwb24tY291bGQtZGVzdHJveS1nbG9iYWwtY29tbW9ucy1ub2JvZHktd291bGQtc3Vydml2ZS5hbXA",
-      "title": "German space commander warns Russian nuclear weapon could destroy 'global commons': 'Nobody would survive' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9nZXJtYW4tc3BhY2UtY29tbWFuZGVyLXdhcm5zLXJ1c3NpYW4tbnVjbGVhci13ZWFwb24tY291bGQtZGVzdHJveS1nbG9iYWwtY29tbW9ucy1ub2JvZHktd291bGQtc3Vydml2ZdIBhwFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9nZXJtYW4tc3BhY2UtY29tbWFuZGVyLXdhcm5zLXJ1c3NpYW4tbnVjbGVhci13ZWFwb24tY291bGQtZGVzdHJveS1nbG9iYWwtY29tbW9ucy1ub2JvZHktd291bGQtc3Vydml2ZS5hbXA?oc=5",
-      "published": "2024-02-18T08:00:00.000Z",
-      "description": "German space commander warns Russian nuclear weapon could destroy 'global commons': 'Nobody would survive'&nbsp;&nbsp;Fox News",
       "summary": "",
       "author": "",
       "category": ""
@@ -697,41 +697,11 @@
       "category": ""
     },
     {
-      "id": "CBMiigFodHRwczovL3d3dy5lZHdhcmRzLmFmLm1pbC9OZXdzL0FGTUMtTmV3cy9BcnRpY2xlLzM1MTgxMzkvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA",
-      "title": "Minuteman III test launch showcases readiness of U.S. nuclear force's safe, effective dete - Edwards Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5lZHdhcmRzLmFmLm1pbC9OZXdzL0FGTUMtTmV3cy9BcnRpY2xlLzM1MTgxMzkvbWludXRlbWFuLWlpaS10ZXN0LWxhdW5jaC1zaG93Y2FzZXMtcmVhZGluZXNzLW9mLXVzLW51Y2xlYXItZm9yY2VzLXNhZmUtZWZmZWN0aS_SAQA?oc=5",
-      "published": "2023-09-06T07:00:00.000Z",
-      "description": "Minuteman III test launch showcases readiness of U.S. nuclear force's safe, effective dete&nbsp;&nbsp;Edwards Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSWh0dHBzOi8vd3d3LmFmY2VhLm9yZy9zaWduYWwvY2hhcHRlcm5ld3MvaW5kZXguY2ZtP2FjdGlvbj1kZXRhaWxzJmlkPTUxNTfSAQA",
-      "title": "About AFCEA - Signal Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmFmY2VhLm9yZy9zaWduYWwvY2hhcHRlcm5ld3MvaW5kZXguY2ZtP2FjdGlvbj1kZXRhaWxzJmlkPTUxNTfSAQA?oc=5",
-      "published": "2024-04-22T22:20:00.000Z",
-      "description": "About AFCEA&nbsp;&nbsp;Signal Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzExL2JpZGVuLWxhdW5jaGVzLWFpLXJpc2stYW5kLXNhZmV0eS10YWxrcy13aXRoLWNoaW5hLWlzLW51Y2xlYXItYzItYS1saWtlbHktZm9jdXMv0gF6aHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjMvMTEvYmlkZW4tbGF1bmNoZXMtYWktcmlzay1hbmQtc2FmZXR5LXRhbGtzLXdpdGgtY2hpbmEtaXMtbnVjbGVhci1jMi1hLWxpa2VseS1mb2N1cy8_YW1wPTE",
       "title": "Biden launches AI ‘risk and safety’ talks with China. Is nuclear C2 a likely focus? - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzExL2JpZGVuLWxhdW5jaGVzLWFpLXJpc2stYW5kLXNhZmV0eS10YWxrcy13aXRoLWNoaW5hLWlzLW51Y2xlYXItYzItYS1saWtlbHktZm9jdXMv0gF6aHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjMvMTEvYmlkZW4tbGF1bmNoZXMtYWktcmlzay1hbmQtc2FmZXR5LXRhbGtzLXdpdGgtY2hpbmEtaXMtbnVjbGVhci1jMi1hLWxpa2VseS1mb2N1cy8_YW1wPTE?oc=5",
       "published": "2023-11-15T08:00:00.000Z",
       "description": "Biden launches AI ‘risk and safety’ talks with China. Is nuclear C2 a likely focus?&nbsp;&nbsp;Breaking Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaGh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2lkZWFzLzIwMjEvMTIvbnVjbGVhci1jb21tYW5kLWFuZC1jb250cm9sLXNhdGVsbGl0ZXMtc2hvdWxkLWJlLWxpbWl0cy8xODc0NzIv0gEA",
-      "title": "Nuclear Command-and-Control Satellites Should Be Off Limits - Defense One",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2lkZWFzLzIwMjEvMTIvbnVjbGVhci1jb21tYW5kLWFuZC1jb250cm9sLXNhdGVsbGl0ZXMtc2hvdWxkLWJlLWxpbWl0cy8xODc0NzIv0gEA?oc=5",
-      "published": "2021-12-10T08:00:00.000Z",
-      "description": "Nuclear Command-and-Control Satellites Should Be Off Limits&nbsp;&nbsp;Defense One",
       "summary": "",
       "author": "",
       "category": ""
@@ -792,6 +762,16 @@
       "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1hc2lhLWNoaW5hLTY2MzY5MTM20gE2aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL3dvcmxkLWFzaWEtY2hpbmEtNjYzNjkxMzYuYW1w?oc=5",
       "published": "2023-07-31T07:00:00.000Z",
       "description": "Xi Jinping replaces leaders of China's elite nuclear force&nbsp;&nbsp;BBC.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaGh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2lkZWFzLzIwMjEvMTIvbnVjbGVhci1jb21tYW5kLWFuZC1jb250cm9sLXNhdGVsbGl0ZXMtc2hvdWxkLWJlLWxpbWl0cy8xODc0NzIv0gEA",
+      "title": "Nuclear Command-and-Control Satellites Should Be Off Limits - Defense One",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2lkZWFzLzIwMjEvMTIvbnVjbGVhci1jb21tYW5kLWFuZC1jb250cm9sLXNhdGVsbGl0ZXMtc2hvdWxkLWJlLWxpbWl0cy8xODc0NzIv0gEA?oc=5",
+      "published": "2021-12-10T08:00:00.000Z",
+      "description": "Nuclear Command-and-Control Satellites Should Be Off Limits&nbsp;&nbsp;Defense One",
       "summary": "",
       "author": "",
       "category": ""
@@ -877,21 +857,21 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vdGhlcHJpbnQuaW4vb3Bpbmlvbi9zdWNjZXNzZnVsLWFnbmktNS10ZXN0LWp1c3Qtb25lLXN0ZXAtaW5kaWEtbmVlZHMtdG8tcHJlcGFyZS1hbi1haXJib3JuZS1jb21tYW5kLXBvc3QvMjAxNTM1MC_SAX1odHRwczovL3RoZXByaW50LmluL29waW5pb24vc3VjY2Vzc2Z1bC1hZ25pLTUtdGVzdC1qdXN0LW9uZS1zdGVwLWluZGlhLW5lZWRzLXRvLXByZXBhcmUtYW4tYWlyYm9ybmUtY29tbWFuZC1wb3N0LzIwMTUzNTAvP2FtcA",
-      "title": "Successful Agni-5 test just one step. India needs to prepare an airborne command post - ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vdGhlcHJpbnQuaW4vb3Bpbmlvbi9zdWNjZXNzZnVsLWFnbmktNS10ZXN0LWp1c3Qtb25lLXN0ZXAtaW5kaWEtbmVlZHMtdG8tcHJlcGFyZS1hbi1haXJib3JuZS1jb21tYW5kLXBvc3QvMjAxNTM1MC_SAX1odHRwczovL3RoZXByaW50LmluL29waW5pb24vc3VjY2Vzc2Z1bC1hZ25pLTUtdGVzdC1qdXN0LW9uZS1zdGVwLWluZGlhLW5lZWRzLXRvLXByZXBhcmUtYW4tYWlyYm9ybmUtY29tbWFuZC1wb3N0LzIwMTUzNTAvP2FtcA?oc=5",
-      "published": "2024-03-26T07:00:00.000Z",
-      "description": "Successful Agni-5 test just one step. India needs to prepare an airborne command post&nbsp;&nbsp;ThePrint",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiW2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMyNDQxMTgvY290dG9uLXRha2VzLWNvbW1hbmQtb2YtdXNzdHJhdGNvbS_SAQA",
       "title": "Cotton takes command of USSTRATCOM > Air Force > Article Display - Air Force Link",
       "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMyNDQxMTgvY290dG9uLXRha2VzLWNvbW1hbmQtb2YtdXNzdHJhdGNvbS_SAQA?oc=5",
       "published": "2022-12-13T08:00:00.000Z",
       "description": "Cotton takes command of USSTRATCOM > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vdGhlcHJpbnQuaW4vb3Bpbmlvbi9zdWNjZXNzZnVsLWFnbmktNS10ZXN0LWp1c3Qtb25lLXN0ZXAtaW5kaWEtbmVlZHMtdG8tcHJlcGFyZS1hbi1haXJib3JuZS1jb21tYW5kLXBvc3QvMjAxNTM1MC_SAX1odHRwczovL3RoZXByaW50LmluL29waW5pb24vc3VjY2Vzc2Z1bC1hZ25pLTUtdGVzdC1qdXN0LW9uZS1zdGVwLWluZGlhLW5lZWRzLXRvLXByZXBhcmUtYW4tYWlyYm9ybmUtY29tbWFuZC1wb3N0LzIwMTUzNTAvP2FtcA",
+      "title": "Successful Agni-5 test just one step. India needs to prepare an airborne command post - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vdGhlcHJpbnQuaW4vb3Bpbmlvbi9zdWNjZXNzZnVsLWFnbmktNS10ZXN0LWp1c3Qtb25lLXN0ZXAtaW5kaWEtbmVlZHMtdG8tcHJlcGFyZS1hbi1haXJib3JuZS1jb21tYW5kLXBvc3QvMjAxNTM1MC_SAX1odHRwczovL3RoZXByaW50LmluL29waW5pb24vc3VjY2Vzc2Z1bC1hZ25pLTUtdGVzdC1qdXN0LW9uZS1zdGVwLWluZGlhLW5lZWRzLXRvLXByZXBhcmUtYW4tYWlyYm9ybmUtY29tbWFuZC1wb3N0LzIwMTUzNTAvP2FtcA?oc=5",
+      "published": "2024-03-26T07:00:00.000Z",
+      "description": "Successful Agni-5 test just one step. India needs to prepare an airborne command post&nbsp;&nbsp;ThePrint",
       "summary": "",
       "author": "",
       "category": ""
@@ -982,6 +962,46 @@
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9iYXR0bGVmaWVsZC10ZWNoL2l0LW5ldHdvcmtzLzIwMjIvMDMvMDkvaG93LWphZGMyLWlzLWltcHJvdmluZy1udWNsZWFyLWNvbW1hbmQtYW5kLWNvbnRyb2wv0gEA?oc=5",
       "published": "2022-03-09T08:00:00.000Z",
       "description": "How JADC2 is improving nuclear command and control&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigAFodHRwczovL3d3dy4zOG5vcnRoLm9yZy8yMDIzLzAzL25vcnRoLWtvcmVhLXRhY3RpY2FsLW51a2UtZHJpbGwtY2xhaW1zLW9uLWNvbW1hbmQtY29udHJvbC1hbmQtaGludHMtb2YtYS1maXJzdC1ldmVyLXNpbG8tbGF1bmNoL9IBAA",
+      "title": "North Korea “Tactical Nuke” Drill: Claims on Command/Control and Hints of A First-ever Silo Launch - 38 North",
+      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy4zOG5vcnRoLm9yZy8yMDIzLzAzL25vcnRoLWtvcmVhLXRhY3RpY2FsLW51a2UtZHJpbGwtY2xhaW1zLW9uLWNvbW1hbmQtY29udHJvbC1hbmQtaGludHMtb2YtYS1maXJzdC1ldmVyLXNpbG8tbGF1bmNoL9IBAA?oc=5",
+      "published": "2023-03-29T07:00:00.000Z",
+      "description": "North Korea “Tactical Nuke” Drill: Claims on Command/Control and Hints of A First-ever Silo Launch&nbsp;&nbsp;38 North",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZ2h0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnLzIwMjMvMDcvMTAvaG93LWNsaW1hdGUtY2hhbmdlLWNoYWxsZW5nZXMtdS5zLi1udWNsZWFyLWRldGVycmVudC1wdWItOTAxMzDSAQA",
+      "title": "How Climate Change Challenges the U.S. Nuclear Deterrent - Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnLzIwMjMvMDcvMTAvaG93LWNsaW1hdGUtY2hhbmdlLWNoYWxsZW5nZXMtdS5zLi1udWNsZWFyLWRldGVycmVudC1wdWItOTAxMzDSAQA?oc=5",
+      "published": "2023-07-10T07:00:00.000Z",
+      "description": "How Climate Change Challenges the U.S. Nuclear Deterrent&nbsp;&nbsp;Carnegie Endowment for International Peace",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMwMDY4NDcvbWlub3QtY29tbWFuZC1wb3N0LXdpbnMtYmVzdC1udWNsZWFyLWNvbW1hbmQtcG9zdC1pbi1hZmdzYy_SAQA",
+      "title": "Minot Command Post wins Best Nuclear Command Post in AFGSC - Minot Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMwMDY4NDcvbWlub3QtY29tbWFuZC1wb3N0LXdpbnMtYmVzdC1udWNsZWFyLWNvbW1hbmQtcG9zdC1pbi1hZmdzYy_SAQA?oc=5",
+      "published": "2022-04-21T07:00:00.000Z",
+      "description": "Minot Command Post wins Best Nuclear Command Post in AFGSC&nbsp;&nbsp;Minot Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL2Nhcm5lZ2llZW5kb3dtZW50Lm9yZy8yMDE4LzEwLzI5L2luYWR2ZXJ0ZW50LWVzY2FsYXRpb24tYW5kLWVudGFuZ2xlbWVudC1vZi1udWNsZWFyLWNvbW1hbmQtYW5kLWNvbnRyb2wtY2FwYWJpbGl0aWVzLXB1Yi03NzYyMNIBAA",
+      "title": "Inadvertent Escalation and the Entanglement of Nuclear Command-and Control Capabilities - Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL2Nhcm5lZ2llZW5kb3dtZW50Lm9yZy8yMDE4LzEwLzI5L2luYWR2ZXJ0ZW50LWVzY2FsYXRpb24tYW5kLWVudGFuZ2xlbWVudC1vZi1udWNsZWFyLWNvbW1hbmQtYW5kLWNvbnRyb2wtY2FwYWJpbGl0aWVzLXB1Yi03NzYyMNIBAA?oc=5",
+      "published": "2018-10-29T07:00:00.000Z",
+      "description": "Inadvertent Escalation and the Entanglement of Nuclear Command-and Control Capabilities&nbsp;&nbsp;Carnegie Endowment for International Peace",
       "summary": "",
       "author": "",
       "category": ""
