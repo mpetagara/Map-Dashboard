@@ -7,8 +7,44 @@
   },
   "language": "",
   "generator": "",
-  "published": "2024-06-15T09:18:57.000Z",
+  "published": "2024-06-15T09:42:17.000Z",
   "entries": [
+    {
+      "id": "https://defence-blog.com/?p=74877",
+      "title": "US conducts successful hypersonic test bed flight experiment",
+      "link": "https://defence-blog.com/us-conducts-successful-hypersonic-test-bed-flight-experiment/",
+      "published": "2024-06-15T09:42:17.000Z",
+      "description": "[object Object]",
+      "summary": {
+        "#text": "<p>The U.S. Missile Defense Agency (MDA) announced the successful flight of its Hypersonic Test Bed (HTB-1) in a recent experiment aimed at advancing hypersonic technology. The test, conducted in collaboration with various partners, marks a significant milestone in the development of affordable platforms for hypersonic experiments. During the test, HTB-1 was launched into hypersonic flight, [&#8230;]</p>\nThe post <a href=\"https://defence-blog.com/us-conducts-successful-hypersonic-test-bed-flight-experiment/\">US conducts successful hypersonic test bed flight experiment</a> first appeared on <a href=\"https://defence-blog.com\">Defence Blog</a>.",
+        "@_type": "html"
+      },
+      "author": {
+        "name": "Dylan Malyasov"
+      },
+      "category": [
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "News"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "Space Force"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "hypersonic"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "MDA"
+        },
+        {
+          "@_scheme": "https://defence-blog.com",
+          "@_term": "USA"
+        }
+      ]
+    },
     {
       "id": "https://defence-blog.com/?p=74874",
       "title": "Canada’s Roshel weighs making armored vehicles in Poland",
@@ -386,46 +422,6 @@
         {
           "@_scheme": "https://defence-blog.com",
           "@_term": "TRIDON Mk2"
-        }
-      ]
-    },
-    {
-      "id": "https://defence-blog.com/?p=74844",
-      "title": "Germany orders 1,515 logistic vehicles from Rheinmetall",
-      "link": "https://defence-blog.com/germany-orders-1515-logistic-vehicles-from-rheinmetall/",
-      "published": "2024-06-13T08:11:17.000Z",
-      "description": "[object Object]",
-      "summary": {
-        "#text": "<p>Rheinmetall has secured a contract from the Bundeswehr (German military) to deliver 1,515 logistic vehicles, including 265 protected swap-body systems. This order is part of the framework contract for swap-body systems (WLS) signed in June 2020 and is largely financed by the Bundeswehr&#8217;s special fund. The contract also includes 500 swap-body platforms and 500 tarpaulin/roof [&#8230;]</p>\nThe post <a href=\"https://defence-blog.com/germany-orders-1515-logistic-vehicles-from-rheinmetall/\">Germany orders 1,515 logistic vehicles from Rheinmetall</a> first appeared on <a href=\"https://defence-blog.com\">Defence Blog</a>.",
-        "@_type": "html"
-      },
-      "author": {
-        "name": "Colton Jones"
-      },
-      "category": [
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Army"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "News"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "PRESS RELEASES"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Germany"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "military truck"
-        },
-        {
-          "@_scheme": "https://defence-blog.com",
-          "@_term": "Rheinmetall"
         }
       ]
     }
