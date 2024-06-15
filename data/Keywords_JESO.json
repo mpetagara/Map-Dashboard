@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-15T19:17:36.000Z",
+  "published": "2024-06-15T20:25:41.000Z",
   "entries": [
     {
       "id": "CBMiaWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEyLzI3L2Fpci1mb3JjZS1wdWJsaXNoZXMtbmV3LWRvY3RyaW5lLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zL9IBAA",
@@ -32,16 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2Rpc2EtcmVsZWFzZXMtbmV3LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5LXRvLWVuaGFuY2UtbW9kZXJuLXdhcmZpZ2h0aW5nLTMwMjAwOTQyMS5odG1s0gEA?oc=5",
       "published": "2023-12-07T08:00:00.000Z",
       "description": "DISA releases new electromagnetic spectrum capability to enhance modern warfighting&nbsp;&nbsp;PR Newswire",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
-      "title": "JEC Director - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
-      "published": "2023-08-25T21:29:54.000Z",
-      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -107,11 +97,31 @@
       "category": ""
     },
     {
+      "id": "CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1MDAxNi91cy1zdHJhdGVnaWMtY29tbWFuZC1zdGFuZHMtdXAtam9pbnQtZW1zLW9wZXJhdGlvbnMtY2VudGVy0gEA",
+      "title": "U.S. Strategic Command Stands Up Joint EMS Operations Center - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1MDAxNi91cy1zdHJhdGVnaWMtY29tbWFuZC1zdGFuZHMtdXAtam9pbnQtZW1zLW9wZXJhdGlvbnMtY2VudGVy0gEA?oc=5",
+      "published": "2023-07-26T07:00:00.000Z",
+      "description": "U.S. Strategic Command Stands Up Joint EMS Operations Center&nbsp;&nbsp;DVIDS",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiWWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA0LzAzL3VzLWVsZWN0cm9tYWduZXRpYy1iYXR0bGUtbWFuYWdlbWVudC1wcm90b3R5cGUv0gEA",
       "title": "DISA Orders Electromagnetic Battle Management Prototype From Palantir - The Defense Post",
       "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA0LzAzL3VzLWVsZWN0cm9tYWduZXRpYy1iYXR0bGUtbWFuYWdlbWVudC1wcm90b3R5cGUv0gEA?oc=5",
       "published": "2024-04-03T07:00:00.000Z",
       "description": "DISA Orders Electromagnetic Battle Management Prototype From Palantir&nbsp;&nbsp;The Defense Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
+      "title": "JEC Director - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
+      "published": "2023-07-26T17:09:01.000Z",
+      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -357,21 +367,21 @@
       "category": ""
     },
     {
-      "id": "CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ",
-      "title": "DoD Needs Tighter Reins On EW Acquisition - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ?oc=5",
-      "published": "2020-12-09T08:00:00.000Z",
-      "description": "DoD Needs Tighter Reins On EW Acquisition&nbsp;&nbsp;Breaking Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9jMi1jb21tcy8yMDE2LzExLzMwL2pvaW50LWZvcmNlLW11c3QtY2xvc2UtZ2Fwcy1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0v0gEA",
       "title": "Joint force must close gaps in electromagnetic spectrum - C4ISRNET",
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9jMi1jb21tcy8yMDE2LzExLzMwL2pvaW50LWZvcmNlLW11c3QtY2xvc2UtZ2Fwcy1pbi1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0v0gEA?oc=5",
       "published": "2016-11-30T08:00:00.000Z",
       "description": "Joint force must close gaps in electromagnetic spectrum&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ",
+      "title": "DoD Needs Tighter Reins On EW Acquisition - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uL9IBVGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIwLzEyL2RvZC1uZWVkcy10aWdodGVyLXJlaW5zLW9uLWV3LWFjcXVpc2l0aW9uLz9hbXA9MQ?oc=5",
+      "published": "2020-12-09T08:00:00.000Z",
+      "description": "DoD Needs Tighter Reins On EW Acquisition&nbsp;&nbsp;Breaking Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -402,16 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDE5LzEyL3dob2xsLWZpeC1ldy10YXNrLWZvcmNlLWdyb3Blcy1mb3ItYW5zd2Vycy_SAVVodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAxOS8xMi93aG9sbC1maXgtZXctdGFzay1mb3JjZS1ncm9wZXMtZm9yLWFuc3dlcnMvP2FtcD0x?oc=5",
       "published": "2019-12-18T08:00:00.000Z",
       "description": "Who’ll Fix EW? Task Force Gropes For Answers&nbsp;&nbsp;Breaking Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA",
-      "title": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ... - National Guard Bureau",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA?oc=5",
-      "published": "2020-06-08T17:09:27.000Z",
-      "description": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ...&nbsp;&nbsp;National Guard Bureau",
       "summary": "",
       "author": "",
       "category": ""
