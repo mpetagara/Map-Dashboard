@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-15T07:23:32.000Z",
+  "published": "2024-06-15T08:28:39.000Z",
   "entries": [
     {
       "id": "CBMiS2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9yYy0xMzUtcml2ZXQtam9pbnQtNTV0aC1vcGVyYXRpb25zLWdyb3VwL9IBAA",
@@ -82,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvYXVzdHJhbGlhbi1rYy0zMGEtcmVmdWVscy10d28tdXNhZi1haXJmcmFtZXMtaW4tY2xlYXJhbmNlLXRyaWFsL9IBAA?oc=5",
       "published": "2024-01-08T08:00:00.000Z",
       "description": "Australian KC-30A refuels two USAF airframes in clearance trial - Airforce Technology&nbsp;&nbsp;Airforce Technology",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiP2h0dHBzOi8vd3d3LmdhLWFzaS5jb20vc2VuZC11YXMtbm90LXRyb29wcy1pbnRvLXRoZS1kYW5nZXItem9uZdIBAA",
-      "title": "Send UAS, Not Troops, Into the Danger Zone - General Atomics Aeronautical Systems",
-      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmdhLWFzaS5jb20vc2VuZC11YXMtbm90LXRyb29wcy1pbnRvLXRoZS1kYW5nZXItem9uZdIBAA?oc=5",
-      "published": "2023-09-13T07:00:00.000Z",
-      "description": "Send UAS, Not Troops, Into the Danger Zone&nbsp;&nbsp;General Atomics Aeronautical Systems",
       "summary": "",
       "author": "",
       "category": ""
@@ -197,11 +187,31 @@
       "category": ""
     },
     {
+      "id": "CBMiVGh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9GYWN0LVNoZWV0cy9EaXNwbGF5L0FydGljbGUvMTA0NjA4L3JjLTEzNXZ3LXJpdmV0LWpvaW50L9IBAA",
+      "title": "RC-135V/W Rivet Joint > Air Force > Fact Sheet Display - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9GYWN0LVNoZWV0cy9EaXNwbGF5L0FydGljbGUvMTA0NjA4L3JjLTEzNXZ3LXJpdmV0LWpvaW50L9IBAA?oc=5",
+      "published": "2018-07-20T04:27:59.000Z",
+      "description": "RC-135V/W Rivet Joint > Air Force > Fact Sheet Display&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiemh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDY5NzU4LzU1dGgtb3BlcmF0aW9ucy1ncm91cC1lc3RhYmxpc2hlcy1uZXctZGV0YWNobWVudC1pbi1hbGFza2Ev0gEA",
       "title": "55th Operations Group establishes new detachment in Alaska - Offutt Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDY5NzU4LzU1dGgtb3BlcmF0aW9ucy1ncm91cC1lc3RhYmxpc2hlcy1uZXctZGV0YWNobWVudC1pbi1hbGFza2Ev0gEA?oc=5",
       "published": "2023-07-25T07:00:00.000Z",
       "description": "55th Operations Group establishes new detachment in Alaska&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiP2h0dHBzOi8vd3d3LmdhLWFzaS5jb20vc2VuZC11YXMtbm90LXRyb29wcy1pbnRvLXRoZS1kYW5nZXItem9uZdIBAA",
+      "title": "Send UAS, Not Troops, Into the Danger Zone - General Atomics Aeronautical Systems",
+      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmdhLWFzaS5jb20vc2VuZC11YXMtbm90LXRyb29wcy1pbnRvLXRoZS1kYW5nZXItem9uZdIBAA?oc=5",
+      "published": "2023-09-13T07:00:00.000Z",
+      "description": "Send UAS, Not Troops, Into the Danger Zone&nbsp;&nbsp;General Atomics Aeronautical Systems",
       "summary": "",
       "author": "",
       "category": ""
@@ -482,6 +492,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtY29udGludWVzLXBhdHJvbHMtbmVhci11a3JhaW5lL9IBAA?oc=5",
       "published": "2024-02-14T08:00:00.000Z",
       "description": "British surveillance aircraft continues patrols near Ukraine&nbsp;&nbsp;UK Defence Journal",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ0NDg0Ni9vZmZ1dHQtcmFmLXVuaXRzLWJ1aWxkLXVwb24tYWxyZWFkeS1zcGVjaWFsLXJpdmV0LWpvaW50LXJlbGF0aW9uc2hpcNIBAA",
+      "title": "Offutt, RAF units build upon already special Rivet Joint relationship - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ0NDg0Ni9vZmZ1dHQtcmFmLXVuaXRzLWJ1aWxkLXVwb24tYWxyZWFkeS1zcGVjaWFsLXJpdmV0LWpvaW50LXJlbGF0aW9uc2hpcNIBAA?oc=5",
+      "published": "2023-05-16T07:00:00.000Z",
+      "description": "Offutt, RAF units build upon already special Rivet Joint relationship&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
@@ -982,26 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OS5hbXA?oc=5",
       "published": "2023-09-14T07:00:00.000Z",
       "description": "Russian pilot fired two missiles at British RAF plane carrying 30 aircrew&nbsp;&nbsp;Daily Record",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9mbGlnaHRyYWRhcjI0LW1vc3QtdHJhY2tlZC1wbGFuZS1ib2VpbmctcmMtMTM1L9IBAA",
-      "title": "FlightRadar24's Most Tracked Plane Now: A Look At The Boeing RC-135 - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9mbGlnaHRyYWRhcjI0LW1vc3QtdHJhY2tlZC1wbGFuZS1ib2VpbmctcmMtMTM1L9IBAA?oc=5",
-      "published": "2022-03-09T08:00:00.000Z",
-      "description": "FlightRadar24's Most Tracked Plane Now: A Look At The Boeing RC-135&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzYWZzLXN1cGVyLXNjYW5uZXItYWlyY3JhZnQtc3VzcGVjdGVkLW9mLXByb3ZpZGluZy10YXJnZXQv0gFZaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXNhZnMtc3VwZXItc2Nhbm5lci1haXJjcmFmdC1zdXNwZWN0ZWQtb2YtcHJvdmlkaW5nLXRhcmdldC8",
-      "title": "USAF’s ‘Super Scanner’ Aircraft Providing Target Coordinates To Ukraine As Russian Military Comes Under Frequent Attacks – Reports - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzYWZzLXN1cGVyLXNjYW5uZXItYWlyY3JhZnQtc3VzcGVjdGVkLW9mLXByb3ZpZGluZy10YXJnZXQv0gFZaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXNhZnMtc3VwZXItc2Nhbm5lci1haXJjcmFmdC1zdXNwZWN0ZWQtb2YtcHJvdmlkaW5nLXRhcmdldC8?oc=5",
-      "published": "2022-08-11T07:00:00.000Z",
-      "description": "USAF’s ‘Super Scanner’ Aircraft Providing Target Coordinates To Ukraine As Russian Military Comes Under Frequent Attacks – Reports&nbsp;&nbsp;EurAsian Times",
       "summary": "",
       "author": "",
       "category": ""
