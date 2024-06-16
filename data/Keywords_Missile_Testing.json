@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-16T03:28:31.000Z",
+  "published": "2024-06-16T04:29:24.000Z",
   "entries": [
     {
       "id": "CBMie2h0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9iYXR0bGVmaWVsZC10ZWNoL3NwYWNlLzIwMjQvMDYvMTQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1zYXRlbGxpdGVzLXRyYWNrLWZpcnN0LWh5cGVyc29uaWMtbGF1bmNoL9IBAA",
@@ -267,21 +267,21 @@
       "category": ""
     },
     {
-      "id": "CBMiTWh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9jaGluYS1sb25nLW1hcmNoLTEwLW1vb24tcm9ja2V00gEA",
-      "title": "China tests Long March-10 rocket's propulsion for manned lunar mission - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9jaGluYS1sb25nLW1hcmNoLTEwLW1vb24tcm9ja2V00gEA?oc=5",
-      "published": "2024-06-15T13:08:00.000Z",
-      "description": "China tests Long March-10 rocket's propulsion for manned lunar mission&nbsp;&nbsp;Interesting Engineering",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtc29saWRmdWVsLWh5cGVyc29uaWMtYWY5ZjhjNjllNGZmMDA0Y2QwNDU5MmQyYzgwY2RhNDfSAQA",
       "title": "North Korea claims progress in developing a hypersonic missile designed to strike distant US targets - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtc29saWRmdWVsLWh5cGVyc29uaWMtYWY5ZjhjNjllNGZmMDA0Y2QwNDU5MmQyYzgwY2RhNDfSAQA?oc=5",
       "published": "2024-03-19T07:00:00.000Z",
       "description": "North Korea claims progress in developing a hypersonic missile designed to strike distant US targets&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTWh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9jaGluYS1sb25nLW1hcmNoLTEwLW1vb24tcm9ja2V00gEA",
+      "title": "China tests Long March-10 rocket's propulsion for manned lunar mission - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9jaGluYS1sb25nLW1hcmNoLTEwLW1vb24tcm9ja2V00gEA?oc=5",
+      "published": "2024-06-15T13:08:00.000Z",
+      "description": "China tests Long March-10 rocket's propulsion for manned lunar mission&nbsp;&nbsp;Interesting Engineering",
       "summary": "",
       "author": "",
       "category": ""
@@ -387,16 +387,6 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA",
-      "title": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions - Modern Diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA?oc=5",
-      "published": "2024-06-11T11:05:20.000Z",
-      "description": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions&nbsp;&nbsp;Modern Diplomacy",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMjkvbm9ydGgta29yZWFzLWtpbS1ndWlkZWQtc3VibWFyaW5lLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLXRlc3Qta2NuYdIBcGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC8xLzI5L25vcnRoLWtvcmVhcy1raW0tZ3VpZGVkLXN1Ym1hcmluZS1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS10ZXN0LWtjbmE",
       "title": "North Korea’s Kim ‘guided’ submarine-launched cruise missile test: KCNA - Al Jazeera English",
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzEvMjkvbm9ydGgta29yZWFzLWtpbS1ndWlkZWQtc3VibWFyaW5lLWxhdW5jaGVkLWNydWlzZS1taXNzaWxlLXRlc3Qta2NuYdIBcGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC8xLzI5L25vcnRoLWtvcmVhcy1raW0tZ3VpZGVkLXN1Ym1hcmluZS1sYXVuY2hlZC1jcnVpc2UtbWlzc2lsZS10ZXN0LWtjbmE?oc=5",
@@ -427,11 +417,11 @@
       "category": ""
     },
     {
-      "id": "CBMiiQFodHRwczovL3d3dy5ndWFtcGRuLmNvbS9uZXdzL3Rlbm9yaW8tc2Vla3MtbW9yZS10aW1lLWZvci1pbnB1dC1vbi1taXNzaWxlLXRlc3RpbmctcGxhbnMvYXJ0aWNsZV9hZDJlMDE2Yy0yNmZlLTExZWYtYmY4My01Yjc1ZDM3MGY4M2YuaHRtbNIBAA",
-      "title": "Tenorio seeks more time for input on missile testing plans - Pacific Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ndWFtcGRuLmNvbS9uZXdzL3Rlbm9yaW8tc2Vla3MtbW9yZS10aW1lLWZvci1pbnB1dC1vbi1taXNzaWxlLXRlc3RpbmctcGxhbnMvYXJ0aWNsZV9hZDJlMDE2Yy0yNmZlLTExZWYtYmY4My01Yjc1ZDM3MGY4M2YuaHRtbNIBAA?oc=5",
-      "published": "2024-06-10T21:45:00.000Z",
-      "description": "Tenorio seeks more time for input on missile testing plans&nbsp;&nbsp;Pacific Daily News",
+      "id": "CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA",
+      "title": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions - Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjQvMDYvMTEvYW1lcmljYW4tdGVzdC1vZi11bmFybWVkLWludGVyY29udGluZW50YWwtbWlzc2lsZXMtaW1wbGljYXRpb25zLWFuZC1nbG9iYWwtcmVhY3Rpb25zL9IBAA?oc=5",
+      "published": "2024-06-11T11:05:20.000Z",
+      "description": "American Test of Unarmed Intercontinental Missiles: Implications and Global Reactions&nbsp;&nbsp;Modern Diplomacy",
       "summary": "",
       "author": "",
       "category": ""
@@ -447,21 +437,21 @@
       "category": ""
     },
     {
-      "id": "CBMiY2h0dHBzOi8vdGhlYnVsbGV0aW4ub3JnLzIwMjQvMDUvd2hhdC1pbmRpYXMtbWlydi10ZXN0LWFkZHMtdG8tdGhlLXN0cmF0ZWdpYy10cmlsZW1tYS1pbi1zb3V0aC1hc2lhL9IBAA",
-      "title": "What India's MIRV test adds to the 'strategic trilemma' in South Asia - Bulletin of the Atomic Scientists",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYnVsbGV0aW4ub3JnLzIwMjQvMDUvd2hhdC1pbmRpYXMtbWlydi10ZXN0LWFkZHMtdG8tdGhlLXN0cmF0ZWdpYy10cmlsZW1tYS1pbi1zb3V0aC1hc2lhL9IBAA?oc=5",
-      "published": "2024-05-03T07:00:00.000Z",
-      "description": "What India's MIRV test adds to the 'strategic trilemma' in South Asia&nbsp;&nbsp;Bulletin of the Atomic Scientists",
+      "id": "CBMiiQFodHRwczovL3d3dy5ndWFtcGRuLmNvbS9uZXdzL3Rlbm9yaW8tc2Vla3MtbW9yZS10aW1lLWZvci1pbnB1dC1vbi1taXNzaWxlLXRlc3RpbmctcGxhbnMvYXJ0aWNsZV9hZDJlMDE2Yy0yNmZlLTExZWYtYmY4My01Yjc1ZDM3MGY4M2YuaHRtbNIBAA",
+      "title": "Tenorio seeks more time for input on missile testing plans - Pacific Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5ndWFtcGRuLmNvbS9uZXdzL3Rlbm9yaW8tc2Vla3MtbW9yZS10aW1lLWZvci1pbnB1dC1vbi1taXNzaWxlLXRlc3RpbmctcGxhbnMvYXJ0aWNsZV9hZDJlMDE2Yy0yNmZlLTExZWYtYmY4My01Yjc1ZDM3MGY4M2YuaHRtbNIBAA?oc=5",
+      "published": "2024-06-10T21:45:00.000Z",
+      "description": "Tenorio seeks more time for input on missile testing plans&nbsp;&nbsp;Pacific Daily News",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMikwFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMTMvdGhlLW1zcy0xLTItYWMtYW50aS10YW5rLW1pc3NpbGUtdGVzdGluZy1hZHZhbmNlcy1pbi1wcmVwYXJhdGlvbi1mb3ItaXRzLWFkb3B0aW9uLWJ5LXRoZS1icmF6aWxpYW4tYXJteS_SAQA",
-      "title": "The MSS 1.2 AC anti-tank missile testing advances in preparation for its adoption by the Brazilian Army - Zona Militar",
-      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMTMvdGhlLW1zcy0xLTItYWMtYW50aS10YW5rLW1pc3NpbGUtdGVzdGluZy1hZHZhbmNlcy1pbi1wcmVwYXJhdGlvbi1mb3ItaXRzLWFkb3B0aW9uLWJ5LXRoZS1icmF6aWxpYW4tYXJteS_SAQA?oc=5",
-      "published": "2024-06-13T14:19:00.000Z",
-      "description": "The MSS 1.2 AC anti-tank missile testing advances in preparation for its adoption by the Brazilian Army&nbsp;&nbsp;Zona Militar",
+      "id": "CBMiY2h0dHBzOi8vdGhlYnVsbGV0aW4ub3JnLzIwMjQvMDUvd2hhdC1pbmRpYXMtbWlydi10ZXN0LWFkZHMtdG8tdGhlLXN0cmF0ZWdpYy10cmlsZW1tYS1pbi1zb3V0aC1hc2lhL9IBAA",
+      "title": "What India's MIRV test adds to the 'strategic trilemma' in South Asia - Bulletin of the Atomic Scientists",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYnVsbGV0aW4ub3JnLzIwMjQvMDUvd2hhdC1pbmRpYXMtbWlydi10ZXN0LWFkZHMtdG8tdGhlLXN0cmF0ZWdpYy10cmlsZW1tYS1pbi1zb3V0aC1hc2lhL9IBAA?oc=5",
+      "published": "2024-05-03T07:00:00.000Z",
+      "description": "What India's MIRV test adds to the 'strategic trilemma' in South Asia&nbsp;&nbsp;Bulletin of the Atomic Scientists",
       "summary": "",
       "author": "",
       "category": ""
@@ -507,6 +497,16 @@
       "category": ""
     },
     {
+      "id": "CBMikwFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMTMvdGhlLW1zcy0xLTItYWMtYW50aS10YW5rLW1pc3NpbGUtdGVzdGluZy1hZHZhbmNlcy1pbi1wcmVwYXJhdGlvbi1mb3ItaXRzLWFkb3B0aW9uLWJ5LXRoZS1icmF6aWxpYW4tYXJteS_SAQA",
+      "title": "The MSS 1.2 AC anti-tank missile testing advances in preparation for its adoption by the Brazilian Army - Zona Militar",
+      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy56b25hLW1pbGl0YXIuY29tL2VuLzIwMjQvMDYvMTMvdGhlLW1zcy0xLTItYWMtYW50aS10YW5rLW1pc3NpbGUtdGVzdGluZy1hZHZhbmNlcy1pbi1wcmVwYXJhdGlvbi1mb3ItaXRzLWFkb3B0aW9uLWJ5LXRoZS1icmF6aWxpYW4tYXJteS_SAQA?oc=5",
+      "published": "2024-06-13T14:19:00.000Z",
+      "description": "The MSS 1.2 AC anti-tank missile testing advances in preparation for its adoption by the Brazilian Army&nbsp;&nbsp;Zona Militar",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMifGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2Evbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWzSAX5odHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWw",
       "title": "North Korea confirms missile launch, vows bolstered nuclear force, its news agency says - Voice of America - VOA News",
       "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2Evbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWzSAX5odHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWw?oc=5",
@@ -537,16 +537,6 @@
       "category": ""
     },
     {
-      "id": "CBMiSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljL9IBSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljLw",
-      "title": "US Begins To Counter China & Russia’s Hypersonic Tech; Conducts 1st Hypersonic Test Bed Flight Experiment - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljL9IBSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljLw?oc=5",
-      "published": "2024-06-15T16:21:50.000Z",
-      "description": "US Begins To Counter China & Russia’s Hypersonic Tech; Conducts 1st Hypersonic Test Bed Flight Experiment&nbsp;&nbsp;EurAsian Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN00gFRaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN0",
       "title": "SMDC, RTS play role in latest missile test - United States Army",
       "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN00gFRaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN0?oc=5",
@@ -562,6 +552,16 @@
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyNC8wMy8xOS91cy1haXItZm9yY2UtY29uZHVjdHMtZmluYWwtdGVzdC1vZi1sb2NraGVlZHMtaHlwZXJzb25pYy1taXNzaWxlL9IBAA?oc=5",
       "published": "2024-03-19T07:00:00.000Z",
       "description": "US Air Force conducts final test of Lockheed's hypersonic missile&nbsp;&nbsp;Defense News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljL9IBSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljLw",
+      "title": "US Begins To Counter China & Russia’s Hypersonic Tech; Conducts 1st Hypersonic Test Bed Flight Experiment - EurAsian Times",
+      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljL9IBSGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLWNvdW50ZXJzLWNoaW5hLWNvbmR1Y3RzLTFzdC1oeXBlcnNvbmljLw?oc=5",
+      "published": "2024-06-15T16:21:50.000Z",
+      "description": "US Begins To Counter China & Russia’s Hypersonic Tech; Conducts 1st Hypersonic Test Bed Flight Experiment&nbsp;&nbsp;EurAsian Times",
       "summary": "",
       "author": "",
       "category": ""
@@ -807,21 +807,21 @@
       "category": ""
     },
     {
-      "id": "CBMibmh0dHBzOi8vd3d3LnJuei5jby5uei9pbnRlcm5hdGlvbmFsL3BhY2lmaWMtbmV3cy81MTkyNTAvZ3VhbS1yZXF1ZXN0cy1leHRlbnNpb24tb24tbWlzc2lsZS10ZXN0aW5nLXN1Ym1pc3Npb25z0gEA",
-      "title": "Guam requests extension on missile testing submissions - RNZ",
-      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJuei5jby5uei9pbnRlcm5hdGlvbmFsL3BhY2lmaWMtbmV3cy81MTkyNTAvZ3VhbS1yZXF1ZXN0cy1leHRlbnNpb24tb24tbWlzc2lsZS10ZXN0aW5nLXN1Ym1pc3Npb25z0gEA?oc=5",
-      "published": "2024-06-11T02:56:18.000Z",
-      "description": "Guam requests extension on missile testing submissions&nbsp;&nbsp;RNZ",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTgzNzY0L2Fyb3VuZC10aGUtYWlyLWZvcmNlLWFsbHZpbi10YWtlcy1jb21tYW5kLW1pc3NpbGUtd2FybmluZy1taXNzaW9uLWV2dG9sLXRlc3Rpbmcv0gEA",
       "title": "Around the Air Force: Allvin Takes Command, Missile Warning Mission, EVTOL Testing Begins - Air Force Link",
       "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTgzNzY0L2Fyb3VuZC10aGUtYWlyLWZvcmNlLWFsbHZpbi10YWtlcy1jb21tYW5kLW1pc3NpbGUtd2FybmluZy1taXNzaW9uLWV2dG9sLXRlc3Rpbmcv0gEA?oc=5",
       "published": "2023-11-09T08:00:00.000Z",
       "description": "Around the Air Force: Allvin Takes Command, Missile Warning Mission, EVTOL Testing Begins&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibmh0dHBzOi8vd3d3LnJuei5jby5uei9pbnRlcm5hdGlvbmFsL3BhY2lmaWMtbmV3cy81MTkyNTAvZ3VhbS1yZXF1ZXN0cy1leHRlbnNpb24tb24tbWlzc2lsZS10ZXN0aW5nLXN1Ym1pc3Npb25z0gEA",
+      "title": "Guam requests extension on missile testing submissions - RNZ",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJuei5jby5uei9pbnRlcm5hdGlvbmFsL3BhY2lmaWMtbmV3cy81MTkyNTAvZ3VhbS1yZXF1ZXN0cy1leHRlbnNpb24tb24tbWlzc2lsZS10ZXN0aW5nLXN1Ym1pc3Npb25z0gEA?oc=5",
+      "published": "2024-06-11T02:56:18.000Z",
+      "description": "Guam requests extension on missile testing submissions&nbsp;&nbsp;RNZ",
       "summary": "",
       "author": "",
       "category": ""
