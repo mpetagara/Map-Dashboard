@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-16T20:23:19.000Z",
+  "published": "2024-06-16T21:25:34.000Z",
   "entries": [
     {
       "id": "CBMiYWh0dHBzOi8vd3d3Lmtzd28uY29tLzIwMjQvMDYvMTYvZGF5LWxpZmUtaG93LXVzLXNvbGRpZXJzLXRyYWluLW1pc3NpbGUtZGVmZW5zZS1zeXN0ZW1zLWtlZXAtc2FmZS_SAXBodHRwczovL3d3dy5rc3dvLmNvbS8yMDI0LzA2LzE2L2RheS1saWZlLWhvdy11cy1zb2xkaWVycy10cmFpbi1taXNzaWxlLWRlZmVuc2Utc3lzdGVtcy1rZWVwLXNhZmUvP291dHB1dFR5cGU9YW1w",
@@ -117,16 +117,6 @@
       "category": ""
     },
     {
-      "id": "CBMiiAFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjQtMDQtMTUtVS1TLU1pc3NpbGUtRGVmZW5zZS1BZ2VuY3ktc2VsZWN0cy1Mb2NraGVlZC1NYXJ0aW4tdG8tcHJvdmlkZS1pdHMtTmV4dC1HZW5lcmF0aW9uLUludGVyY2VwdG9y0gEA",
-      "title": "U.S. Missile Defense Agency selects Lockheed Martin to provide its Next Generation Interceptor - Media - Lockheed Martin - Releases",
-      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjQtMDQtMTUtVS1TLU1pc3NpbGUtRGVmZW5zZS1BZ2VuY3ktc2VsZWN0cy1Mb2NraGVlZC1NYXJ0aW4tdG8tcHJvdmlkZS1pdHMtTmV4dC1HZW5lcmF0aW9uLUludGVyY2VwdG9y0gEA?oc=5",
-      "published": "2024-04-15T07:00:00.000Z",
-      "description": "U.S. Missile Defense Agency selects Lockheed Martin to provide its Next Generation Interceptor&nbsp;&nbsp;Media - Lockheed Martin - Releases",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMid2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE5MTMwL3N0cmlrZS1maWdodGVyLWNhcnJ5aW5nLXRoZS1uYXZ5cy1raWxsLWFueXRoaW5nLW1pc3NpbGUv0gEA",
       "title": "A Strike Fighter Was Just Seen Carrying the Navy's Kill-Anything Missile - Popular Mechanics",
       "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE5MTMwL3N0cmlrZS1maWdodGVyLWNhcnJ5aW5nLXRoZS1uYXZ5cy1raWxsLWFueXRoaW5nLW1pc3NpbGUv0gEA?oc=5",
@@ -147,21 +137,31 @@
       "category": ""
     },
     {
-      "id": "CBMiPGh0dHBzOi8vd3d3LnNzYy5zcGFjZWZvcmNlLm1pbC9Qcm9ncmFtLU9mZmljZXMvU3BhY2UtU2Vuc2luZ9IBAA",
-      "title": "Space Sensing - Space Systems Command",
-      "link": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNzYy5zcGFjZWZvcmNlLm1pbC9Qcm9ncmFtLU9mZmljZXMvU3BhY2UtU2Vuc2luZ9IBAA?oc=5",
-      "published": "2024-02-01T03:11:08.000Z",
-      "description": "Space Sensing&nbsp;&nbsp;Space Systems Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiRWh0dHBzOi8vc3BhY2VuZXdzLmNvbS9zcGFjZXgtbGF1bmNoZXMtdS1zLW1pc3NpbGUtZGVmZW5zZS1zYXRlbGxpdGVzL9IBAA",
       "title": "SpaceX launches U.S. missile-defense satellites - SpaceNews",
       "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc3BhY2VuZXdzLmNvbS9zcGFjZXgtbGF1bmNoZXMtdS1zLW1pc3NpbGUtZGVmZW5zZS1zYXRlbGxpdGVzL9IBAA?oc=5",
       "published": "2024-02-14T08:00:00.000Z",
       "description": "SpaceX launches U.S. missile-defense satellites&nbsp;&nbsp;SpaceNews",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWZyZWFrZWQtdXMtbmF2eS1zdXJmYWNlZC0zLW1pc3NpbGUtc3VibWFyaW5lcy1zaW11bHRhbmVvdXNseS13YXJuaW5nLTIwNzUyN9IBAA",
+      "title": "China Freaked: U.S. Navy Surfaced 3 Missile Submarines Simultaneously as A Warning - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWZyZWFrZWQtdXMtbmF2eS1zdXJmYWNlZC0zLW1pc3NpbGUtc3VibWFyaW5lcy1zaW11bHRhbmVvdXNseS13YXJuaW5nLTIwNzUyN9IBAA?oc=5",
+      "published": "2024-06-13T15:57:12.000Z",
+      "description": "China Freaked: U.S. Navy Surfaced 3 Missile Submarines Simultaneously as A Warning&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MTEzNzY2My9hcm15LXVzaW5nLW1pY3Jvd2F2ZS10ZWNobm9sb2d5LXRvLWNvbWJhdC1kcm9uZS1hbmQtbWlzc2lsZS10aHJlYXRz0gEA",
+      "title": "The Army is using microwave technology to combat drone threats - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MTEzNzY2My9hcm15LXVzaW5nLW1pY3Jvd2F2ZS10ZWNobm9sb2d5LXRvLWNvbWJhdC1kcm9uZS1hbmQtbWlzc2lsZS10aHJlYXRz0gEA?oc=5",
+      "published": "2024-06-10T12:04:59.000Z",
+      "description": "The Army is using microwave technology to combat drone threats&nbsp;&nbsp;Fast Company",
       "summary": "",
       "author": "",
       "category": ""
@@ -207,36 +207,6 @@
       "category": ""
     },
     {
-      "id": "CBMiTmh0dHBzOi8vd3d3LmxvY2toZWVkbWFydGluLmNvbS9lbi11cy9wcm9kdWN0cy9uZXh0LWdlbmVyYXRpb24taW50ZXJjZXB0b3IuaHRtbNIBAA",
-      "title": "Next Generation Interceptor (NGI) - Lockheed Martin",
-      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmxvY2toZWVkbWFydGluLmNvbS9lbi11cy9wcm9kdWN0cy9uZXh0LWdlbmVyYXRpb24taW50ZXJjZXB0b3IuaHRtbNIBAA?oc=5",
-      "published": "2024-05-08T02:28:35.000Z",
-      "description": "Next Generation Interceptor (NGI)&nbsp;&nbsp;Lockheed Martin",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMieGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWZyZWFrZWQtdXMtbmF2eS1zdXJmYWNlZC0zLW1pc3NpbGUtc3VibWFyaW5lcy1zaW11bHRhbmVvdXNseS13YXJuaW5nLTIwNzUyN9IBAA",
-      "title": "China Freaked: U.S. Navy Surfaced 3 Missile Submarines Simultaneously as A Warning - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2NoaW5hLWZyZWFrZWQtdXMtbmF2eS1zdXJmYWNlZC0zLW1pc3NpbGUtc3VibWFyaW5lcy1zaW11bHRhbmVvdXNseS13YXJuaW5nLTIwNzUyN9IBAA?oc=5",
-      "published": "2024-06-13T15:57:12.000Z",
-      "description": "China Freaked: U.S. Navy Surfaced 3 Missile Submarines Simultaneously as A Warning&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MTEzNzY2My9hcm15LXVzaW5nLW1pY3Jvd2F2ZS10ZWNobm9sb2d5LXRvLWNvbWJhdC1kcm9uZS1hbmQtbWlzc2lsZS10aHJlYXRz0gEA",
-      "title": "The Army is using microwave technology to combat drone threats - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MTEzNzY2My9hcm15LXVzaW5nLW1pY3Jvd2F2ZS10ZWNobm9sb2d5LXRvLWNvbWJhdC1kcm9uZS1hbmQtbWlzc2lsZS10aHJlYXRz0gEA?oc=5",
-      "published": "2024-06-10T12:04:59.000Z",
-      "description": "The Army is using microwave technology to combat drone threats&nbsp;&nbsp;Fast Company",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidWh0dHBzOi8vd3d3LnN0YXRlLmdvdi9pbXBvc2luZy1zYW5jdGlvbnMtb24tbmV0d29ya3Mtc3VwcG9ydGluZy1pcmFucy1iYWxsaXN0aWMtbWlzc2lsZS1kZWZlbnNlLWFuZC1udWNsZWFyLXByb2dyYW1zL9IBAA",
       "title": "Imposing Sanctions on Networks Supporting Iran's Ballistic Missile, Defense, and Nuclear Programs - United States ... - Department of State",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnN0YXRlLmdvdi9pbXBvc2luZy1zYW5jdGlvbnMtb24tbmV0d29ya3Mtc3VwcG9ydGluZy1pcmFucy1iYWxsaXN0aWMtbWlzc2lsZS1kZWZlbnNlLWFuZC1udWNsZWFyLXByb2dyYW1zL9IBAA?oc=5",
@@ -272,16 +242,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL2NvLm5nLm1pbC9OZXdzL0FyY2hpdmVzL0FydGljbGUvMzcxMzE2MC9jb2xvcmFkby1uYXRpb25hbC1ndWFyZC1icmVha3MtZ3JvdW5kLW9uLWhvbWVsYW5kLWRlZmVuc2UtYW5kLWNpdmlsLXN1cHBvcnQtcmVhL9IBAA?oc=5",
       "published": "2024-03-20T07:00:00.000Z",
       "description": "Colorado National Guard breaks ground on homeland defense and civil support readiness cent&nbsp;&nbsp;Colorado National Guard",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8xNC9taWRkbGVlYXN0L2lzcmFlbC1haXItbWlzc2lsZS1kZWZlbnNlLWlyYW4tYXR0YWNrLWludGwtaG5rLW1sL2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA0LzE0L21pZGRsZWVhc3QvaXNyYWVsLWFpci1taXNzaWxlLWRlZmVuc2UtaXJhbi1hdHRhY2staW50bC1obmstbWw",
-      "title": "How Israel and allied defenses intercepted more than 300 Iranian missiles and drones - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNC8xNC9taWRkbGVlYXN0L2lzcmFlbC1haXItbWlzc2lsZS1kZWZlbnNlLWlyYW4tYXR0YWNrLWludGwtaG5rLW1sL2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA0LzE0L21pZGRsZWVhc3QvaXNyYWVsLWFpci1taXNzaWxlLWRlZmVuc2UtaXJhbi1hdHRhY2staW50bC1obmstbWw?oc=5",
-      "published": "2024-04-14T07:00:00.000Z",
-      "description": "How Israel and allied defenses intercepted more than 300 Iranian missiles and drones&nbsp;&nbsp;CNN",
       "summary": "",
       "author": "",
       "category": ""
@@ -327,16 +287,6 @@
       "category": ""
     },
     {
-      "id": "CBMicmh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9nbG9iYWwtc2VjdXJpdHkvaG91dGhpLW1pc3NpbGVzLWhpdC1zd2lzcy1nZXJtYW4tb3duZWQtc2hpcHMtaW4tcmVkLXNlYS1wZW50YWdvbi1yZXNwb25kc9IBAA",
-      "title": "Houthi Missiles Hit Swiss & German-Owned Ships in Red Sea - Pentagon Responds - Warrior Maven",
-      "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9nbG9iYWwtc2VjdXJpdHkvaG91dGhpLW1pc3NpbGVzLWhpdC1zd2lzcy1nZXJtYW4tb3duZWQtc2hpcHMtaW4tcmVkLXNlYS1wZW50YWdvbi1yZXNwb25kc9IBAA?oc=5",
-      "published": "2024-06-11T21:05:17.000Z",
-      "description": "Houthi Missiles Hit Swiss & German-Owned Ships in Red Sea - Pentagon Responds&nbsp;&nbsp;Warrior Maven",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMisAFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjM1MzQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1hbmQtdXMtbmF2eS1zdWNjZXNzZnVsbHktZGVtb25zdHJhdGUtYWVnaXMtd2VhcG9uLXN5c3RlbS1jYXBhYmlsaXRpZXMtYWdhaW5zdC1hZHZhbmNlZC1jb3VudGVybWVhc3VyZS1taXNzaWxlLXRhcmdldNIBAA",
       "title": "Missile Defense Agency and U.S. Navy Successfully Demonstrate Aegis Weapon System Capabilities against ... - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjM1MzQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1hbmQtdXMtbmF2eS1zdWNjZXNzZnVsbHktZGVtb25zdHJhdGUtYWVnaXMtd2VhcG9uLXN5c3RlbS1jYXBhYmlsaXRpZXMtYWdhaW5zdC1hZHZhbmNlZC1jb3VudGVybWVhc3VyZS1taXNzaWxlLXRhcmdldNIBAA?oc=5",
@@ -357,11 +307,41 @@
       "category": ""
     },
     {
+      "id": "CBMiN2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2NvbWluZy1jb25mbGljdC1oZXpib2xsYWjSAQA",
+      "title": "The Coming Conflict with Hezbollah - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2NvbWluZy1jb25mbGljdC1oZXpib2xsYWjSAQA?oc=5",
+      "published": "2024-03-21T07:00:00.000Z",
+      "description": "The Coming Conflict with Hezbollah&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicmh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9nbG9iYWwtc2VjdXJpdHkvaG91dGhpLW1pc3NpbGVzLWhpdC1zd2lzcy1nZXJtYW4tb3duZWQtc2hpcHMtaW4tcmVkLXNlYS1wZW50YWdvbi1yZXNwb25kc9IBAA",
+      "title": "Houthi Missiles Hit Swiss & German-Owned Ships in Red Sea - Pentagon Responds - Warrior Maven",
+      "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9nbG9iYWwtc2VjdXJpdHkvaG91dGhpLW1pc3NpbGVzLWhpdC1zd2lzcy1nZXJtYW4tb3duZWQtc2hpcHMtaW4tcmVkLXNlYS1wZW50YWdvbi1yZXNwb25kc9IBAA?oc=5",
+      "published": "2024-06-11T21:05:17.000Z",
+      "description": "Houthi Missiles Hit Swiss & German-Owned Ships in Red Sea - Pentagon Responds&nbsp;&nbsp;Warrior Maven",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMid2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2hvdXRoaS1yZWQtc2VhLXN0cmlrZXMta2lsbC1maXJzdC1zYWlsb3JzLWFzLWJhbGxpc3RpYy1taXNzaWxlLXRocmVhdC1wcm9saWZlcmF0ZXMv0gF9aHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjQvMDMvaG91dGhpLXJlZC1zZWEtc3RyaWtlcy1raWxsLWZpcnN0LXNhaWxvcnMtYXMtYmFsbGlzdGljLW1pc3NpbGUtdGhyZWF0LXByb2xpZmVyYXRlcy8_YW1wPTE",
       "title": "Houthi Red Sea strikes kill first sailors, as ballistic missile threat proliferates - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2hvdXRoaS1yZWQtc2VhLXN0cmlrZXMta2lsbC1maXJzdC1zYWlsb3JzLWFzLWJhbGxpc3RpYy1taXNzaWxlLXRocmVhdC1wcm9saWZlcmF0ZXMv0gF9aHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjQvMDMvaG91dGhpLXJlZC1zZWEtc3RyaWtlcy1raWxsLWZpcnN0LXNhaWxvcnMtYXMtYmFsbGlzdGljLW1pc3NpbGUtdGhyZWF0LXByb2xpZmVyYXRlcy8_YW1wPTE?oc=5",
       "published": "2024-03-06T08:00:00.000Z",
       "description": "Houthi Red Sea strikes kill first sailors, as ballistic missile threat proliferates&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDI0LzA0L3NvdXRoLWtvcmVhLWFwcHJvdmVzLXByb2N1cmVtZW50LW9mLXNtLTMtZm9yLWJhbGxpc3RpYy1taXNzaWxlLWRlZmVuc2Uv0gEA",
+      "title": "South Korea Approves Procurement of SM-3 for Ballistic Missile Defense - Naval News",
+      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDI0LzA0L3NvdXRoLWtvcmVhLWFwcHJvdmVzLXByb2N1cmVtZW50LW9mLXNtLTMtZm9yLWJhbGxpc3RpYy1taXNzaWxlLWRlZmVuc2Uv0gEA?oc=5",
+      "published": "2024-04-26T07:00:00.000Z",
+      "description": "South Korea Approves Procurement of SM-3 for Ballistic Missile Defense&nbsp;&nbsp;Naval News",
       "summary": "",
       "author": "",
       "category": ""
@@ -437,21 +417,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L3doYXQtYXJlLWlzcmFlbHMtaXJvbi1kb21lLWFycm93LW1pc3NpbGUtZGVmZW5jZXMtMjAyNC0wNC0xNC_SAQA",
-      "title": "What are Israel's Iron Dome and Arrow missile defences? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L3doYXQtYXJlLWlzcmFlbHMtaXJvbi1kb21lLWFycm93LW1pc3NpbGUtZGVmZW5jZXMtMjAyNC0wNC0xNC_SAQA?oc=5",
-      "published": "2024-04-14T07:00:00.000Z",
-      "description": "What are Israel's Iron Dome and Arrow missile defences?&nbsp;&nbsp;Reuters",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMie2h0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcxNzc5L2FybXlfYW5ub3VuY2VzX3N1Y2Nlc3NmdWxfbG93ZXJfdGllcl9haXJfYW5kX21pc3NpbGVfZGVmZW5zZV9zZW5zb3JfbWlzc2lsZV9mbGlnaHRfdGVzdNIBf2h0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI3MTc3OS9hcm15X2Fubm91bmNlc19zdWNjZXNzZnVsX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29yX21pc3NpbGVfZmxpZ2h0X3Rlc3Q",
       "title": "Army announces Successful Lower Tier Air and Missile Defense Sensor Missile Flight Test - United States Army",
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcxNzc5L2FybXlfYW5ub3VuY2VzX3N1Y2Nlc3NmdWxfbG93ZXJfdGllcl9haXJfYW5kX21pc3NpbGVfZGVmZW5zZV9zZW5zb3JfbWlzc2lsZV9mbGlnaHRfdGVzdNIBf2h0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI3MTc3OS9hcm15X2Fubm91bmNlc19zdWNjZXNzZnVsX2xvd2VyX3RpZXJfYWlyX2FuZF9taXNzaWxlX2RlZmVuc2Vfc2Vuc29yX21pc3NpbGVfZmxpZ2h0X3Rlc3Q?oc=5",
       "published": "2023-11-17T08:00:00.000Z",
       "description": "Army announces Successful Lower Tier Air and Missile Defense Sensor Missile Flight Test&nbsp;&nbsp;United States Army",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyNC8wNC8yMy9ydHgtYnJlYWtzLWdyb3VuZC1vbi0xMTUtbWlsbGlvbi1leHBhbnNpb24tb2YtYWxhYmFtYS1taXNzaWxlLWludGVncmF0aW9uLWZhY2lsadIBAA",
+      "title": "RTX breaks ground on $115 million expansion of Alabama missile integration facility - Raytheon Technologies",
+      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyNC8wNC8yMy9ydHgtYnJlYWtzLWdyb3VuZC1vbi0xMTUtbWlsbGlvbi1leHBhbnNpb24tb2YtYWxhYmFtYS1taXNzaWxlLWludGVncmF0aW9uLWZhY2lsadIBAA?oc=5",
+      "published": "2024-04-23T07:00:00.000Z",
+      "description": "RTX breaks ground on $115 million expansion of Alabama missile integration facility&nbsp;&nbsp;Raytheon Technologies",
       "summary": "",
       "author": "",
       "category": ""
@@ -477,6 +457,16 @@
       "category": ""
     },
     {
+      "id": "CBMieWh0dHBzOi8vd3d3Lndhc2hpbmd0b25pbnN0aXR1dGUub3JnL3BvbGljeS1hbmFseXNpcy9ob3ctc3VzdGFpbmFibGUtYXJlLWRlZmVuc2UtYW5kLWRldGVycmVuY2UtbWV0aG9kcy1saWdodC1pcmFucy1hdHRhY2vSAQA",
+      "title": "How Sustainable Are Defense and Deterrence Methods in Light of Iran's Attack? - The Washington Institute",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3Lndhc2hpbmd0b25pbnN0aXR1dGUub3JnL3BvbGljeS1hbmFseXNpcy9ob3ctc3VzdGFpbmFibGUtYXJlLWRlZmVuc2UtYW5kLWRldGVycmVuY2UtbWV0aG9kcy1saWdodC1pcmFucy1hdHRhY2vSAQA?oc=5",
+      "published": "2024-05-06T07:00:00.000Z",
+      "description": "How Sustainable Are Defense and Deterrence Methods in Light of Iran's Attack?&nbsp;&nbsp;The Washington Institute",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMibWh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyNC0wMy9uZXdzLWJyaWVmcy9taXNzaWxlLWRlZmVuc2Utc3lzdGVtLXBvbGFuZC1jb3VsZC1iZS1vcGVyYXRpb25hbC1zdW1tZXLSAQA",
       "title": "Missile Defense System in Poland Could Be Operational by Summer - Arms Control Association",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyNC0wMy9uZXdzLWJyaWVmcy9taXNzaWxlLWRlZmVuc2Utc3lzdGVtLXBvbGFuZC1jb3VsZC1iZS1vcGVyYXRpb25hbC1zdW1tZXLSAQA?oc=5",
@@ -497,21 +487,21 @@
       "category": ""
     },
     {
-      "id": "CBMiNWh0dHBzOi8vd3d3LmNmci5vcmcvYXJ0aWNsZS91cy1haWQtaXNyYWVsLWZvdXItY2hhcnRz0gEA",
-      "title": "U.S. Aid to Israel in Four Charts - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmNmci5vcmcvYXJ0aWNsZS91cy1haWQtaXNyYWVsLWZvdXItY2hhcnRz0gEA?oc=5",
-      "published": "2024-05-31T07:00:00.000Z",
-      "description": "U.S. Aid to Israel in Four Charts&nbsp;&nbsp;Council on Foreign Relations",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMijAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL21pc3NpbGUtZGVmZW5zZS1hZ2VuY3ktYm9laW5nLWxlZC1pbmR1c3RyeS10ZWFtLWNvbmR1Y3QtZWFybHktcmVsZWFzZS1pbnRlcmNlcHQtdGVzdC0zMDIwMTE2NjIuaHRtbNIBAA",
       "title": "Missile Defense Agency, Boeing-Led Industry Team Conduct Early Release Intercept Test - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL21pc3NpbGUtZGVmZW5zZS1hZ2VuY3ktYm9laW5nLWxlZC1pbmR1c3RyeS10ZWFtLWNvbmR1Y3QtZWFybHktcmVsZWFzZS1pbnRlcmNlcHQtdGVzdC0zMDIwMTE2NjIuaHRtbNIBAA?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "Missile Defense Agency, Boeing-Led Industry Team Conduct Early Release Intercept Test&nbsp;&nbsp;PR Newswire",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiNWh0dHBzOi8vd3d3LmNmci5vcmcvYXJ0aWNsZS91cy1haWQtaXNyYWVsLWZvdXItY2hhcnRz0gEA",
+      "title": "U.S. Aid to Israel in Four Charts - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmNmci5vcmcvYXJ0aWNsZS91cy1haWQtaXNyYWVsLWZvdXItY2hhcnRz0gEA?oc=5",
+      "published": "2024-05-31T07:00:00.000Z",
+      "description": "U.S. Aid to Israel in Four Charts&nbsp;&nbsp;Council on Foreign Relations",
       "summary": "",
       "author": "",
       "category": ""
@@ -527,31 +517,11 @@
       "category": ""
     },
     {
-      "id": "CBMieGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9uZXdzL3lvdXItYXJteS8yMDI0LzAxLzAyL25ldy1yYWRhcnMtYW5kLW1pc3NpbGUtaW50ZXJjZXB0b3JzLW9uLXNjaGVkdWxlLWZvci1hcm15LWFpci1kZWZlbnNlL9IBAA",
-      "title": "New radars and missile interceptors on schedule for Army air defense - C4ISRNET",
-      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9uZXdzL3lvdXItYXJteS8yMDI0LzAxLzAyL25ldy1yYWRhcnMtYW5kLW1pc3NpbGUtaW50ZXJjZXB0b3JzLW9uLXNjaGVkdWxlLWZvci1hcm15LWFpci1kZWZlbnNlL9IBAA?oc=5",
-      "published": "2024-01-02T08:00:00.000Z",
-      "description": "New radars and missile interceptors on schedule for Army air defense&nbsp;&nbsp;C4ISRNET",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiX2h0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDI0L2phbnVhcnkvYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utd2VzdGVybi1wYWNpZmlj0gEA",
       "title": "Air and Missile Defense in the Western Pacific - USNI News",
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDI0L2phbnVhcnkvYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utd2VzdGVybi1wYWNpZmlj0gEA?oc=5",
       "published": "2024-01-01T00:28:25.000Z",
       "description": "Air and Missile Defense in the Western Pacific&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLW1pc3NpbGUtZGVmZW5zZS1wcm9wb3NhbC1zdGlycy1kZWJhdGUtcGFsYXUtMjAyMy0xMi0yMC_SAQA",
-      "title": "US missile defense proposal stirs debate in Palau - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzLW1pc3NpbGUtZGVmZW5zZS1wcm9wb3NhbC1zdGlycy1kZWJhdGUtcGFsYXUtMjAyMy0xMi0yMC_SAQA?oc=5",
-      "published": "2023-12-20T08:00:00.000Z",
-      "description": "US missile defense proposal stirs debate in Palau&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -567,21 +537,21 @@
       "category": ""
     },
     {
-      "id": "CBMiV2h0dHBzOi8vd3d3Lmhlcml0YWdlLm9yZy9taWxpdGFyeS1zdHJlbmd0aC9hc3Nlc3NtZW50LXVzLW1pbGl0YXJ5LXBvd2VyL21pc3NpbGUtZGVmZW5zZdIBAA",
-      "title": "Missile Defense - Heritage.org",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lmhlcml0YWdlLm9yZy9taWxpdGFyeS1zdHJlbmd0aC9hc3Nlc3NtZW50LXVzLW1pbGl0YXJ5LXBvd2VyL21pc3NpbGUtZGVmZW5zZdIBAA?oc=5",
-      "published": "2024-01-24T08:00:00.000Z",
-      "description": "Missile Defense&nbsp;&nbsp;Heritage.org",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibWh0dHBzOi8vd3d3LnJ0eC5jb20vbmV3cy9uZXdzLWNlbnRlci8yMDIzLzEyLzExL3J0eC1pbnRlcmNlcHRvci1zdWNjZXNzZnVsbHktZGVmZWF0cy1iYWxsaXN0aWMtbWlzc2lsZS10YXJnZXTSAQA",
       "title": "RTX interceptor successfully defeats ballistic missile target - Raytheon Technologies",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnJ0eC5jb20vbmV3cy9uZXdzLWNlbnRlci8yMDIzLzEyLzExL3J0eC1pbnRlcmNlcHRvci1zdWNjZXNzZnVsbHktZGVmZWF0cy1iYWxsaXN0aWMtbWlzc2lsZS10YXJnZXTSAQA?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "RTX interceptor successfully defeats ballistic missile target&nbsp;&nbsp;Raytheon Technologies",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiV2h0dHBzOi8vd3d3Lmhlcml0YWdlLm9yZy9taWxpdGFyeS1zdHJlbmd0aC9hc3Nlc3NtZW50LXVzLW1pbGl0YXJ5LXBvd2VyL21pc3NpbGUtZGVmZW5zZdIBAA",
+      "title": "Missile Defense - Heritage.org",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lmhlcml0YWdlLm9yZy9taWxpdGFyeS1zdHJlbmd0aC9hc3Nlc3NtZW50LXVzLW1pbGl0YXJ5LXBvd2VyL21pc3NpbGUtZGVmZW5zZdIBAA?oc=5",
+      "published": "2024-01-24T08:00:00.000Z",
+      "description": "Missile Defense&nbsp;&nbsp;Heritage.org",
       "summary": "",
       "author": "",
       "category": ""
@@ -647,21 +617,51 @@
       "category": ""
     },
     {
-      "id": "CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9oeXBlcnNvbmljLW1pc3NpbGVzLXRyYWNraW5nLXNwYWNlLXNlbnNvci_SAQA",
-      "title": "Why Hypersonic Missiles' Greatest Strength Also Makes Them Vulnerable: New Report - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9oeXBlcnNvbmljLW1pc3NpbGVzLXRyYWNraW5nLXNwYWNlLXNlbnNvci_SAQA?oc=5",
-      "published": "2023-12-20T08:00:00.000Z",
-      "description": "Why Hypersonic Missiles' Greatest Strength Also Makes Them Vulnerable: New Report&nbsp;&nbsp;Air & Space Forces Magazine",
+      "id": "CBMiR2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA0LzE2L2lyYW4taXNyYWVsLWF0dGFjay1ob3ctbWlzc2lsZXMtZHJvbmVz0gEA",
+      "title": "How Iran attacked Israel and hit nearly none of their targets - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA0LzE2L2lyYW4taXNyYWVsLWF0dGFjay1ob3ctbWlzc2lsZXMtZHJvbmVz0gEA?oc=5",
+      "published": "2024-04-16T07:00:00.000Z",
+      "description": "How Iran attacked Israel and hit nearly none of their targets&nbsp;&nbsp;Axios",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiZ2h0dHBzOi8vd2FzaGluZ3RvbmV4ZWMuY29tLzIwMjQvMDUvYmx1ZWhhbG8td2lucy05NS00bS1hcm15LXNwYWNlLWFuZC1taXNzaWxlLWRlZmVuc2UtY29tbWFuZC1jb250cmFjdC_SAQA",
-      "title": "BlueHalo Wins $95.4M Army Space and Missile Defense Command Contract - WashingtonExec",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd2FzaGluZ3RvbmV4ZWMuY29tLzIwMjQvMDUvYmx1ZWhhbG8td2lucy05NS00bS1hcm15LXNwYWNlLWFuZC1taXNzaWxlLWRlZmVuc2UtY29tbWFuZC1jb250cmFjdC_SAQA?oc=5",
-      "published": "2024-05-21T07:00:00.000Z",
-      "description": "BlueHalo Wins $95.4M Army Space and Missile Defense Command Contract&nbsp;&nbsp;WashingtonExec",
+      "id": "CBMiXWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL2dyZWVuLXBpbmUtcmFkYXIta2V5LWlzcmFlbHMtYmFsbGlzdGljLW1pc3NpbGUtZGVmZW5zZdIBAA",
+      "title": "Green Pine Radar - The Key To Israel’s Ballistic Missile Defense - Aviation Week",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL2dyZWVuLXBpbmUtcmFkYXIta2V5LWlzcmFlbHMtYmFsbGlzdGljLW1pc3NpbGUtZGVmZW5zZdIBAA?oc=5",
+      "published": "2024-04-09T07:00:00.000Z",
+      "description": "Green Pine Radar - The Key To Israel’s Ballistic Missile Defense&nbsp;&nbsp;Aviation Week",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzEyLzE5L3Utcy1qYXBhbi1zb3V0aC1rb3JlYS1lc3RhYmxpc2gtbm9ydGgta29yZWFuLW1pc3NpbGUtd2FybmluZy1zeXN0ZW0tdHJpbGF0ZXJhbC1leGVyY2lzZXPSAQA",
+      "title": "U.S., Japan, South Korea Establish North Korean Missile Warning System, Trilateral Exercises - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzEyLzE5L3Utcy1qYXBhbi1zb3V0aC1rb3JlYS1lc3RhYmxpc2gtbm9ydGgta29yZWFuLW1pc3NpbGUtd2FybmluZy1zeXN0ZW0tdHJpbGF0ZXJhbC1leGVyY2lzZXPSAQA?oc=5",
+      "published": "2023-12-19T08:00:00.000Z",
+      "description": "U.S., Japan, South Korea Establish North Korean Missile Warning System, Trilateral Exercises - USNI News&nbsp;&nbsp;USNI News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMTQvd29ybGQvZXVyb3BlL2lzcmFlbC1pcm9uLWRvbWUtZGVmZW5zZS5odG1s0gEA",
+      "title": "Israel Used Iron Dome and Arrow 3 Systems to Block Attack - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDQvMTQvd29ybGQvZXVyb3BlL2lzcmFlbC1pcm9uLWRvbWUtZGVmZW5zZS5odG1s0gEA?oc=5",
+      "published": "2024-04-14T07:00:00.000Z",
+      "description": "Israel Used Iron Dome and Arrow 3 Systems to Block Attack&nbsp;&nbsp;The New York Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMif2h0dHBzOi8vZHNtLmZvcmVjYXN0aW50ZXJuYXRpb25hbC5jb20vMjAyNC8wMS8xMS9ncm93aW5nLWFudGktc2hpcC1jcnVpc2UtbWlzc2lsZS10aHJlYXQtc3B1cnMtdS1zLW5hdnktMS01LWJpbGxpb24tcmQtcHJvZ3JhbS_SAQA",
+      "title": "Growing Anti-Ship Cruise Missile Threat Spurs U.S. Navy $1.5 Billion R&D Program - Defense & Security Monitor",
+      "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vZHNtLmZvcmVjYXN0aW50ZXJuYXRpb25hbC5jb20vMjAyNC8wMS8xMS9ncm93aW5nLWFudGktc2hpcC1jcnVpc2UtbWlzc2lsZS10aHJlYXQtc3B1cnMtdS1zLW5hdnktMS01LWJpbGxpb24tcmQtcHJvZ3JhbS_SAQA?oc=5",
+      "published": "2024-01-11T08:00:00.000Z",
+      "description": "Growing Anti-Ship Cruise Missile Threat Spurs U.S. Navy $1.5 Billion R&D Program&nbsp;&nbsp;Defense & Security Monitor",
       "summary": "",
       "author": "",
       "category": ""
@@ -687,31 +687,21 @@
       "category": ""
     },
     {
-      "id": "CBMikgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL2FydGljbGUvMzY1MjI0NC91cy1jb250aW51ZXMtcHJvdGVjdGlvbi1taXNzaW9uLWluLW1pZGRsZS1lYXN0LWNvbnZlbmVzLXVrcmFpbmUtZGVmZW5zZS1ncm91cC1tL9IBAA",
-      "title": "U.S. Continues Protection Mission in Middle East, Convenes Ukraine Defense Group Meeting - Department of Defense",
-      "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL2FydGljbGUvMzY1MjI0NC91cy1jb250aW51ZXMtcHJvdGVjdGlvbi1taXNzaW9uLWluLW1pZGRsZS1lYXN0LWNvbnZlbmVzLXVrcmFpbmUtZGVmZW5zZS1ncm91cC1tL9IBAA?oc=5",
-      "published": "2024-01-22T08:00:00.000Z",
-      "description": "U.S. Continues Protection Mission in Middle East, Convenes Ukraine Defense Group Meeting&nbsp;&nbsp;Department of Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiNmh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L9IBP2h0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L2luZGV4LmFtcA",
-      "title": "Russians attack Poltava Oblast with missiles - Ukrainska Pravda",
-      "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L9IBP2h0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L2luZGV4LmFtcA?oc=5",
-      "published": "2024-06-15T20:52:00.000Z",
-      "description": "Russians attack Poltava Oblast with missiles&nbsp;&nbsp;Ukrainska Pravda",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVmh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0wOS9mZWF0dXJlcy9kZWx1c2lvbnMtYW5kLWRhbmdlcnMtbWlzc2lsZS1kZWZlbnNl0gEA",
       "title": "The Delusions and Dangers of Missile Defense - Arms Control Association",
       "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0wOS9mZWF0dXJlcy9kZWx1c2lvbnMtYW5kLWRhbmdlcnMtbWlzc2lsZS1kZWZlbnNl0gEA?oc=5",
       "published": "2023-09-01T07:00:00.000Z",
       "description": "The Delusions and Dangers of Missile Defense&nbsp;&nbsp;Arms Control Association",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiP2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2lyYW4taXNyYWVsLWFpci1jb25mbGljdC1vbmUtd2Vla9IBAA",
+      "title": "The Iran-Israel Air Conflict, One Week In - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2lyYW4taXNyYWVsLWFpci1jb25mbGljdC1vbmUtd2Vla9IBAA?oc=5",
+      "published": "2024-04-19T07:00:00.000Z",
+      "description": "The Iran-Israel Air Conflict, One Week In&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -747,11 +737,21 @@
       "category": ""
     },
     {
-      "id": "CBMiW2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91cy1uYXZ5LXllbWVuLWhvdXRoaS1hbnRpLXNoaXAtbWlzc2lsZXMtdXNzLWNhcm5leS1yZWQtc2VhLTE4NDkyMzDSAQA",
-      "title": "US Navy Faces Houthi Anti-Ship Missile Threat 'Superior' to Most States - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91cy1uYXZ5LXllbWVuLWhvdXRoaS1hbnRpLXNoaXAtbWlzc2lsZXMtdXNzLWNhcm5leS1yZWQtc2VhLTE4NDkyMzDSAQA?oc=5",
-      "published": "2023-12-05T08:00:00.000Z",
-      "description": "US Navy Faces Houthi Anti-Ship Missile Threat 'Superior' to Most States&nbsp;&nbsp;Newsweek",
+      "id": "CBMibmh0dHBzOi8vd3d3Lm1hcmluZXMubWlsL05ld3MvTmV3cy1EaXNwbGF5L0FydGljbGUvMzY0NzA2My9uZXctYWlyLWRlZmVuc2Utc3lzdGVtLWFkdmFuY2VzLWNvcnBzLWFpci1kb21pbmFuY2Uv0gEA",
+      "title": "New air defense system advances Corps' air dominance - Marines.mil",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1hcmluZXMubWlsL05ld3MvTmV3cy1EaXNwbGF5L0FydGljbGUvMzY0NzA2My9uZXctYWlyLWRlZmVuc2Utc3lzdGVtLWFkdmFuY2VzLWNvcnBzLWFpci1kb21pbmFuY2Uv0gEA?oc=5",
+      "published": "2024-01-17T08:00:00.000Z",
+      "description": "New air defense system advances Corps' air dominance&nbsp;&nbsp;Marines.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9wZW50YWdvbi1qYXBhbi1oeXBlcnNvbmljLW1pc3NpbGUtZGVmZW5zZS_SAQA",
+      "title": "Pentagon Partners with Japan to Save on New Hypersonic Defense, But How Fast Can It Come? - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9wZW50YWdvbi1qYXBhbi1oeXBlcnNvbmljLW1pc3NpbGUtZGVmZW5zZS_SAQA?oc=5",
+      "published": "2024-03-20T07:00:00.000Z",
+      "description": "Pentagon Partners with Japan to Save on New Hypersonic Defense, But How Fast Can It Come?&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -767,11 +767,11 @@
       "category": ""
     },
     {
-      "id": "CBMidmh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE4NDY3L25hdnktd2Fyc2hpcHMtYXJteXMtcGF0cmlvdC1wYWMtMy1haXItZGVmZW5zZS1taXNzaWxlcy_SAQA",
-      "title": "The Navy's Warships Can Now Fire the Army's Patriot PAC-3 Air Defense Missiles - Popular Mechanics",
-      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE4NDY3L25hdnktd2Fyc2hpcHMtYXJteXMtcGF0cmlvdC1wYWMtMy1haXItZGVmZW5zZS1taXNzaWxlcy_SAQA?oc=5",
-      "published": "2024-06-10T14:30:00.000Z",
-      "description": "The Navy's Warships Can Now Fire the Army's Patriot PAC-3 Air Defense Missiles&nbsp;&nbsp;Popular Mechanics",
+      "id": "CBMiNmh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L9IBP2h0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L2luZGV4LmFtcA",
+      "title": "Russians attack Poltava Oblast with missiles - Ukrainska Pravda",
+      "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L9IBP2h0dHBzOi8vd3d3LnByYXZkYS5jb20udWEvZW5nL25ld3MvMjAyNC8wNi8xNS83NDYwOTk5L2luZGV4LmFtcA?oc=5",
+      "published": "2024-06-15T20:52:00.000Z",
+      "description": "Russians attack Poltava Oblast with missiles&nbsp;&nbsp;Ukrainska Pravda",
       "summary": "",
       "author": "",
       "category": ""
@@ -782,6 +782,16 @@
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL05ld3MvQXJ0aWNsZS1WaWV3L0FydGljbGUvMTgwNjk2OS9uYXRpb25hbC1ndWFyZC1hdC10aGUtZm9yZWZyb250LWluLW1pc3NpbGUtZGVmZW5zZS_SAQA?oc=5",
       "published": "2024-02-07T14:41:32.000Z",
       "description": "National Guard at the forefront in missile defense&nbsp;&nbsp;National Guard Bureau",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidmh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE4NDY3L25hdnktd2Fyc2hpcHMtYXJteXMtcGF0cmlvdC1wYWMtMy1haXItZGVmZW5zZS1taXNzaWxlcy_SAQA",
+      "title": "The Navy's Warships Can Now Fire the Army's Patriot PAC-3 Air Defense Missiles - Popular Mechanics",
+      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE4NDY3L25hdnktd2Fyc2hpcHMtYXJteXMtcGF0cmlvdC1wYWMtMy1haXItZGVmZW5zZS1taXNzaWxlcy_SAQA?oc=5",
+      "published": "2024-06-10T14:30:00.000Z",
+      "description": "The Navy's Warships Can Now Fire the Army's Patriot PAC-3 Air Defense Missiles&nbsp;&nbsp;Popular Mechanics",
       "summary": "",
       "author": "",
       "category": ""
@@ -817,11 +827,11 @@
       "category": ""
     },
     {
-      "id": "CBMi5AFodHRwczovL3d3dy5taWxpdGFyeW5ld3MuY29tL25vcmZvbGstbmF2eS1mbGFnc2hpcC9uZXdzL3F1YXJ0ZXJkZWNrL21pc3NpbGUtZGVmZW5zZS1hZ2VuY3ktYW5kLXUtcy1uYXZ5LXN1Y2Nlc3NmdWxseS1kZW1vbnN0cmF0ZS1hZWdpcy13ZWFwb24tc3lzdGVtLWNhcGFiaWxpdGllcy1hZ2FpbnN0LWFkdmFuY2VkL2FydGljbGVfZWJjMDZlYjAtY2MzYi0xMWVlLWI3ZTQtNTcwYTc2NGJhMjhkLmh0bWzSAQA",
-      "title": "Missile Defense Agency and U.S. Navy successfully demonstrate Aegis Weapon System capabilities against advanced ... - American Military News",
-      "link": "https://news.google.com/rss/articles/CBMi5AFodHRwczovL3d3dy5taWxpdGFyeW5ld3MuY29tL25vcmZvbGstbmF2eS1mbGFnc2hpcC9uZXdzL3F1YXJ0ZXJkZWNrL21pc3NpbGUtZGVmZW5zZS1hZ2VuY3ktYW5kLXUtcy1uYXZ5LXN1Y2Nlc3NmdWxseS1kZW1vbnN0cmF0ZS1hZWdpcy13ZWFwb24tc3lzdGVtLWNhcGFiaWxpdGllcy1hZ2FpbnN0LWFkdmFuY2VkL2FydGljbGVfZWJjMDZlYjAtY2MzYi0xMWVlLWI3ZTQtNTcwYTc2NGJhMjhkLmh0bWzSAQA?oc=5",
-      "published": "2024-02-15T08:00:00.000Z",
-      "description": "Missile Defense Agency and U.S. Navy successfully demonstrate Aegis Weapon System capabilities against advanced ...&nbsp;&nbsp;American Military News",
+      "id": "CBMiW2h0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2J1c2luZXNzLzIwMjMvMTIvZGVmZW5zZS1idXNpbmVzcy1icmllZi1kZWNlbWJlci0xMS0yMDIzLzM5MjY3MS_SAQA",
+      "title": "Defense Business Brief: Missile downed in test; Anti-drone kit for Ukraine; Northrop's rocket bet; and more. - Defense One",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL2J1c2luZXNzLzIwMjMvMTIvZGVmZW5zZS1idXNpbmVzcy1icmllZi1kZWNlbWJlci0xMS0yMDIzLzM5MjY3MS_SAQA?oc=5",
+      "published": "2023-12-11T08:00:00.000Z",
+      "description": "Defense Business Brief: Missile downed in test; Anti-drone kit for Ukraine; Northrop's rocket bet; and more.&nbsp;&nbsp;Defense One",
       "summary": "",
       "author": "",
       "category": ""
@@ -857,6 +867,16 @@
       "category": ""
     },
     {
+      "id": "CBMigwFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlL3JhZGFyLzIwMjMvMTEvMjAvcmF5dGhlb24tcmFkYXItZGVmZWF0cy1taXNzaWxlLWluLXVzLWFybXktdGVzdC1vZi1wYXRyaW90LXJlcGxhY2VtZW50L9IBAA",
+      "title": "Patriot replacement radar defeats cruise missile in Raytheon test - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlL3JhZGFyLzIwMjMvMTEvMjAvcmF5dGhlb24tcmFkYXItZGVmZWF0cy1taXNzaWxlLWluLXVzLWFybXktdGVzdC1vZi1wYXRyaW90LXJlcGxhY2VtZW50L9IBAA?oc=5",
+      "published": "2023-11-20T08:00:00.000Z",
+      "description": "Patriot replacement radar defeats cruise missile in Raytheon test&nbsp;&nbsp;C4ISRNET",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiW2h0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDI0LzA1LzA0L3dvcmxkL3BvbGl0aWNzL21pc3NpbGUtZGVmZW5zZS1nbG9iYWwtdXJnZW5jeS_SAQA",
       "title": "Missile defense successes fuel global urgency to acquire systems - The Japan Times",
       "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDI0LzA1LzA0L3dvcmxkL3BvbGl0aWNzL21pc3NpbGUtZGVmZW5zZS1nbG9iYWwtdXJnZW5jeS_SAQA?oc=5",
@@ -887,31 +907,11 @@
       "category": ""
     },
     {
-      "id": "CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyMy8xMS8yMC9saXZlLWZpcmUtdGVzdC1zdWNjZXNzLWZvci1ydHhzLXJheXRoZW9uLWxvd2VyLXRpZXItYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utc2Vuc9IBAA",
-      "title": "Live-fire test success for RTX's Raytheon Lower Tier Air and Missile Defense Sensor - Raytheon Technologies",
-      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyMy8xMS8yMC9saXZlLWZpcmUtdGVzdC1zdWNjZXNzLWZvci1ydHhzLXJheXRoZW9uLWxvd2VyLXRpZXItYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utc2Vuc9IBAA?oc=5",
-      "published": "2023-11-20T08:00:00.000Z",
-      "description": "Live-fire test success for RTX's Raytheon Lower Tier Air and Missile Defense Sensor&nbsp;&nbsp;Raytheon Technologies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidmh0dHBzOi8vZmVkZXJhbG5ld3NuZXR3b3JrLmNvbS9hcm15LzIwMjMvMTAvdGhlLW1hbi13aG9zLWhlbHBpbmctcHJvdGVjdC1hbWVyaWNhbnMtZnJvbS1taXNzaWxlLWF0dGFja3MtZnJvbS1hbnl3aGVyZS_SAQA",
       "title": "The man who's helping protect Americans from missile attacks from anywhere - Federal News Network",
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vZmVkZXJhbG5ld3NuZXR3b3JrLmNvbS9hcm15LzIwMjMvMTAvdGhlLW1hbi13aG9zLWhlbHBpbmctcHJvdGVjdC1hbWVyaWNhbnMtZnJvbS1taXNzaWxlLWF0dGFja3MtZnJvbS1hbnl3aGVyZS_SAQA?oc=5",
       "published": "2023-10-12T07:00:00.000Z",
       "description": "The man who's helping protect Americans from missile attacks from anywhere&nbsp;&nbsp;Federal News Network",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiRWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDI0LzAxLzE2L3NkYS10cmFuY2hlLTItdHJhY2tpbmctY29udHJhY3RzL9IBAA",
-      "title": "Space Development Agency picks 3 vendors to build next layer of missile tracking satellites - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDI0LzAxLzE2L3NkYS10cmFuY2hlLTItdHJhY2tpbmctY29udHJhY3RzL9IBAA?oc=5",
-      "published": "2024-01-16T08:00:00.000Z",
-      "description": "Space Development Agency picks 3 vendors to build next layer of missile tracking satellites&nbsp;&nbsp;DefenseScoop",
       "summary": "",
       "author": "",
       "category": ""
@@ -927,11 +927,31 @@
       "category": ""
     },
     {
+      "id": "CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDQyMTE0NzXSAQA",
+      "title": "Iran's Air Defense System Hit, New Satellite Image Shows - ایران اینترنشنال",
+      "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDQyMTE0NzXSAQA?oc=5",
+      "published": "2024-04-21T07:00:00.000Z",
+      "description": "Iran's Air Defense System Hit, New Satellite Image Shows&nbsp;&nbsp;ایران اینترنشنال",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wOS93b3JsZC9pcm9uLWRvbWUtaXNyYWVsLWRlZmVuc2UtZXhwbGFpbmVkLWludGwtZGcvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTAvMDkvd29ybGQvaXJvbi1kb21lLWlzcmFlbC1kZWZlbnNlLWV4cGxhaW5lZC1pbnRsLWRn",
       "title": "The Iron Dome, explained and visualized - CNN",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wOS93b3JsZC9pcm9uLWRvbWUtaXNyYWVsLWRlZmVuc2UtZXhwbGFpbmVkLWludGwtZGcvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMTAvMDkvd29ybGQvaXJvbi1kb21lLWlzcmFlbC1kZWZlbnNlLWV4cGxhaW5lZC1pbnRsLWRn?oc=5",
       "published": "2023-10-09T07:00:00.000Z",
       "description": "The Iron Dome, explained and visualized&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSGh0dHBzOi8vd3d3LmF1c2Eub3JnL25ld3MvcGFwZXItYXJteS1tdXN0LXJlYWR5LWFudGktdGFuay1taXNzaWxlLXRocmVhdNIBAA",
+      "title": "Paper: Army Must Ready for Anti-Tank Missile Threat - Association of the United States Army",
+      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmF1c2Eub3JnL25ld3MvcGFwZXItYXJteS1tdXN0LXJlYWR5LWFudGktdGFuay1taXNzaWxlLXRocmVhdNIBAA?oc=5",
+      "published": "2023-10-25T07:00:00.000Z",
+      "description": "Paper: Army Must Ready for Anti-Tank Missile Threat&nbsp;&nbsp;Association of the United States Army",
       "summary": "",
       "author": "",
       "category": ""
@@ -982,26 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZkZC5vcmcvYW5hbHlzaXMvMjAyMy8xMC8yNS91LXMtZGVwbG95cy1hZGRpdGlvbmFsLWFpci1hbmQtbWlzc2lsZS1kZWZlbnNlcy10by1taWRkbGUtZWFzdC_SAQA?oc=5",
       "published": "2023-10-25T07:00:00.000Z",
       "description": "U.S. Deploys Additional Air and Missile Defenses to Middle East&nbsp;&nbsp;Foundation for Defense of Democracies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihgFodHRwczovL3d3dy5tYXJpbmVzLm1pbC9OZXdzL05ld3MtRGlzcGxheS9BcnRpY2xlLzM0NzM1MjQvYmFjay10by10aGUtZnV0dXJlLW1yaWMtYW5kLXRoZS1yZWJpcnRoLW9mLXRoZS1jb3Jwcy1haXItZGVmZW5zZS1jYXBhYmlsaXR5L9IBAA",
-      "title": "Back to the Future: MRIC and the rebirth of the Corps' air defense capability - Marines.mil",
-      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tYXJpbmVzLm1pbC9OZXdzL05ld3MtRGlzcGxheS9BcnRpY2xlLzM0NzM1MjQvYmFjay10by10aGUtZnV0dXJlLW1yaWMtYW5kLXRoZS1yZWJpcnRoLW9mLXRoZS1jb3Jwcy1haXItZGVmZW5zZS1jYXBhYmlsaXR5L9IBAA?oc=5",
-      "published": "2023-07-27T07:00:00.000Z",
-      "description": "Back to the Future: MRIC and the rebirth of the Corps' air defense capability&nbsp;&nbsp;Marines.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWWh0dHBzOi8vd3d3LmFqYy5vcmcvbmV3cy81LXRoaW5ncy15b3UtbmVlZC10by1rbm93LWFib3V0LWlzcmFlbHMtaXJvbi1kb21lLWRlZmVuc2Utc3lzdGVt0gEA",
-      "title": "5 Things You Need to Know About Israel's Iron Dome Defense System - American Jewish Committee",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmFqYy5vcmcvbmV3cy81LXRoaW5ncy15b3UtbmVlZC10by1rbm93LWFib3V0LWlzcmFlbHMtaXJvbi1kb21lLWRlZmVuc2Utc3lzdGVt0gEA?oc=5",
-      "published": "2023-10-12T07:00:00.000Z",
-      "description": "5 Things You Need to Know About Israel's Iron Dome Defense System&nbsp;&nbsp;American Jewish Committee",
       "summary": "",
       "author": "",
       "category": ""

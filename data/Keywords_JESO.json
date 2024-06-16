@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-16T20:23:23.000Z",
+  "published": "2024-06-16T21:25:38.000Z",
   "entries": [
     {
       "id": "CBMiaWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEyLzI3L2Fpci1mb3JjZS1wdWJsaXNoZXMtbmV3LWRvY3RyaW5lLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zL9IBAA",
@@ -32,16 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2Rpc2EtcmVsZWFzZXMtbmV3LWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1jYXBhYmlsaXR5LXRvLWVuaGFuY2UtbW9kZXJuLXdhcmZpZ2h0aW5nLTMwMjAwOTQyMS5odG1s0gEA?oc=5",
       "published": "2023-12-07T08:00:00.000Z",
       "description": "DISA releases new electromagnetic spectrum capability to enhance modern warfighting&nbsp;&nbsp;PR Newswire",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
-      "title": "JEC Director - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
-      "published": "2023-08-25T21:29:54.000Z",
-      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -108,10 +98,10 @@
     },
     {
       "id": "CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1MDAxNi91cy1zdHJhdGVnaWMtY29tbWFuZC1zdGFuZHMtdXAtam9pbnQtZW1zLW9wZXJhdGlvbnMtY2VudGVy0gEA",
-      "title": "News - U.S. Strategic Command Stands Up Joint EMS Operations Center - DVIDS",
+      "title": "U.S. Strategic Command Stands Up Joint EMS Operations Center - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1MDAxNi91cy1zdHJhdGVnaWMtY29tbWFuZC1zdGFuZHMtdXAtam9pbnQtZW1zLW9wZXJhdGlvbnMtY2VudGVy0gEA?oc=5",
       "published": "2023-07-26T07:00:00.000Z",
-      "description": "News - U.S. Strategic Command Stands Up Joint EMS Operations Center&nbsp;&nbsp;DVIDS",
+      "description": "U.S. Strategic Command Stands Up Joint EMS Operations Center&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
@@ -132,6 +122,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmFzZG5ld3MuY29tL25ld3MvZGVmZW5zZS8yMDI0LzA0LzAyL3BhbGFudGlyLWRlbGl2ZXItZW1ibWotZHMtcHJvdG90eXBlLWRpc2HSAQA?oc=5",
       "published": "2024-04-02T07:00:00.000Z",
       "description": "Palantir to Deliver EMBM-J DS Prototype to the DISA&nbsp;&nbsp;ASDNews",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
+      "title": "JEC Director - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
+      "published": "2023-07-26T17:09:01.000Z",
+      "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -188,10 +188,10 @@
     },
     {
       "id": "CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA",
-      "title": "J1 Director, Human Capital - Department of Defense",
+      "title": "J1 Director, Human Capital > U.S - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvUmVsZWFzZXMvUmVsZWFzZS9BcnRpY2xlLzk1OTQ2MC9qMS1kaXJlY3Rvci1odW1hbi1jYXBpdGFsL9IBAA?oc=5",
       "published": "2023-09-24T10:56:22.000Z",
-      "description": "J1 Director, Human Capital&nbsp;&nbsp;Department of Defense",
+      "description": "J1 Director, Human Capital > U.S&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -218,10 +218,10 @@
     },
     {
       "id": "CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA",
-      "title": "Gen. AnnMarie Anthony to Lead Pentagon’s New Spectrum Office - MeriTalk",
+      "title": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office - MeriTalk",
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1lcml0YWxrLmNvbS9hcnRpY2xlcy9nZW4tYW5ubWFyaWUtYW50aG9ueS10by1sZWFkLXBlbnRhZ29ucy1uZXctc3BlY3RydW0tb2ZmaWNlL9IBAA?oc=5",
       "published": "2023-07-27T07:00:00.000Z",
-      "description": "Gen. AnnMarie Anthony to Lead Pentagon’s New Spectrum Office&nbsp;&nbsp;MeriTalk",
+      "description": "Gen. AnnMarie Anthony to Lead Pentagon's New Spectrum Office&nbsp;&nbsp;MeriTalk",
       "summary": "",
       "author": "",
       "category": ""
@@ -257,21 +257,21 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAzL3N0cmF0Y29tLXdyYXBwaW5nLXNwZWN0cnVtLW9wcy1jZW50ZXItcGxhbi1hcy1taWxpdGFyeS1mYWNlcy1iYW5kd2lkdGgtZ3JhYi1ieS01Zy1maXJtcy_SAYIBaHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjMvMDMvc3RyYXRjb20td3JhcHBpbmctc3BlY3RydW0tb3BzLWNlbnRlci1wbGFuLWFzLW1pbGl0YXJ5LWZhY2VzLWJhbmR3aWR0aC1ncmFiLWJ5LTVnLWZpcm1zLz9hbXA9MQ",
-      "title": "STRATCOM wrapping spectrum ops center plan, as military faces bandwidth grab by 5G firms - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAzL3N0cmF0Y29tLXdyYXBwaW5nLXNwZWN0cnVtLW9wcy1jZW50ZXItcGxhbi1hcy1taWxpdGFyeS1mYWNlcy1iYW5kd2lkdGgtZ3JhYi1ieS01Zy1maXJtcy_SAYIBaHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjMvMDMvc3RyYXRjb20td3JhcHBpbmctc3BlY3RydW0tb3BzLWNlbnRlci1wbGFuLWFzLW1pbGl0YXJ5LWZhY2VzLWJhbmR3aWR0aC1ncmFiLWJ5LTVnLWZpcm1zLz9hbXA9MQ?oc=5",
-      "published": "2023-03-09T08:00:00.000Z",
-      "description": "STRATCOM wrapping spectrum ops center plan, as military faces bandwidth grab by 5G firms&nbsp;&nbsp;Breaking Defense",
+      "id": "CBMicGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxOS8xMi8xOC9vbmUtd2F5LXRoZS1wZW50YWdvbi13YW50cy10by1pbXByb3ZlLWVsZWN0cm9uaWMtd2FyZmFyZS_SAQA",
+      "title": "One way the Pentagon wants to improve electronic warfare - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxOS8xMi8xOC9vbmUtd2F5LXRoZS1wZW50YWdvbi13YW50cy10by1pbXByb3ZlLWVsZWN0cm9uaWMtd2FyZmFyZS_SAQA?oc=5",
+      "published": "2019-12-18T08:00:00.000Z",
+      "description": "One way the Pentagon wants to improve electronic warfare&nbsp;&nbsp;C4ISRNET",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxOS8xMi8xOC9vbmUtd2F5LXRoZS1wZW50YWdvbi13YW50cy10by1pbXByb3ZlLWVsZWN0cm9uaWMtd2FyZmFyZS_SAQA",
-      "title": "DoD trying to help commanders better understand EW - C4ISRNET",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAxOS8xMi8xOC9vbmUtd2F5LXRoZS1wZW50YWdvbi13YW50cy10by1pbXByb3ZlLWVsZWN0cm9uaWMtd2FyZmFyZS_SAQA?oc=5",
-      "published": "2019-12-18T08:00:00.000Z",
-      "description": "DoD trying to help commanders better understand EW&nbsp;&nbsp;C4ISRNET",
+      "id": "CBMifGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAzL3N0cmF0Y29tLXdyYXBwaW5nLXNwZWN0cnVtLW9wcy1jZW50ZXItcGxhbi1hcy1taWxpdGFyeS1mYWNlcy1iYW5kd2lkdGgtZ3JhYi1ieS01Zy1maXJtcy_SAYIBaHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjMvMDMvc3RyYXRjb20td3JhcHBpbmctc3BlY3RydW0tb3BzLWNlbnRlci1wbGFuLWFzLW1pbGl0YXJ5LWZhY2VzLWJhbmR3aWR0aC1ncmFiLWJ5LTVnLWZpcm1zLz9hbXA9MQ",
+      "title": "STRATCOM wrapping spectrum ops center plan, as military faces bandwidth grab by 5G firms - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAzL3N0cmF0Y29tLXdyYXBwaW5nLXNwZWN0cnVtLW9wcy1jZW50ZXItcGxhbi1hcy1taWxpdGFyeS1mYWNlcy1iYW5kd2lkdGgtZ3JhYi1ieS01Zy1maXJtcy_SAYIBaHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjMvMDMvc3RyYXRjb20td3JhcHBpbmctc3BlY3RydW0tb3BzLWNlbnRlci1wbGFuLWFzLW1pbGl0YXJ5LWZhY2VzLWJhbmR3aWR0aC1ncmFiLWJ5LTVnLWZpcm1zLz9hbXA9MQ?oc=5",
+      "published": "2023-03-09T08:00:00.000Z",
+      "description": "STRATCOM wrapping spectrum ops center plan, as military faces bandwidth grab by 5G firms&nbsp;&nbsp;Breaking Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -407,16 +407,6 @@
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA",
-      "title": "National Guard - National Guard Bureau",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA?oc=5",
-      "published": "2020-06-08T17:09:27.000Z",
-      "description": "National Guard&nbsp;&nbsp;National Guard Bureau",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMikAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlLzIwMjAvMTAvMTIvdGhlLXBlbnRhZ29uLWlzLWRldmVsb3BpbmctbW9kZXJuLWFyY2hpdGVjdHVyZXMtdG8tZG9taW5hdGUtdGhlLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAQA",
       "title": "The Pentagon is developing modern architectures to dominate the electromagnetic spectrum - C4ISRNET",
       "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5jNGlzcm5ldC5jb20vZWxlY3Ryb25pYy13YXJmYXJlLzIwMjAvMTAvMTIvdGhlLXBlbnRhZ29uLWlzLWRldmVsb3BpbmctbW9kZXJuLWFyY2hpdGVjdHVyZXMtdG8tZG9taW5hdGUtdGhlLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS_SAQA?oc=5",
@@ -472,6 +462,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFmY2VhLm9yZy9zaWduYWwtbWVkaWEvaW1wcm92aW5nLW9wZXJhdGlvbnMtY29tcGxleC1zcGVjdHJ1bS1lbnZpcm9ubWVudNIBAA?oc=5",
       "published": "2018-04-11T07:00:00.000Z",
       "description": "Improving Operations in a Complex Spectrum Environment&nbsp;&nbsp;Signal Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS8yMDE2LzExLzE1L2Fpci1mb3JjZS13YW50cy1pbmR1c3RyeS1pbnB1dC1mb3ItZW5oYW5jZWQtZWxlY3Ryb21hZ25ldGljLWJhdHRsZS1tYW5hZ2VtZW50LWNhcGFiaWxpdHkv0gEA",
+      "title": "Air Force wants industry input for enhanced electromagnetic battle management capability - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS8yMDE2LzExLzE1L2Fpci1mb3JjZS13YW50cy1pbmR1c3RyeS1pbnB1dC1mb3ItZW5oYW5jZWQtZWxlY3Ryb21hZ25ldGljLWJhdHRsZS1tYW5hZ2VtZW50LWNhcGFiaWxpdHkv0gEA?oc=5",
+      "published": "2016-11-15T08:00:00.000Z",
+      "description": "Air Force wants industry input for enhanced electromagnetic battle management capability&nbsp;&nbsp;C4ISRNET",
       "summary": "",
       "author": "",
       "category": ""
@@ -558,10 +558,10 @@
     },
     {
       "id": "CBMiKGh0dHBzOi8vYWRici5jb20uYXUvamVyaWNoby1tZWV0cy1qZW1zby_SAQA",
-      "title": "JERICHO MEETS JEMSO - ADBR",
+      "title": "JERICHO MEETS JEMSO | ADBR - ADBR",
       "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vYWRici5jb20uYXUvamVyaWNoby1tZWV0cy1qZW1zby_SAQA?oc=5",
       "published": "2018-07-17T07:00:00.000Z",
-      "description": "JERICHO MEETS JEMSO&nbsp;&nbsp;ADBR",
+      "description": "JERICHO MEETS JEMSO | ADBR&nbsp;&nbsp;ADBR",
       "summary": "",
       "author": "",
       "category": ""

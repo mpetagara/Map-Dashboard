@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-16T20:23:24.000Z",
+  "published": "2024-06-16T21:25:38.000Z",
   "entries": [
     {
       "id": "CBMiWGh0dHBzOi8vd3d3LmtzbGEuY29tLzIwMjQvMDYvMTIvYmFmYi13b21lbnMtZXhoaWJpdC1vcGVucy1iYXJrc2RhbGUtZ2xvYmFsLXBvd2VyLW11c2V1bS_SAWdodHRwczovL3d3dy5rc2xhLmNvbS8yMDI0LzA2LzEyL2JhZmItd29tZW5zLWV4aGliaXQtb3BlbnMtYmFya3NkYWxlLWdsb2JhbC1wb3dlci1tdXNldW0vP291dHB1dFR5cGU9YW1w",
@@ -62,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEyLzExL3doYXQtaXMtdGhlLWdsb2JhbC1zdHJpa2UtZGVtYW5kaW5nLWFuLWVuZC10by1pc3JhZWxpLXdhci1vbi1nYXph0gFvaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIzLzEyLzExL3doYXQtaXMtdGhlLWdsb2JhbC1zdHJpa2UtZGVtYW5kaW5nLWFuLWVuZC10by1pc3JhZWxpLXdhci1vbi1nYXph?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "What is the global strike demanding an end to Israeli war on Gaza?&nbsp;&nbsp;Al Jazeera English",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA",
+      "title": "Global Strike for Gaza: LA - CODEPINK - Women for Peace - CodePink",
+      "link": "https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA?oc=5",
+      "published": "2024-04-15T07:00:00.000Z",
+      "description": "Global Strike for Gaza: LA - CODEPINK - Women for Peace&nbsp;&nbsp;CodePink",
       "summary": "",
       "author": "",
       "category": ""
@@ -167,16 +177,6 @@
       "category": ""
     },
     {
-      "id": "CBMibmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NDMyNDMvdGVhbS1taW5vdC1jb21wbGV0ZXMtZXhlcmNpc2UtcHJhaXJpZS12aWdpbGFuY2Uv0gEA",
-      "title": "Team Minot completes Exercise Prairie Vigilance - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NDMyNDMvdGVhbS1taW5vdC1jb21wbGV0ZXMtZXhlcmNpc2UtcHJhaXJpZS12aWdpbGFuY2Uv0gEA?oc=5",
-      "published": "2024-04-15T07:00:00.000Z",
-      "description": "Team Minot completes Exercise Prairie Vigilance&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTIyMDYvZWlnaHRoLWFpci1mb3JjZS1jb21tYW5kLXRlYW0tdmlzaXRzLWR5ZXNzL9IBAA",
       "title": "Eighth Air Force Command Team visits Dyess - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTIyMDYvZWlnaHRoLWFpci1mb3JjZS1jb21tYW5kLXRlYW0tdmlzaXRzLWR5ZXNzL9IBAA?oc=5",
@@ -197,11 +197,11 @@
       "category": ""
     },
     {
-      "id": "CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA",
-      "title": "Global Strike for Gaza: LA - CODEPINK - Women for Peace - CodePink",
-      "link": "https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA?oc=5",
-      "published": "2024-04-15T07:00:00.000Z",
-      "description": "Global Strike for Gaza: LA - CODEPINK - Women for Peace&nbsp;&nbsp;CodePink",
+      "id": "CBMiemh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTgxOTkvbHQtZ2VuLWx1dHRvbi1hbmQtbm9ydGgtZGFrb3RhLWNpdmljLWxlYWRlcnMtdG91ci1taW5vdC1hZmIv0gEA",
+      "title": "Lt. Gen. Lutton and North Dakota Civic Leaders tour Minot AFB - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTgxOTkvbHQtZ2VuLWx1dHRvbi1hbmQtbm9ydGgtZGFrb3RhLWNpdmljLWxlYWRlcnMtdG91ci1taW5vdC1hZmIv0gEA?oc=5",
+      "published": "2024-04-26T07:00:00.000Z",
+      "description": "Lt. Gen. Lutton and North Dakota Civic Leaders tour Minot AFB&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -212,16 +212,6 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LndwYWZiLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MTc2MTAvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1lc3RhYmxpc2hlcy1uZXctZGlyZWN0b3JhdGUv0gEA?oc=5",
       "published": "2023-12-13T08:00:00.000Z",
       "description": "Air Force Global Strike Command establishes new directorate&nbsp;&nbsp;AF.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiemh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTgxOTkvbHQtZ2VuLWx1dHRvbi1hbmQtbm9ydGgtZGFrb3RhLWNpdmljLWxlYWRlcnMtdG91ci1taW5vdC1hZmIv0gEA",
-      "title": "Lt. Gen. Lutton and North Dakota Civic Leaders tour Minot AFB - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTgxOTkvbHQtZ2VuLWx1dHRvbi1hbmQtbm9ydGgtZGFrb3RhLWNpdmljLWxlYWRlcnMtdG91ci1taW5vdC1hZmIv0gEA?oc=5",
-      "published": "2024-04-26T07:00:00.000Z",
-      "description": "Lt. Gen. Lutton and North Dakota Civic Leaders tour Minot AFB&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -257,31 +247,11 @@
       "category": ""
     },
     {
-      "id": "CBMiX2h0dHBzOi8vd3d3Lnd1c2Yub3JnL3VuaXZlcnNpdHktYmVhdC8yMDI0LTAxLTI2L2ltcGFjdC1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLXRhbXBhLWJheS1hcmVh0gEA",
-      "title": "The impact of a Palestinian global strike echoes through Tampa Bay area - WUSF",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lnd1c2Yub3JnL3VuaXZlcnNpdHktYmVhdC8yMDI0LTAxLTI2L2ltcGFjdC1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLXRhbXBhLWJheS1hcmVh0gEA?oc=5",
-      "published": "2024-01-26T08:00:00.000Z",
-      "description": "The impact of a Palestinian global strike echoes through Tampa Bay area&nbsp;&nbsp;WUSF",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiOmh0dHBzOi8vd3d3Lm9wZW5kZW1vY3JhY3kubmV0L2VuL2dhemEtcmFmYWgtZ2xvYmFsLXN0cmlrZS_SAQA",
       "title": "Global strike for Gaza: #RiseForRafah - openDemocracy",
       "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm9wZW5kZW1vY3JhY3kubmV0L2VuL2dhemEtcmFmYWgtZ2xvYmFsLXN0cmlrZS_SAQA?oc=5",
       "published": "2024-05-09T07:00:00.000Z",
       "description": "Global strike for Gaza: #RiseForRafah&nbsp;&nbsp;openDemocracy",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMidWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEyLzEwL3BhbGVzdGluaWFucy1jYWxsLWZvci1nbG9iYWwtc3RyaWtlLW9uLW1vbmRheS10by1kZW1hbmQtaW1tZWRpYXRlLWNlYXNlZmlyZdIBeWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8xMi8xMC9wYWxlc3RpbmlhbnMtY2FsbC1mb3ItZ2xvYmFsLXN0cmlrZS1vbi1tb25kYXktdG8tZGVtYW5kLWltbWVkaWF0ZS1jZWFzZWZpcmU",
-      "title": "Palestinians call for global strike on Monday to demand Gaza ceasefire - Al Jazeera English",
-      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEyLzEwL3BhbGVzdGluaWFucy1jYWxsLWZvci1nbG9iYWwtc3RyaWtlLW9uLW1vbmRheS10by1kZW1hbmQtaW1tZWRpYXRlLWNlYXNlZmlyZdIBeWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8xMi8xMC9wYWxlc3RpbmlhbnMtY2FsbC1mb3ItZ2xvYmFsLXN0cmlrZS1vbi1tb25kYXktdG8tZGVtYW5kLWltbWVkaWF0ZS1jZWFzZWZpcmU?oc=5",
-      "published": "2023-12-10T08:00:00.000Z",
-      "description": "Palestinians call for global strike on Monday to demand Gaza ceasefire&nbsp;&nbsp;Al Jazeera English",
       "summary": "",
       "author": "",
       "category": ""
@@ -297,11 +267,31 @@
       "category": ""
     },
     {
+      "id": "CBMiX2h0dHBzOi8vd3d3Lnd1c2Yub3JnL3VuaXZlcnNpdHktYmVhdC8yMDI0LTAxLTI2L2ltcGFjdC1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLXRhbXBhLWJheS1hcmVh0gEA",
+      "title": "The impact of a Palestinian global strike echoes through Tampa Bay area - WUSF",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lnd1c2Yub3JnL3VuaXZlcnNpdHktYmVhdC8yMDI0LTAxLTI2L2ltcGFjdC1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLXRhbXBhLWJheS1hcmVh0gEA?oc=5",
+      "published": "2024-01-26T08:00:00.000Z",
+      "description": "The impact of a Palestinian global strike echoes through Tampa Bay area&nbsp;&nbsp;WUSF",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiemh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTYxNDAva2luZ2Zpc2gtYWNlLXRlYWNoaW5nLWxvZ2lzdGljcy1mcm9tLXRhYmxldG9wLXRvLWZsaWdodC1vcHMv0gEA",
       "title": "Kingfish ACE: Teaching Logistics From Tabletop to Flight Ops - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTYxNDAva2luZ2Zpc2gtYWNlLXRlYWNoaW5nLWxvZ2lzdGljcy1mcm9tLXRhYmxldG9wLXRvLWZsaWdodC1vcHMv0gEA?oc=5",
       "published": "2024-03-21T07:00:00.000Z",
       "description": "Kingfish ACE: Teaching Logistics From Tabletop to Flight Ops&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEyLzEwL3BhbGVzdGluaWFucy1jYWxsLWZvci1nbG9iYWwtc3RyaWtlLW9uLW1vbmRheS10by1kZW1hbmQtaW1tZWRpYXRlLWNlYXNlZmlyZdIBeWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8xMi8xMC9wYWxlc3RpbmlhbnMtY2FsbC1mb3ItZ2xvYmFsLXN0cmlrZS1vbi1tb25kYXktdG8tZGVtYW5kLWltbWVkaWF0ZS1jZWFzZWZpcmU",
+      "title": "Palestinians call for global strike on Monday to demand Gaza ceasefire - Al Jazeera English",
+      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEyLzEwL3BhbGVzdGluaWFucy1jYWxsLWZvci1nbG9iYWwtc3RyaWtlLW9uLW1vbmRheS10by1kZW1hbmQtaW1tZWRpYXRlLWNlYXNlZmlyZdIBeWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyMy8xMi8xMC9wYWxlc3RpbmlhbnMtY2FsbC1mb3ItZ2xvYmFsLXN0cmlrZS1vbi1tb25kYXktdG8tZGVtYW5kLWltbWVkaWF0ZS1jZWFzZWZpcmU?oc=5",
+      "published": "2023-12-10T08:00:00.000Z",
+      "description": "Palestinians call for global strike on Monday to demand Gaza ceasefire&nbsp;&nbsp;Al Jazeera English",
       "summary": "",
       "author": "",
       "category": ""
@@ -377,21 +367,21 @@
       "category": ""
     },
     {
-      "id": "CBMifWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MDI0NzEvbWFsbXN0cm9tLWNlbGVicmF0ZXMtYXJyaXZhbC1vZi1pdHMtZmlyc3QtZ3JleS13b2xmLWhlbGljb3B0ZXIv0gEA",
-      "title": "Malmstrom celebrates arrival of its first Grey Wolf helicopter - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MDI0NzEvbWFsbXN0cm9tLWNlbGVicmF0ZXMtYXJyaXZhbC1vZi1pdHMtZmlyc3QtZ3JleS13b2xmLWhlbGljb3B0ZXIv0gEA?oc=5",
-      "published": "2024-03-09T08:00:00.000Z",
-      "description": "Malmstrom celebrates arrival of its first Grey Wolf helicopter&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv",
       "title": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side - The Aviation Geek Club",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv?oc=5",
       "published": "2024-06-14T09:27:32.000Z",
       "description": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side&nbsp;&nbsp;The Aviation Geek Club",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MDI0NzEvbWFsbXN0cm9tLWNlbGVicmF0ZXMtYXJyaXZhbC1vZi1pdHMtZmlyc3QtZ3JleS13b2xmLWhlbGljb3B0ZXIv0gEA",
+      "title": "Malmstrom celebrates arrival of its first Grey Wolf helicopter - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MDI0NzEvbWFsbXN0cm9tLWNlbGVicmF0ZXMtYXJyaXZhbC1vZi1pdHMtZmlyc3QtZ3JleS13b2xmLWhlbGljb3B0ZXIv0gEA?oc=5",
+      "published": "2024-03-09T08:00:00.000Z",
+      "description": "Malmstrom celebrates arrival of its first Grey Wolf helicopter&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -407,51 +397,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzNjIvcm9ib3QtZG9ncy1icmluZy10aGUtYmFyay10by1iYXJrc2RhbGUv0gEA",
-      "title": "Robot dogs bring the bark to Barksdale - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzNjIvcm9ib3QtZG9ncy1icmluZy10aGUtYmFyay10by1iYXJrc2RhbGUv0gEA?oc=5",
-      "published": "2023-11-20T08:00:00.000Z",
-      "description": "Robot dogs bring the bark to Barksdale&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWmh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MTcwNTMvYWZnc2MtZXN0YWJsaXNoZXMtbmV3LWRpcmVjdG9yYXRlL9IBAA",
-      "title": "AFGSC establishes new directorate > Air Force > Article Display - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MTcwNTMvYWZnc2MtZXN0YWJsaXNoZXMtbmV3LWRpcmVjdG9yYXRlL9IBAA?oc=5",
-      "published": "2023-12-14T08:00:00.000Z",
-      "description": "AFGSC establishes new directorate > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODA5NDcvZGlyZWN0b3JzLWZyb20tbmF0aW9uYWwtbGFib3JhdG9yaWVzLWltbWVyc2UtaW4tZ2xvYmFsLXN0cmlrZS1taXNzaW9uL9IBAA",
-      "title": "Directors from National Laboratories immerse in Global Strike mission - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODA5NDcvZGlyZWN0b3JzLWZyb20tbmF0aW9uYWwtbGFib3JhdG9yaWVzLWltbWVyc2UtaW4tZ2xvYmFsLXN0cmlrZS1taXNzaW9uL9IBAA?oc=5",
-      "published": "2023-11-03T07:00:00.000Z",
-      "description": "Directors from National Laboratories immerse in Global Strike mission&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA",
-      "title": "The Striker Women of BTF 24-2 - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA?oc=5",
-      "published": "2024-04-24T07:00:00.000Z",
-      "description": "The Striker Women of BTF 24-2&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiPmh0dHBzOi8vd3d3LmJvc3NpZXJub3cuY29tL2hvbWUvYmJ3ZW85cWtzNnZqMndtZ3oybHo0YnIzMWZsdmxp0gEA",
       "title": "Inside Barksdale AFB: Global Strike 2 for 2 in Minuteman III tests — BossierNow - Bossier Now",
       "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmJvc3NpZXJub3cuY29tL2hvbWUvYmJ3ZW85cWtzNnZqMndtZ3oybHo0YnIzMWZsdmxp0gEA?oc=5",
       "published": "2024-06-06T12:43:42.000Z",
       "description": "Inside Barksdale AFB: Global Strike 2 for 2 in Minuteman III tests — BossierNow&nbsp;&nbsp;Bossier Now",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihAFodHRwczovL3N0YXRlbmV3cy5jb20vYXJ0aWNsZS8yMDI0LzA1L2FjdGl2aXN0cy1zdXBwb3J0LXN0cmlrZS1mb3ItcmFmYWgtbW92ZW1lbnQtY2FsbC1mb3ItZGl2ZXN0bWVudD9jdD1jb250ZW50X29wZW4mY3Y9Y2JveF9sYXRlc3TSAQA",
+      "title": "Activists support Strike for Rafah movement, call for divestment - The State News",
+      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3N0YXRlbmV3cy5jb20vYXJ0aWNsZS8yMDI0LzA1L2FjdGl2aXN0cy1zdXBwb3J0LXN0cmlrZS1mb3ItcmFmYWgtbW92ZW1lbnQtY2FsbC1mb3ItZGl2ZXN0bWVudD9jdD1jb250ZW50X29wZW4mY3Y9Y2JveF9sYXRlc3TSAQA?oc=5",
+      "published": "2024-05-10T07:00:00.000Z",
+      "description": "Activists support Strike for Rafah movement, call for divestment&nbsp;&nbsp;The State News",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,6 +427,46 @@
       "category": ""
     },
     {
+      "id": "CBMiWmh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MTcwNTMvYWZnc2MtZXN0YWJsaXNoZXMtbmV3LWRpcmVjdG9yYXRlL9IBAA",
+      "title": "AFGSC establishes new directorate > Air Force > Article Display - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MTcwNTMvYWZnc2MtZXN0YWJsaXNoZXMtbmV3LWRpcmVjdG9yYXRlL9IBAA?oc=5",
+      "published": "2023-12-14T08:00:00.000Z",
+      "description": "AFGSC establishes new directorate > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzNjIvcm9ib3QtZG9ncy1icmluZy10aGUtYmFyay10by1iYXJrc2RhbGUv0gEA",
+      "title": "Robot dogs bring the bark to Barksdale - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzNjIvcm9ib3QtZG9ncy1icmluZy10aGUtYmFyay10by1iYXJrc2RhbGUv0gEA?oc=5",
+      "published": "2023-11-20T08:00:00.000Z",
+      "description": "Robot dogs bring the bark to Barksdale&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA",
+      "title": "The Striker Women of BTF 24-2 - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA?oc=5",
+      "published": "2024-04-24T07:00:00.000Z",
+      "description": "The Striker Women of BTF 24-2&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODA5NDcvZGlyZWN0b3JzLWZyb20tbmF0aW9uYWwtbGFib3JhdG9yaWVzLWltbWVyc2UtaW4tZ2xvYmFsLXN0cmlrZS1taXNzaW9uL9IBAA",
+      "title": "Directors from National Laboratories immerse in Global Strike mission - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODA5NDcvZGlyZWN0b3JzLWZyb20tbmF0aW9uYWwtbGFib3JhdG9yaWVzLWltbWVyc2UtaW4tZ2xvYmFsLXN0cmlrZS1taXNzaW9uL9IBAA?oc=5",
+      "published": "2023-11-03T07:00:00.000Z",
+      "description": "Directors from National Laboratories immerse in Global Strike mission&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiWmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2NTc4MDkvZWxsc3dvcnRoLWdlbmVyYXRlcy1ib21iZXJzL9IBAA",
       "title": "Ellsworth generates bombers - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2NTc4MDkvZWxsc3dvcnRoLWdlbmVyYXRlcy1ib21iZXJzL9IBAA?oc=5",
@@ -477,21 +477,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1Nzc4OS9hZmdzYy1uYW1lcy0yMDIzLWdsb2JhbC1zdHJpa2UtY2hhbGxlbmdlLXdpbm5lcnPSAQA",
-      "title": "News - AFGSC names 2023 Global Strike Challenge winners - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1Nzc4OS9hZmdzYy1uYW1lcy0yMDIzLWdsb2JhbC1zdHJpa2UtY2hhbGxlbmdlLXdpbm5lcnPSAQA?oc=5",
-      "published": "2023-11-14T08:00:00.000Z",
-      "description": "News - AFGSC names 2023 Global Strike Challenge winners&nbsp;&nbsp;DVIDS",
+      "id": "CBMiUGh0dHBzOi8vd3d3LmtzbGEuY29tL3ZpZGVvLzIwMjQvMDQvMDEvZ2xvYmFsLXN0cmlrZS1jb21tYW5kLWF3YXJkZWQtMzY1LW1pbGxpb24v0gEA",
+      "title": "Global Strike Command awarded $36.5 million - Shreveport - KSLA",
+      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmtzbGEuY29tL3ZpZGVvLzIwMjQvMDQvMDEvZ2xvYmFsLXN0cmlrZS1jb21tYW5kLWF3YXJkZWQtMzY1LW1pbGxpb24v0gEA?oc=5",
+      "published": "2024-04-01T07:00:00.000Z",
+      "description": "Global Strike Command awarded $36.5 million - Shreveport&nbsp;&nbsp;KSLA",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMidmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1ODg1ODIvZWxsc3dvcnRoLW5hbWVkLWJlc3QtYm9tYi13aW5nLWdhcm5lcnMtZmFpcmNoaWxkLXRyb3BoeS_SAQA",
-      "title": "Ellsworth named best bomb wing, garners Fairchild Trophy - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1ODg1ODIvZWxsc3dvcnRoLW5hbWVkLWJlc3QtYm9tYi13aW5nLWdhcm5lcnMtZmFpcmNoaWxkLXRyb3BoeS_SAQA?oc=5",
-      "published": "2023-11-09T08:00:00.000Z",
-      "description": "Ellsworth named best bomb wing, garners Fairchild Trophy&nbsp;&nbsp;afgsc.af.mil",
+      "id": "CBMidWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzgyODQvZHllc3MtY2VsZWJyYXRlcy1taWxpdGFyeS1zcG91c2UtYXBwcmVjaWF0aW9uLWRheS0yMDI0L9IBAA",
+      "title": "Dyess celebrates Military Spouse Appreciation Day 2024 - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzgyODQvZHllc3MtY2VsZWJyYXRlcy1taWxpdGFyeS1zcG91c2UtYXBwcmVjaWF0aW9uLWRheS0yMDI0L9IBAA?oc=5",
+      "published": "2024-05-15T07:00:00.000Z",
+      "description": "Dyess celebrates Military Spouse Appreciation Day 2024&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -507,11 +507,21 @@
       "category": ""
     },
     {
-      "id": "CBMidWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzgyODQvZHllc3MtY2VsZWJyYXRlcy1taWxpdGFyeS1zcG91c2UtYXBwcmVjaWF0aW9uLWRheS0yMDI0L9IBAA",
-      "title": "Dyess celebrates Military Spouse Appreciation Day 2024 - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzgyODQvZHllc3MtY2VsZWJyYXRlcy1taWxpdGFyeS1zcG91c2UtYXBwcmVjaWF0aW9uLWRheS0yMDI0L9IBAA?oc=5",
-      "published": "2024-05-15T07:00:00.000Z",
-      "description": "Dyess celebrates Military Spouse Appreciation Day 2024&nbsp;&nbsp;afgsc.af.mil",
+      "id": "CBMiVWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1Nzc4OS9hZmdzYy1uYW1lcy0yMDIzLWdsb2JhbC1zdHJpa2UtY2hhbGxlbmdlLXdpbm5lcnPSAQA",
+      "title": "News - AFGSC names 2023 Global Strike Challenge winners - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ1Nzc4OS9hZmdzYy1uYW1lcy0yMDIzLWdsb2JhbC1zdHJpa2UtY2hhbGxlbmdlLXdpbm5lcnPSAQA?oc=5",
+      "published": "2023-11-14T08:00:00.000Z",
+      "description": "News - AFGSC names 2023 Global Strike Challenge winners&nbsp;&nbsp;DVIDS",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiW2h0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMjQvMDUvaWxyLXNjaG9vbC1jby1zcG9uc29ycy1pbnRlcm5hdGlvbmFsLXN0cmlrZS1yZXBvcnTSAQA",
+      "title": "ILR School co-sponsors international strike report | Cornell Chronicle - Cornell Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMjQvMDUvaWxyLXNjaG9vbC1jby1zcG9uc29ycy1pbnRlcm5hdGlvbmFsLXN0cmlrZS1yZXBvcnTSAQA?oc=5",
+      "published": "2024-05-07T07:00:00.000Z",
+      "description": "ILR School co-sponsors international strike report | Cornell Chronicle&nbsp;&nbsp;Cornell Chronicle",
       "summary": "",
       "author": "",
       "category": ""
@@ -537,36 +547,6 @@
       "category": ""
     },
     {
-      "id": "CBMiW2h0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMjQvMDUvaWxyLXNjaG9vbC1jby1zcG9uc29ycy1pbnRlcm5hdGlvbmFsLXN0cmlrZS1yZXBvcnTSAQA",
-      "title": "ILR School co-sponsors international strike report | Cornell Chronicle - Cornell Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vbmV3cy5jb3JuZWxsLmVkdS9zdG9yaWVzLzIwMjQvMDUvaWxyLXNjaG9vbC1jby1zcG9uc29ycy1pbnRlcm5hdGlvbmFsLXN0cmlrZS1yZXBvcnTSAQA?oc=5",
-      "published": "2024-05-07T07:00:00.000Z",
-      "description": "ILR School co-sponsors international strike report | Cornell Chronicle&nbsp;&nbsp;Cornell Chronicle",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZWh0dHBzOi8vc3RhdGVuZXdzLmNvbS9hcnRpY2xlLzIwMjQvMDUvYWN0aXZpc3RzLXN1cHBvcnQtc3RyaWtlLWZvci1yYWZhaC1tb3ZlbWVudC1jYWxsLWZvci1kaXZlc3RtZW500gEA",
-      "title": "Activists support Strike for Rafah movement, call for divestment - The State News",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc3RhdGVuZXdzLmNvbS9hcnRpY2xlLzIwMjQvMDUvYWN0aXZpc3RzLXN1cHBvcnQtc3RyaWtlLWZvci1yYWZhaC1tb3ZlbWVudC1jYWxsLWZvci1kaXZlc3RtZW500gEA?oc=5",
-      "published": "2024-05-10T07:00:00.000Z",
-      "description": "Activists support Strike for Rafah movement, call for divestment&nbsp;&nbsp;The State News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiigFodHRwczovL3d3dy5iYXJrc2RhbGUuYWYubWlsL05ld3MvRGlzcGxheS9BcnRpY2xlLzM1OTYyNzkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1jb25kdWN0cy1maXJzdC1hbm51YWwtY29tYmF0LWFtbXVuaXRpb24tcHJvZHVjdC_SAQA",
-      "title": "Air Force Global Strike Command conducts first annual Combat Ammunition Production Exercis - Barksdale Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5iYXJrc2RhbGUuYWYubWlsL05ld3MvRGlzcGxheS9BcnRpY2xlLzM1OTYyNzkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1jb25kdWN0cy1maXJzdC1hbm51YWwtY29tYmF0LWFtbXVuaXRpb24tcHJvZHVjdC_SAQA?oc=5",
-      "published": "2023-11-21T08:00:00.000Z",
-      "description": "Air Force Global Strike Command conducts first annual Combat Ammunition Production Exercis&nbsp;&nbsp;Barksdale Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzQzODYvNXRoLWJvbWItd2luZy1leGVjdXRlcy1iYXNlLXdpZGUtcmVhZGluZXNzLWV4ZXJjaXNlL9IBAA",
       "title": "5th Bomb Wing executes base-wide readiness exercise - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzQzODYvNXRoLWJvbWItd2luZy1leGVjdXRlcy1iYXNlLXdpZGUtcmVhZGluZXNzLWV4ZXJjaXNlL9IBAA?oc=5",
@@ -577,21 +557,21 @@
       "category": ""
     },
     {
-      "id": "CBMihwFodHRwczovL3d3dy53aGl0ZW1hbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTg1NzAxL2RpcmVjdG9ycy1mcm9tLW5hdGlvbmFsLWxhYm9yYXRvcmllcy1pbW1lcnNlLWluLWdsb2JhbC1zdHJpa2UtbWlzc2lvbi_SAQA",
-      "title": "Directors from National Laboratories immerse in Global Strike mission - Whiteman Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy53aGl0ZW1hbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNTg1NzAxL2RpcmVjdG9ycy1mcm9tLW5hdGlvbmFsLWxhYm9yYXRvcmllcy1pbW1lcnNlLWluLWdsb2JhbC1zdHJpa2UtbWlzc2lvbi_SAQA?oc=5",
-      "published": "2023-11-03T07:00:00.000Z",
-      "description": "Directors from National Laboratories immerse in Global Strike mission&nbsp;&nbsp;Whiteman Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiggFodHRwczovL3d3dy5hZmdzYy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzU2MDE2L3RlYW0td2hpdGVtYW4tbGF1bmNoZXMtMTItYi0yLXNwaXJpdHMtZm9yLXNwaXJpdC12aWdpbGFuY2UtZXhlcmNpc2Uv0gEA",
       "title": "Team Whiteman launches 12 B-2 Spirits for Spirit Vigilance exercise - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5hZmdzYy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzU2MDE2L3RlYW0td2hpdGVtYW4tbGF1bmNoZXMtMTItYi0yLXNwaXJpdHMtZm9yLXNwaXJpdC12aWdpbGFuY2UtZXhlcmNpc2Uv0gEA?oc=5",
       "published": "2024-04-24T07:00:00.000Z",
       "description": "Team Whiteman launches 12 B-2 Spirits for Spirit Vigilance exercise&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiigFodHRwczovL3d3dy5iYXJrc2RhbGUuYWYubWlsL05ld3MvRGlzcGxheS9BcnRpY2xlLzM1OTYyNzkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1jb25kdWN0cy1maXJzdC1hbm51YWwtY29tYmF0LWFtbXVuaXRpb24tcHJvZHVjdC_SAQA",
+      "title": "Air Force Global Strike Command conducts first annual Combat Ammunition Production Exercis - Barksdale Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5iYXJrc2RhbGUuYWYubWlsL05ld3MvRGlzcGxheS9BcnRpY2xlLzM1OTYyNzkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1jb25kdWN0cy1maXJzdC1hbm51YWwtY29tYmF0LWFtbXVuaXRpb24tcHJvZHVjdC_SAQA?oc=5",
+      "published": "2023-11-21T08:00:00.000Z",
+      "description": "Air Force Global Strike Command conducts first annual Combat Ammunition Production Exercis&nbsp;&nbsp;Barksdale Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -627,6 +607,16 @@
       "category": ""
     },
     {
+      "id": "CBMia2h0dHBzOi8vd3d3Lm1pbm90ZGFpbHluZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvMjAyNC8wNi9taW5vdC1hZmItYWlybWVuLXRha2UtcGFydC1pbi1taXNzaWxlLXRlc3QtbGF1bmNoLTMv0gEA",
+      "title": "Minot AFB airmen take part in missile test launch - Minot Daily News",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm1pbm90ZGFpbHluZXdzLmNvbS9uZXdzL2xvY2FsLW5ld3MvMjAyNC8wNi9taW5vdC1hZmItYWlybWVuLXRha2UtcGFydC1pbi1taXNzaWxlLXRlc3QtbGF1bmNoLTMv0gEA?oc=5",
+      "published": "2024-06-05T05:06:15.000Z",
+      "description": "Minot AFB airmen take part in missile test launch&nbsp;&nbsp;Minot Daily News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMihAFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy9wcmlvcml0eS0xLWFpci1yZXNjdWUtcmVjZWl2ZXMtNS15ZWFyLXRyYWluaW5nLWNvbnRyYWN0LXdpdGgtYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC_SAQA",
       "title": "Priority 1 Air Rescue receives 5-year training contract with Air Force Global Strike Command - Vertical Magazine",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy9wcmlvcml0eS0xLWFpci1yZXNjdWUtcmVjZWl2ZXMtNS15ZWFyLXRyYWluaW5nLWNvbnRyYWN0LXdpdGgtYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC_SAQA?oc=5",
@@ -647,21 +637,21 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA",
-      "title": "908th looks to industry to accelerate change and readiness - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA?oc=5",
-      "published": "2023-11-27T08:00:00.000Z",
-      "description": "908th looks to industry to accelerate change and readiness&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTA5Mjgvd2hpdGVtYW4tYWZiLWRlbW9uc3RyYXRlcy1yZWFkaW5lc3MtZHVyaW5nLXNwaXJpdC12aWdpbGFuY2Uv0gEA",
       "title": "Whiteman AFB demonstrates readiness during Spirit Vigilance > Air Force > Article Display - Air Force Link",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTA5Mjgvd2hpdGVtYW4tYWZiLWRlbW9uc3RyYXRlcy1yZWFkaW5lc3MtZHVyaW5nLXNwaXJpdC12aWdpbGFuY2Uv0gEA?oc=5",
       "published": "2024-04-22T07:00:00.000Z",
       "description": "Whiteman AFB demonstrates readiness during Spirit Vigilance > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA",
+      "title": "908th looks to industry to accelerate change and readiness - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA?oc=5",
+      "published": "2023-11-27T08:00:00.000Z",
+      "description": "908th looks to industry to accelerate change and readiness&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -687,41 +677,11 @@
       "category": ""
     },
     {
-      "id": "CBMiRmh0dHBzOi8vd3d3LmZveDVueS5jb20vbmV3cy9ueWMtcHJvLXBhbGVzdGluaWFuLWdsb2JhbC1zdHJpa2UtZm9yLWdhemHSAUpodHRwczovL3d3dy5mb3g1bnkuY29tL25ld3MvbnljLXByby1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLWZvci1nYXphLmFtcA",
-      "title": "Several NYC pro-Palestinian rallies expected Monday for 'Global Strike for Gaza' - FOX 5 New York",
-      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmZveDVueS5jb20vbmV3cy9ueWMtcHJvLXBhbGVzdGluaWFuLWdsb2JhbC1zdHJpa2UtZm9yLWdhemHSAUpodHRwczovL3d3dy5mb3g1bnkuY29tL25ld3MvbnljLXByby1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLWZvci1nYXphLmFtcA?oc=5",
-      "published": "2023-12-11T08:00:00.000Z",
-      "description": "Several NYC pro-Palestinian rallies expected Monday for 'Global Strike for Gaza'&nbsp;&nbsp;FOX 5 New York",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiJmh0dHBzOi8vd3d3LndvcmtlcnMub3JnLzIwMjQvMDMvNzc0ODEv0gEqaHR0cHM6Ly93d3cud29ya2Vycy5vcmcvMjAyNC8wMy83NzQ4MS9hbXAv",
-      "title": "New York City: Global Strike for Gaza takes the streets - Workers World",
-      "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3LndvcmtlcnMub3JnLzIwMjQvMDMvNzc0ODEv0gEqaHR0cHM6Ly93d3cud29ya2Vycy5vcmcvMjAyNC8wMy83NzQ4MS9hbXAv?oc=5",
-      "published": "2024-03-14T07:00:00.000Z",
-      "description": "New York City: Global Strike for Gaza takes the streets&nbsp;&nbsp;Workers World",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2MDI1OS9hZmdzYy1oaXN0b3JpYW5zLXdpbi1kYWYtaGlzdG9yeS1hbmQtbXVzZXVtcy1hd2FyZHPSAQA",
-      "title": "AFGSC Historians win DAF History and Museums Awards - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2MDI1OS9hZmdzYy1oaXN0b3JpYW5zLXdpbi1kYWYtaGlzdG9yeS1hbmQtbXVzZXVtcy1hd2FyZHPSAQA?oc=5",
-      "published": "2023-12-18T08:00:00.000Z",
-      "description": "AFGSC Historians win DAF History and Museums Awards&nbsp;&nbsp;DVIDS",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzc9IBYWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzcy5hbXA",
-      "title": "Global 'Strike for Palestine' sees some high school students walk out of class - KTVU FOX 2 San Francisco",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzc9IBYWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzcy5hbXA?oc=5",
-      "published": "2023-12-11T08:00:00.000Z",
-      "description": "Global 'Strike for Palestine' sees some high school students walk out of class&nbsp;&nbsp;KTVU FOX 2 San Francisco",
+      "id": "CBMiUmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTYxNjAvYS1yZXNpbGllbnQtam91cm5leS_SAQA",
+      "title": "A Resilient Journey - afgsc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTYxNjAvYS1yZXNpbGllbnQtam91cm5leS_SAQA?oc=5",
+      "published": "2024-03-22T07:00:00.000Z",
+      "description": "A Resilient Journey&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -747,11 +707,31 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTYxNjAvYS1yZXNpbGllbnQtam91cm5leS_SAQA",
-      "title": "A Resilient Journey - afgsc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTYxNjAvYS1yZXNpbGllbnQtam91cm5leS_SAQA?oc=5",
-      "published": "2024-03-22T07:00:00.000Z",
-      "description": "A Resilient Journey&nbsp;&nbsp;afgsc.af.mil",
+      "id": "CBMifmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3Mzc0NTYvNXRoLWxycy1zdXBwb3J0cy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZWJheW91LXZpZ2lsYW5jZS0yNC0zL9IBAA",
+      "title": "5th LRS supports Exercise Prairie Vigilance/Bayou Vigilance 24-3 - Minot Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3Mzc0NTYvNXRoLWxycy1zdXBwb3J0cy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZWJheW91LXZpZ2lsYW5jZS0yNC0zL9IBAA?oc=5",
+      "published": "2024-04-16T07:00:00.000Z",
+      "description": "5th LRS supports Exercise Prairie Vigilance/Bayou Vigilance 24-3&nbsp;&nbsp;Minot Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRmh0dHBzOi8vd3d3LmZveDVueS5jb20vbmV3cy9ueWMtcHJvLXBhbGVzdGluaWFuLWdsb2JhbC1zdHJpa2UtZm9yLWdhemHSAUpodHRwczovL3d3dy5mb3g1bnkuY29tL25ld3MvbnljLXByby1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLWZvci1nYXphLmFtcA",
+      "title": "Several NYC pro-Palestinian rallies expected Monday for 'Global Strike for Gaza' - FOX 5 New York",
+      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmZveDVueS5jb20vbmV3cy9ueWMtcHJvLXBhbGVzdGluaWFuLWdsb2JhbC1zdHJpa2UtZm9yLWdhemHSAUpodHRwczovL3d3dy5mb3g1bnkuY29tL25ld3MvbnljLXByby1wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLWZvci1nYXphLmFtcA?oc=5",
+      "published": "2023-12-11T08:00:00.000Z",
+      "description": "Several NYC pro-Palestinian rallies expected Monday for 'Global Strike for Gaza'&nbsp;&nbsp;FOX 5 New York",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2MDI1OS9hZmdzYy1oaXN0b3JpYW5zLXdpbi1kYWYtaGlzdG9yeS1hbmQtbXVzZXVtcy1hd2FyZHPSAQA",
+      "title": "AFGSC Historians win DAF History and Museums Awards - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ2MDI1OS9hZmdzYy1oaXN0b3JpYW5zLXdpbi1kYWYtaGlzdG9yeS1hbmQtbXVzZXVtcy1hd2FyZHPSAQA?oc=5",
+      "published": "2023-12-18T08:00:00.000Z",
+      "description": "AFGSC Historians win DAF History and Museums Awards&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
@@ -767,11 +747,11 @@
       "category": ""
     },
     {
-      "id": "CBMifmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3Mzc0NTYvNXRoLWxycy1zdXBwb3J0cy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZWJheW91LXZpZ2lsYW5jZS0yNC0zL9IBAA",
-      "title": "5th LRS supports Exercise Prairie Vigilance/Bayou Vigilance 24-3 - Minot Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3Mzc0NTYvNXRoLWxycy1zdXBwb3J0cy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZWJheW91LXZpZ2lsYW5jZS0yNC0zL9IBAA?oc=5",
-      "published": "2024-04-16T07:00:00.000Z",
-      "description": "5th LRS supports Exercise Prairie Vigilance/Bayou Vigilance 24-3&nbsp;&nbsp;Minot Air Force Base",
+      "id": "CBMiXWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzc9IBYWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzcy5hbXA",
+      "title": "Global 'Strike for Palestine' sees some high school students walk out of class - KTVU FOX 2 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzc9IBYWh0dHBzOi8vd3d3Lmt0dnUuY29tL25ld3MvZ2xvYmFsLXN0cmlrZS1mb3ItcGFsZXN0aW5lLXNlZXMtc29tZS1ocy1zdHVkZW50cy13YWxrLW91dC1vZi1jbGFzcy5hbXA?oc=5",
+      "published": "2023-12-11T08:00:00.000Z",
+      "description": "Global 'Strike for Palestine' sees some high school students walk out of class&nbsp;&nbsp;KTVU FOX 2 San Francisco",
       "summary": "",
       "author": "",
       "category": ""
@@ -782,6 +762,16 @@
       "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnByZXNzZW56YS5jb20vMjAyNC8wMy9hLWdsb2JhbC1zdHJpa2UtYWdhaW5zdC13YXIv0gEA?oc=5",
       "published": "2024-03-16T07:00:00.000Z",
       "description": "A global strike against war&nbsp;&nbsp;PRESSENZA – International News Agency",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifGh0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9EaXNwbGF5L0FydGljbGUvMzcyNTY1MC9tYWludGVuYW5jZS1jcmV3cy1zaG93LW11bHRpLWNhcGFibGUtYnRmLXN0cmF0ZWd5LWluLWluZG8tcGFjaWZpYy_SAQA",
+      "title": "Maintenance Crews show Multi-Capable BTF Strategy in Indo-Pacific - Barksdale Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9EaXNwbGF5L0FydGljbGUvMzcyNTY1MC9tYWludGVuYW5jZS1jcmV3cy1zaG93LW11bHRpLWNhcGFibGUtYnRmLXN0cmF0ZWd5LWluLWluZG8tcGFjaWZpYy_SAQA?oc=5",
+      "published": "2024-03-30T07:00:00.000Z",
+      "description": "Maintenance Crews show Multi-Capable BTF Strategy in Indo-Pacific&nbsp;&nbsp;Barksdale Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -817,11 +807,11 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9EaXNwbGF5L0FydGljbGUvMzcyNTY1MC9tYWludGVuYW5jZS1jcmV3cy1zaG93LW11bHRpLWNhcGFibGUtYnRmLXN0cmF0ZWd5LWluLWluZG8tcGFjaWZpYy_SAQA",
-      "title": "Maintenance Crews show Multi-Capable BTF Strategy in Indo-Pacific - Barksdale Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmJhcmtzZGFsZS5hZi5taWwvTmV3cy9EaXNwbGF5L0FydGljbGUvMzcyNTY1MC9tYWludGVuYW5jZS1jcmV3cy1zaG93LW11bHRpLWNhcGFibGUtYnRmLXN0cmF0ZWd5LWluLWluZG8tcGFjaWZpYy_SAQA?oc=5",
-      "published": "2024-03-30T07:00:00.000Z",
-      "description": "Maintenance Crews show Multi-Capable BTF Strategy in Indo-Pacific&nbsp;&nbsp;Barksdale Air Force Base",
+      "id": "CBMicWh0dHBzOi8vd3d3LnBhY2FmLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTY2NDUvYi01MnMtYXJyaXZlLWluLWRpZWdvLWdhcmNpYS1mb3ItYm9tYmVyLXRhc2stZm9yY2Uv0gEA",
+      "title": "B-52s arrive in Diego Garcia for Bomber Task Force - pacaf.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnBhY2FmLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTY2NDUvYi01MnMtYXJyaXZlLWluLWRpZWdvLWdhcmNpYS1mb3ItYm9tYmVyLXRhc2stZm9yY2Uv0gEA?oc=5",
+      "published": "2024-03-22T07:00:00.000Z",
+      "description": "B-52s arrive in Diego Garcia for Bomber Task Force&nbsp;&nbsp;pacaf.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -847,11 +837,11 @@
       "category": ""
     },
     {
-      "id": "CBMicWh0dHBzOi8vd3d3LnBhY2FmLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTY2NDUvYi01MnMtYXJyaXZlLWluLWRpZWdvLWdhcmNpYS1mb3ItYm9tYmVyLXRhc2stZm9yY2Uv0gEA",
-      "title": "B-52s arrive in Diego Garcia for Bomber Task Force - pacaf.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnBhY2FmLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MTY2NDUvYi01MnMtYXJyaXZlLWluLWRpZWdvLWdhcmNpYS1mb3ItYm9tYmVyLXRhc2stZm9yY2Uv0gEA?oc=5",
-      "published": "2024-03-22T07:00:00.000Z",
-      "description": "B-52s arrive in Diego Garcia for Bomber Task Force&nbsp;&nbsp;pacaf.af.mil",
+      "id": "CBMiggFodHRwczovL3d3dy5lZ2xpbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzA3NDQ1L2FmZ3NjLXVzYWZzYW0taG9sZC1taXNzaWxlLWNvbW11bml0eS1jYW5jZXItc3R1ZHktdmlydHVhbC10b3duLWhhbGwv0gEA",
+      "title": "AFGSC, USAFSAM hold Missile Community Cancer Study virtual town hall - Eglin Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5lZ2xpbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzA3NDQ1L2FmZ3NjLXVzYWZzYW0taG9sZC1taXNzaWxlLWNvbW11bml0eS1jYW5jZXItc3R1ZHktdmlydHVhbC10b3duLWhhbGwv0gEA?oc=5",
+      "published": "2024-03-13T07:00:00.000Z",
+      "description": "AFGSC, USAFSAM hold Missile Community Cancer Study virtual town hall&nbsp;&nbsp;Eglin Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -867,11 +857,11 @@
       "category": ""
     },
     {
-      "id": "CBMiggFodHRwczovL3d3dy5lZ2xpbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzA3NDQ1L2FmZ3NjLXVzYWZzYW0taG9sZC1taXNzaWxlLWNvbW11bml0eS1jYW5jZXItc3R1ZHktdmlydHVhbC10b3duLWhhbGwv0gEA",
-      "title": "AFGSC, USAFSAM hold Missile Community Cancer Study virtual town hall - Eglin Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5lZ2xpbi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzA3NDQ1L2FmZ3NjLXVzYWZzYW0taG9sZC1taXNzaWxlLWNvbW11bml0eS1jYW5jZXItc3R1ZHktdmlydHVhbC10b3duLWhhbGwv0gEA?oc=5",
-      "published": "2024-03-13T07:00:00.000Z",
-      "description": "AFGSC, USAFSAM hold Missile Community Cancer Study virtual town hall&nbsp;&nbsp;Eglin Air Force Base",
+      "id": "CBMiamh0dHBzOi8vZnJlZWJlYWNvbi5jb20vY2FtcHVzL2Nvcm5lbGwtdW5pdmVyc2l0eS1pbnN0cnVjdG9yLWNhbmNlbHMtY2xhc3MtZm9yLWdsb2JhbC1zdHJpa2UtZm9yLXBhbGVzdGluZS_SAQA",
+      "title": "Cornell University Instructor Cancels Class for 'Global Strike for Palestine' - Washington Free Beacon",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vZnJlZWJlYWNvbi5jb20vY2FtcHVzL2Nvcm5lbGwtdW5pdmVyc2l0eS1pbnN0cnVjdG9yLWNhbmNlbHMtY2xhc3MtZm9yLWdsb2JhbC1zdHJpa2UtZm9yLXBhbGVzdGluZS_SAQA?oc=5",
+      "published": "2024-01-24T08:00:00.000Z",
+      "description": "Cornell University Instructor Cancels Class for 'Global Strike for Palestine'&nbsp;&nbsp;Washington Free Beacon",
       "summary": "",
       "author": "",
       "category": ""
@@ -907,11 +897,11 @@
       "category": ""
     },
     {
-      "id": "CBMiamh0dHBzOi8vZnJlZWJlYWNvbi5jb20vY2FtcHVzL2Nvcm5lbGwtdW5pdmVyc2l0eS1pbnN0cnVjdG9yLWNhbmNlbHMtY2xhc3MtZm9yLWdsb2JhbC1zdHJpa2UtZm9yLXBhbGVzdGluZS_SAQA",
-      "title": "Cornell University Instructor Cancels Class for 'Global Strike for Palestine' - Washington Free Beacon",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vZnJlZWJlYWNvbi5jb20vY2FtcHVzL2Nvcm5lbGwtdW5pdmVyc2l0eS1pbnN0cnVjdG9yLWNhbmNlbHMtY2xhc3MtZm9yLWdsb2JhbC1zdHJpa2UtZm9yLXBhbGVzdGluZS_SAQA?oc=5",
-      "published": "2024-01-24T08:00:00.000Z",
-      "description": "Cornell University Instructor Cancels Class for 'Global Strike for Palestine'&nbsp;&nbsp;Washington Free Beacon",
+      "id": "CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA",
+      "title": "9 EBS Airmen execute global deterrence mission during BTF 24-2 - dyess.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA?oc=5",
+      "published": "2024-04-09T07:00:00.000Z",
+      "description": "9 EBS Airmen execute global deterrence mission during BTF 24-2&nbsp;&nbsp;dyess.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -927,21 +917,11 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vd3d3Lm1pZGRsZWVhc3RleWUubmV0L25ld3MvaXNyYWVsLXBhbGVzdGluZS13YXItc2hvcHMtc2h1dHRlci1hY3Jvc3Mtd29ybGQtZ2xvYmFsLXN0cmlrZS1nYXph0gEA",
-      "title": "Shops shutter across Muslim-majority world as part of global 'strike for Gaza' - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1pZGRsZWVhc3RleWUubmV0L25ld3MvaXNyYWVsLXBhbGVzdGluZS13YXItc2hvcHMtc2h1dHRlci1hY3Jvc3Mtd29ybGQtZ2xvYmFsLXN0cmlrZS1nYXph0gEA?oc=5",
-      "published": "2023-12-11T08:00:00.000Z",
-      "description": "Shops shutter across Muslim-majority world as part of global 'strike for Gaza'&nbsp;&nbsp;Middle East Eye",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA",
-      "title": "9 EBS Airmen execute global deterrence mission during BTF 24-2 - dyess.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA?oc=5",
-      "published": "2024-04-09T07:00:00.000Z",
-      "description": "9 EBS Airmen execute global deterrence mission during BTF 24-2&nbsp;&nbsp;dyess.af.mil",
+      "id": "CBMiPWh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvbmV3cy9hbWF6b24tYmxhY2stZnJpZGF5LXN0cmlrZXPSAQA",
+      "title": "'Biggest Ever Global Strike Against Amazon' Kicks Off on Black Friday - Common Dreams",
+      "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNvbW1vbmRyZWFtcy5vcmcvbmV3cy9hbWF6b24tYmxhY2stZnJpZGF5LXN0cmlrZXPSAQA?oc=5",
+      "published": "2023-11-24T08:00:00.000Z",
+      "description": "'Biggest Ever Global Strike Against Amazon' Kicks Off on Black Friday&nbsp;&nbsp;Common Dreams",
       "summary": "",
       "author": "",
       "category": ""
@@ -957,11 +937,41 @@
       "category": ""
     },
     {
+      "id": "CBMiZWh0dHBzOi8vd3d3Lm1pZGRsZWVhc3RleWUubmV0L25ld3MvaXNyYWVsLXBhbGVzdGluZS13YXItc2hvcHMtc2h1dHRlci1hY3Jvc3Mtd29ybGQtZ2xvYmFsLXN0cmlrZS1nYXph0gEA",
+      "title": "Shops shutter across Muslim-majority world as part of global 'strike for Gaza' - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm1pZGRsZWVhc3RleWUubmV0L25ld3MvaXNyYWVsLXBhbGVzdGluZS13YXItc2hvcHMtc2h1dHRlci1hY3Jvc3Mtd29ybGQtZ2xvYmFsLXN0cmlrZS1nYXph0gEA?oc=5",
+      "published": "2023-12-11T08:00:00.000Z",
+      "description": "Shops shutter across Muslim-majority world as part of global 'strike for Gaza'&nbsp;&nbsp;Middle East Eye",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiOWh0dHBzOi8vd3d3Lndzd3Mub3JnL2VuL2FydGljbGVzLzIwMjQvMDEvMTAvcGx5dy1qMTAuaHRtbNIBAA",
       "title": "For an international strike against the genocide in Gaza! - WSWS",
       "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lndzd3Mub3JnL2VuL2FydGljbGVzLzIwMjQvMDEvMTAvcGx5dy1qMTAuaHRtbNIBAA?oc=5",
       "published": "2024-01-09T08:00:00.000Z",
       "description": "For an international strike against the genocide in Gaza!&nbsp;&nbsp;WSWS",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NDAxNjQvdGVhbS1taW5vdC1jb21wbGV0ZXMtZXhlcmNpc2UtcHJhaXJpZS12aWdpbGFuY2Uv0gEA",
+      "title": "Team Minot completes Exercise Prairie Vigilance - Minot Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NDAxNjQvdGVhbS1taW5vdC1jb21wbGV0ZXMtZXhlcmNpc2UtcHJhaXJpZS12aWdpbGFuY2Uv0gEA?oc=5",
+      "published": "2024-04-15T07:00:00.000Z",
+      "description": "Team Minot completes Exercise Prairie Vigilance&nbsp;&nbsp;Minot Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3NTA5MzcvdGVhbS13aGl0ZW1hbi1kZW1vbnN0cmF0ZXMtcmVhZGluZXNzLWR1cmluZy1leGVyY2lzZS1zcGlyaXQtdmlnaWxhbmNlL9IBAA",
+      "title": "Team Whiteman demonstrates readiness during Exercise Spirit Vigilance - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3NTA5MzcvdGVhbS13aGl0ZW1hbi1kZW1vbnN0cmF0ZXMtcmVhZGluZXNzLWR1cmluZy1leGVyY2lzZS1zcGlyaXQtdmlnaWxhbmNlL9IBAA?oc=5",
+      "published": "2024-04-19T07:00:00.000Z",
+      "description": "Team Whiteman demonstrates readiness during Exercise Spirit Vigilance&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -977,31 +987,21 @@
       "category": ""
     },
     {
+      "id": "CBMiJmh0dHBzOi8vd3d3LndvcmtlcnMub3JnLzIwMjQvMDQvNzgyNjIv0gEA",
+      "title": "Strike for Palestine May Day and Nakba Day - Workers World",
+      "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3LndvcmtlcnMub3JnLzIwMjQvMDQvNzgyNjIv0gEA?oc=5",
+      "published": "2024-04-25T07:00:00.000Z",
+      "description": "Strike for Palestine May Day and Nakba Day&nbsp;&nbsp;Workers World",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMidGh0dHBzOi8vd3d3LmZveDJkZXRyb2l0LmNvbS9uZXdzL21ldHJvLWRldHJvaXQtYnVzaW5lc3Nlcy1yZXNpZGVudHMtam9pbi1nbG9iYWwtc3RyaWtlLWNhbGxpbmctZm9yLWNlYXNlZmlyZS1pbi1nYXph0gF4aHR0cHM6Ly93d3cuZm94MmRldHJvaXQuY29tL25ld3MvbWV0cm8tZGV0cm9pdC1idXNpbmVzc2VzLXJlc2lkZW50cy1qb2luLWdsb2JhbC1zdHJpa2UtY2FsbGluZy1mb3ItY2Vhc2VmaXJlLWluLWdhemEuYW1w",
       "title": "Metro Detroit businesses, residents join global strike calling for ceasefire in Gaza - FOX 2 Detroit",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZveDJkZXRyb2l0LmNvbS9uZXdzL21ldHJvLWRldHJvaXQtYnVzaW5lc3Nlcy1yZXNpZGVudHMtam9pbi1nbG9iYWwtc3RyaWtlLWNhbGxpbmctZm9yLWNlYXNlZmlyZS1pbi1nYXph0gF4aHR0cHM6Ly93d3cuZm94MmRldHJvaXQuY29tL25ld3MvbWV0cm8tZGV0cm9pdC1idXNpbmVzc2VzLXJlc2lkZW50cy1qb2luLWdsb2JhbC1zdHJpa2UtY2FsbGluZy1mb3ItY2Vhc2VmaXJlLWluLWdhemEuYW1w?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "Metro Detroit businesses, residents join global strike calling for ceasefire in Gaza&nbsp;&nbsp;FOX 2 Detroit",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiamh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MDY5MTIvYWZnc2MtY2hhcGxhaW4tZW5zdXJlcy1zcGlyaXR1YWwtcmVzaWxpZW5jZS_SAQA",
-      "title": "AFGSC Chaplain Ensures Spiritual Resilience - Minot Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MDY5MTIvYWZnc2MtY2hhcGxhaW4tZW5zdXJlcy1zcGlyaXR1YWwtcmVzaWxpZW5jZS_SAQA?oc=5",
-      "published": "2023-12-05T08:00:00.000Z",
-      "description": "AFGSC Chaplain Ensures Spiritual Resilience&nbsp;&nbsp;Minot Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3NTA5MzcvdGVhbS13aGl0ZW1hbi1kZW1vbnN0cmF0ZXMtcmVhZGluZXNzLWR1cmluZy1leGVyY2lzZS1zcGlyaXQtdmlnaWxhbmNlL9IBAA",
-      "title": "Team Whiteman demonstrates readiness during Exercise Spirit Vigilance - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3NTA5MzcvdGVhbS13aGl0ZW1hbi1kZW1vbnN0cmF0ZXMtcmVhZGluZXNzLWR1cmluZy1leGVyY2lzZS1zcGlyaXQtdmlnaWxhbmNlL9IBAA?oc=5",
-      "published": "2024-04-19T07:00:00.000Z",
-      "description": "Team Whiteman demonstrates readiness during Exercise Spirit Vigilance&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
