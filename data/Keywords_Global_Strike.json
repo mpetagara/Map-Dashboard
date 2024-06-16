@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-16T22:31:10.000Z",
+  "published": "2024-06-16T23:27:06.000Z",
   "entries": [
     {
       "id": "CBMiWGh0dHBzOi8vd3d3LmtzbGEuY29tLzIwMjQvMDYvMTIvYmFmYi13b21lbnMtZXhoaWJpdC1vcGVucy1iYXJrc2RhbGUtZ2xvYmFsLXBvd2VyLW11c2V1bS_SAWdodHRwczovL3d3dy5rc2xhLmNvbS8yMDI0LzA2LzEyL2JhZmItd29tZW5zLWV4aGliaXQtb3BlbnMtYmFya3NkYWxlLWdsb2JhbC1wb3dlci1tdXNldW0vP291dHB1dFR5cGU9YW1w",
@@ -360,18 +360,8 @@
       "id": "CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv",
       "title": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side - The Aviation Geek Club",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv?oc=5",
-      "published": "2024-06-14T09:27:32.000Z",
+      "published": "2024-06-14T09:27:03.000Z",
       "description": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiNWh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvYWlyLWZvcmNlLWItNTItYXdhcmQv0gEA",
-      "title": "B-52 crew honored for actions in 'worst possible case' emergency - Task & Purpose",
-      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvYWlyLWZvcmNlLWItNTItYXdhcmQv0gEA?oc=5",
-      "published": "2024-06-10T16:05:46.000Z",
-      "description": "B-52 crew honored for actions in 'worst possible case' emergency&nbsp;&nbsp;Task & Purpose",
       "summary": "",
       "author": "",
       "category": ""
@@ -382,6 +372,16 @@
       "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MDI0NzEvbWFsbXN0cm9tLWNlbGVicmF0ZXMtYXJyaXZhbC1vZi1pdHMtZmlyc3QtZ3JleS13b2xmLWhlbGljb3B0ZXIv0gEA?oc=5",
       "published": "2024-03-09T08:00:00.000Z",
       "description": "Malmstrom celebrates arrival of its first Grey Wolf helicopter&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiNWh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvYWlyLWZvcmNlLWItNTItYXdhcmQv0gEA",
+      "title": "B-52 crew honored for actions in 'worst possible case' emergency - Task & Purpose",
+      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvYWlyLWZvcmNlLWItNTItYXdhcmQv0gEA?oc=5",
+      "published": "2024-06-10T16:05:46.000Z",
+      "description": "B-52 crew honored for actions in 'worst possible case' emergency&nbsp;&nbsp;Task & Purpose",
       "summary": "",
       "author": "",
       "category": ""
@@ -887,21 +887,21 @@
       "category": ""
     },
     {
-      "id": "CBMiRWh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvYW1hem9uLWJsYWNrLWZyaWRheS1zdHJpa2UtdW5pb24td29ya2Vyc9IBAA",
-      "title": "Amazon workers went on their 'biggest ever global strike' on Black Friday - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvYW1hem9uLWJsYWNrLWZyaWRheS1zdHJpa2UtdW5pb24td29ya2Vyc9IBAA?oc=5",
-      "published": "2023-11-27T08:00:00.000Z",
-      "description": "Amazon workers went on their 'biggest ever global strike' on Black Friday&nbsp;&nbsp;Mashable",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA",
       "title": "9 EBS Airmen execute global deterrence mission during BTF 24-2 - dyess.af.mil",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzczNDY5Ny85LWVicy1haXJtZW4tZXhlY3V0ZS1nbG9iYWwtZGV0ZXJyZW5jZS1taXNzaW9uLWR1cmluZy1idGYtMjQtMi_SAQA?oc=5",
       "published": "2024-04-09T07:00:00.000Z",
       "description": "9 EBS Airmen execute global deterrence mission during BTF 24-2&nbsp;&nbsp;dyess.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRWh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvYW1hem9uLWJsYWNrLWZyaWRheS1zdHJpa2UtdW5pb24td29ya2Vyc9IBAA",
+      "title": "Amazon workers went on their 'biggest ever global strike' on Black Friday - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbWFzaGFibGUuY29tL2FydGljbGUvYW1hem9uLWJsYWNrLWZyaWRheS1zdHJpa2UtdW5pb24td29ya2Vyc9IBAA?oc=5",
+      "published": "2023-11-27T08:00:00.000Z",
+      "description": "Amazon workers went on their 'biggest ever global strike' on Black Friday&nbsp;&nbsp;Mashable",
       "summary": "",
       "author": "",
       "category": ""
