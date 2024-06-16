@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-16T07:22:14.000Z",
+  "published": "2024-06-16T08:28:15.000Z",
   "entries": [
     {
       "id": "CBMiRWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS90b3AtNS1oaXN0b3JpYy1taXNzaW9ucy1iLTUyLXN0cmF0b2ZvcnRyZXNzL9IBAA",
@@ -12,6 +12,16 @@
       "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS90b3AtNS1oaXN0b3JpYy1taXNzaW9ucy1iLTUyLXN0cmF0b2ZvcnRyZXNzL9IBAA?oc=5",
       "published": "2024-06-13T22:00:00.000Z",
       "description": "Top 5 Historic Missions Of The B-52 Stratofortress&nbsp;&nbsp;Simple Flying",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTWh0dHBzOi8vd3d3LnlhaG9vLmNvbS90ZWNoL2ItNTItZnV0dXJlLXN0cmF0b2ZvcnRyZXNzLXVwZ3JhZGVzLTIwMzMwNTk1MC5odG1s0gEA",
+      "title": "B-52 Future Stratofortress: The Upgrades That Will Transform The B-52H Into The B-52J - Yahoo! Voices",
+      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnlhaG9vLmNvbS90ZWNoL2ItNTItZnV0dXJlLXN0cmF0b2ZvcnRyZXNzLXVwZ3JhZGVzLTIwMzMwNTk1MC5odG1s0gEA?oc=5",
+      "published": "2024-06-14T20:33:05.000Z",
+      "description": "B-52 Future Stratofortress: The Upgrades That Will Transform The B-52H Into The B-52J&nbsp;&nbsp;Yahoo! Voices",
       "summary": "",
       "author": "",
       "category": ""
@@ -127,16 +137,6 @@
       "category": ""
     },
     {
-      "id": "CBMiY2h0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDI0LTAyLTIxL2I1Mi1ib21iZXItcGhpbGlwcGluZXMtY2hpbmEtMTMwNjc0NjcuaHRtbNIBAA",
-      "title": "Air Force B-52 bomber, Philippine fighters make show of force over South China Sea - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDI0LTAyLTIxL2I1Mi1ib21iZXItcGhpbGlwcGluZXMtY2hpbmEtMTMwNjc0NjcuaHRtbNIBAA?oc=5",
-      "published": "2024-02-21T08:00:00.000Z",
-      "description": "Air Force B-52 bomber, Philippine fighters make show of force over South China Sea&nbsp;&nbsp;Stars and Stripes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiamh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDQvcmFmLWZhaXJmb3JkLWRyYXdzLXNwZWN0YXRvcnMtd2l0aC1icmVhdGh0YWtpbmctYi01Mi1ib21iZXItZGlzcGxheS_SAQA",
       "title": "RAF Fairford Draws Spectators With Breathtaking B-52 Bomber Display - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMDQvcmFmLWZhaXJmb3JkLWRyYXdzLXNwZWN0YXRvcnMtd2l0aC1icmVhdGh0YWtpbmctYi01Mi1ib21iZXItZGlzcGxheS_SAQA?oc=5",
@@ -197,6 +197,16 @@
       "category": ""
     },
     {
+      "id": "CBMiY2h0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDI0LTAyLTIxL2I1Mi1ib21iZXItcGhpbGlwcGluZXMtY2hpbmEtMTMwNjc0NjcuaHRtbNIBAA",
+      "title": "Air Force B-52 bomber, Philippine fighters make show of force over South China Sea - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDI0LTAyLTIxL2I1Mi1ib21iZXItcGhpbGlwcGluZXMtY2hpbmEtMTMwNjc0NjcuaHRtbNIBAA?oc=5",
+      "published": "2024-02-21T08:00:00.000Z",
+      "description": "Air Force B-52 bomber, Philippine fighters make show of force over South China Sea&nbsp;&nbsp;Stars and Stripes",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMijAFodHRwczovL3d3dy5kb2JiaW5zLmFmcmMuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzgwNTgxNy90ZWFtLWJhcmtzZGFsZS1oaWdobGlnaHRzLWludGVyb3BlcmFiaWxpdHktYWNlLWNvbmNlcHQtZHVyaW5nLWV4ZXJjaXNlL9IBAA",
       "title": "Team Barksdale highlights interoperability, ACE concept during exercise - Minuteman",
       "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kb2JiaW5zLmFmcmMuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzgwNTgxNy90ZWFtLWJhcmtzZGFsZS1oaWdobGlnaHRzLWludGVyb3BlcmFiaWxpdHktYWNlLWNvbmNlcHQtZHVyaW5nLWV4ZXJjaXNlL9IBAA?oc=5",
@@ -227,16 +237,6 @@
       "category": ""
     },
     {
-      "id": "CBMidmh0dHBzOi8vd3d3Lm91dG9uby5uZXQvZWxlbnRpci8yMDI0LzA2LzA5L2EtcmVwb3J0LXRoYXQtc2hvd3MtaG93LWEtYm9laW5nLWItNTItc3RyYXRvZm9ydHJlc3Mtc3RyYXRlZ2ljLWJvbWJlci13b3Jrcy_SAQA",
-      "title": "A report that shows how a Boeing B-52 Stratofortress strategic bomber works - Contando Estrelas",
-      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm91dG9uby5uZXQvZWxlbnRpci8yMDI0LzA2LzA5L2EtcmVwb3J0LXRoYXQtc2hvd3MtaG93LWEtYm9laW5nLWItNTItc3RyYXRvZm9ydHJlc3Mtc3RyYXRlZ2ljLWJvbWJlci13b3Jrcy_SAQA?oc=5",
-      "published": "2024-06-09T17:45:18.000Z",
-      "description": "A report that shows how a Boeing B-52 Stratofortress strategic bomber works&nbsp;&nbsp;Contando Estrelas",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiI2h0dHBzOi8vd3d3LmJvZWluZy5jb20vZGVmZW5zZS9iLTUy0gEA",
       "title": "B-52 - Boeing",
       "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3LmJvZWluZy5jb20vZGVmZW5zZS9iLTUy0gEA?oc=5",
@@ -252,6 +252,16 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA?oc=5",
       "published": "2024-06-02T07:00:00.000Z",
       "description": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidmh0dHBzOi8vd3d3Lm91dG9uby5uZXQvZWxlbnRpci8yMDI0LzA2LzA5L2EtcmVwb3J0LXRoYXQtc2hvd3MtaG93LWEtYm9laW5nLWItNTItc3RyYXRvZm9ydHJlc3Mtc3RyYXRlZ2ljLWJvbWJlci13b3Jrcy_SAQA",
+      "title": "A report that shows how a Boeing B-52 Stratofortress strategic bomber works - Contando Estrelas",
+      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm91dG9uby5uZXQvZWxlbnRpci8yMDI0LzA2LzA5L2EtcmVwb3J0LXRoYXQtc2hvd3MtaG93LWEtYm9laW5nLWItNTItc3RyYXRvZm9ydHJlc3Mtc3RyYXRlZ2ljLWJvbWJlci13b3Jrcy_SAQA?oc=5",
+      "published": "2024-06-09T17:45:18.000Z",
+      "description": "A report that shows how a Boeing B-52 Stratofortress strategic bomber works&nbsp;&nbsp;Contando Estrelas",
       "summary": "",
       "author": "",
       "category": ""
@@ -627,21 +637,21 @@
       "category": ""
     },
     {
-      "id": "CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA",
-      "title": "How Many B-52 Bombers Are In The USAF Today? - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA?oc=5",
-      "published": "2024-05-19T07:00:00.000Z",
-      "description": "How Many B-52 Bombers Are In The USAF Today?&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiRmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1hcnJpdmUtaW4tZ3VhbS1wYWNhZi1leGVyY2lzZS_SAQA",
       "title": "B-52s Arrive in Guam Ahead of Large PACAF Exercise - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1hcnJpdmUtaW4tZ3VhbS1wYWNhZi1leGVyY2lzZS_SAQA?oc=5",
       "published": "2024-02-04T08:00:00.000Z",
       "description": "B-52s Arrive in Guam Ahead of Large PACAF Exercise&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA",
+      "title": "How Many B-52 Bombers Are In The USAF Today? - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91c2FmLWItNTItZmxlZXQtZ3VpZGUv0gEA?oc=5",
+      "published": "2024-05-19T07:00:00.000Z",
+      "description": "How Many B-52 Bombers Are In The USAF Today?&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2ODE0NjEvbWlub3QtbWFpbnRhaW5lcnMtcHJvcGVsLW1pc3Npb24tZHVyaW5nLWJ0Zi0yNC0zL9IBAA?oc=5",
       "published": "2024-02-20T08:00:00.000Z",
       "description": "Minot Maintainers Propel Mission During BTF 24-3&nbsp;&nbsp;Minot Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMibGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtYm9tYmVyLXRyYW5zZm9ybWVkLXVzLWFpci1mb3JjZS1zdXBlcnBvd2VyLTIwNzIyNdIBAA",
-      "title": "The B-52 Stratofortress Bomber Transformed the U.S. Air Force Into a Superpower - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtYm9tYmVyLXRyYW5zZm9ybWVkLXVzLWFpci1mb3JjZS1zdXBlcnBvd2VyLTIwNzIyNdIBAA?oc=5",
-      "published": "2023-11-10T08:00:00.000Z",
-      "description": "The B-52 Stratofortress Bomber Transformed the U.S. Air Force Into a Superpower&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
