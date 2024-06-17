@@ -4,18 +4,8 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-17T21:23:00.000Z",
+  "published": "2024-06-17T22:28:53.000Z",
   "entries": [
-    {
-      "id": "CBMiVWh0dHBzOi8vYm9zc2llcnByZXNzLmNvbS9iYXJrc2RhbGUtZ2xvYmFsLXBvd2VyLW11c2V1bS11bnZlaWxzLWJhZmItd29tZW5zLWV4aGliaXQtMi_SAQA",
-      "title": "Barksdale Global Power Museum Unveils BAFB Women's Exhibit – Bossier Press-Tribune - Bossier Press-Tribune Online",
-      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYm9zc2llcnByZXNzLmNvbS9iYXJrc2RhbGUtZ2xvYmFsLXBvd2VyLW11c2V1bS11bnZlaWxzLWJhZmItd29tZW5zLWV4aGliaXQtMi_SAQA?oc=5",
-      "published": "2024-06-17T15:52:35.000Z",
-      "description": "Barksdale Global Power Museum Unveils BAFB Women's Exhibit – Bossier Press-Tribune&nbsp;&nbsp;Bossier Press-Tribune Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
     {
       "id": "CBMiRmh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzE3L251Y2xlYXItYXJtcy1zcGVuZGluZy1zb2Fycy_SAQA",
       "title": "Nuclear Arms Spending Soars as Global Tensions Swell: Studies - The Defense Post",
@@ -72,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEyLzExL3doYXQtaXMtdGhlLWdsb2JhbC1zdHJpa2UtZGVtYW5kaW5nLWFuLWVuZC10by1pc3JhZWxpLXdhci1vbi1nYXph0gFvaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIzLzEyLzExL3doYXQtaXMtdGhlLWdsb2JhbC1zdHJpa2UtZGVtYW5kaW5nLWFuLWVuZC10by1pc3JhZWxpLXdhci1vbi1nYXph?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "What is the global strike demanding an end to Israeli war on Gaza?&nbsp;&nbsp;Al Jazeera English",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiNmh0dHBzOi8vdGltZS5jb20vNjM0NDY5OC9nbG9iYWwtc3RyaWtlLWdhemEtY2Vhc2VmaXJlL9IBAA",
+      "title": "Global Strike Begins for a Gaza Ceasefire - TIME",
+      "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vdGltZS5jb20vNjM0NDY5OC9nbG9iYWwtc3RyaWtlLWdhemEtY2Vhc2VmaXJlL9IBAA?oc=5",
+      "published": "2023-12-11T08:00:00.000Z",
+      "description": "Global Strike Begins for a Gaza Ceasefire&nbsp;&nbsp;TIME",
       "summary": "",
       "author": "",
       "category": ""
@@ -182,16 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTIyMDYvZWlnaHRoLWFpci1mb3JjZS1jb21tYW5kLXRlYW0tdmlzaXRzLWR5ZXNzL9IBAA?oc=5",
       "published": "2024-04-22T07:00:00.000Z",
       "description": "Eighth Air Force Command Team visits Dyess&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiNmh0dHBzOi8vdGltZS5jb20vNjM0NDY5OC9nbG9iYWwtc3RyaWtlLWdhemEtY2Vhc2VmaXJlL9IBAA",
-      "title": "Global Strike Begins for a Gaza Ceasefire - TIME",
-      "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vdGltZS5jb20vNjM0NDY5OC9nbG9iYWwtc3RyaWtlLWdhemEtY2Vhc2VmaXJlL9IBAA?oc=5",
-      "published": "2023-12-11T08:00:00.000Z",
-      "description": "Global Strike Begins for a Gaza Ceasefire&nbsp;&nbsp;TIME",
       "summary": "",
       "author": "",
       "category": ""
@@ -427,16 +417,6 @@
       "category": ""
     },
     {
-      "id": "CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv",
-      "title": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv?oc=5",
-      "published": "2024-06-14T09:27:03.000Z",
-      "description": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA",
       "title": "The Striker Women of BTF 24-2 - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NTQ4MDQvdGhlLXN0cmlrZXItd29tZW4tb2YtYnRmLTI0LTIv0gEA?oc=5",
@@ -452,6 +432,16 @@
       "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmJvc3NpZXJub3cuY29tL2hvbWUvYmJ3ZW85cWtzNnZqMndtZ3oybHo0YnIzMWZsdmxp0gEA?oc=5",
       "published": "2024-06-06T12:43:42.000Z",
       "description": "Inside Barksdale AFB: Global Strike 2 for 2 in Minuteman III tests — BossierNow&nbsp;&nbsp;Bossier Now",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv",
+      "title": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv?oc=5",
+      "published": "2024-06-14T09:27:03.000Z",
+      "description": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MDY5MTIvYWZnc2MtY2hhcGxhaW4tZW5zdXJlcy1zcGlyaXR1YWwtcmVzaWxpZW5jZS_SAQA?oc=5",
       "published": "2023-12-05T08:00:00.000Z",
       "description": "AFGSC Chaplain Ensures Spiritual Resilience&nbsp;&nbsp;Minot Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL2Jvc3NpZXJwcmVzcy5jb20vcGFpci1vZi1sc3VzLXN0dWRlbnRzLXNlbGVjdGVkLWZvci1uYXRpb25hbC1zZWN1cml0eS1mZWxsb3dzaGlwLXByb2dyYW0td2l0aC1haXItZm9yY2UtZ2xvYmFsLXN0cmlrZS1jb21tYW5kL9IBAA",
+      "title": "Pair of LSUS students selected for National Security Fellowship Program with Air Force Global Strike Command ... - Bossier Press-Tribune Online",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL2Jvc3NpZXJwcmVzcy5jb20vcGFpci1vZi1sc3VzLXN0dWRlbnRzLXNlbGVjdGVkLWZvci1uYXRpb25hbC1zZWN1cml0eS1mZWxsb3dzaGlwLXByb2dyYW0td2l0aC1haXItZm9yY2UtZ2xvYmFsLXN0cmlrZS1jb21tYW5kL9IBAA?oc=5",
+      "published": "2024-05-08T07:00:00.000Z",
+      "description": "Pair of LSUS students selected for National Security Fellowship Program with Air Force Global Strike Command ...&nbsp;&nbsp;Bossier Press-Tribune Online",
       "summary": "",
       "author": "",
       "category": ""
