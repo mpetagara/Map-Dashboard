@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-17T05:32:45.000Z",
+  "published": "2024-06-17T06:37:55.000Z",
   "entries": [
     {
       "id": "CBMie2h0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy90ZWNobm9sb2d5L3UtMi1zcHktcGxhbmUtY2FwdHVyZWQtc3R1bm5pbmctaW1hZ2Utb2YtY2hpbmVzZS1zdXJ2ZWlsbGFuY2UtYmFsbG9vbi92aS1CQjFva3NsbdIBAA",
@@ -78,20 +78,10 @@
     },
     {
       "id": "CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLXNheXMtaXQtZGVzdHJveXMtcnVzc2lhbi1zcHktcGxhbmUtYWlyYm9ybmUtY29tbWFuZC1wb3N0LTIwMjQtMDEtMTUv0gEA",
-      "title": "Ukraine destroys Russian spy plane and command aircraft - army chief - Reuters.com",
+      "title": "Ukraine destroys Russian spy plane and command aircraft - army chief - Reuters",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLXNheXMtaXQtZGVzdHJveXMtcnVzc2lhbi1zcHktcGxhbmUtYWlyYm9ybmUtY29tbWFuZC1wb3N0LTIwMjQtMDEtMTUv0gEA?oc=5",
       "published": "2024-01-15T08:00:00.000Z",
-      "description": "Ukraine destroys Russian spy plane and command aircraft - army chief&nbsp;&nbsp;Reuters.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMicGh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9ydXNzaWEtdWtyYWluZS9taXNzaWxlLWludGVyY2VwdGluZy1wYXRyaW90LW1pc3NpbGUtZGVzdHJveXMtcnVzc2lhbi1zdXJ2ZWlsbGFuY2UtcGxhbmXSAQA",
-      "title": "Missile-Intercepting Patriot Missile Destroys Russian Surveillance Plane - Warrior Maven",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9ydXNzaWEtdWtyYWluZS9taXNzaWxlLWludGVyY2VwdGluZy1wYXRyaW90LW1pc3NpbGUtZGVzdHJveXMtcnVzc2lhbi1zdXJ2ZWlsbGFuY2UtcGxhbmXSAQA?oc=5",
-      "published": "2024-06-14T15:12:43.000Z",
-      "description": "Missile-Intercepting Patriot Missile Destroys Russian Surveillance Plane&nbsp;&nbsp;Warrior Maven",
+      "description": "Ukraine destroys Russian spy plane and command aircraft - army chief&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -112,6 +102,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMS8xNS9ldXJvcGUvdWtyYWluZS1jbGFpbXMtZGVzdHJveWVkLXJ1c3NpYW4tYWlyY3JhZnQtaW50bC9pbmRleC5odG1s0gFYaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wMS8xNS9ldXJvcGUvdWtyYWluZS1jbGFpbXMtZGVzdHJveWVkLXJ1c3NpYW4tYWlyY3JhZnQtaW50bA?oc=5",
       "published": "2024-01-15T08:00:00.000Z",
       "description": "Ukraine claims it destroyed Russian spy plane in attack over Sea of Azov&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicGh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9ydXNzaWEtdWtyYWluZS9taXNzaWxlLWludGVyY2VwdGluZy1wYXRyaW90LW1pc3NpbGUtZGVzdHJveXMtcnVzc2lhbi1zdXJ2ZWlsbGFuY2UtcGxhbmXSAQA",
+      "title": "Missile-Intercepting Patriot Missile Destroys Russian Surveillance Plane - Warrior Maven",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd2Fycmlvcm1hdmVuLmNvbS9ydXNzaWEtdWtyYWluZS9taXNzaWxlLWludGVyY2VwdGluZy1wYXRyaW90LW1pc3NpbGUtZGVzdHJveXMtcnVzc2lhbi1zdXJ2ZWlsbGFuY2UtcGxhbmXSAQA?oc=5",
+      "published": "2024-06-14T15:12:43.000Z",
+      "description": "Missile-Intercepting Patriot Missile Destroys Russian Surveillance Plane&nbsp;&nbsp;Warrior Maven",
       "summary": "",
       "author": "",
       "category": ""
@@ -567,16 +567,6 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vYXJteXJlY29nbml0aW9uLmNvbS9uZXdzL2Flcm9zcGFjZS1uZXdzLzIwMjQvZ2VybWFueS1iZWNvbWUtdGhpcmQtZXVycGVhbi1uYXRpb24td2l0aC1zcHktcGxhbmUtZGVkaWNhdGVkLXRvLXNpZ2ludNIBAA",
-      "title": "Germany become third eurpean nation with Spy plane dedicated to SIGINT - Army Recognition",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYXJteXJlY29nbml0aW9uLmNvbS9uZXdzL2Flcm9zcGFjZS1uZXdzLzIwMjQvZ2VybWFueS1iZWNvbWUtdGhpcmQtZXVycGVhbi1uYXRpb24td2l0aC1zcHktcGxhbmUtZGVkaWNhdGVkLXRvLXNpZ2ludNIBAA?oc=5",
-      "published": "2024-06-10T13:09:02.000Z",
-      "description": "Germany become third eurpean nation with Spy plane dedicated to SIGINT&nbsp;&nbsp;Army Recognition",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXWh0dHBzOi8va3lpdmluZGVwZW5kZW50LmNvbS9haXItZm9yY2UtZG93bmVkLWEtNTAtc3B5LXBsYW5lLXNlcmlvdXMtYmxvdy10by1ydXNzaWFzLWF2aWF0aW9uL9IBAA",
       "title": "Air Force: Downed A-50 spy plane 'serious blow' to Russia's aviation - Kyiv Independent",
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8va3lpdmluZGVwZW5kZW50LmNvbS9haXItZm9yY2UtZG93bmVkLWEtNTAtc3B5LXBsYW5lLXNlcmlvdXMtYmxvdy10by1ydXNzaWFzLWF2aWF0aW9uL9IBAA?oc=5",
@@ -592,6 +582,16 @@
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3Lm5rbmV3cy5vcmcvMjAyNC8wNS9ub3J0aC1rb3JlYS10aHJlYXRlbnMtdW5mb3Jlc2Vlbi1kaXNhc3Rlci1vdmVyLWFsbGVnZWQtdXMtc3B5LXBsYW5lLWZsaWdodHMv0gEA?oc=5",
       "published": "2024-05-31T07:00:00.000Z",
       "description": "North Korea threatens ‘unforeseen disaster’ over alleged US spy plane flights&nbsp;&nbsp;NK News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vYXJteXJlY29nbml0aW9uLmNvbS9uZXdzL2Flcm9zcGFjZS1uZXdzLzIwMjQvZ2VybWFueS1iZWNvbWUtdGhpcmQtZXVycGVhbi1uYXRpb24td2l0aC1zcHktcGxhbmUtZGVkaWNhdGVkLXRvLXNpZ2ludNIBAA",
+      "title": "Germany become third eurpean nation with Spy plane dedicated to SIGINT - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYXJteXJlY29nbml0aW9uLmNvbS9uZXdzL2Flcm9zcGFjZS1uZXdzLzIwMjQvZ2VybWFueS1iZWNvbWUtdGhpcmQtZXVycGVhbi1uYXRpb24td2l0aC1zcHktcGxhbmUtZGVkaWNhdGVkLXRvLXNpZ2ludNIBAA?oc=5",
+      "published": "2024-06-10T13:09:02.000Z",
+      "description": "Germany become third eurpean nation with Spy plane dedicated to SIGINT&nbsp;&nbsp;Army Recognition",
       "summary": "",
       "author": "",
       "category": ""
