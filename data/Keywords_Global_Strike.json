@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-18T19:17:43.000Z",
+  "published": "2024-06-18T20:25:48.000Z",
   "entries": [
     {
       "id": "CBMic2h0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzYzMjcwL2dsb2JhbC1zdHJpa2UtY29tbWFuZC13aW5zLWNlLXJlYWRpbmVzcy1jaGFsbGVuZ2UteC_SAQA",
@@ -22,16 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy52YW5kZW5iZXJnLnNwYWNlZm9yY2UubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzc1NTE3OC9haXItZm9yY2UtZ2xvYmFsLXN0cmlrZS1jb21tYW5kLXZhbmRlbmJlcmctc2ZiLWVudmlyb25tZW50YWwtc2FtcGxpbmctY29tcGxldGUv0gEA?oc=5",
       "published": "2024-04-24T07:00:00.000Z",
       "description": "Air Force Global Strike Command: Vandenberg SFB Environmental Sampling Complete&nbsp;&nbsp;Vandenberg Space Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiRmh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzE3L251Y2xlYXItYXJtcy1zcGVuZGluZy1zb2Fycy_SAQA",
-      "title": "Nuclear Arms Spending Soars as Global Tensions Swell: Studies - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzE3L251Y2xlYXItYXJtcy1zcGVuZGluZy1zb2Fycy_SAQA?oc=5",
-      "published": "2024-06-17T11:15:00.000Z",
-      "description": "Nuclear Arms Spending Soars as Global Tensions Swell: Studies&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -82,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vdGltZS5jb20vNjM0NDY5OC9nbG9iYWwtc3RyaWtlLWdhemEtY2Vhc2VmaXJlL9IBAA?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "Global Strike Begins for a Gaza Ceasefire&nbsp;&nbsp;TIME",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA",
+      "title": "Global Strike for Gaza: LA - CODEPINK - Women for Peace - CodePink",
+      "link": "https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA?oc=5",
+      "published": "2024-04-15T07:00:00.000Z",
+      "description": "Global Strike for Gaza: LA - CODEPINK - Women for Peace&nbsp;&nbsp;CodePink",
       "summary": "",
       "author": "",
       "category": ""
@@ -192,16 +192,6 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LndwYWZiLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2MTc2MTAvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1lc3RhYmxpc2hlcy1uZXctZGlyZWN0b3JhdGUv0gEA?oc=5",
       "published": "2023-12-13T08:00:00.000Z",
       "description": "Air Force Global Strike Command establishes new directorate&nbsp;&nbsp;AF.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA",
-      "title": "Global Strike for Gaza: LA - CODEPINK - Women for Peace - CodePink",
-      "link": "https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA?oc=5",
-      "published": "2024-04-15T07:00:00.000Z",
-      "description": "Global Strike for Gaza: LA - CODEPINK - Women for Peace&nbsp;&nbsp;CodePink",
       "summary": "",
       "author": "",
       "category": ""
@@ -502,16 +492,6 @@
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzQzODYvNXRoLWJvbWItd2luZy1leGVjdXRlcy1iYXNlLXdpZGUtcmVhZGluZXNzLWV4ZXJjaXNlL9IBAA?oc=5",
       "published": "2024-05-09T07:00:00.000Z",
       "description": "5th Bomb Wing executes base-wide readiness exercise&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv",
-      "title": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2ItNTJoLWNyZXctZWFybi1hd2FyZC1mb3Itc2tpbGxmdWxseS1yZWNvdmVyaW5nLWF0LTEyMDAtZmVldC1hZnRlci00LWVuZ2luZXMtZmxhbWVkLW91dC1vbi1vbmUtc2lkZS_SAYQBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9iLTUyaC1jcmV3LWVhcm4tYXdhcmQtZm9yLXNraWxsZnVsbHktcmVjb3ZlcmluZy1hdC0xMjAwLWZlZXQtYWZ0ZXItNC1lbmdpbmVzLWZsYW1lZC1vdXQtb24tb25lLXNpZGUv?oc=5",
-      "published": "2024-06-14T09:27:03.000Z",
-      "description": "B-52H crew earn award for skillfully recovering at 1,200 feet after 4 engines flamed out on one side&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""
@@ -868,10 +848,10 @@
     },
     {
       "id": "CBMifWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2NvbG9yYWRvL25ld3MvcHJvLXBhbGVzdGluaWFuLWRlbW9uc3RyYXRvcnMtZGVudmVyLWJsb2NrLWNvbGZheC1hdmVudWUtc3BlZXItYm91bGV2YXJkLWdsb2JhbC1zdHJpa2Uv0gGBAWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9jb2xvcmFkby9uZXdzL3Byby1wYWxlc3Rpbmlhbi1kZW1vbnN0cmF0b3JzLWRlbnZlci1ibG9jay1jb2xmYXgtYXZlbnVlLXNwZWVyLWJvdWxldmFyZC1nbG9iYWwtc3RyaWtlLw",
-      "title": "Pro-Palestinian demonstrators in Denver block Colfax Avenue and Speer Boulevard as part of global strike - CBS Colardo",
+      "title": "Pro-Palestinian demonstrators in Denver block Colfax Avenue and Speer Boulevard as part of global strike - CBS News",
       "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2NvbG9yYWRvL25ld3MvcHJvLXBhbGVzdGluaWFuLWRlbW9uc3RyYXRvcnMtZGVudmVyLWJsb2NrLWNvbGZheC1hdmVudWUtc3BlZXItYm91bGV2YXJkLWdsb2JhbC1zdHJpa2Uv0gGBAWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9jb2xvcmFkby9uZXdzL3Byby1wYWxlc3Rpbmlhbi1kZW1vbnN0cmF0b3JzLWRlbnZlci1ibG9jay1jb2xmYXgtYXZlbnVlLXNwZWVyLWJvdWxldmFyZC1nbG9iYWwtc3RyaWtlLw?oc=5",
       "published": "2024-01-22T08:00:00.000Z",
-      "description": "Pro-Palestinian demonstrators in Denver block Colfax Avenue and Speer Boulevard as part of global strike&nbsp;&nbsp;CBS Colardo",
+      "description": "Pro-Palestinian demonstrators in Denver block Colfax Avenue and Speer Boulevard as part of global strike&nbsp;&nbsp;CBS News",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +982,26 @@
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNsZWFuZW5lcmd5d2lyZS5vcmcvbmV3cy9nZXJtYW4tYWN0aXZpc3RzLWRlY3J5LXdlYWtlbmluZy1rZXktY2xpbWF0ZS1sYXctZHVyaW5nLWdsb2JhbC1zdHJpa2XSAQA?oc=5",
       "published": "2023-09-15T07:00:00.000Z",
       "description": "German activists decry “weakening” of key climate law during global strike&nbsp;&nbsp;Clean Energy Wire",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3LnBhbGVzdGluZWNocm9uaWNsZS5jb20vbW9uZGF5LWludGVybmF0aW9uYWwtc3RyaWtlLWZvci1nYXphLXdoYXQteW91LWNhbi1kby_SAQA",
+      "title": "Monday International Strike for Gaza - What You Can Do - Palestine Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBhbGVzdGluZWNocm9uaWNsZS5jb20vbW9uZGF5LWludGVybmF0aW9uYWwtc3RyaWtlLWZvci1nYXphLXdoYXQteW91LWNhbi1kby_SAQA?oc=5",
+      "published": "2023-12-11T08:00:00.000Z",
+      "description": "Monday International Strike for Gaza - What You Can Do&nbsp;&nbsp;Palestine Chronicle",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vcHJlc3MtaGVyYWxkLmNvbS9haXItZm9yY2UtZ2xvYmFsLXN0cmlrZS1jb21tYW5kLXNlbGVjdGVkLWZvci0xOC1taWxsaW9uLXJlc2VhcmNoLWFsbG9jYXRpb24v0gEA",
+      "title": "Air Force Global Strike Command selected for $18 million research allocation - Minden Press-Herald",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vcHJlc3MtaGVyYWxkLmNvbS9haXItZm9yY2UtZ2xvYmFsLXN0cmlrZS1jb21tYW5kLXNlbGVjdGVkLWZvci0xOC1taWxsaW9uLXJlc2VhcmNoLWFsbG9jYXRpb24v0gEA?oc=5",
+      "published": "2024-01-23T08:00:00.000Z",
+      "description": "Air Force Global Strike Command selected for $18 million research allocation&nbsp;&nbsp;Minden Press-Herald",
       "summary": "",
       "author": "",
       "category": ""
