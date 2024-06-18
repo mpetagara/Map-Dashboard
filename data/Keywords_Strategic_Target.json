@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-18T10:32:02.000Z",
+  "published": "2024-06-18T11:19:57.000Z",
   "entries": [
     {
       "id": "CBMimQFodHRwczovL21vcmV0aGFudGhlY3VydmUuY29tLzExLWFycmVzdGVkLW92ZXItdHdvLWRheXMtYXQtdGFyZ2V0LWluLXBseW1vdXRoLW1lZXRpbmctYnktc3RyYXRlZ2ljLWludGVydmVudGlvbi1kZXRhaWxzLWludm9sdmluZy1sb2NhbC1wb2xpY2UtYW5kLW90aGVycy_SAQA",
@@ -32,16 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbnZlc3RpbmcuY29tL25ld3MvY29tcGFueS1uZXdzL3BpcGVyLXNhbmRsZXIta2VlcHMtenNjYWxlci1zaGFyZXMtdGFyZ2V0LXVuY2hhbmdlZC11bmRlcnNjb3Jlcy1zdHJhdGVnaWMtZ3Jvd3RoLTkzQ0gtMzQ4MzE0MNIBAA?oc=5",
       "published": "2024-06-13T14:14:42.000Z",
       "description": "Piper Sandler keeps Zscaler shares target unchanged, underscores strategic growth By Investing.com&nbsp;&nbsp;Investing.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiY2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZ3JlZ3BldHJvLzIwMjQvMDQvMTgvaXMtdGFyZ2V0cy1jb21lYmFjay1zdHJhdGVneS10b28tbGl0dGxlLXRvby1sYXRlL9IBAA",
-      "title": "Is Target's Comeback Strategy Too Little, Too Late? - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZ3JlZ3BldHJvLzIwMjQvMDQvMTgvaXMtdGFyZ2V0cy1jb21lYmFjay1zdHJhdGVneS10b28tbGl0dGxlLXRvby1sYXRlL9IBAA?oc=5",
-      "published": "2024-04-18T07:00:00.000Z",
-      "description": "Is Target's Comeback Strategy Too Little, Too Late?&nbsp;&nbsp;Forbes",
       "summary": "",
       "author": "",
       "category": ""
@@ -167,6 +157,16 @@
       "category": ""
     },
     {
+      "id": "CBMie2h0dHBzOi8vY29tbWlzc2lvbi5ldXJvcGEuZXUvc3RyYXRlZ3ktYW5kLXBvbGljeS9wcmlvcml0aWVzLTIwMTktMjAyNC9ldXJvcGVhbi1ncmVlbi1kZWFsL2RlbGl2ZXJpbmctZXVyb3BlYW4tZ3JlZW4tZGVhbF9lbtIBAA",
+      "title": "Delivering the European Green Deal - European Commission - European Union",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vY29tbWlzc2lvbi5ldXJvcGEuZXUvc3RyYXRlZ3ktYW5kLXBvbGljeS9wcmlvcml0aWVzLTIwMTktMjAyNC9ldXJvcGVhbi1ncmVlbi1kZWFsL2RlbGl2ZXJpbmctZXVyb3BlYW4tZ3JlZW4tZGVhbF9lbtIBAA?oc=5",
+      "published": "2023-10-09T07:00:00.000Z",
+      "description": "Delivering the European Green Deal - European Commission&nbsp;&nbsp;European Union",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWNvZGluZy10YXJnZXQtY29ycC10Z3Qtc3RyYXRlZ2ljLTA1MDM1MzAxNi5odG1s0gEA",
       "title": "Decoding Target Corp (TGT): A Strategic SWOT Insight - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9kZWNvZGluZy10YXJnZXQtY29ycC10Z3Qtc3RyYXRlZ2ljLTA1MDM1MzAxNi5odG1s0gEA?oc=5",
@@ -207,21 +207,21 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vY29tbWlzc2lvbi5ldXJvcGEuZXUvc3RyYXRlZ3ktYW5kLXBvbGljeS9wcmlvcml0aWVzLTIwMTktMjAyNC9ldXJvcGVhbi1ncmVlbi1kZWFsL2RlbGl2ZXJpbmctZXVyb3BlYW4tZ3JlZW4tZGVhbF9lbtIBAA",
-      "title": "Delivering the European Green Deal - European Commission - European Union",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vY29tbWlzc2lvbi5ldXJvcGEuZXUvc3RyYXRlZ3ktYW5kLXBvbGljeS9wcmlvcml0aWVzLTIwMTktMjAyNC9ldXJvcGVhbi1ncmVlbi1kZWFsL2RlbGl2ZXJpbmctZXVyb3BlYW4tZ3JlZW4tZGVhbF9lbtIBAA?oc=5",
-      "published": "2023-10-09T07:00:00.000Z",
-      "description": "Delivering the European Green Deal - European Commission&nbsp;&nbsp;European Union",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMihgFodHRwczovL3d3dy5pbnZlc3RpbmcuY29tL25ld3MvY29tcGFueS1uZXdzL21penVoby11cHMtdWdpLXNoYXJlLXByaWNlLXRhcmdldC1leWVzLXN0cmF0ZWdpYy1yZXZpZXctb3V0Y29tZXMtd2l0aC1jYXV0aW9uLTkzQ0gtMzM4MTkwNNIBAA",
       "title": "Mizuho ups UGI share price target, eyes strategic review outcomes with caution By Investing.com - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5pbnZlc3RpbmcuY29tL25ld3MvY29tcGFueS1uZXdzL21penVoby11cHMtdWdpLXNoYXJlLXByaWNlLXRhcmdldC1leWVzLXN0cmF0ZWdpYy1yZXZpZXctb3V0Y29tZXMtd2l0aC1jYXV0aW9uLTkzQ0gtMzM4MTkwNNIBAA?oc=5",
       "published": "2024-04-17T07:00:00.000Z",
       "description": "Mizuho ups UGI share price target, eyes strategic review outcomes with caution By Investing.com&nbsp;&nbsp;Investing.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMic2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2lkZi1jaGllZi1zYXlzLWdyb3VuZC1vcC1kZWxheWVkLWJ5LXRhY3RpY2FsLXN0cmF0ZWdpYy1tYXR0ZXJzLXJvY2tldHMtdGFyZ2V0LWNlbnRlci_SAXdodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9pZGYtY2hpZWYtc2F5cy1ncm91bmQtb3AtZGVsYXllZC1ieS10YWN0aWNhbC1zdHJhdGVnaWMtbWF0dGVycy1yb2NrZXRzLXRhcmdldC1jZW50ZXIvYW1wLw",
+      "title": "IDF chief says ground op delayed by tactical, strategic matters; rockets target center - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2lkZi1jaGllZi1zYXlzLWdyb3VuZC1vcC1kZWxheWVkLWJ5LXRhY3RpY2FsLXN0cmF0ZWdpYy1tYXR0ZXJzLXJvY2tldHMtdGFyZ2V0LWNlbnRlci_SAXdodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9pZGYtY2hpZWYtc2F5cy1ncm91bmQtb3AtZGVsYXllZC1ieS10YWN0aWNhbC1zdHJhdGVnaWMtbWF0dGVycy1yb2NrZXRzLXRhcmdldC1jZW50ZXIvYW1wLw?oc=5",
+      "published": "2023-10-07T07:00:00.000Z",
+      "description": "IDF chief says ground op delayed by tactical, strategic matters; rockets target center&nbsp;&nbsp;The Times of Israel",
       "summary": "",
       "author": "",
       "category": ""
@@ -242,6 +242,16 @@
       "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5nbG9iZW5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2UvMjAyMy8xMS8zMC8yNzg4NTIxLzAvZW4vU2hhcGVUWC1FeHBhbmRzLVN0cmF0ZWdpYy1Db2xsYWJvcmF0aW9uLXdpdGgtUm9jaGUtd2l0aC1BZGRpdGlvbi1vZi1hLU5ldy1UYXJnZXQuaHRtbNIBAA?oc=5",
       "published": "2023-11-30T08:00:00.000Z",
       "description": "ShapeTX Expands Strategic Collaboration with Roche with Addition of a New Target&nbsp;&nbsp;GlobeNewswire",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYmh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS90dXRvcmlhbHMvbWFya2V0aW5nLWNhc2Utc3R1ZGllcy10dXRvcmlhbC9zdGFyYnVja3MtbWFya2V0aW5nLXN0cmF0ZWd50gEA",
+      "title": "Exploring Starbucks Marketing Strategy: The Success Secret - Simplilearn",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnNpbXBsaWxlYXJuLmNvbS90dXRvcmlhbHMvbWFya2V0aW5nLWNhc2Utc3R1ZGllcy10dXRvcmlhbC9zdGFyYnVja3MtbWFya2V0aW5nLXN0cmF0ZWd50gEA?oc=5",
+      "published": "2023-10-30T07:00:00.000Z",
+      "description": "Exploring Starbucks Marketing Strategy: The Success Secret&nbsp;&nbsp;Simplilearn",
       "summary": "",
       "author": "",
       "category": ""
@@ -377,16 +387,6 @@
       "category": ""
     },
     {
-      "id": "CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDgvMTkvd29ybGQvZXVyb3BlL29kZXNhLXVrcmFpbmUtcHV0aW4tcnVzc2lhLmh0bWzSAQA",
-      "title": "Odesa Is Defiant. It's Also Putin's Ultimate Target. (Published 2022) - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDgvMTkvd29ybGQvZXVyb3BlL29kZXNhLXVrcmFpbmUtcHV0aW4tcnVzc2lhLmh0bWzSAQA?oc=5",
-      "published": "2022-08-19T07:00:00.000Z",
-      "description": "Odesa Is Defiant. It's Also Putin's Ultimate Target. (Published 2022)&nbsp;&nbsp;The New York Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiygFodHRwczovL3d3dy50aGVhZHZvY2F0ZS5jb20vbmV3X29ybGVhbnMvZW50ZXJ0YWlubWVudF9saWZlL2Jvb2tzL2ZyZWVkb20tcmVhZGVycy1saWJyYXJpZXMtd2VyZS1hbi1lYXJseS1zdHJhdGVnaWMtdGFyZ2V0LWluLXRoZS1iYXR0bGUtZm9yLWNpdmlsLXJpZ2h0cy9hcnRpY2xlX2JkZTE2MGMwLTZkYmYtMTFlOC1iMGEwLWJmN2IxYmE2NGEzYi5odG1s0gEA",
       "title": "Freedom Readers: Libraries were an early, strategic target in the battle for civil rights - The Advocate",
       "link": "https://news.google.com/rss/articles/CBMiygFodHRwczovL3d3dy50aGVhZHZvY2F0ZS5jb20vbmV3X29ybGVhbnMvZW50ZXJ0YWlubWVudF9saWZlL2Jvb2tzL2ZyZWVkb20tcmVhZGVycy1saWJyYXJpZXMtd2VyZS1hbi1lYXJseS1zdHJhdGVnaWMtdGFyZ2V0LWluLXRoZS1iYXR0bGUtZm9yLWNpdmlsLXJpZ2h0cy9hcnRpY2xlX2JkZTE2MGMwLTZkYmYtMTFlOC1iMGEwLWJmN2IxYmE2NGEzYi5odG1s0gEA?oc=5",
@@ -397,11 +397,31 @@
       "category": ""
     },
     {
+      "id": "CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDgvMTkvd29ybGQvZXVyb3BlL29kZXNhLXVrcmFpbmUtcHV0aW4tcnVzc2lhLmh0bWzSAQA",
+      "title": "Odesa Is Defiant. It's Also Putin's Ultimate Target. (Published 2022) - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDgvMTkvd29ybGQvZXVyb3BlL29kZXNhLXVrcmFpbmUtcHV0aW4tcnVzc2lhLmh0bWzSAQA?oc=5",
+      "published": "2022-08-19T07:00:00.000Z",
+      "description": "Odesa Is Defiant. It's Also Putin's Ultimate Target. (Published 2022)&nbsp;&nbsp;The New York Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiYmh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDE3LzA4L3dhbC1tYXJ0LWNvbXBldGl0b3JzLXRhcmdldC1hbmQtYWxkaS1tYWtlLXN0cmF0ZWdpYy1jb3VudGVybW92ZXMv0gEA",
       "title": "Wal-Mart competitors Target and Aldi make strategic countermoves - talkbusiness.net",
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGFsa2J1c2luZXNzLm5ldC8yMDE3LzA4L3dhbC1tYXJ0LWNvbXBldGl0b3JzLXRhcmdldC1hbmQtYWxkaS1tYWtlLXN0cmF0ZWdpYy1jb3VudGVybW92ZXMv0gEA?oc=5",
       "published": "2017-08-15T07:00:00.000Z",
       "description": "Wal-Mart competitors Target and Aldi make strategic countermoves&nbsp;&nbsp;talkbusiness.net",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWWh0dHBzOi8vbXVsdGljaGFubmVsbWVyY2hhbnQuY29tL2Vjb21tZXJjZS90YXJnZXQtdXBiZWF0LXE0LTIwMTktcmVzdWx0cy1zdHJhdGVnaWMtcGxhbnMv0gEA",
+      "title": "Target Upbeat on Q4, 2019 Results and Strategic Plans - Multichannel Merchant",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbXVsdGljaGFubmVsbWVyY2hhbnQuY29tL2Vjb21tZXJjZS90YXJnZXQtdXBiZWF0LXE0LTIwMTktcmVzdWx0cy1zdHJhdGVnaWMtcGxhbnMv0gEA?oc=5",
+      "published": "2020-03-05T08:00:00.000Z",
+      "description": "Target Upbeat on Q4, 2019 Results and Strategic Plans&nbsp;&nbsp;Multichannel Merchant",
       "summary": "",
       "author": "",
       "category": ""
@@ -487,21 +507,31 @@
       "category": ""
     },
     {
-      "id": "CBMiZ2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vYXJ0aWNsZXMvcGVyc29uYWwtZmluYW5jZS8wNzA3MTUvc3VjY2Vzcy1wYXRhZ29uaWFzLW1hcmtldGluZy1zdHJhdGVneS5hc3DSAQA",
-      "title": "The Success of Patagonia's Marketing Strategy - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vYXJ0aWNsZXMvcGVyc29uYWwtZmluYW5jZS8wNzA3MTUvc3VjY2Vzcy1wYXRhZ29uaWFzLW1hcmtldGluZy1zdHJhdGVneS5hc3DSAQA?oc=5",
-      "published": "2017-11-07T23:10:59.000Z",
-      "description": "The Success of Patagonia's Marketing Strategy&nbsp;&nbsp;Investopedia",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieGh0dHBzOi8vd3d3LmFmci5jb20vY29tcGFuaWVzL21hbnVmYWN0dXJpbmcvdXMtY2hpcHMtd2FyLWhpdHMtYWxsaWVzLWJ1dC1taXNzZXMtY2hpbmVzZS1zdHJhdGVnaWMtdGFyZ2V0LTIwMjMwMTAyLXA1Yzl0Z9IBAA",
       "title": "US chips war hits allies but misses Chinese strategic target - The Australian Financial Review",
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFmci5jb20vY29tcGFuaWVzL21hbnVmYWN0dXJpbmcvdXMtY2hpcHMtd2FyLWhpdHMtYWxsaWVzLWJ1dC1taXNzZXMtY2hpbmVzZS1zdHJhdGVnaWMtdGFyZ2V0LTIwMjMwMTAyLXA1Yzl0Z9IBAA?oc=5",
       "published": "2023-01-03T08:00:00.000Z",
       "description": "US chips war hits allies but misses Chinese strategic target&nbsp;&nbsp;The Australian Financial Review",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiPWh0dHBzOi8vaGJyLm9yZy8yMDE1LzAxL3doeS10YXJnZXRzLWNhbmFkaWFuLWV4cGFuc2lvbi1mYWlsZWTSAQA",
+      "title": "Why Target's Canadian Expansion Failed - HBR.org Daily",
+      "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vaGJyLm9yZy8yMDE1LzAxL3doeS10YXJnZXRzLWNhbmFkaWFuLWV4cGFuc2lvbi1mYWlsZWTSAQA?oc=5",
+      "published": "2015-01-20T08:00:00.000Z",
+      "description": "Why Target's Canadian Expansion Failed&nbsp;&nbsp;HBR.org Daily",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjA1MjMtaW4tc291dGhlcm4tdWtyYWluZS1ydXNzaWFuLWZvcmNlcy1ndWFyZC1zdHJhdGVnaWMtZGFt0gEA",
+      "title": "In southern Ukraine, Russian forces guard strategic dam - FRANCE 24 English",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9lbi9saXZlLW5ld3MvMjAyMjA1MjMtaW4tc291dGhlcm4tdWtyYWluZS1ydXNzaWFuLWZvcmNlcy1ndWFyZC1zdHJhdGVnaWMtZGFt0gEA?oc=5",
+      "published": "2022-05-23T07:00:00.000Z",
+      "description": "In southern Ukraine, Russian forces guard strategic dam&nbsp;&nbsp;FRANCE 24 English",
       "summary": "",
       "author": "",
       "category": ""
@@ -592,6 +622,16 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9jb21wYW5pZXMvbmV3cy9hZGFuaS1wb3J0cy1zYXlzLWl0LWNhbi1lYXNpbHktYWNxdWlyZS1zdHJhdGVnaWMtdGFyZ2V0LWNvbmNvci0xMTYyODc2MzQxOTIyNC5odG1s0gF-aHR0cHM6Ly93d3cubGl2ZW1pbnQuY29tL2NvbXBhbmllcy9uZXdzL2FkYW5pLXBvcnRzLXNheXMtaXQtY2FuLWVhc2lseS1hY3F1aXJlLXN0cmF0ZWdpYy10YXJnZXQtY29uY29yL2FtcC0xMTYyODc2MzQxOTIyNC5odG1s?oc=5",
       "published": "2021-08-12T07:00:00.000Z",
       "description": "Adani Ports says it can easily acquire ‘strategic’ target Concor | Company Business News&nbsp;&nbsp;Mint",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDA5L2RlYy8yMS91cy10YWxpYmFuLWJhbG9jaGlzdGFuLXN0cmF0ZWd5LXBha2lzdGFu0gFWaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMDkvZGVjLzIxL3VzLXRhbGliYW4tYmFsb2NoaXN0YW4tc3RyYXRlZ3ktcGFraXN0YW4",
+      "title": "Strategic Balochistan becomes a target in war against Taliban - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDA5L2RlYy8yMS91cy10YWxpYmFuLWJhbG9jaGlzdGFuLXN0cmF0ZWd5LXBha2lzdGFu0gFWaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMDkvZGVjLzIxL3VzLXRhbGliYW4tYmFsb2NoaXN0YW4tc3RyYXRlZ3ktcGFraXN0YW4?oc=5",
+      "published": "2009-12-21T08:00:00.000Z",
+      "description": "Strategic Balochistan becomes a target in war against Taliban&nbsp;&nbsp;The Guardian",
       "summary": "",
       "author": "",
       "category": ""
