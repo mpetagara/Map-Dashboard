@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-19T13:27:08.000Z",
+  "published": "2024-06-19T14:27:58.000Z",
   "entries": [
     {
       "id": "CBMinQFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjQtMDYtMTgtVVMtQWlyLUZvcmNlLWFuZC1Mb2NraGVlZC1NYXJ0aW4tQ29tcGxldGUtRmxpZ2h0LVRlc3Qtb2YtRnV0dXJlLUludGVyY29udGluZW50YWwtQmFsbGlzdGljLU1pc3NpbGUtUmVlbnRyeS1WZWhpY2xl0gEA",
@@ -47,21 +47,21 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9iYXR0bGVmaWVsZC10ZWNoL3NwYWNlLzIwMjQvMDYvMTQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1zYXRlbGxpdGVzLXRyYWNrLWZpcnN0LWh5cGVyc29uaWMtbGF1bmNoL9IBAA",
-      "title": "Missile Defense Agency satellites track first hypersonic launch - C4ISRNET",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9iYXR0bGVmaWVsZC10ZWNoL3NwYWNlLzIwMjQvMDYvMTQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1zYXRlbGxpdGVzLXRyYWNrLWZpcnN0LWh5cGVyc29uaWMtbGF1bmNoL9IBAA?oc=5",
-      "published": "2024-06-14T18:05:30.000Z",
-      "description": "Missile Defense Agency satellites track first hypersonic launch&nbsp;&nbsp;C4ISRNET",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMimwFodHRwczovL3d3dy52YW5kZW5iZXJnLnNwYWNlZm9yY2UubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzc5NTM3OC9taW51dGVtYW4taWlpLXRlc3QtbGF1bmNoLXNob3djYXNlcy1yZWFkaW5lc3Mtb2YtdXMtbnVjbGVhci1mb3JjZXMtc2FmZS1lZmZlY3RpL9IBAA",
       "title": "MINUTEMAN III TEST LAUNCH SHOWCASES READINESS OF U.S. NUCLEAR FORCE'S SAFE, EFFECTIVE DET - Vandenberg Space Force Base",
       "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy52YW5kZW5iZXJnLnNwYWNlZm9yY2UubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzc5NTM3OC9taW51dGVtYW4taWlpLXRlc3QtbGF1bmNoLXNob3djYXNlcy1yZWFkaW5lc3Mtb2YtdXMtbnVjbGVhci1mb3JjZXMtc2FmZS1lZmZlY3RpL9IBAA?oc=5",
       "published": "2024-06-04T07:00:00.000Z",
       "description": "MINUTEMAN III TEST LAUNCH SHOWCASES READINESS OF U.S. NUCLEAR FORCE'S SAFE, EFFECTIVE DET&nbsp;&nbsp;Vandenberg Space Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9iYXR0bGVmaWVsZC10ZWNoL3NwYWNlLzIwMjQvMDYvMTQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1zYXRlbGxpdGVzLXRyYWNrLWZpcnN0LWh5cGVyc29uaWMtbGF1bmNoL9IBAA",
+      "title": "Missile Defense Agency satellites track first hypersonic launch - C4ISRNET",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9iYXR0bGVmaWVsZC10ZWNoL3NwYWNlLzIwMjQvMDYvMTQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1zYXRlbGxpdGVzLXRyYWNrLWZpcnN0LWh5cGVyc29uaWMtbGF1bmNoL9IBAA?oc=5",
+      "published": "2024-06-14T18:05:30.000Z",
+      "description": "Missile Defense Agency satellites track first hypersonic launch&nbsp;&nbsp;C4ISRNET",
       "summary": "",
       "author": "",
       "category": ""
@@ -77,16 +77,6 @@
       "category": ""
     },
     {
-      "id": "CBMiaGh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvdXNhZi1hbmQtbG9ja2hlZWQtbWFydGluLWxhdW5jaC1uZXctcmVlbnRyeS12ZWhpY2xlLWZvci11cGNvbWluZy1pY2Jt0gFsaHR0cHM6Ly93d3cuYWVyb3RpbWUuYWVyby9hcnRpY2xlcy91c2FmLWFuZC1sb2NraGVlZC1tYXJ0aW4tbGF1bmNoLW5ldy1yZWVudHJ5LXZlaGljbGUtZm9yLXVwY29taW5nLWljYm0vYW1w",
-      "title": "USAF and Lockheed Martin launch new reentry vehicle for upcoming ICBM - AeroTime",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvdXNhZi1hbmQtbG9ja2hlZWQtbWFydGluLWxhdW5jaC1uZXctcmVlbnRyeS12ZWhpY2xlLWZvci11cGNvbWluZy1pY2Jt0gFsaHR0cHM6Ly93d3cuYWVyb3RpbWUuYWVyby9hcnRpY2xlcy91c2FmLWFuZC1sb2NraGVlZC1tYXJ0aW4tbGF1bmNoLW5ldy1yZWVudHJ5LXZlaGljbGUtZm9yLXVwY29taW5nLWljYm0vYW1w?oc=5",
-      "published": "2024-06-19T08:43:40.000Z",
-      "description": "USAF and Lockheed Martin launch new reentry vehicle for upcoming ICBM&nbsp;&nbsp;AeroTime",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE3L3VzLWFybXktcy1uZXctaHlwZXJzb25pYy13ZWFwb24taXMtc3RpbGwtbW9udGhzLWF3YXktZ2FvLXNheXPSAQA",
       "title": "US Army's New Hypersonic Weapon Is Still Months Away, GAO Says - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE3L3VzLWFybXktcy1uZXctaHlwZXJzb25pYy13ZWFwb24taXMtc3RpbGwtbW9udGhzLWF3YXktZ2FvLXNheXPSAQA?oc=5",
@@ -97,21 +87,21 @@
       "category": ""
     },
     {
-      "id": "CBMiYmh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS8yMDI0LTA2LTE3L3JvbWFuaWEtcGF0cmlvdC1taXNzaWxlLWJsYWNrLXNlYS0xNDIwNzkzNi5odG1s0gEA",
-      "title": "US Patriot missiles fend off attacks during NATO drill in Romania - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS8yMDI0LTA2LTE3L3JvbWFuaWEtcGF0cmlvdC1taXNzaWxlLWJsYWNrLXNlYS0xNDIwNzkzNi5odG1s0gEA?oc=5",
-      "published": "2024-06-17T11:30:13.000Z",
-      "description": "US Patriot missiles fend off attacks during NATO drill in Romania&nbsp;&nbsp;Stars and Stripes",
+      "id": "CBMiaGh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvdXNhZi1hbmQtbG9ja2hlZWQtbWFydGluLWxhdW5jaC1uZXctcmVlbnRyeS12ZWhpY2xlLWZvci11cGNvbWluZy1pY2Jt0gFsaHR0cHM6Ly93d3cuYWVyb3RpbWUuYWVyby9hcnRpY2xlcy91c2FmLWFuZC1sb2NraGVlZC1tYXJ0aW4tbGF1bmNoLW5ldy1yZWVudHJ5LXZlaGljbGUtZm9yLXVwY29taW5nLWljYm0vYW1w",
+      "title": "USAF and Lockheed Martin launch new reentry vehicle for upcoming ICBM - AeroTime",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvdXNhZi1hbmQtbG9ja2hlZWQtbWFydGluLWxhdW5jaC1uZXctcmVlbnRyeS12ZWhpY2xlLWZvci11cGNvbWluZy1pY2Jt0gFsaHR0cHM6Ly93d3cuYWVyb3RpbWUuYWVyby9hcnRpY2xlcy91c2FmLWFuZC1sb2NraGVlZC1tYXJ0aW4tbGF1bmNoLW5ldy1yZWVudHJ5LXZlaGljbGUtZm9yLXVwY29taW5nLWljYm0vYW1w?oc=5",
+      "published": "2024-06-19T08:43:40.000Z",
+      "description": "USAF and Lockheed Martin launch new reentry vehicle for upcoming ICBM&nbsp;&nbsp;AeroTime",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA",
-      "title": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic - The Independent Barents Observer",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA?oc=5",
-      "published": "2024-06-18T17:14:12.000Z",
-      "description": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic&nbsp;&nbsp;The Independent Barents Observer",
+      "id": "CBMiYmh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS8yMDI0LTA2LTE3L3JvbWFuaWEtcGF0cmlvdC1taXNzaWxlLWJsYWNrLXNlYS0xNDIwNzkzNi5odG1s0gEA",
+      "title": "US Patriot missiles fend off attacks during NATO drill in Romania - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS8yMDI0LTA2LTE3L3JvbWFuaWEtcGF0cmlvdC1taXNzaWxlLWJsYWNrLXNlYS0xNDIwNzkzNi5odG1s0gEA?oc=5",
+      "published": "2024-06-17T11:30:13.000Z",
+      "description": "US Patriot missiles fend off attacks during NATO drill in Romania&nbsp;&nbsp;Stars and Stripes",
       "summary": "",
       "author": "",
       "category": ""
@@ -132,6 +122,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtbGF1bmNoLWJjMDM5MWU5ODFiMmVlZGNlNWRjMTc3MzRlMjdlZTBj0gEA?oc=5",
       "published": "2023-12-18T08:00:00.000Z",
       "description": "North Korea fires long-range ballistic missile into sea&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA",
+      "title": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic - The Independent Barents Observer",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA?oc=5",
+      "published": "2024-06-18T17:14:12.000Z",
+      "description": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic&nbsp;&nbsp;The Independent Barents Observer",
       "summary": "",
       "author": "",
       "category": ""
@@ -272,16 +272,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWNydWlzZS1taXNzaWxlLWxhdW5jaC10ZW5zaW9ucy04Yjc4MjdlZjNmMjI4OGRiYjQ0ZWM0MmM5Y2JkMmE5MdIBAA?oc=5",
       "published": "2024-02-13T08:00:00.000Z",
       "description": "South Korea says North Korea has fired cruise missiles, adding to provocative run in weapons tests&nbsp;&nbsp;The Associated Press",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWGh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9jbGltYXRlLWVudmlyb25tZW50L21hcnNoYWxsLWlzbGFuZHMtY2xpbWF0ZS1jaGFuZ2UtZDFhN2Y0MzfSAQA",
-      "title": "The U.S. Military's Race to Save a Crucial Missile Test Site From the Sea - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9jbGltYXRlLWVudmlyb25tZW50L21hcnNoYWxsLWlzbGFuZHMtY2xpbWF0ZS1jaGFuZ2UtZDFhN2Y0MzfSAQA?oc=5",
-      "published": "2024-06-12T01:00:00.000Z",
-      "description": "The U.S. Military's Race to Save a Crucial Missile Test Site From the Sea&nbsp;&nbsp;The Wall Street Journal",
       "summary": "",
       "author": "",
       "category": ""
@@ -457,16 +447,6 @@
       "category": ""
     },
     {
-      "id": "CBMid2h0dHBzOi8vdGhlZGVicmllZi5vcmcvdS1zLWFpci1mb3JjZS1hbmQtbG9ja2hlZWQtbWFydGluLXRlc3QtYWR2YW5jZWQtZnV0dXJlLW1pc3NpbGUtcmVlbnRyeS12ZWhpY2xlLW92ZXItdGhlLXBhY2lmaWMv0gEA",
-      "title": "U.S. Air Force and Lockheed Martin Test Advanced Mk21A Missile Reentry Vehicle Over the Pacific - The Debrief",
-      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlZGVicmllZi5vcmcvdS1zLWFpci1mb3JjZS1hbmQtbG9ja2hlZWQtbWFydGluLXRlc3QtYWR2YW5jZWQtZnV0dXJlLW1pc3NpbGUtcmVlbnRyeS12ZWhpY2xlLW92ZXItdGhlLXBhY2lmaWMv0gEA?oc=5",
-      "published": "2024-06-18T19:34:05.000Z",
-      "description": "U.S. Air Force and Lockheed Martin Test Advanced Mk21A Missile Reentry Vehicle Over the Pacific&nbsp;&nbsp;The Debrief",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN00gFRaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN0",
       "title": "SMDC, RTS play role in latest missile test - United States Army",
       "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN00gFRaHR0cHM6Ly93d3cuYXJteS5taWwvYXJ0aWNsZS1hbXAvMjcyNjA2L3NtZGNfcnRzX3BsYXlfcm9sZV9pbl9sYXRlc3RfbWlzc2lsZV90ZXN0?oc=5",
@@ -497,21 +477,21 @@
       "category": ""
     },
     {
-      "id": "CBMiY2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA1LzIxL2xvY2toZWVkLXRlc3QtZmlyZXMtYXJteS1wYXRyaW90LW1pc3NpbGUtdXNpbmctYWVnaXMtY29tYmF0LXN5c3RlbdIBAA",
-      "title": "Lockheed Test Fires Army Patriot Missile Using Aegis Combat System - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA1LzIxL2xvY2toZWVkLXRlc3QtZmlyZXMtYXJteS1wYXRyaW90LW1pc3NpbGUtdXNpbmctYWVnaXMtY29tYmF0LXN5c3RlbdIBAA?oc=5",
-      "published": "2024-05-21T07:00:00.000Z",
-      "description": "Lockheed Test Fires Army Patriot Missile Using Aegis Combat System - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicWh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9ub3J0aC1rb3JlYS10ZXN0cy1zdWJtYXJpbmUtbGF1bmNoZWQtY3J1aXNlLW1pc3NpbGUtc3RhdGUvc3Rvcnk_aWQ9MTA2NzU0Mjc50gF1aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvSW50ZXJuYXRpb25hbC9ub3J0aC1rb3JlYS10ZXN0cy1zdWJtYXJpbmUtbGF1bmNoZWQtY3J1aXNlLW1pc3NpbGUtc3RhdGUvc3Rvcnk_aWQ9MTA2NzU0Mjc5",
       "title": "North Korea tests submarine-launched cruise missile, state media says - ABC News",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC9ub3J0aC1rb3JlYS10ZXN0cy1zdWJtYXJpbmUtbGF1bmNoZWQtY3J1aXNlLW1pc3NpbGUtc3RhdGUvc3Rvcnk_aWQ9MTA2NzU0Mjc50gF1aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvSW50ZXJuYXRpb25hbC9ub3J0aC1rb3JlYS10ZXN0cy1zdWJtYXJpbmUtbGF1bmNoZWQtY3J1aXNlLW1pc3NpbGUtc3RhdGUvc3Rvcnk_aWQ9MTA2NzU0Mjc5?oc=5",
       "published": "2024-01-28T08:00:00.000Z",
       "description": "North Korea tests submarine-launched cruise missile, state media says&nbsp;&nbsp;ABC News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiY2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA1LzIxL2xvY2toZWVkLXRlc3QtZmlyZXMtYXJteS1wYXRyaW90LW1pc3NpbGUtdXNpbmctYWVnaXMtY29tYmF0LXN5c3RlbdIBAA",
+      "title": "Lockheed Test Fires Army Patriot Missile Using Aegis Combat System - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA1LzIxL2xvY2toZWVkLXRlc3QtZmlyZXMtYXJteS1wYXRyaW90LW1pc3NpbGUtdXNpbmctYWVnaXMtY29tYmF0LXN5c3RlbdIBAA?oc=5",
+      "published": "2024-05-21T07:00:00.000Z",
+      "description": "Lockheed Test Fires Army Patriot Missile Using Aegis Combat System - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -552,6 +532,16 @@
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm5iY2Rmdy5jb20vbmV3cy9wb2xpdGljcy9ub3J0aC1rb3JlYS1yZXN1bWVzLW1pc3NpbGUtdGVzdHMtcmFpc2luZy10ZW5zaW9ucy13aXRoLWl0cy1yaXZhbHMvMzQ5MTEyOS_SAXZodHRwczovL3d3dy5uYmNkZncuY29tL25ld3MvcG9saXRpY3Mvbm9ydGgta29yZWEtcmVzdW1lcy1taXNzaWxlLXRlc3RzLXJhaXNpbmctdGVuc2lvbnMtd2l0aC1pdHMtcml2YWxzLzM0OTExMjkvP2FtcD0x?oc=5",
       "published": "2024-03-18T07:00:00.000Z",
       "description": "North Korea resumes missile tests, raising tensions with its rivals&nbsp;&nbsp;NBC DFW",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMid2h0dHBzOi8vdGhlZGVicmllZi5vcmcvdS1zLWFpci1mb3JjZS1hbmQtbG9ja2hlZWQtbWFydGluLXRlc3QtYWR2YW5jZWQtZnV0dXJlLW1pc3NpbGUtcmVlbnRyeS12ZWhpY2xlLW92ZXItdGhlLXBhY2lmaWMv0gEA",
+      "title": "U.S. Air Force and Lockheed Martin Test Advanced Mk21A Missile Reentry Vehicle Over the Pacific - The Debrief",
+      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdGhlZGVicmllZi5vcmcvdS1zLWFpci1mb3JjZS1hbmQtbG9ja2hlZWQtbWFydGluLXRlc3QtYWR2YW5jZWQtZnV0dXJlLW1pc3NpbGUtcmVlbnRyeS12ZWhpY2xlLW92ZXItdGhlLXBhY2lmaWMv0gEA?oc=5",
+      "published": "2024-06-18T19:34:05.000Z",
+      "description": "U.S. Air Force and Lockheed Martin Test Advanced Mk21A Missile Reentry Vehicle Over the Pacific&nbsp;&nbsp;The Debrief",
       "summary": "",
       "author": "",
       "category": ""
@@ -697,16 +687,6 @@
       "category": ""
     },
     {
-      "id": "CBMikwFodHRwczovL3d3dy5uZXdzbW9iaWxlLmluL25tLWZhY3QtY2hlY2tlci9mYWN0LWNoZWNrLTIwMTgtY2xpcC1vZi1ydXNzaWFuLW1pc3NpbGUtdGVzdC1mYWxzZWx5LXNoYXJlZC1hcy1yZWNlbnQtbWFyaW5lLWV4ZXJjaXNlLW5lYXItZmxvcmlkYS1jb2FzdC_SAQA",
-      "title": "Fact Check: 2018 Clip Of Russian Missile Test Falsely Shared As Recent Marine Exercise Near Florida Coast - Newsmobile",
-      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5uZXdzbW9iaWxlLmluL25tLWZhY3QtY2hlY2tlci9mYWN0LWNoZWNrLTIwMTgtY2xpcC1vZi1ydXNzaWFuLW1pc3NpbGUtdGVzdC1mYWxzZWx5LXNoYXJlZC1hcy1yZWNlbnQtbWFyaW5lLWV4ZXJjaXNlLW5lYXItZmxvcmlkYS1jb2FzdC_SAQA?oc=5",
-      "published": "2024-06-19T03:37:36.000Z",
-      "description": "Fact Check: 2018 Clip Of Russian Missile Test Falsely Shared As Recent Marine Exercise Near Florida Coast&nbsp;&nbsp;Newsmobile",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvbm9ydGgta29yZWEtbXVsdGlwbGUtY3J1aXNlLW1pc3NpbGVzLXNlYS10ZXN0aW5nLXNwcmVlL9IBWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL25vcnRoLWtvcmVhLW11bHRpcGxlLWNydWlzZS1taXNzaWxlcy1zZWEtdGVzdGluZy1zcHJlZS8",
       "title": "North Korea fires multiple cruise missiles into the sea, extending recent testing spree - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvbm9ydGgta29yZWEtbXVsdGlwbGUtY3J1aXNlLW1pc3NpbGVzLXNlYS10ZXN0aW5nLXNwcmVlL9IBWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL25vcnRoLWtvcmVhLW11bHRpcGxlLWNydWlzZS1taXNzaWxlcy1zZWEtdGVzdGluZy1zcHJlZS8?oc=5",
@@ -722,6 +702,16 @@
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy90YWl3YW4tdGVzdHMtYWlyLWRlZmVuY2VzLWVhcmx5LW1vcm5pbmctbWlzc2lsZS1kcmlsbHMtMjAyNC0wMy0yNi_SAQA?oc=5",
       "published": "2024-03-25T07:00:00.000Z",
       "description": "Taiwan tests air defences in early morning missile drills&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMikwFodHRwczovL3d3dy5uZXdzbW9iaWxlLmluL25tLWZhY3QtY2hlY2tlci9mYWN0LWNoZWNrLTIwMTgtY2xpcC1vZi1ydXNzaWFuLW1pc3NpbGUtdGVzdC1mYWxzZWx5LXNoYXJlZC1hcy1yZWNlbnQtbWFyaW5lLWV4ZXJjaXNlLW5lYXItZmxvcmlkYS1jb2FzdC_SAQA",
+      "title": "Fact Check: 2018 Clip Of Russian Missile Test Falsely Shared As Recent Marine Exercise Near Florida Coast - Newsmobile",
+      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5uZXdzbW9iaWxlLmluL25tLWZhY3QtY2hlY2tlci9mYWN0LWNoZWNrLTIwMTgtY2xpcC1vZi1ydXNzaWFuLW1pc3NpbGUtdGVzdC1mYWxzZWx5LXNoYXJlZC1hcy1yZWNlbnQtbWFyaW5lLWV4ZXJjaXNlLW5lYXItZmxvcmlkYS1jb2FzdC_SAQA?oc=5",
+      "published": "2024-06-19T03:37:36.000Z",
+      "description": "Fact Check: 2018 Clip Of Russian Missile Test Falsely Shared As Recent Marine Exercise Near Florida Coast&nbsp;&nbsp;Newsmobile",
       "summary": "",
       "author": "",
       "category": ""
@@ -857,16 +847,6 @@
       "category": ""
     },
     {
-      "id": "CBMid2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE5MTMwL3N0cmlrZS1maWdodGVyLWNhcnJ5aW5nLXRoZS1uYXZ5cy1raWxsLWFueXRoaW5nLW1pc3NpbGUv0gEA",
-      "title": "A Strike Fighter Was Just Seen Carrying the Navy's Kill-Anything Missile - Popular Mechanics",
-      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE5MTMwL3N0cmlrZS1maWdodGVyLWNhcnJ5aW5nLXRoZS1uYXZ5cy1raWxsLWFueXRoaW5nLW1pc3NpbGUv0gEA?oc=5",
-      "published": "2024-06-12T15:30:00.000Z",
-      "description": "A Strike Fighter Was Just Seen Carrying the Navy's Kill-Anything Missile&nbsp;&nbsp;Popular Mechanics",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXmh0dHBzOi8vd3d3LmtzYncuY29tL2FydGljbGUvdXMtbWlzc2lsZS1kZWZlbnNlLWZsaWdodC10ZXN0LXNwb3R0ZWQtYWNyb3NzLXdlc3QtY29hc3QvNDYwOTIyMDPSAQA",
       "title": "U.S. missile defense flight test spotted across West Coast - KSBW Monterey",
       "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmtzYncuY29tL2FydGljbGUvdXMtbWlzc2lsZS1kZWZlbnNlLWZsaWdodC10ZXN0LXNwb3R0ZWQtYWNyb3NzLXdlc3QtY29hc3QvNDYwOTIyMDPSAQA?oc=5",
@@ -892,6 +872,16 @@
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9ydXNzaWFzLW5ldy1udWNsZWFyLXN1Ym1hcmluZS10ZXN0LWxhdW5jaGVzLWJ1bGF2YS1taXNzaWxlLXdoaXRlLXNlYS0yMDIzLTExLTA1L9IBAA?oc=5",
       "published": "2023-11-05T07:00:00.000Z",
       "description": "Russian nuclear submarine test launches Bulava intercontinental missile&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMid2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE5MTMwL3N0cmlrZS1maWdodGVyLWNhcnJ5aW5nLXRoZS1uYXZ5cy1raWxsLWFueXRoaW5nLW1pc3NpbGUv0gEA",
+      "title": "A Strike Fighter Was Just Seen Carrying the Navy's Kill-Anything Missile - Popular Mechanics",
+      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L25hdnktc2hpcHMvYTYxMDE5MTMwL3N0cmlrZS1maWdodGVyLWNhcnJ5aW5nLXRoZS1uYXZ5cy1raWxsLWFueXRoaW5nLW1pc3NpbGUv0gEA?oc=5",
+      "published": "2024-06-12T15:30:00.000Z",
+      "description": "A Strike Fighter Was Just Seen Carrying the Navy's Kill-Anything Missile&nbsp;&nbsp;Popular Mechanics",
       "summary": "",
       "author": "",
       "category": ""
@@ -942,6 +932,16 @@
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9hcnJ3LWh5cGVyc29uaWMtbWlzc2lsZS10ZXN0ZWQtZmluYWwtdGltZS1idXQtcmVhbGx5LXRoZS1lbmQv0gEA?oc=5",
       "published": "2024-03-19T07:00:00.000Z",
       "description": "ARRW Hypersonic Missile Tested for Final Time. But Is It Really the End?&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvYXNpYS1wYWNpZmljLzIwMjMvMTAvMjQvcGFraXN0YW4tbGF1bmNoZXMtZ2hhdXJpLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qtb2YtcmVhZGluZXNzL9IBAA",
+      "title": "Pakistan launches Ghauri ballistic missile in test of readiness - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvYXNpYS1wYWNpZmljLzIwMjMvMTAvMjQvcGFraXN0YW4tbGF1bmNoZXMtZ2hhdXJpLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qtb2YtcmVhZGluZXNzL9IBAA?oc=5",
+      "published": "2023-10-24T07:00:00.000Z",
+      "description": "Pakistan launches Ghauri ballistic missile in test of readiness&nbsp;&nbsp;Defense News",
       "summary": "",
       "author": "",
       "category": ""
