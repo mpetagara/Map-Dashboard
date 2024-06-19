@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-19T12:56:04.000Z",
+  "published": "2024-06-19T13:27:11.000Z",
   "entries": [
     {
       "id": "CBMibmh0dHBzOi8vd3d3LmF6ZmFtaWx5LmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItd2FsbC1zaGlwcGluZy1jb250YWluZXJzLWJlaW5nLXVzZWQtY29vbGluZy1jZW50ZXJzLXBob2VuaXgv0gF9aHR0cHM6Ly93d3cuYXpmYW1pbHkuY29tLzIwMjQvMDYvMTMvZm9ybWVyLWJvcmRlci13YWxsLXNoaXBwaW5nLWNvbnRhaW5lcnMtYmVpbmctdXNlZC1jb29saW5nLWNlbnRlcnMtcGhvZW5peC8_b3V0cHV0VHlwZT1hbXA",
@@ -57,21 +57,21 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8",
-      "title": "California man admits driving to border to smuggle migrants - WDAF FOX4 Kansas City",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8?oc=5",
-      "published": "2024-06-18T23:53:00.000Z",
-      "description": "California man admits driving to border to smuggle migrants&nbsp;&nbsp;WDAF FOX4 Kansas City",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiKGh0dHBzOi8vd3d3LmNicC5nb3YvZnJvbnRsaW5lL3dhbGxzLXdvcmvSAQA",
       "title": "Walls Work - Customs and Border Protection",
       "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmNicC5nb3YvZnJvbnRsaW5lL3dhbGxzLXdvcmvSAQA?oc=5",
       "published": "2024-05-14T07:00:00.000Z",
       "description": "Walls Work&nbsp;&nbsp;Customs and Border Protection",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8",
+      "title": "California man admits driving to border to smuggle migrants - WDAF FOX4 Kansas City",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8?oc=5",
+      "published": "2024-06-18T23:53:00.000Z",
+      "description": "California man admits driving to border to smuggle migrants&nbsp;&nbsp;WDAF FOX4 Kansas City",
       "summary": "",
       "author": "",
       "category": ""
@@ -297,16 +297,6 @@
       "category": ""
     },
     {
-      "id": "CBMirwFodHRwczovL2RheXRvbjI0N25vdy5jb20vcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu0gGzAWh0dHBzOi8vZGF5dG9uMjQ3bm93LmNvbS9hbXAvcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu",
-      "title": "VOTE: Who is most responsible for the crisis at the border? - Dayton 24/7 Now",
-      "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL2RheXRvbjI0N25vdy5jb20vcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu0gGzAWh0dHBzOi8vZGF5dG9uMjQ3bm93LmNvbS9hbXAvcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu?oc=5",
-      "published": "2024-06-18T14:29:57.000Z",
-      "description": "VOTE: Who is most responsible for the crisis at the border?&nbsp;&nbsp;Dayton 24/7 Now",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMioQFodHRwczovL2Jpb2xvZ2ljYWxkaXZlcnNpdHkub3JnL3cvbmV3cy9wcmVzcy1yZWxlYXNlcy9iaWRlbi1hZG1pbmlzdHJhdGlvbi13YWl2ZXMtbGF3cy10by1ydXNoLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi10aHJvdWdoLXRleGFzLXdpbGRsaWZlLXJlZnVnZS0yMDIzLTEwLTA0L9IBAA",
       "title": "Biden Administration Waives Laws to Rush Border Wall Construction Through Texas Wildlands - Center for Biological Diversity",
       "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL2Jpb2xvZ2ljYWxkaXZlcnNpdHkub3JnL3cvbmV3cy9wcmVzcy1yZWxlYXNlcy9iaWRlbi1hZG1pbmlzdHJhdGlvbi13YWl2ZXMtbGF3cy10by1ydXNoLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi10aHJvdWdoLXRleGFzLXdpbGRsaWZlLXJlZnVnZS0yMDIzLTEwLTA0L9IBAA?oc=5",
@@ -332,6 +322,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1jb25zdHJ1Y3RzLW1vcmUtYm9yZGVyLXdhbGwtdG8tZGV0ZXItaWxsZWdhbC1lbnRyedIBAA?oc=5",
       "published": "2023-10-13T07:00:00.000Z",
       "description": "Operation Lone Star Constructs More Border Wall To Deter Illegal Entry&nbsp;&nbsp;Office of the Texas Governor",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMirwFodHRwczovL2RheXRvbjI0N25vdy5jb20vcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu0gGzAWh0dHBzOi8vZGF5dG9uMjQ3bm93LmNvbS9hbXAvcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu",
+      "title": "VOTE: Who is most responsible for the crisis at the border? - Dayton 24/7 Now",
+      "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL2RheXRvbjI0N25vdy5jb20vcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu0gGzAWh0dHBzOi8vZGF5dG9uMjQ3bm93LmNvbS9hbXAvcXVlc3Rpb24vdm90ZS13aG8taXMtbW9zdC1yZXNwb25zaWJsZS1mb3ItdGhlLWNyaXNpcy1hdC10aGUtYm9yZGVyLXBvbGljeS1pbW1pZ3JhdGlvbi11bmRvY3VtZW50ZWQtc3BvdXNlcy1jaGlsZHJlbi11cy1jaXRpemVucy1ncmVlbi1jYXJkLXRydW1wLWJpZGVu?oc=5",
+      "published": "2024-06-18T14:29:57.000Z",
+      "description": "VOTE: Who is most responsible for the crisis at the border?&nbsp;&nbsp;Dayton 24/7 Now",
       "summary": "",
       "author": "",
       "category": ""
@@ -607,21 +607,21 @@
       "category": ""
     },
     {
-      "id": "CBMiU2h0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vdGV4YXMtYWJib3R0LWJvcmRlci13YWxsLWNhbWVyYXMv0gFXaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi90ZXhhcy1hYmJvdHQtYm9yZGVyLXdhbGwtY2FtZXJhcy9hbXAv",
-      "title": "Texas Gov. Abbott expands Del Rio border wall, installs cameras - NewsNation Now",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vdGV4YXMtYWJib3R0LWJvcmRlci13YWxsLWNhbWVyYXMv0gFXaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi90ZXhhcy1hYmJvdHQtYm9yZGVyLXdhbGwtY2FtZXJhcy9hbXAv?oc=5",
-      "published": "2024-05-16T07:00:00.000Z",
-      "description": "Texas Gov. Abbott expands Del Rio border wall, installs cameras&nbsp;&nbsp;NewsNation Now",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1lbmdpbmVlcnMtaW5zdGFsbC1uZXctc3RyYXRlZ2ljLWJvcmRlci1iYXJyaWVy0gEA",
       "title": "Operation Lone Star Engineers Install New Strategic Border Barrier - Office of the Texas Governor",
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1lbmdpbmVlcnMtaW5zdGFsbC1uZXctc3RyYXRlZ2ljLWJvcmRlci1iYXJyaWVy0gEA?oc=5",
       "published": "2023-12-08T08:00:00.000Z",
       "description": "Operation Lone Star Engineers Install New Strategic Border Barrier&nbsp;&nbsp;Office of the Texas Governor",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiU2h0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vdGV4YXMtYWJib3R0LWJvcmRlci13YWxsLWNhbWVyYXMv0gFXaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi90ZXhhcy1hYmJvdHQtYm9yZGVyLXdhbGwtY2FtZXJhcy9hbXAv",
+      "title": "Texas Gov. Abbott expands Del Rio border wall, installs cameras - NewsNation Now",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vdGV4YXMtYWJib3R0LWJvcmRlci13YWxsLWNhbWVyYXMv0gFXaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi90ZXhhcy1hYmJvdHQtYm9yZGVyLXdhbGwtY2FtZXJhcy9hbXAv?oc=5",
+      "published": "2024-05-16T07:00:00.000Z",
+      "description": "Texas Gov. Abbott expands Del Rio border wall, installs cameras&nbsp;&nbsp;NewsNation Now",
       "summary": "",
       "author": "",
       "category": ""
@@ -707,21 +707,21 @@
       "category": ""
     },
     {
-      "id": "CBMihgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzL9IBjAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzLz9hbXA9MQ",
-      "title": "Activist calls for change after nearly a dozen people fall from US—Mexico border fence - NBC San Diego",
-      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzL9IBjAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzLz9hbXA9MQ?oc=5",
-      "published": "2024-03-04T08:00:00.000Z",
-      "description": "Activist calls for change after nearly a dozen people fall from US—Mexico border fence&nbsp;&nbsp;NBC San Diego",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjIvdXMvcG9saXRpY3Mvbmlra2ktaGFsZXktYm9yZGVyLWNhbmFkYS5odG1s0gEA",
       "title": "A Border Wall to the North? Republicans Want to Discuss. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjIvdXMvcG9saXRpY3Mvbmlra2ktaGFsZXktYm9yZGVyLWNhbmFkYS5odG1s0gEA?oc=5",
       "published": "2024-01-22T08:00:00.000Z",
       "description": "A Border Wall to the North? Republicans Want to Discuss.&nbsp;&nbsp;The New York Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzL9IBjAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzLz9hbXA9MQ",
+      "title": "Activist calls for change after nearly a dozen people fall from US—Mexico border fence - NBC San Diego",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzL9IBjAFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9hY3RpdmlzdC1jYWxscy1mb3ItZGlhbG9ndWUtYWZ0ZXItbWFzcy1jYXN1YWx0eS1ldmVudC1hdC1ib3JkZXItZmVuY2Utb3Zlci10aGUtd2Vla2VuZC8zNDUxODUzLz9hbXA9MQ?oc=5",
+      "published": "2024-03-04T08:00:00.000Z",
+      "description": "Activist calls for change after nearly a dozen people fall from US—Mexico border fence&nbsp;&nbsp;NBC San Diego",
       "summary": "",
       "author": "",
       "category": ""
@@ -827,16 +827,6 @@
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzE0L3dvcmxkLW5ld3MvaWRmLXVzaW5nLW1lZGlldmFsLWNhdGFwdWx0LXRvLWxhdW5jaC1maXJlYmFsbHMtYXQtaGV6Ym9sbGFoLXZpZGVvL9IBAA",
-      "title": "IDF uses medieval catapult to launch fireballs at Hezbollah in wild viral video - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzE0L3dvcmxkLW5ld3MvaWRmLXVzaW5nLW1lZGlldmFsLWNhdGFwdWx0LXRvLWxhdW5jaC1maXJlYmFsbHMtYXQtaGV6Ym9sbGFoLXZpZGVvL9IBAA?oc=5",
-      "published": "2024-06-14T17:40:00.000Z",
-      "description": "IDF uses medieval catapult to launch fireballs at Hezbollah in wild viral video&nbsp;&nbsp;New York Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYmh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vYm9yZGVyLWNvdmVyYWdlL3NtdWdnbGVycy1taWdyYW50cy1ib3JkZXItdmlkZW8v0gFmaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi9ib3JkZXItY292ZXJhZ2Uvc211Z2dsZXJzLW1pZ3JhbnRzLWJvcmRlci12aWRlby9hbXAv",
       "title": "Video: Smugglers help migrants through border wall opening - NewsNation Now",
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vYm9yZGVyLWNvdmVyYWdlL3NtdWdnbGVycy1taWdyYW50cy1ib3JkZXItdmlkZW8v0gFmaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi9ib3JkZXItY292ZXJhZ2Uvc211Z2dsZXJzLW1pZ3JhbnRzLWJvcmRlci12aWRlby9hbXAv?oc=5",
@@ -877,6 +867,16 @@
       "category": ""
     },
     {
+      "id": "CBMibGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzE0L3dvcmxkLW5ld3MvaWRmLXVzaW5nLW1lZGlldmFsLWNhdGFwdWx0LXRvLWxhdW5jaC1maXJlYmFsbHMtYXQtaGV6Ym9sbGFoLXZpZGVvL9IBAA",
+      "title": "IDF uses medieval catapult to launch fireballs at Hezbollah in wild viral video - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA2LzE0L3dvcmxkLW5ld3MvaWRmLXVzaW5nLW1lZGlldmFsLWNhdGFwdWx0LXRvLWxhdW5jaC1maXJlYmFsbHMtYXQtaGV6Ym9sbGFoLXZpZGVvL9IBAA?oc=5",
+      "published": "2024-06-14T17:40:00.000Z",
+      "description": "IDF uses medieval catapult to launch fireballs at Hezbollah in wild viral video&nbsp;&nbsp;New York Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiWmh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL3BvbGl0aWNzL3RleGFzL2FydGljbGUvZmFxLXRleGFzLWJvcmRlci13YWxsLTE4NDYyODg0LnBocNIBAA",
       "title": "What to know about the Texas border wall and who's building it - Houston Chronicle",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL3BvbGl0aWNzL3RleGFzL2FydGljbGUvZmFxLXRleGFzLWJvcmRlci13YWxsLTE4NDYyODg0LnBocNIBAA?oc=5",
@@ -907,21 +907,21 @@
       "category": ""
     },
     {
-      "id": "CBMifWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMv0gGBAWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMvYW1wLw",
-      "title": "How Did 8 Men With Ties to Islamic State Get Into US? - Daily Signal",
-      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMv0gGBAWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMvYW1wLw?oc=5",
-      "published": "2024-06-13T22:06:15.000Z",
-      "description": "How Did 8 Men With Ties to Islamic State Get Into US?&nbsp;&nbsp;Daily Signal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiWmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8xMS90ZXhhcy1ib3JkZXItbWlncmFudHMtZ3JlZy1hYmJvdHQtaW50ZXJ2aWV3LXNob290L9IBAA",
       "title": "Texas governor criticized after comment about shooting migrants - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMS8xMS90ZXhhcy1ib3JkZXItbWlncmFudHMtZ3JlZy1hYmJvdHQtaW50ZXJ2aWV3LXNob290L9IBAA?oc=5",
       "published": "2024-01-11T08:00:00.000Z",
       "description": "Texas governor criticized after comment about shooting migrants&nbsp;&nbsp;The Texas Tribune",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMv0gGBAWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMvYW1wLw",
+      "title": "How Did 8 Men With Ties to Islamic State Get Into US? - Daily Signal",
+      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMv0gGBAWh0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA2LzEzL2Zvcm1lci1ib3JkZXItb2ZmaWNpYWxzLXNsYW0tYmlkZW4tYWZ0ZXItYXJyZXN0cy04LWlsbGVnYWwtYWxpZW5zLXN1c3BlY3RlZC10aWVzLWlzaXMvYW1wLw?oc=5",
+      "published": "2024-06-13T22:06:15.000Z",
+      "description": "How Did 8 Men With Ties to Islamic State Get Into US?&nbsp;&nbsp;Daily Signal",
       "summary": "",
       "author": "",
       "category": ""
