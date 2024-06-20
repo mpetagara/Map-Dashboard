@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-20T21:23:51.000Z",
+  "published": "2024-06-20T22:28:29.000Z",
   "entries": [
     {
       "id": "CBMiZWh0dHBzOi8vd3d3Lm51Y25ldC5vcmcvbmV3cy9maXJzdC1udWNsZWFyLXN0ZWFtLXN1cHBseS1wcm9qZWN0LWZvci1pbmR1c3RyeS1iZWdpbnMtb3BlcmF0aW9uLTYtNC0yMDI00gEA",
@@ -737,16 +737,6 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTEyLTA2L2NoaW5hLXMtbmV4dC1nZW4tbnVjbGVhci1yZWFjdG9yLWVudGVycy1jb21tZXJjaWFsLW9wZXJhdGlvbnPSAQA",
-      "title": "China Huaneng Group's Next-Generation Reactor Enters Commercial Operations - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTEyLTA2L2NoaW5hLXMtbmV4dC1nZW4tbnVjbGVhci1yZWFjdG9yLWVudGVycy1jb21tZXJjaWFsLW9wZXJhdGlvbnPSAQA?oc=5",
-      "published": "2023-12-05T08:00:00.000Z",
-      "description": "China Huaneng Group's Next-Generation Reactor Enters Commercial Operations&nbsp;&nbsp;Bloomberg",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiUWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wOS8wNi8xMTk3NTc0NzI1L3J1c3NpYS11a3JhaW5lLXdhci1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA",
       "title": "Ukraine strains to safely operate nuclear power plants while under Russian invasion - NPR",
       "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wOS8wNi8xMTk3NTc0NzI1L3J1c3NpYS11a3JhaW5lLXdhci1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA?oc=5",
@@ -837,11 +827,11 @@
       "category": ""
     },
     {
-      "id": "CBMijQFodHRwczovL3d3dy5ob2xsYW5kc2VudGluZWwuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMy8xMi8wMy93aGVyZS10aGluZ3Mtc3RhbmQtaW4tZWZmb3J0cy10by1yZXN0YXJ0LXRoZS1wYWxpc2FkZXMtbnVjbGVhci1wbGFudC83MTc2NzExMzAwNy_SAQA",
-      "title": "Where things stand in the effort to restart the Palisades Nuclear Power Plant - HollandSentinel.com",
-      "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5ob2xsYW5kc2VudGluZWwuY29tL3N0b3J5L25ld3MvbG9jYWwvMjAyMy8xMi8wMy93aGVyZS10aGluZ3Mtc3RhbmQtaW4tZWZmb3J0cy10by1yZXN0YXJ0LXRoZS1wYWxpc2FkZXMtbnVjbGVhci1wbGFudC83MTc2NzExMzAwNy_SAQA?oc=5",
-      "published": "2023-12-03T08:00:00.000Z",
-      "description": "Where things stand in the effort to restart the Palisades Nuclear Power Plant&nbsp;&nbsp;HollandSentinel.com",
+      "id": "CBMicGh0dHBzOi8vd3d3LmVudGVyZ3luZXdzcm9vbS5jb20vYXJ0aWNsZS9ncmFuZC1ndWxmLXMtc2FmZS1vcGVyYXRpbmctcmVjb3JkLW1pc3Npc3NpcHBpLXN1Y2Nlc3Mtc3RvcnktMTk2NDk4ODM5Ny_SAQA",
+      "title": "Grand Gulf's safe operating record is a Mississippi success story - Entergy Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmVudGVyZ3luZXdzcm9vbS5jb20vYXJ0aWNsZS9ncmFuZC1ndWxmLXMtc2FmZS1vcGVyYXRpbmctcmVjb3JkLW1pc3Npc3NpcHBpLXN1Y2Nlc3Mtc3RvcnktMTk2NDk4ODM5Ny_SAQA?oc=5",
+      "published": "2023-09-07T07:00:00.000Z",
+      "description": "Grand Gulf's safe operating record is a Mississippi success story&nbsp;&nbsp;Entergy Newsroom",
       "summary": "",
       "author": "",
       "category": ""
@@ -867,11 +857,31 @@
       "category": ""
     },
     {
+      "id": "CBMigQFodHRwczovL3d3dy5lbmVyZGF0YS5uZXQvcHVibGljYXRpb25zL2RhaWx5LWVuZXJneS1uZXdzL2NoaW5hLXN0YXJ0cy1vcGVyYXRpb25zLXdvcmxkcy1maXJzdC1mb3VydGgtZ2VuZXJhdGlvbi1udWNsZWFyLXBsYW50Lmh0bWzSAQA",
+      "title": "China starts operations on the world's first fourth-generation nuclear plant - Renewables Auctions and the Energy Transition",
+      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5lbmVyZGF0YS5uZXQvcHVibGljYXRpb25zL2RhaWx5LWVuZXJneS1uZXdzL2NoaW5hLXN0YXJ0cy1vcGVyYXRpb25zLXdvcmxkcy1maXJzdC1mb3VydGgtZ2VuZXJhdGlvbi1udWNsZWFyLXBsYW50Lmh0bWzSAQA?oc=5",
+      "published": "2023-12-08T08:00:00.000Z",
+      "description": "China starts operations on the world's first fourth-generation nuclear plant&nbsp;&nbsp;Renewables Auctions and the Energy Transition",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiMWh0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL21hcmtldHMvZGVmZW5zZS1zZWN1cml0eS_SAQA",
       "title": "Defense & Nuclear Security - Bechtel",
       "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL21hcmtldHMvZGVmZW5zZS1zZWN1cml0eS_SAQA?oc=5",
       "published": "2023-08-07T10:32:43.000Z",
       "description": "Defense & Nuclear Security&nbsp;&nbsp;Bechtel",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicmh0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS8yMDIzLzEyLzE1L3BnZS1nZXRzLW9rLXRvLWtlZXAtb3Blbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcGxhbnQtYmlsbHMtd2lsbC1qdW1wL9IBdmh0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS8yMDIzLzEyLzE1L3BnZS1nZXRzLW9rLXRvLWtlZXAtb3Blbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcGxhbnQtYmlsbHMtd2lsbC1qdW1wL2FtcC8",
+      "title": "PG&E gets OK to keep open Diablo Canyon nuclear plant: bills may jump - Santa Cruz Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS8yMDIzLzEyLzE1L3BnZS1nZXRzLW9rLXRvLWtlZXAtb3Blbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcGxhbnQtYmlsbHMtd2lsbC1qdW1wL9IBdmh0dHBzOi8vd3d3LnNhbnRhY3J1enNlbnRpbmVsLmNvbS8yMDIzLzEyLzE1L3BnZS1nZXRzLW9rLXRvLWtlZXAtb3Blbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcGxhbnQtYmlsbHMtd2lsbC1qdW1wL2FtcC8?oc=5",
+      "published": "2023-12-15T08:00:00.000Z",
+      "description": "PG&E gets OK to keep open Diablo Canyon nuclear plant: bills may jump&nbsp;&nbsp;Santa Cruz Sentinel",
       "summary": "",
       "author": "",
       "category": ""
@@ -947,16 +957,6 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vaGVsaWNvcHRlcnMvYm9laW5nLW1oLTEzOS1udWNsZWFyLXNlY3VyaXR5LWhlbGljb3B0ZXItYmVnaW5zLW9wZXJhdGlvbmFsLXNlcnZpY2UvMTU3MzM4LmFydGljbGXSAQA",
-      "title": "Boeing MH-139 nuclear security helicopter begins operational service - Flightglobal",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vaGVsaWNvcHRlcnMvYm9laW5nLW1oLTEzOS1udWNsZWFyLXNlY3VyaXR5LWhlbGljb3B0ZXItYmVnaW5zLW9wZXJhdGlvbmFsLXNlcnZpY2UvMTU3MzM4LmFydGljbGXSAQA?oc=5",
-      "published": "2024-03-12T07:00:00.000Z",
-      "description": "Boeing MH-139 nuclear security helicopter begins operational service&nbsp;&nbsp;Flightglobal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidGh0dHBzOi8vd3d3LmFmcGMuYWYubWlsL05ld3MvQXJ0aWNsZS8zMzU1ODIzLzIwMjItbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA",
       "title": "2022 Nuclear Deterrence Operations, Missile Operations awards announced > Air Force's Personnel Center > News - Air Force Personnel Center",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFmcGMuYWYubWlsL05ld3MvQXJ0aWNsZS8zMzU1ODIzLzIwMjItbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA?oc=5",
@@ -967,21 +967,21 @@
       "category": ""
     },
     {
-      "id": "CBMiugFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3Mvc291dGgtYXVzdHJhbGlhL3BvcnQtYXVndXN0YS1vcGVyYXRpb25zLWNhdWdodC1vZmYtZ3VhcmQtYnktY29hbGl0aW9ucy1udWNsZWFyLXBsYW5zLWZvci10aGVpci1sYW5kL25ld3Mtc3RvcnkvMjk2N2I5ZWY0NzQ0MTQ5YzQyY2I0NjFiYjY0MmZhOWTSAb4BaHR0cHM6Ly93d3cudG93bnN2aWxsZWJ1bGxldGluLmNvbS5hdS9uZXdzL3NvdXRoLWF1c3RyYWxpYS9wb3J0LWF1Z3VzdGEtb3BlcmF0aW9ucy1jYXVnaHQtb2ZmLWd1YXJkLWJ5LWNvYWxpdGlvbnMtbnVjbGVhci1wbGFucy1mb3ItdGhlaXItbGFuZC9uZXdzLXN0b3J5LzI5NjdiOWVmNDc0NDE0OWM0MmNiNDYxYmI2NDJmYTlkP2FtcA",
-      "title": "‘We’re busy’: $100m catch in Dutton’s SA nuclear surprise - Townsville Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3Mvc291dGgtYXVzdHJhbGlhL3BvcnQtYXVndXN0YS1vcGVyYXRpb25zLWNhdWdodC1vZmYtZ3VhcmQtYnktY29hbGl0aW9ucy1udWNsZWFyLXBsYW5zLWZvci10aGVpci1sYW5kL25ld3Mtc3RvcnkvMjk2N2I5ZWY0NzQ0MTQ5YzQyY2I0NjFiYjY0MmZhOWTSAb4BaHR0cHM6Ly93d3cudG93bnN2aWxsZWJ1bGxldGluLmNvbS5hdS9uZXdzL3NvdXRoLWF1c3RyYWxpYS9wb3J0LWF1Z3VzdGEtb3BlcmF0aW9ucy1jYXVnaHQtb2ZmLWd1YXJkLWJ5LWNvYWxpdGlvbnMtbnVjbGVhci1wbGFucy1mb3ItdGhlaXItbGFuZC9uZXdzLXN0b3J5LzI5NjdiOWVmNDc0NDE0OWM0MmNiNDYxYmI2NDJmYTlkP2FtcA?oc=5",
-      "published": "2024-06-20T02:13:26.000Z",
-      "description": "‘We’re busy’: $100m catch in Dutton’s SA nuclear surprise&nbsp;&nbsp;Townsville Bulletin",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiemh0dHBzOi8vd3d3LmF1Z2FuaXgub3JnL3ZyLW5ld3MtaGFwdHgtcGFydG5lcnMtd2l0aC15LTEyLW5hdGlvbmFsLXNlY3VyaXR5LWNvbXBsZXgtdG8tYWR2YW5jZS1udWNsZWFyLW9wZXJhdGlvbnMtdHJhaW5pbmcv0gEA",
       "title": "HaptX & Y-12 complex partner on nuclear operations training - Auganix",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmF1Z2FuaXgub3JnL3ZyLW5ld3MtaGFwdHgtcGFydG5lcnMtd2l0aC15LTEyLW5hdGlvbmFsLXNlY3VyaXR5LWNvbXBsZXgtdG8tYWR2YW5jZS1udWNsZWFyLW9wZXJhdGlvbnMtdHJhaW5pbmcv0gEA?oc=5",
       "published": "2023-09-14T07:00:00.000Z",
       "description": "HaptX & Y-12 complex partner on nuclear operations training&nbsp;&nbsp;Auganix",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijAFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzUyMTIyNy9jb250YWluLWFuZC1jb250cm9sLWNicm4tZXhlcmNpc2UtZHJhZ29uLXJlc3BvbnNlL9IBAA",
+      "title": "Contain and Control: CBRN Exercise Dragon Response > U.S. Air Forces Central > Article Display - US AIR FORCES CENTRAL",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzUyMTIyNy9jb250YWluLWFuZC1jb250cm9sLWNicm4tZXhlcmNpc2UtZHJhZ29uLXJlc3BvbnNlL9IBAA?oc=5",
+      "published": "2023-09-11T07:00:00.000Z",
+      "description": "Contain and Control: CBRN Exercise Dragon Response > U.S. Air Forces Central > Article Display&nbsp;&nbsp;US AIR FORCES CENTRAL",
       "summary": "",
       "author": "",
       "category": ""
