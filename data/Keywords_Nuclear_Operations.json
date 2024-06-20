@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-20T04:29:06.000Z",
+  "published": "2024-06-20T05:27:58.000Z",
   "entries": [
     {
       "id": "CBMif2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzA1MTIvMjAyMy1udWNsZWFyLWRldGVycmVuY2Utb3BlcmF0aW9ucy1taXNzaWxlLW9wZXJhdGlvbnMtYXdhcmRzLWFubm91bmNlZC_SAQA",
@@ -12,16 +12,6 @@
       "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzA1MTIvMjAyMy1udWNsZWFyLWRldGVycmVuY2Utb3BlcmF0aW9ucy1taXNzaWxlLW9wZXJhdGlvbnMtYXdhcmRzLWFubm91bmNlZC_SAQA?oc=5",
       "published": "2024-05-09T07:00:00.000Z",
       "description": "2023 Nuclear Deterrence Operations, Missile Operations awards announced > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaGh0dHBzOi8vd3d3Lm5laW1hZ2F6aW5lLmNvbS9uZXdzL2Nuc2MtcmVuZXdzLW9wZXJhdGluZy1saWNlbmNlLWZvci1tY21hc3Rlci11bml2ZXJzaXR5cy1udWNsZWFyLXJlYWN0b3Iv0gEA",
-      "title": "CNSC renews operating licence for McMaster University's nuclear reactor - Nuclear Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5laW1hZ2F6aW5lLmNvbS9uZXdzL2Nuc2MtcmVuZXdzLW9wZXJhdGluZy1saWNlbmNlLWZvci1tY21hc3Rlci11bml2ZXJzaXR5cy1udWNsZWFyLXJlYWN0b3Iv0gEA?oc=5",
-      "published": "2024-06-19T08:19:37.000Z",
-      "description": "CNSC renews operating licence for McMaster University's nuclear reactor&nbsp;&nbsp;Nuclear Engineering",
       "summary": "",
       "author": "",
       "category": ""
@@ -42,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjc2OTI2L3VzX2FybXlfbnVjbGVhcl9kaXNhYmxlbWVudF90ZWFtX2hvbmVzX21pc3Npb25fcmVhZGluZXNzX3dpdGhfc3BlY2lhbF9mb3JjZXNfdW5pdNIBeWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI3NjkyNi91c19hcm15X251Y2xlYXJfZGlzYWJsZW1lbnRfdGVhbV9ob25lc19taXNzaW9uX3JlYWRpbmVzc193aXRoX3NwZWNpYWxfZm9yY2VzX3VuaXQ?oc=5",
       "published": "2024-06-04T07:00:00.000Z",
       "description": "US Army Nuclear Disablement Team hones mission readiness with Special Forces unit&nbsp;&nbsp;United States Army",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaGh0dHBzOi8vd3d3Lm5laW1hZ2F6aW5lLmNvbS9uZXdzL2Nuc2MtcmVuZXdzLW9wZXJhdGluZy1saWNlbmNlLWZvci1tY21hc3Rlci11bml2ZXJzaXR5cy1udWNsZWFyLXJlYWN0b3Iv0gEA",
+      "title": "CNSC renews operating licence for McMaster University's nuclear reactor - Nuclear Engineering",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5laW1hZ2F6aW5lLmNvbS9uZXdzL2Nuc2MtcmVuZXdzLW9wZXJhdGluZy1saWNlbmNlLWZvci1tY21hc3Rlci11bml2ZXJzaXR5cy1udWNsZWFyLXJlYWN0b3Iv0gEA?oc=5",
+      "published": "2024-06-19T08:19:37.000Z",
+      "description": "CNSC renews operating licence for McMaster University's nuclear reactor&nbsp;&nbsp;Nuclear Engineering",
       "summary": "",
       "author": "",
       "category": ""
@@ -677,16 +677,6 @@
       "category": ""
     },
     {
-      "id": "CBMiugFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3Mvc291dGgtYXVzdHJhbGlhL3BvcnQtYXVndXN0YS1vcGVyYXRpb25zLWNhdWdodC1vZmYtZ3VhcmQtYnktY29hbGl0aW9ucy1udWNsZWFyLXBsYW5zLWZvci10aGVpci1sYW5kL25ld3Mtc3RvcnkvMjk2N2I5ZWY0NzQ0MTQ5YzQyY2I0NjFiYjY0MmZhOWTSAb4BaHR0cHM6Ly93d3cudG93bnN2aWxsZWJ1bGxldGluLmNvbS5hdS9uZXdzL3NvdXRoLWF1c3RyYWxpYS9wb3J0LWF1Z3VzdGEtb3BlcmF0aW9ucy1jYXVnaHQtb2ZmLWd1YXJkLWJ5LWNvYWxpdGlvbnMtbnVjbGVhci1wbGFucy1mb3ItdGhlaXItbGFuZC9uZXdzLXN0b3J5LzI5NjdiOWVmNDc0NDE0OWM0MmNiNDYxYmI2NDJmYTlkP2FtcA",
-      "title": "‘We’re busy’: $100m catch in Dutton’s SA nuclear surprise - Townsville Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3Mvc291dGgtYXVzdHJhbGlhL3BvcnQtYXVndXN0YS1vcGVyYXRpb25zLWNhdWdodC1vZmYtZ3VhcmQtYnktY29hbGl0aW9ucy1udWNsZWFyLXBsYW5zLWZvci10aGVpci1sYW5kL25ld3Mtc3RvcnkvMjk2N2I5ZWY0NzQ0MTQ5YzQyY2I0NjFiYjY0MmZhOWTSAb4BaHR0cHM6Ly93d3cudG93bnN2aWxsZWJ1bGxldGluLmNvbS5hdS9uZXdzL3NvdXRoLWF1c3RyYWxpYS9wb3J0LWF1Z3VzdGEtb3BlcmF0aW9ucy1jYXVnaHQtb2ZmLWd1YXJkLWJ5LWNvYWxpdGlvbnMtbnVjbGVhci1wbGFucy1mb3ItdGhlaXItbGFuZC9uZXdzLXN0b3J5LzI5NjdiOWVmNDc0NDE0OWM0MmNiNDYxYmI2NDJmYTlkP2FtcA?oc=5",
-      "published": "2024-06-20T02:13:26.000Z",
-      "description": "‘We’re busy’: $100m catch in Dutton’s SA nuclear surprise&nbsp;&nbsp;Townsville Bulletin",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMikwFodHRwczovL2VuZXJneS5lYy5ldXJvcGEuZXUvbmV3cy9ldS1hbmQtamFwYW4tY2VsZWJyYXRlLXN0YXJ0LW9wZXJhdGlvbnMtanQtNjBzYS1mdXNpb24tcmVhY3Rvci1hbmQtcmVhZmZpcm0tY2xvc2UtY29vcGVyYXRpb24tZnVzaW9uLTIwMjMtMTItMDFfZW7SAQA",
       "title": "EU and Japan celebrate start of operations of the JT-60SA fusion reactor and reaffirm close cooperation on fusion energy - Energy",
       "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL2VuZXJneS5lYy5ldXJvcGEuZXUvbmV3cy9ldS1hbmQtamFwYW4tY2VsZWJyYXRlLXN0YXJ0LW9wZXJhdGlvbnMtanQtNjBzYS1mdXNpb24tcmVhY3Rvci1hbmQtcmVhZmZpcm0tY2xvc2UtY29vcGVyYXRpb24tZnVzaW9uLTIwMjMtMTItMDFfZW7SAQA?oc=5",
@@ -702,6 +692,16 @@
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmVuZXJneS5nb3YvbHBvL2FydGljbGVzL3BsYW50LXZvZ3RsZS11bml0LTMtZW50ZXJzLWNvbW1lcmNpYWwtb3BlcmF0aW9ucy1icmluZ2luZy1jYXJib24tZnJlZS1udWNsZWFyLWVuZXJnedIBAA?oc=5",
       "published": "2023-07-31T07:00:00.000Z",
       "description": "Plant Vogtle Unit 3 Enters Commercial Operations, Bringing Carbon-Free Nuclear Energy to Millions&nbsp;&nbsp;Energy.gov",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiugFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3Mvc291dGgtYXVzdHJhbGlhL3BvcnQtYXVndXN0YS1vcGVyYXRpb25zLWNhdWdodC1vZmYtZ3VhcmQtYnktY29hbGl0aW9ucy1udWNsZWFyLXBsYW5zLWZvci10aGVpci1sYW5kL25ld3Mtc3RvcnkvMjk2N2I5ZWY0NzQ0MTQ5YzQyY2I0NjFiYjY0MmZhOWTSAb4BaHR0cHM6Ly93d3cudG93bnN2aWxsZWJ1bGxldGluLmNvbS5hdS9uZXdzL3NvdXRoLWF1c3RyYWxpYS9wb3J0LWF1Z3VzdGEtb3BlcmF0aW9ucy1jYXVnaHQtb2ZmLWd1YXJkLWJ5LWNvYWxpdGlvbnMtbnVjbGVhci1wbGFucy1mb3ItdGhlaXItbGFuZC9uZXdzLXN0b3J5LzI5NjdiOWVmNDc0NDE0OWM0MmNiNDYxYmI2NDJmYTlkP2FtcA",
+      "title": "‘We’re busy’: $100m catch in Dutton’s SA nuclear surprise - Townsville Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy50b3duc3ZpbGxlYnVsbGV0aW4uY29tLmF1L25ld3Mvc291dGgtYXVzdHJhbGlhL3BvcnQtYXVndXN0YS1vcGVyYXRpb25zLWNhdWdodC1vZmYtZ3VhcmQtYnktY29hbGl0aW9ucy1udWNsZWFyLXBsYW5zLWZvci10aGVpci1sYW5kL25ld3Mtc3RvcnkvMjk2N2I5ZWY0NzQ0MTQ5YzQyY2I0NjFiYjY0MmZhOWTSAb4BaHR0cHM6Ly93d3cudG93bnN2aWxsZWJ1bGxldGluLmNvbS5hdS9uZXdzL3NvdXRoLWF1c3RyYWxpYS9wb3J0LWF1Z3VzdGEtb3BlcmF0aW9ucy1jYXVnaHQtb2ZmLWd1YXJkLWJ5LWNvYWxpdGlvbnMtbnVjbGVhci1wbGFucy1mb3ItdGhlaXItbGFuZC9uZXdzLXN0b3J5LzI5NjdiOWVmNDc0NDE0OWM0MmNiNDYxYmI2NDJmYTlkP2FtcA?oc=5",
+      "published": "2024-06-20T02:13:26.000Z",
+      "description": "‘We’re busy’: $100m catch in Dutton’s SA nuclear surprise&nbsp;&nbsp;Townsville Bulletin",
       "summary": "",
       "author": "",
       "category": ""
