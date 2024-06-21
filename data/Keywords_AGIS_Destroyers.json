@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-21T12:54:02.000Z",
+  "published": "2024-06-21T13:27:04.000Z",
   "entries": [
     {
       "id": "CBMiUmh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzEyLzIwL2phcGFuLWxvY2tzLWluLWZ1bmRpbmctZm9yLTItbmV3LWFlZ2lzLWRlc3Ryb3llcnPSAQA",
@@ -282,6 +282,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIwL2F1Z3VzdC9hdXN0cmFsaWFzLWFlZ2lzLWRlc3Ryb3llcnPSAQA?oc=5",
       "published": "2020-08-01T04:50:30.000Z",
       "description": "Australia's Aegis Destroyers | Proceedings - August 2020 Vol. 146/8/1,410&nbsp;&nbsp;USNI News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicmh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIyL21hcmNoL3NvdXRoLWtvcmVhcy1rZHgtaWlpLW1vc3QtaGVhdmlseS1hcm1lZC1hZWdpcy13YXJzaGlwLWFmbG9hdNIBAA",
+      "title": "South Korea's KDX III: The Most Heavily Armed Aegis Warship Afloat - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIyL21hcmNoL3NvdXRoLWtvcmVhcy1rZHgtaWlpLW1vc3QtaGVhdmlseS1hcm1lZC1hZWdpcy13YXJzaGlwLWFmbG9hdNIBAA?oc=5",
+      "published": "2022-02-28T23:41:25.000Z",
+      "description": "South Korea's KDX III: The Most Heavily Armed Aegis Warship Afloat&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -647,21 +657,21 @@
       "category": ""
     },
     {
-      "id": "CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA",
-      "title": "Japan's Building 2 Aegis Destroyers – The Diplomat - The Diplomat",
-      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA?oc=5",
-      "published": "2014-07-23T07:00:00.000Z",
-      "description": "Japan's Building 2 Aegis Destroyers – The Diplomat&nbsp;&nbsp;The Diplomat",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDE4LzA3LzMwL2phcGFuLWxvY2toZWVkLXJhZGFyLWFlZ2lzLWFzaG9yZS1taXNzaWxlLWRlZmVuc2Uv0gEA",
       "title": "Japan to spend $4.2 billion on Lockheed radars for Aegis Ashore missile defense - The Defense Post",
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDE4LzA3LzMwL2phcGFuLWxvY2toZWVkLXJhZGFyLWFlZ2lzLWFzaG9yZS1taXNzaWxlLWRlZmVuc2Uv0gEA?oc=5",
       "published": "2018-07-30T07:00:00.000Z",
       "description": "Japan to spend $4.2 billion on Lockheed radars for Aegis Ashore missile defense&nbsp;&nbsp;The Defense Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA",
+      "title": "Japan's Building 2 Aegis Destroyers – The Diplomat - The Diplomat",
+      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdGhlZGlwbG9tYXQuY29tLzIwMTQvMDcvamFwYW5zLWJ1aWxkaW5nLTItYWVnaXMtZGVzdHJveWVycy_SAQA?oc=5",
+      "published": "2014-07-23T07:00:00.000Z",
+      "description": "Japan's Building 2 Aegis Destroyers – The Diplomat&nbsp;&nbsp;The Diplomat",
       "summary": "",
       "author": "",
       "category": ""
@@ -937,11 +947,11 @@
       "category": ""
     },
     {
-      "id": "CBMiOmh0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYXNwP25ld3NJZHg9NDIxOTLSAT5odHRwczovL20ua29yZWF0aW1lcy5jby5rci9wYWdlcy9hcnRpY2xlLmFtcC5hc3A_bmV3c0lkeD00MjE5Mg",
-      "title": "2nd Korean-American Captain of US Aegis Ship Named - koreatimes",
-      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYXNwP25ld3NJZHg9NDIxOTLSAT5odHRwczovL20ua29yZWF0aW1lcy5jby5rci9wYWdlcy9hcnRpY2xlLmFtcC5hc3A_bmV3c0lkeD00MjE5Mg?oc=5",
-      "published": "2009-03-29T07:00:00.000Z",
-      "description": "2nd Korean-American Captain of US Aegis Ship Named&nbsp;&nbsp;koreatimes",
+      "id": "CBMiZWh0dHBzOi8vd3d3LmRlZmVuc2VpbmR1c3RyeWRhaWx5LmNvbS9kcnMtd2lucy1tdWx0aXBsZXhpbmctY29udHJhY3QtZm9yLWtvcmVhbi1hZWdpcy1kZXN0cm95ZXJzLTA0MzEv0gEA",
+      "title": "Korea's KDX-III AEGIS Destroyers - Defense Industry Daily",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRlZmVuc2VpbmR1c3RyeWRhaWx5LmNvbS9kcnMtd2lucy1tdWx0aXBsZXhpbmctY29udHJhY3QtZm9yLWtvcmVhbi1hZWdpcy1kZXN0cm95ZXJzLTA0MzEv0gEA?oc=5",
+      "published": "2008-08-17T11:11:59.000Z",
+      "description": "Korea's KDX-III AEGIS Destroyers&nbsp;&nbsp;Defense Industry Daily",
       "summary": "",
       "author": "",
       "category": ""
