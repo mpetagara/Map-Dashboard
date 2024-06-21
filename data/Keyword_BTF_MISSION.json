@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-21T14:28:07.000Z",
+  "published": "2024-06-21T15:32:28.000Z",
   "entries": [
     {
       "id": "CBMib2h0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzIyODYzNTEvYi0xcy1jb25kdWN0LWJvbWJlci10YXNrLWZvcmNlLW1pc3Npb24taW4tc291dGgtY2hpbmEtc2VhL9IBAA",
@@ -587,21 +587,21 @@
       "category": ""
     },
     {
-      "id": "CBMiamh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzMyODg0MjcvYi0xYi1sYW5jZXJzLXJldHVybi10by1pbmRvLXBhY2lmaWMtZm9yLWJ0Zi1taXNzaW9ucy_SAQA",
-      "title": "B-1B Lancers return to Indo-Pacific for BTF missions - Pacific Command",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzMyODg0MjcvYi0xYi1sYW5jZXJzLXJldHVybi10by1pbmRvLXBhY2lmaWMtZm9yLWJ0Zi1taXNzaW9ucy_SAQA?oc=5",
-      "published": "2023-02-03T08:00:00.000Z",
-      "description": "B-1B Lancers return to Indo-Pacific for BTF missions&nbsp;&nbsp;Pacific Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiUGh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQwNzkyL2Fpci1mb3JjZS1ib21iZXJzLWNvbmR1Y3QtZ2xvYmFsLWJ0Zi1taXNzaW9u0gEA",
       "title": "United States European Command - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQwNzkyL2Fpci1mb3JjZS1ib21iZXJzLWNvbmR1Y3QtZ2xvYmFsLWJ0Zi1taXNzaW9u0gEA?oc=5",
       "published": "2020-09-21T07:00:00.000Z",
       "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiamh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzMyODg0MjcvYi0xYi1sYW5jZXJzLXJldHVybi10by1pbmRvLXBhY2lmaWMtZm9yLWJ0Zi1taXNzaW9ucy_SAQA",
+      "title": "B-1B Lancers return to Indo-Pacific for BTF missions - Pacific Command",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzMyODg0MjcvYi0xYi1sYW5jZXJzLXJldHVybi10by1pbmRvLXBhY2lmaWMtZm9yLWJ0Zi1taXNzaW9ucy_SAQA?oc=5",
+      "published": "2023-02-03T08:00:00.000Z",
+      "description": "B-1B Lancers return to Indo-Pacific for BTF missions&nbsp;&nbsp;Pacific Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -747,6 +747,16 @@
       "category": ""
     },
     {
+      "id": "CBMiOWh0dHBzOi8vd3d3LmNlbnRjb20ubWlsL01FRElBL0lNQUdFUlkvaWdwaG90by8yMDAzMjM4NTQzL9IBAA",
+      "title": "912th EARS supports Bomber Task Force - US Central Command",
+      "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNlbnRjb20ubWlsL01FRElBL0lNQUdFUlkvaWdwaG90by8yMDAzMjM4NTQzL9IBAA?oc=5",
+      "published": "2023-06-09T13:47:12.000Z",
+      "description": "912th EARS supports Bomber Task Force&nbsp;&nbsp;US Central Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiYWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQxNjg0L3NwYW5nZGFobGVtLXJlZnVlbHMtYnRmLWJvbWJlcnMtd2l0aC12aXBlci1raXQtZm9yLWZpcnN0LXRpbWXSAQA",
       "title": "United States European Command - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQxNjg0L3NwYW5nZGFobGVtLXJlZnVlbHMtYnRmLWJvbWJlcnMtd2l0aC12aXBlci1raXQtZm9yLWZpcnN0LXRpbWXSAQA?oc=5",
@@ -827,21 +837,21 @@
       "category": ""
     },
     {
-      "id": "CBMigAFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8yMTcwNDg1L2ItMXMtY29uZHVjdC1zb3V0aC1jaGluYS1zZWEtbWlzc2lvbi1kZW1vbnN0cmF0ZXMtZ2xvYmFsLXByZXNlbmNlL9IBAA",
-      "title": "B-1s conduct South China Sea mission, demonstrates global presence - pacaf.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8yMTcwNDg1L2ItMXMtY29uZHVjdC1zb3V0aC1jaGluYS1zZWEtbWlzc2lvbi1kZW1vbnN0cmF0ZXMtZ2xvYmFsLXByZXNlbmNlL9IBAA?oc=5",
-      "published": "2020-04-30T07:00:00.000Z",
-      "description": "B-1s conduct South China Sea mission, demonstrates global presence&nbsp;&nbsp;pacaf.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMilwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzE0ODk1OC91cy1wYXJ0bmVycy1jb25kdWN0LW1pZGRsZS1lYXN0LWJ0Zi10aHJvdWdoLWFpci1sYW5kLWFuZC1zZWEv0gEA",
       "title": "US, partners conduct Middle East BTF through air, land and sea - US AIR FORCES CENTRAL",
       "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMzE0ODk1OC91cy1wYXJ0bmVycy1jb25kdWN0LW1pZGRsZS1lYXN0LWJ0Zi10aHJvdWdoLWFpci1sYW5kLWFuZC1zZWEv0gEA?oc=5",
       "published": "2022-09-06T07:00:00.000Z",
       "description": "US, partners conduct Middle East BTF through air, land and sea&nbsp;&nbsp;US AIR FORCES CENTRAL",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigAFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8yMTcwNDg1L2ItMXMtY29uZHVjdC1zb3V0aC1jaGluYS1zZWEtbWlzc2lvbi1kZW1vbnN0cmF0ZXMtZ2xvYmFsLXByZXNlbmNlL9IBAA",
+      "title": "B-1s conduct South China Sea mission, demonstrates global presence - pacaf.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8yMTcwNDg1L2ItMXMtY29uZHVjdC1zb3V0aC1jaGluYS1zZWEtbWlzc2lvbi1kZW1vbnN0cmF0ZXMtZ2xvYmFsLXByZXNlbmNlL9IBAA?oc=5",
+      "published": "2020-04-30T07:00:00.000Z",
+      "description": "B-1s conduct South China Sea mission, demonstrates global presence&nbsp;&nbsp;pacaf.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDYvMDEvYi0xLWFib3J0ZWQtdGFrZS1vZmYv0gEA?oc=5",
       "published": "2023-06-01T07:00:00.000Z",
       "description": "Watch A B-1 Lancer Bomber Abort Take Off From RAF Fairford&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiW2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1mbHktb3Zlci1taWRkbGUtZWFzdC1mb3ItYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbi_SAQA",
-      "title": "B-52s Fly Over Middle East for Bomber Task Force Mission - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy1mbHktb3Zlci1taWRkbGUtZWFzdC1mb3ItYm9tYmVyLXRhc2stZm9yY2UtbWlzc2lvbi_SAQA?oc=5",
-      "published": "2022-09-06T07:00:00.000Z",
-      "description": "B-52s Fly Over Middle East for Bomber Task Force Mission&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
