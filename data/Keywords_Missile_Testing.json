@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-21T11:19:11.000Z",
+  "published": "2024-06-21T12:53:58.000Z",
   "entries": [
     {
       "id": "CBMidGh0dHBzOi8vd3d3LnZhbmRlbmJlcmcuc3BhY2Vmb3JjZS5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zODEwMDE1L21rMjFhLXJ2LXRlc3QtbGF1bmNoLXNob3djYXNlcy1yZWFkaW5lc3Mv0gEA",
@@ -117,16 +117,6 @@
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA",
-      "title": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic - The Independent Barents Observer",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA?oc=5",
-      "published": "2024-06-18T17:14:12.000Z",
-      "description": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic&nbsp;&nbsp;The Independent Barents Observer",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyNC8wMy8yMS9ydHhzLXJheXRoZW9uLWxvd2VyLXRpZXItYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utc2Vuc29yLWRldGVjdHMtYW5kLWVuZ2FnZXMtY29tcNIBAA",
       "title": "RTX's Raytheon Lower Tier Air and Missile Defense Sensor detects and engages complex target - Raytheon Technologies",
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyNC8wMy8yMS9ydHhzLXJheXRoZW9uLWxvd2VyLXRpZXItYWlyLWFuZC1taXNzaWxlLWRlZmVuc2Utc2Vuc29yLWRldGVjdHMtYW5kLWVuZ2FnZXMtY29tcNIBAA?oc=5",
@@ -142,6 +132,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvbm9ydGgta29yZWEtbWlzc2lsZS10ZXN0LWZpcnN0LTIwMjQtcmVtb3RlLXVzLXRhcmdldHMtcmVnaW9uL9IBXmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL25vcnRoLWtvcmVhLW1pc3NpbGUtdGVzdC1maXJzdC0yMDI0LXJlbW90ZS11cy10YXJnZXRzLXJlZ2lvbi8?oc=5",
       "published": "2024-01-15T08:00:00.000Z",
       "description": "North Korea's first 2024 missile test was conducted with remote U.S. targets in region in mind, analysts say&nbsp;&nbsp;CBS News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA",
+      "title": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic - The Independent Barents Observer",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDI0LzA2L3RhaWxvci1tYWRlLW5vcndheS1uZXctbm9tYWRzLWFpci1kZWZlbmNlLXN5c3RlbS1ub3ctdGVzdGVkLWFyY3RpY9IBAA?oc=5",
+      "published": "2024-06-18T17:14:12.000Z",
+      "description": "Tailor-made for Norway: New NOMADS air defence system now tested in the Arctic&nbsp;&nbsp;The Independent Barents Observer",
       "summary": "",
       "author": "",
       "category": ""
@@ -257,21 +257,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL3J1c3NpYW4td2Fyc2hpcHMtY2Fycnktb3V0LW1pc3NpbGUtZXhlcmNpc2Utb2ZmLXUtcy1lYXN0LWNvYXN00gEA",
-      "title": "Russian Warships Carry Out Missile Exercise Off U.S. East Coast - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL3J1c3NpYW4td2Fyc2hpcHMtY2Fycnktb3V0LW1pc3NpbGUtZXhlcmNpc2Utb2ZmLXUtcy1lYXN0LWNvYXN00gEA?oc=5",
-      "published": "2024-06-11T07:00:00.000Z",
-      "description": "Russian Warships Carry Out Missile Exercise Off U.S. East Coast&nbsp;&nbsp;The Maritime Executive",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMi8xOC9hc2lhL25vcnRoLWtvcmVhLWxhdW5jaGVzLWJhbGxpc3RpYy1taXNzaWxlLWludGwtaG5rLW1sL2luZGV4Lmh0bWzSAVpodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzEyLzE4L2FzaWEvbm9ydGgta29yZWEtbGF1bmNoZXMtYmFsbGlzdGljLW1pc3NpbGUtaW50bC1obmstbWw",
       "title": "North Korea test fires ballistic missile with potential to reach entire US, Japan says - CNN",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMi8xOC9hc2lhL25vcnRoLWtvcmVhLWxhdW5jaGVzLWJhbGxpc3RpYy1taXNzaWxlLWludGwtaG5rLW1sL2luZGV4Lmh0bWzSAVpodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzEyLzE4L2FzaWEvbm9ydGgta29yZWEtbGF1bmNoZXMtYmFsbGlzdGljLW1pc3NpbGUtaW50bC1obmstbWw?oc=5",
       "published": "2023-12-17T08:00:00.000Z",
       "description": "North Korea test fires ballistic missile with potential to reach entire US, Japan says&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL3J1c3NpYW4td2Fyc2hpcHMtY2Fycnktb3V0LW1pc3NpbGUtZXhlcmNpc2Utb2ZmLXUtcy1lYXN0LWNvYXN00gEA",
+      "title": "Russian Warships Carry Out Missile Exercise Off U.S. East Coast - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL3J1c3NpYW4td2Fyc2hpcHMtY2Fycnktb3V0LW1pc3NpbGUtZXhlcmNpc2Utb2ZmLXUtcy1lYXN0LWNvYXN00gEA?oc=5",
+      "published": "2024-06-11T07:00:00.000Z",
+      "description": "Russian Warships Carry Out Missile Exercise Off U.S. East Coast&nbsp;&nbsp;The Maritime Executive",
       "summary": "",
       "author": "",
       "category": ""
@@ -567,21 +567,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWGh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9jbGltYXRlLWVudmlyb25tZW50L21hcnNoYWxsLWlzbGFuZHMtY2xpbWF0ZS1jaGFuZ2UtZDFhN2Y0MzfSAQA",
-      "title": "The U.S. Military's Race to Save a Crucial Missile Test Site From the Sea - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9jbGltYXRlLWVudmlyb25tZW50L21hcnNoYWxsLWlzbGFuZHMtY2xpbWF0ZS1jaGFuZ2UtZDFhN2Y0MzfSAQA?oc=5",
-      "published": "2024-06-11T07:00:00.000Z",
-      "description": "The U.S. Military's Race to Save a Crucial Missile Test Site From the Sea&nbsp;&nbsp;The Wall Street Journal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMifGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2Evbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWzSAX5odHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWw",
       "title": "North Korea confirms missile launch, vows bolstered nuclear force, its news agency says - Voice of America - VOA News",
       "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2Evbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWzSAX5odHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvbm9ydGgta29yZWEtY29uZmlybXMtbWlzc2lsZS1sYXVuY2gtdm93cy1ib2xzdGVyZWQtbnVjbGVhci1mb3JjZS1pdHMtbmV3cy1hZ2VuY3ktc2F5cy83NjE3MjQ4Lmh0bWw?oc=5",
       "published": "2024-05-17T07:00:00.000Z",
       "description": "North Korea confirms missile launch, vows bolstered nuclear force, its news agency says&nbsp;&nbsp;Voice of America - VOA News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9jbGltYXRlLWVudmlyb25tZW50L21hcnNoYWxsLWlzbGFuZHMtY2xpbWF0ZS1jaGFuZ2UtZDFhN2Y0MzfSAQA",
+      "title": "The U.S. Military's Race to Save a Crucial Missile Test Site From the Sea - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndzai5jb20vdXMtbmV3cy9jbGltYXRlLWVudmlyb25tZW50L21hcnNoYWxsLWlzbGFuZHMtY2xpbWF0ZS1jaGFuZ2UtZDFhN2Y0MzfSAQA?oc=5",
+      "published": "2024-06-11T07:00:00.000Z",
+      "description": "The U.S. Military's Race to Save a Crucial Missile Test Site From the Sea&nbsp;&nbsp;The Wall Street Journal",
       "summary": "",
       "author": "",
       "category": ""
@@ -967,16 +967,6 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvYXNpYS1wYWNpZmljLzIwMjMvMTAvMjQvcGFraXN0YW4tbGF1bmNoZXMtZ2hhdXJpLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qtb2YtcmVhZGluZXNzL9IBAA",
-      "title": "Pakistan launches Ghauri ballistic missile in test of readiness - Defense News",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvYXNpYS1wYWNpZmljLzIwMjMvMTAvMjQvcGFraXN0YW4tbGF1bmNoZXMtZ2hhdXJpLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qtb2YtcmVhZGluZXNzL9IBAA?oc=5",
-      "published": "2023-10-24T07:00:00.000Z",
-      "description": "Pakistan launches Ghauri ballistic missile in test of readiness&nbsp;&nbsp;Defense News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NS5hbXA",
       "title": "Trident missile test fails for second time in a row - BBC.com",
       "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02ODM1NTM5NS5hbXA?oc=5",
@@ -997,11 +987,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zdWNjZXNzZnVsLWh5cGVyc29uaWMtdGVzdC1iZWQtZmxpZ2h0LWV4cGVyaW1lbnQv0gFaaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL3VzLWNvbmR1Y3RzLXN1Y2Nlc3NmdWwtaHlwZXJzb25pYy10ZXN0LWJlZC1mbGlnaHQtZXhwZXJpbWVudC8_YW1w",
-      "title": "US conducts successful hypersonic test bed flight experiment - defence-blog.com",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1jb25kdWN0cy1zdWNjZXNzZnVsLWh5cGVyc29uaWMtdGVzdC1iZWQtZmxpZ2h0LWV4cGVyaW1lbnQv0gFaaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL3VzLWNvbmR1Y3RzLXN1Y2Nlc3NmdWwtaHlwZXJzb25pYy10ZXN0LWJlZC1mbGlnaHQtZXhwZXJpbWVudC8_YW1w?oc=5",
-      "published": "2024-06-15T09:42:17.000Z",
-      "description": "US conducts successful hypersonic test bed flight experiment&nbsp;&nbsp;defence-blog.com",
+      "id": "CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8wNi9wb2xpdGljcy91c2FmLW51Y2xlYXItbWlzc2lsZS10ZXN0cy9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wOS8wNi9wb2xpdGljcy91c2FmLW51Y2xlYXItbWlzc2lsZS10ZXN0cw",
+      "title": "US Air Force tests nuclear-capable long-range missile - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOS8wNi9wb2xpdGljcy91c2FmLW51Y2xlYXItbWlzc2lsZS10ZXN0cy9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wOS8wNi9wb2xpdGljcy91c2FmLW51Y2xlYXItbWlzc2lsZS10ZXN0cw?oc=5",
+      "published": "2023-09-06T07:00:00.000Z",
+      "description": "US Air Force tests nuclear-capable long-range missile&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvYXNpYS1wYWNpZmljLzIwMjMvMTAvMjQvcGFraXN0YW4tbGF1bmNoZXMtZ2hhdXJpLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qtb2YtcmVhZGluZXNzL9IBAA",
+      "title": "Pakistan launches Ghauri ballistic missile in test of readiness - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvYXNpYS1wYWNpZmljLzIwMjMvMTAvMjQvcGFraXN0YW4tbGF1bmNoZXMtZ2hhdXJpLWJhbGxpc3RpYy1taXNzaWxlLWluLXRlc3Qtb2YtcmVhZGluZXNzL9IBAA?oc=5",
+      "published": "2023-10-24T07:00:00.000Z",
+      "description": "Pakistan launches Ghauri ballistic missile in test of readiness&nbsp;&nbsp;Defense News",
       "summary": "",
       "author": "",
       "category": ""
