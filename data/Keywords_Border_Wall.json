@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-24T16:33:27.000Z",
+  "published": "2024-06-24T17:26:48.000Z",
   "entries": [
     {
       "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMnFxN3g1OTR2cW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJxcTd4NTk0dnFvLmFtcA",
@@ -117,21 +117,21 @@
       "category": ""
     },
     {
-      "id": "CBMiMmh0dHBzOi8vd3d3LmxhdGlub3VzYS5vcmcvMjAyNC8wNi8yMy9zaGFkb3dvZndhbGwv0gEA",
-      "title": "In the Shadow of the Wall - Latino USA",
-      "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmxhdGlub3VzYS5vcmcvMjAyNC8wNi8yMy9zaGFkb3dvZndhbGwv0gEA?oc=5",
-      "published": "2024-06-23T10:02:14.000Z",
-      "description": "In the Shadow of the Wall&nbsp;&nbsp;Latino USA",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicGh0dHBzOi8vd3d3LmNhYnEuZ292L2FydHNjdWx0dXJlL25ld3MvdGVldGVyLXRvdHRlci1mcm9tLXUtcy1tZXhpY28tYm9hcmRlci13YWxsLWluc3RhbGxlZC1hdC1hbGJ1cXVlcnF1ZS1tdXNldW3SAQA",
       "title": "Teeter-Totter from U.S./Mexico Border Wall Installed at Albuquerque Museum - City of Albuquerque",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNhYnEuZ292L2FydHNjdWx0dXJlL25ld3MvdGVldGVyLXRvdHRlci1mcm9tLXUtcy1tZXhpY28tYm9hcmRlci13YWxsLWluc3RhbGxlZC1hdC1hbGJ1cXVlcnF1ZS1tdXNldW3SAQA?oc=5",
       "published": "2024-03-11T07:00:00.000Z",
       "description": "Teeter-Totter from U.S./Mexico Border Wall Installed at Albuquerque Museum&nbsp;&nbsp;City of Albuquerque",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiMmh0dHBzOi8vd3d3LmxhdGlub3VzYS5vcmcvMjAyNC8wNi8yMy9zaGFkb3dvZndhbGwv0gEA",
+      "title": "In the Shadow of the Wall - Latino USA",
+      "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmxhdGlub3VzYS5vcmcvMjAyNC8wNi8yMy9zaGFkb3dvZndhbGwv0gEA?oc=5",
+      "published": "2024-06-23T10:02:14.000Z",
+      "description": "In the Shadow of the Wall&nbsp;&nbsp;Latino USA",
       "summary": "",
       "author": "",
       "category": ""
@@ -347,6 +347,16 @@
       "category": ""
     },
     {
+      "id": "CBMiZWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2xpdGlnYXRpb24vanVkZ2UtcGVybWl0cy13aGl0ZS1ob3VzZS10by1idXktbGFuZC13aXRoLWJvcmRlci13YWxsLW1vbmV50gEA",
+      "title": "Judge Permits White House to Buy Land With Border Wall Money - Bloomberg Law",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2xpdGlnYXRpb24vanVkZ2UtcGVybWl0cy13aGl0ZS1ob3VzZS10by1idXktbGFuZC13aXRoLWJvcmRlci13YWxsLW1vbmV50gEA?oc=5",
+      "published": "2024-03-28T07:00:00.000Z",
+      "description": "Judge Permits White House to Buy Land With Border Wall Money&nbsp;&nbsp;Bloomberg Law",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTI2L21ham9yaXR5LW9mLXZvdGVycy1zdXBwb3J0LWJ1aWxkaW5nLXdhbGwtYWxvbmctdXMtbWV4aWNvLWJvcmRlctIBAA",
       "title": "US-Mexico Border Wall Backed by Majority of American Voters, Poll Finds - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTAyLTI2L21ham9yaXR5LW9mLXZvdGVycy1zdXBwb3J0LWJ1aWxkaW5nLXdhbGwtYWxvbmctdXMtbWV4aWNvLWJvcmRlctIBAA?oc=5",
@@ -382,16 +392,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8yMy90ZXhhcy1sZWdpc2xhdHVyZS1ib3JkZXItd2FsbC1zcGVuZGluZy1iaWxsLWhvdXNlLWFwcHJvcHJpYXRpb25zL9IBAA?oc=5",
       "published": "2023-10-23T07:00:00.000Z",
       "description": "Texas House committee approves bill to spend $1.5 billion for border walls&nbsp;&nbsp;The Texas Tribune",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDQyNzc0NDnSAQA",
-      "title": "Iran To Invest 3 Billion Euros In Border Wall - ایران اینترنشنال",
-      "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDQyNzc0NDnSAQA?oc=5",
-      "published": "2024-04-27T07:00:00.000Z",
-      "description": "Iran To Invest 3 Billion Euros In Border Wall&nbsp;&nbsp;ایران اینترنشنال",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,16 +467,6 @@
       "category": ""
     },
     {
-      "id": "CBMiYWh0dHBzOi8vaWRhaG9jYXBpdGFsc3VuLmNvbS8yMDI0LzA0LzIxL3Utcy1ob3VzZS12b3Rlcy1kb3duLWJvcmRlci1iaWxsLWZhdm9yZWQtYnktY29uc2VydmF0aXZlcy_SAQA",
-      "title": "U.S. House votes down border bill favored by conservatives • Idaho Capital Sun - Idaho Capital Sun",
-      "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vaWRhaG9jYXBpdGFsc3VuLmNvbS8yMDI0LzA0LzIxL3Utcy1ob3VzZS12b3Rlcy1kb3duLWJvcmRlci1iaWxsLWZhdm9yZWQtYnktY29uc2VydmF0aXZlcy_SAQA?oc=5",
-      "published": "2024-04-21T07:00:00.000Z",
-      "description": "U.S. House votes down border bill favored by conservatives • Idaho Capital Sun&nbsp;&nbsp;Idaho Capital Sun",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjcwMTUxMzfSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY3MDE1MTM3LmFtcA",
       "title": "Biden approves new section of border wall as Mexico crossings rise - BBC.com",
       "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjcwMTUxMzfSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY3MDE1MTM3LmFtcA?oc=5",
@@ -542,16 +532,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8xNi9taWRkbGVlYXN0L2VneXB0LXdhbGwtYnVmZmVyLXpvbmUtZ2F6YS1ib3JkZXItaW50bC1obmsvaW5kZXguaHRtbNIBWWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDIvMTYvbWlkZGxlZWFzdC9lZ3lwdC13YWxsLWJ1ZmZlci16b25lLWdhemEtYm9yZGVyLWludGwtaG5r?oc=5",
       "published": "2024-02-15T08:00:00.000Z",
       "description": "Egypt is building a new walled buffer zone more than 2 miles wide on Gaza border, satellite images show&nbsp;&nbsp;CNN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbmdyZXNzLWJvcmRlci1zZWN1cml0eS11a3JhaW5lLTE1ZTJlM2ZhYzJiMjliNWI0YmJlMWVhZThlYjFjOTI00gEA",
-      "title": "Senate releases $118 billion bill that pairs for border security, Ukraine, Israel - The Associated Press",
-      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NvbmdyZXNzLWJvcmRlci1zZWN1cml0eS11a3JhaW5lLTE1ZTJlM2ZhYzJiMjliNWI0YmJlMWVhZThlYjFjOTI00gEA?oc=5",
-      "published": "2024-02-04T08:00:00.000Z",
-      "description": "Senate releases $118 billion bill that pairs for border security, Ukraine, Israel&nbsp;&nbsp;The Associated Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,6 +637,16 @@
       "category": ""
     },
     {
+      "id": "CBMiY2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudHMtY2hhcmdlZC1pbi1ib3JkZXItd2FsbC1yaW90LXdpbGwtc3RheS1pbi1qYWlsL9IBZ2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudHMtY2hhcmdlZC1pbi1ib3JkZXItd2FsbC1yaW90LXdpbGwtc3RheS1pbi1qYWlsL2FtcC8",
+      "title": "Migrants charged in border wall riot will stay in jail - FOX 5 San Diego",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudHMtY2hhcmdlZC1pbi1ib3JkZXItd2FsbC1yaW90LXdpbGwtc3RheS1pbi1qYWlsL9IBZ2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudHMtY2hhcmdlZC1pbi1ib3JkZXItd2FsbC1yaW90LXdpbGwtc3RheS1pbi1qYWlsL2FtcC8?oc=5",
+      "published": "2024-04-01T07:00:00.000Z",
+      "description": "Migrants charged in border wall riot will stay in jail&nbsp;&nbsp;FOX 5 San Diego",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiX2h0dHBzOi8vd3d3Lm5iY3NhbmRpZWdvLmNvbS9uZXdzL2xvY2FsL3Blb3BsZS1pbmp1cmVkLWJvcmRlci13YWxsLXRpanVhbmEtcml2ZXItdmFsbGV5LzM0NTAyODgv0gFlaHR0cHM6Ly93d3cubmJjc2FuZGllZ28uY29tL25ld3MvbG9jYWwvcGVvcGxlLWluanVyZWQtYm9yZGVyLXdhbGwtdGlqdWFuYS1yaXZlci12YWxsZXkvMzQ1MDI4OC8_YW1wPTE",
       "title": "10 people injured after falling from US-Mexico border fence near Tijuana: SDFD - NBC San Diego",
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm5iY3NhbmRpZWdvLmNvbS9uZXdzL2xvY2FsL3Blb3BsZS1pbmp1cmVkLWJvcmRlci13YWxsLXRpanVhbmEtcml2ZXItdmFsbGV5LzM0NTAyODgv0gFlaHR0cHM6Ly93d3cubmJjc2FuZGllZ28uY29tL25ld3MvbG9jYWwvcGVvcGxlLWluanVyZWQtYm9yZGVyLXdhbGwtdGlqdWFuYS1yaXZlci12YWxsZXkvMzQ1MDI4OC8_YW1wPTE?oc=5",
@@ -697,6 +687,16 @@
       "category": ""
     },
     {
+      "id": "CBMiW2h0dHBzOi8vd3d3Lm5iY3NhbmRpZWdvLmNvbS9uZXdzL2xvY2FsL2NicC1zZGZkLWRlYWRseS11cy1tZXhpY28tYm9yZGVyLWZlbmNlLWZhbGwvMzQ3OTM3NS_SAWFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9jYnAtc2RmZC1kZWFkbHktdXMtbWV4aWNvLWJvcmRlci1mZW5jZS1mYWxsLzM0NzkzNzUvP2FtcD0x",
+      "title": "CBP, SDFD release new details after deadly US-Mexico border fence fall - NBC San Diego",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5iY3NhbmRpZWdvLmNvbS9uZXdzL2xvY2FsL2NicC1zZGZkLWRlYWRseS11cy1tZXhpY28tYm9yZGVyLWZlbmNlLWZhbGwvMzQ3OTM3NS_SAWFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9jYnAtc2RmZC1kZWFkbHktdXMtbWV4aWNvLWJvcmRlci1mZW5jZS1mYWxsLzM0NzkzNzUvP2FtcD0x?oc=5",
+      "published": "2024-04-03T07:00:00.000Z",
+      "description": "CBP, SDFD release new details after deadly US-Mexico border fence fall&nbsp;&nbsp;NBC San Diego",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiTWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taWdyYW50cy1zb3V0aGVybi1ib3JkZXItbWV4aWNvLXdhbGwtc3VubGFuZC0xOTEzNjUx0gEA",
       "title": "Migrants Crossing Border Wall Sparks Rise in Rescues - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9taWdyYW50cy1zb3V0aGVybi1ib3JkZXItbWV4aWNvLXdhbGwtc3VubGFuZC0xOTEzNjUx0gEA?oc=5",
@@ -722,16 +722,6 @@
       "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8xNy90ZXhhcy1ib3JkZXItbmV3LW1leGljby1jb25jZXJ0aW5hLXdpcmUtYWJib3R0L9IBAA?oc=5",
       "published": "2023-10-17T07:00:00.000Z",
       "description": "Texas strings concertina wire along New Mexico border to deter migrants&nbsp;&nbsp;The Texas Tribune",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMid2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2xvY2FsLW5ld3MvdHdvLWRvemVuLW1pZ3JhbnRzLWh1cnQtc2NhbGluZy1ib3JkZXItd2FsbC1pbi1wYXN0LXdlZWstc28td2hvLXBheXMtdGhlLWJpbGwv0gF7aHR0cHM6Ly9mb3g1c2FuZGllZ28uY29tL25ld3MvbG9jYWwtbmV3cy90d28tZG96ZW4tbWlncmFudHMtaHVydC1zY2FsaW5nLWJvcmRlci13YWxsLWluLXBhc3Qtd2Vlay1zby13aG8tcGF5cy10aGUtYmlsbC9hbXAv",
-      "title": "Two dozen migrants hurt scaling border wall in past week. So who pays the bill? - FOX 5 San Diego",
-      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2xvY2FsLW5ld3MvdHdvLWRvemVuLW1pZ3JhbnRzLWh1cnQtc2NhbGluZy1ib3JkZXItd2FsbC1pbi1wYXN0LXdlZWstc28td2hvLXBheXMtdGhlLWJpbGwv0gF7aHR0cHM6Ly9mb3g1c2FuZGllZ28uY29tL25ld3MvbG9jYWwtbmV3cy90d28tZG96ZW4tbWlncmFudHMtaHVydC1zY2FsaW5nLWJvcmRlci13YWxsLWluLXBhc3Qtd2Vlay1zby13aG8tcGF5cy10aGUtYmlsbC9hbXAv?oc=5",
-      "published": "2024-03-10T08:00:00.000Z",
-      "description": "Two dozen migrants hurt scaling border wall in past week. So who pays the bill?&nbsp;&nbsp;FOX 5 San Diego",
       "summary": "",
       "author": "",
       "category": ""
@@ -777,31 +767,11 @@
       "category": ""
     },
     {
-      "id": "CBMiigFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9pbmNyZWFzZS1pbi1mYWxscy1mcm9tLWJvcmRlci13YWxsLXN0cmFpbmluZy1zYW4tZGllZ28tZW1lcmdlbmN5LXJvb21zLXVjLXNhbi1kaWVnby1oZWFsdGgvMzMzNTE4OS_SAZABaHR0cHM6Ly93d3cubmJjc2FuZGllZ28uY29tL25ld3MvbG9jYWwvaW5jcmVhc2UtaW4tZmFsbHMtZnJvbS1ib3JkZXItd2FsbC1zdHJhaW5pbmctc2FuLWRpZWdvLWVtZXJnZW5jeS1yb29tcy11Yy1zYW4tZGllZ28taGVhbHRoLzMzMzUxODkvP2FtcD0x",
-      "title": "Increase in falls from border wall straining San Diego emergency rooms: UC San Diego Health - NBC San Diego",
-      "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5uYmNzYW5kaWVnby5jb20vbmV3cy9sb2NhbC9pbmNyZWFzZS1pbi1mYWxscy1mcm9tLWJvcmRlci13YWxsLXN0cmFpbmluZy1zYW4tZGllZ28tZW1lcmdlbmN5LXJvb21zLXVjLXNhbi1kaWVnby1oZWFsdGgvMzMzNTE4OS_SAZABaHR0cHM6Ly93d3cubmJjc2FuZGllZ28uY29tL25ld3MvbG9jYWwvaW5jcmVhc2UtaW4tZmFsbHMtZnJvbS1ib3JkZXItd2FsbC1zdHJhaW5pbmctc2FuLWRpZWdvLWVtZXJnZW5jeS1yb29tcy11Yy1zYW4tZGllZ28taGVhbHRoLzMzMzUxODkvP2FtcD0x?oc=5",
-      "published": "2023-10-23T07:00:00.000Z",
-      "description": "Increase in falls from border wall straining San Diego emergency rooms: UC San Diego Health&nbsp;&nbsp;NBC San Diego",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMS8xNC90ZXhhcy1ob3VzZS1ib3JkZXItd2FsbC1jcm9zc2luZy1jcmltZS1iaWxsL9IBAA",
       "title": "Texas House advances bills to make illegal border crossing a state crime - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMS8xNC90ZXhhcy1ob3VzZS1ib3JkZXItd2FsbC1jcm9zc2luZy1jcmltZS1iaWxsL9IBAA?oc=5",
       "published": "2023-11-14T08:00:00.000Z",
       "description": "Texas House advances bills to make illegal border crossing a state crime&nbsp;&nbsp;The Texas Tribune",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMicGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vcmVnaW9ucy90ZXhhcy8xc3Qtc2VnbWVudC1vZi10ZXhhcy1mdW5kZWQtYm9yZGVyLXdhbGwtaW4temFwYXRhLWNvdW50eS1pcy1nb2luZy11cC_SAXRodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL3JlZ2lvbnMvdGV4YXMvMXN0LXNlZ21lbnQtb2YtdGV4YXMtZnVuZGVkLWJvcmRlci13YWxsLWluLXphcGF0YS1jb3VudHktaXMtZ29pbmctdXAvYW1wLw",
-      "title": "1st segment of Texas-funded border wall in Zapata County is going up - Border Report",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vcmVnaW9ucy90ZXhhcy8xc3Qtc2VnbWVudC1vZi10ZXhhcy1mdW5kZWQtYm9yZGVyLXdhbGwtaW4temFwYXRhLWNvdW50eS1pcy1nb2luZy11cC_SAXRodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL3JlZ2lvbnMvdGV4YXMvMXN0LXNlZ21lbnQtb2YtdGV4YXMtZnVuZGVkLWJvcmRlci13YWxsLWluLXphcGF0YS1jb3VudHktaXMtZ29pbmctdXAvYW1wLw?oc=5",
-      "published": "2024-04-15T07:00:00.000Z",
-      "description": "1st segment of Texas-funded border wall in Zapata County is going up&nbsp;&nbsp;Border Report",
       "summary": "",
       "author": "",
       "category": ""
@@ -822,6 +792,16 @@
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvaGVhdC1jYXJ0ZWwtbGllcy1tYWtlLWJvcmRlci10b3duLWEtZGVhdGgtdHJhcC1mb3ItbWlncmFudHMv0gFsaHR0cHM6Ly9mb3g1c2FuZGllZ28uY29tL25ld3MvYm9yZGVyLXJlcG9ydC9oZWF0LWNhcnRlbC1saWVzLW1ha2UtYm9yZGVyLXRvd24tYS1kZWF0aC10cmFwLWZvci1taWdyYW50cy9hbXAv?oc=5",
       "published": "2024-06-13T07:00:00.000Z",
       "description": "Heat, cartel lies make border town a death trap for migrants&nbsp;&nbsp;FOX 5 San Diego",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vcmVnaW9ucy90ZXhhcy8xc3Qtc2VnbWVudC1vZi10ZXhhcy1mdW5kZWQtYm9yZGVyLXdhbGwtaW4temFwYXRhLWNvdW50eS1pcy1nb2luZy11cC_SAXRodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL3JlZ2lvbnMvdGV4YXMvMXN0LXNlZ21lbnQtb2YtdGV4YXMtZnVuZGVkLWJvcmRlci13YWxsLWluLXphcGF0YS1jb3VudHktaXMtZ29pbmctdXAvYW1wLw",
+      "title": "1st segment of Texas-funded border wall in Zapata County is going up - Border Report",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vcmVnaW9ucy90ZXhhcy8xc3Qtc2VnbWVudC1vZi10ZXhhcy1mdW5kZWQtYm9yZGVyLXdhbGwtaW4temFwYXRhLWNvdW50eS1pcy1nb2luZy11cC_SAXRodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL3JlZ2lvbnMvdGV4YXMvMXN0LXNlZ21lbnQtb2YtdGV4YXMtZnVuZGVkLWJvcmRlci13YWxsLWluLXphcGF0YS1jb3VudHktaXMtZ29pbmctdXAvYW1wLw?oc=5",
+      "published": "2024-04-15T07:00:00.000Z",
+      "description": "1st segment of Texas-funded border wall in Zapata County is going up&nbsp;&nbsp;Border Report",
       "summary": "",
       "author": "",
       "category": ""
@@ -877,16 +857,6 @@
       "category": ""
     },
     {
-      "id": "CBMiWmh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL3BvbGl0aWNzL3RleGFzL2FydGljbGUvZmFxLXRleGFzLWJvcmRlci13YWxsLTE4NDYyODg0LnBocNIBAA",
-      "title": "What to know about the Texas border wall and who's building it - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmhvdXN0b25jaHJvbmljbGUuY29tL3BvbGl0aWNzL3RleGFzL2FydGljbGUvZmFxLXRleGFzLWJvcmRlci13YWxsLTE4NDYyODg0LnBocNIBAA?oc=5",
-      "published": "2023-11-06T08:00:00.000Z",
-      "description": "What to know about the Texas border wall and who's building it&nbsp;&nbsp;Houston Chronicle",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMifGh0dHBzOi8vd3d3LndvbGEub3JnLzIwMjQvMDIvd2Vla2x5LXUtcy1tZXhpY28tYm9yZGVyLXVwZGF0ZS1zZW5hdGUta2lsbHMtYm9yZGVyLWRlYWwtaW1wZWFjaG1lbnQtZ29lcy1kb3duLW1pZ3JhdGlvbi1kcm9wcy_SAQA",
       "title": "Weekly U.S.-Mexico Border Update: Senate kills border deal, impeachment goes down, migration drops - Washington Office on Latin America (WOLA)",
       "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LndvbGEub3JnLzIwMjQvMDIvd2Vla2x5LXUtcy1tZXhpY28tYm9yZGVyLXVwZGF0ZS1zZW5hdGUta2lsbHMtYm9yZGVyLWRlYWwtaW1wZWFjaG1lbnQtZ29lcy1kb3duLW1pZ3JhdGlvbi1kcm9wcy_SAQA?oc=5",
@@ -917,16 +887,6 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8",
-      "title": "California man admits driving to border to smuggle migrants - WDAF FOX4 Kansas City",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8?oc=5",
-      "published": "2024-06-18T23:53:00.000Z",
-      "description": "California man admits driving to border to smuggle migrants&nbsp;&nbsp;WDAF FOX4 Kansas City",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMif2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvY2FtcGFpZ24tY29udGV4dC1wcmVzaWRlbnRpYWwtcmFjZS9jYW1wYWlnbi1jb250ZXh0LWRpZC1uaWtraS1oYWxleS1yZWFsbHktb3Bwb3NlLXRydW1wcy1ib3JkZXItd2FsbC_SAYMBaHR0cHM6Ly93d3cua3hhbi5jb20vbmV3cy9jYW1wYWlnbi1jb250ZXh0LXByZXNpZGVudGlhbC1yYWNlL2NhbXBhaWduLWNvbnRleHQtZGlkLW5pa2tpLWhhbGV5LXJlYWxseS1vcHBvc2UtdHJ1bXBzLWJvcmRlci13YWxsL2FtcC8",
       "title": "Campaign Context: Did Nikki Haley really oppose Trump’s border wall? - KXAN.com",
       "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3MvY2FtcGFpZ24tY29udGV4dC1wcmVzaWRlbnRpYWwtcmFjZS9jYW1wYWlnbi1jb250ZXh0LWRpZC1uaWtraS1oYWxleS1yZWFsbHktb3Bwb3NlLXRydW1wcy1ib3JkZXItd2FsbC_SAYMBaHR0cHM6Ly93d3cua3hhbi5jb20vbmV3cy9jYW1wYWlnbi1jb250ZXh0LXByZXNpZGVudGlhbC1yYWNlL2NhbXBhaWduLWNvbnRleHQtZGlkLW5pa2tpLWhhbGV5LXJlYWxseS1vcHBvc2UtdHJ1bXBzLWJvcmRlci13YWxsL2FtcC8?oc=5",
@@ -937,11 +897,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8wOC8yMi90ZXhhcy1ib3JkZXItYmFycmllci1qdXN0aWNlLWRlcGFydG1lbnQtY291cnQtaGVhcmluZy_SAQA",
-      "title": "U.S. Justice Department argues for removal of Texas' floating border barrier in federal court - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8wOC8yMi90ZXhhcy1ib3JkZXItYmFycmllci1qdXN0aWNlLWRlcGFydG1lbnQtY291cnQtaGVhcmluZy_SAQA?oc=5",
-      "published": "2023-08-22T07:00:00.000Z",
-      "description": "U.S. Justice Department argues for removal of Texas' floating border barrier in federal court&nbsp;&nbsp;The Texas Tribune",
+      "id": "CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8",
+      "title": "California man admits driving to border to smuggle migrants - WDAF FOX4 Kansas City",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL9IBYWh0dHBzOi8vZm94NGtjLmNvbS9ib3JkZXItcmVwb3J0L2NhbGlmb3JuaWEtbWFuLWFkbWl0cy1kcml2aW5nLXRvLWJvcmRlci10by1zbXVnZ2xlLW1pZ3JhbnRzL2FtcC8?oc=5",
+      "published": "2024-06-18T23:53:00.000Z",
+      "description": "California man admits driving to border to smuggle migrants&nbsp;&nbsp;WDAF FOX4 Kansas City",
       "summary": "",
       "author": "",
       "category": ""
@@ -952,6 +912,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vY2lzLm9yZy9BcnRodXIvVGV4YXMtQm9yZGVyLVdhbGwtT3JkZXItQWdhaW5zdC1CaWRlbi1BZG1pbmlzdHJhdGlvbi1Zb3UtTGlrZWx5LU5ldmVyLUhlYXJk0gEA?oc=5",
       "published": "2024-04-03T07:00:00.000Z",
       "description": "The Texas Border Wall Order Against the Biden Administration You Likely Never Heard of&nbsp;&nbsp;Immigration Blog",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8wOC8yMi90ZXhhcy1ib3JkZXItYmFycmllci1qdXN0aWNlLWRlcGFydG1lbnQtY291cnQtaGVhcmluZy_SAQA",
+      "title": "U.S. Justice Department argues for removal of Texas' floating border barrier in federal court - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8wOC8yMi90ZXhhcy1ib3JkZXItYmFycmllci1qdXN0aWNlLWRlcGFydG1lbnQtY291cnQtaGVhcmluZy_SAQA?oc=5",
+      "published": "2023-08-22T07:00:00.000Z",
+      "description": "U.S. Justice Department argues for removal of Texas' floating border barrier in federal court&nbsp;&nbsp;The Texas Tribune",
       "summary": "",
       "author": "",
       "category": ""
@@ -997,11 +967,41 @@
       "category": ""
     },
     {
+      "id": "CBMid2h0dHBzOi8vd3d3Lndzai5jb20vcG9saXRpY3MvcG9saWN5L2JpZGVuLWFkbWluaXN0cmF0aW9uLXRvLXJlc3VtZS1ib3JkZXItd2FsbC1jb25zdHJ1Y3Rpb24taW4tcG9saWN5LXJldmVyc2FsLTdmZjQxZDJl0gEA",
+      "title": "Biden Administration Waives 26 Federal Laws to Resume Border Wall Construction - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lndzai5jb20vcG9saXRpY3MvcG9saWN5L2JpZGVuLWFkbWluaXN0cmF0aW9uLXRvLXJlc3VtZS1ib3JkZXItd2FsbC1jb25zdHJ1Y3Rpb24taW4tcG9saWN5LXJldmVyc2FsLTdmZjQxZDJl0gEA?oc=5",
+      "published": "2023-10-05T07:00:00.000Z",
+      "description": "Biden Administration Waives 26 Federal Laws to Resume Border Wall Construction&nbsp;&nbsp;The Wall Street Journal",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiS2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzEwLzA1L2JpZGVuLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi10ZXhhcy10cnVtcNIBAA",
       "title": "Trump taunts Biden on border wall reversal amid immigration surge - Axios",
       "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzEwLzA1L2JpZGVuLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi10ZXhhcy10cnVtcNIBAA?oc=5",
       "published": "2023-10-05T07:00:00.000Z",
       "description": "Trump taunts Biden on border wall reversal amid immigration surge&nbsp;&nbsp;Axios",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTEvMjcvdXMvYm9yZGVyLXdhbGwtcmVsYXRlZC1mYWxscy1hcmUtaW5jcmVhc2luZy1pbi1jYWxpZm9ybmlhLmh0bWzSAQA",
+      "title": "Border Wall-Related Falls Are Increasing in California - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMTEvMjcvdXMvYm9yZGVyLXdhbGwtcmVsYXRlZC1mYWxscy1hcmUtaW5jcmVhc2luZy1pbi1jYWxpZm9ybmlhLmh0bWzSAQA?oc=5",
+      "published": "2023-11-27T08:00:00.000Z",
+      "description": "Border Wall-Related Falls Are Increasing in California&nbsp;&nbsp;The New York Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvcG9saXRpY3Mvd2F0Y2gtbGl2ZS13aGl0ZS1ob3VzZS1ob2xkcy1icmllZmluZy1hcy1iaWRlbi13YWl2ZXMtbGF3cy10by1hbGxvdy1ib3JkZXItd2FsbC1pbi10ZXhhc9IBggFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9wb2xpdGljcy93YXRjaC1saXZlLXdoaXRlLWhvdXNlLWhvbGRzLWJyaWVmaW5nLWFzLWJpZGVuLXdhaXZlcy1sYXdzLXRvLWFsbG93LWJvcmRlci13YWxsLWluLXRleGFz",
+      "title": "WATCH: White House holds briefing as Biden waives laws to allow border wall in Texas - PBS NewsHour",
+      "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvcG9saXRpY3Mvd2F0Y2gtbGl2ZS13aGl0ZS1ob3VzZS1ob2xkcy1icmllZmluZy1hcy1iaWRlbi13YWl2ZXMtbGF3cy10by1hbGxvdy1ib3JkZXItd2FsbC1pbi10ZXhhc9IBggFodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC9wb2xpdGljcy93YXRjaC1saXZlLXdoaXRlLWhvdXNlLWhvbGRzLWJyaWVmaW5nLWFzLWJpZGVuLXdhaXZlcy1sYXdzLXRvLWFsbG93LWJvcmRlci13YWxsLWluLXRleGFz?oc=5",
+      "published": "2023-10-05T07:00:00.000Z",
+      "description": "WATCH: White House holds briefing as Biden waives laws to allow border wall in Texas&nbsp;&nbsp;PBS NewsHour",
       "summary": "",
       "author": "",
       "category": ""
