@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-23T23:22:35.000Z",
+  "published": "2024-06-24T02:23:58.000Z",
   "entries": [
     {
       "id": "CBMiLWh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdGVybXMvcy9zd290LmFzcNIBAA",
@@ -12,6 +12,16 @@
       "link": "https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdGVybXMvcy9zd290LmFzcNIBAA?oc=5",
       "published": "2024-06-18T07:00:00.000Z",
       "description": "SWOT Analysis: How To With Table and Example&nbsp;&nbsp;Investopedia",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3RocmVhdC1uby1vdGhlci1ydXNzaWEtbm9ydGgta29yZWEtbWlsaXRhcnktY29vcGVyYXRpb27SAQA",
+      "title": "A Threat Like No Other: Russia-North Korea Military Cooperation - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3RocmVhdC1uby1vdGhlci1ydXNzaWEtbm9ydGgta29yZWEtbWlsaXRhcnktY29vcGVyYXRpb27SAQA?oc=5",
+      "published": "2024-06-17T20:47:05.000Z",
+      "description": "A Threat Like No Other: Russia-North Korea Military Cooperation&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -47,16 +57,6 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vd3d3LmNzaXMub3JnL2V2ZW50cy9ydXNzaWEtc3RyYXRlZ2ljLXRocmVhdC11a3JhaW5lLW5hdG8tYW5kLWJleW9uZC1ldXJvcGXSAQA",
-      "title": "Russia as a Strategic Threat: Ukraine, NATO, and Beyond Europe - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNzaXMub3JnL2V2ZW50cy9ydXNzaWEtc3RyYXRlZ2ljLXRocmVhdC11a3JhaW5lLW5hdG8tYW5kLWJleW9uZC1ldXJvcGXSAQA?oc=5",
-      "published": "2023-09-18T07:00:00.000Z",
-      "description": "Russia as a Strategic Threat: Ukraine, NATO, and Beyond Europe&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYWh0dHBzOi8vd3d3Lmpld2lzaHBvbGljeWNlbnRlci5vcmcvMjAyNC8wMS8wMi9jb2xsZWdlLWNhbXB1c2VzLWFzLWEtc3RyYXRlZ2ljLXRocmVhdC10by10aGUtd2VzdC_SAQA",
       "title": "College Campuses as a Strategic Threat to the West – Jewish Policy Center - Jewish Policy Center",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lmpld2lzaHBvbGljeWNlbnRlci5vcmcvMjAyNC8wMS8wMi9jb2xsZWdlLWNhbXB1c2VzLWFzLWEtc3RyYXRlZ2ljLXRocmVhdC10by10aGUtd2VzdC_SAQA?oc=5",
@@ -77,21 +77,21 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vYWNjZWxlcmF0aW9uZWNvbm9teS5jb20vY3liZXJzZWN1cml0eS80LXN0cmF0ZWdpYy10aHJlYXQtaW50ZWxsaWdlbmNlLXF1ZXN0aW9ucy10by1lbGV2YXRlLWEtY3liZXJzZWN1cml0eS1wcm9ncmFtL9IBAA",
-      "title": "4 Strategic Threat Intelligence Questions to Elevate a Cybersecurity Program - Acceleration Economy",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYWNjZWxlcmF0aW9uZWNvbm9teS5jb20vY3liZXJzZWN1cml0eS80LXN0cmF0ZWdpYy10aHJlYXQtaW50ZWxsaWdlbmNlLXF1ZXN0aW9ucy10by1lbGV2YXRlLWEtY3liZXJzZWN1cml0eS1wcm9ncmFtL9IBAA?oc=5",
-      "published": "2024-01-02T08:00:00.000Z",
-      "description": "4 Strategic Threat Intelligence Questions to Elevate a Cybersecurity Program&nbsp;&nbsp;Acceleration Economy",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigwFodHRwczovL3RoZWhpbGwuY29tL29waW5pb24vbmF0aW9uYWwtc2VjdXJpdHkvNDYyOTMwMi1iaWRlbnMtbWFzc2l2ZS1taWxpdGFyeS1haWQtcGFja2FnZS1uZWdsZWN0cy10aGUtcmVhbC1zdHJhdGVnaWMtdGhyZWF0LWNoaW5hL9IBhwFodHRwczovL3RoZWhpbGwuY29tL29waW5pb24vbmF0aW9uYWwtc2VjdXJpdHkvNDYyOTMwMi1iaWRlbnMtbWFzc2l2ZS1taWxpdGFyeS1haWQtcGFja2FnZS1uZWdsZWN0cy10aGUtcmVhbC1zdHJhdGVnaWMtdGhyZWF0LWNoaW5hL2FtcC8",
       "title": "Biden’s massive military aid package neglects the real strategic threat: China - The Hill",
       "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3RoZWhpbGwuY29tL29waW5pb24vbmF0aW9uYWwtc2VjdXJpdHkvNDYyOTMwMi1iaWRlbnMtbWFzc2l2ZS1taWxpdGFyeS1haWQtcGFja2FnZS1uZWdsZWN0cy10aGUtcmVhbC1zdHJhdGVnaWMtdGhyZWF0LWNoaW5hL9IBhwFodHRwczovL3RoZWhpbGwuY29tL29waW5pb24vbmF0aW9uYWwtc2VjdXJpdHkvNDYyOTMwMi1iaWRlbnMtbWFzc2l2ZS1taWxpdGFyeS1haWQtcGFja2FnZS1uZWdsZWN0cy10aGUtcmVhbC1zdHJhdGVnaWMtdGhyZWF0LWNoaW5hL2FtcC8?oc=5",
       "published": "2024-04-29T07:00:00.000Z",
       "description": "Biden’s massive military aid package neglects the real strategic threat: China&nbsp;&nbsp;The Hill",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vYWNjZWxlcmF0aW9uZWNvbm9teS5jb20vY3liZXJzZWN1cml0eS80LXN0cmF0ZWdpYy10aHJlYXQtaW50ZWxsaWdlbmNlLXF1ZXN0aW9ucy10by1lbGV2YXRlLWEtY3liZXJzZWN1cml0eS1wcm9ncmFtL9IBAA",
+      "title": "4 Strategic Threat Intelligence Questions to Elevate a Cybersecurity Program - Acceleration Economy",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vYWNjZWxlcmF0aW9uZWNvbm9teS5jb20vY3liZXJzZWN1cml0eS80LXN0cmF0ZWdpYy10aHJlYXQtaW50ZWxsaWdlbmNlLXF1ZXN0aW9ucy10by1lbGV2YXRlLWEtY3liZXJzZWN1cml0eS1wcm9ncmFtL9IBAA?oc=5",
+      "published": "2024-01-02T08:00:00.000Z",
+      "description": "4 Strategic Threat Intelligence Questions to Elevate a Cybersecurity Program&nbsp;&nbsp;Acceleration Economy",
       "summary": "",
       "author": "",
       "category": ""
@@ -117,16 +117,6 @@
       "category": ""
     },
     {
-      "id": "CBMiSmh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wNS8wNy90aHJlYXQtaW50ZWxsaWdlbmNlLXJvbGUtdmlkZW8v0gEA",
-      "title": "The strategic advantages of targeted threat intelligence - Help Net Security",
-      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmhlbHBuZXRzZWN1cml0eS5jb20vMjAyNC8wNS8wNy90aHJlYXQtaW50ZWxsaWdlbmNlLXJvbGUtdmlkZW8v0gEA?oc=5",
-      "published": "2024-05-07T07:00:00.000Z",
-      "description": "The strategic advantages of targeted threat intelligence&nbsp;&nbsp;Help Net Security",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMif2h0dHBzOi8vd3d3LmZiaS5nb3YvbmV3cy9zcGVlY2hlcy9kaXJlY3Rvci13cmF5cy1vcGVuaW5nLXN0YXRlbWVudC10by10aGUtaG91c2Utc2VsZWN0LWNvbW1pdHRlZS1vbi10aGUtY2hpbmVzZS1jb21tdW5pc3QtcGFydHnSAQA",
       "title": "Director Wray's Opening Statement to the House Select Committee on the Strategic Competition Between the United ... - Federal Bureau of Investigation",
       "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmZiaS5nb3YvbmV3cy9zcGVlY2hlcy9kaXJlY3Rvci13cmF5cy1vcGVuaW5nLXN0YXRlbWVudC10by10aGUtaG91c2Utc2VsZWN0LWNvbW1pdHRlZS1vbi10aGUtY2hpbmVzZS1jb21tdW5pc3QtcGFydHnSAQA?oc=5",
@@ -137,11 +127,11 @@
       "category": ""
     },
     {
-      "id": "CBMiaWh0dHBzOi8vd3d3LnNlbnRpbmVsb25lLmNvbS9ibG9nL3Bpbm5hY2xlb25lLWV4ZWNicmllZi1tYWxpY2lvdXMtaW5zaWRlci10aHJlYXQtdG8tc3RyYXRlZ2ljLWVudGVycHJpc2VzL9IBAA",
-      "title": "PinnacleOne ExecBrief | Malicious Insider Threat to Strategic Enterprises - SentinelOne",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNlbnRpbmVsb25lLmNvbS9ibG9nL3Bpbm5hY2xlb25lLWV4ZWNicmllZi1tYWxpY2lvdXMtaW5zaWRlci10aHJlYXQtdG8tc3RyYXRlZ2ljLWVudGVycHJpc2VzL9IBAA?oc=5",
-      "published": "2024-03-08T08:00:00.000Z",
-      "description": "PinnacleOne ExecBrief | Malicious Insider Threat to Strategic Enterprises&nbsp;&nbsp;SentinelOne",
+      "id": "CBMiSWh0dHBzOi8vd3d3LmNkYy5nb3YvbWVkaWEvcmVsZWFzZXMvMjAyNC9wMDQxNi1HbG9iYWwtSGVhbHRoLVNlY3VyaXR5Lmh0bWzSAQA",
+      "title": "New U.S Global Health Security Strategy Advances Commitment to Protect Americans and People Around the World ... - CDC",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNkYy5nb3YvbWVkaWEvcmVsZWFzZXMvMjAyNC9wMDQxNi1HbG9iYWwtSGVhbHRoLVNlY3VyaXR5Lmh0bWzSAQA?oc=5",
+      "published": "2024-04-16T07:00:00.000Z",
+      "description": "New U.S Global Health Security Strategy Advances Commitment to Protect Americans and People Around the World ...&nbsp;&nbsp;CDC",
       "summary": "",
       "author": "",
       "category": ""
@@ -157,21 +147,31 @@
       "category": ""
     },
     {
-      "id": "CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjTSAQA",
-      "title": "“Space Threat Assessment 2024”: Audio Brief with Clayton Swope - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjTSAQA?oc=5",
-      "published": "2024-04-17T07:00:00.000Z",
-      "description": "“Space Threat Assessment 2024”: Audio Brief with Clayton Swope&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "id": "CBMiL2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdGVybXMvcC9wb3J0ZXIuYXNw0gEA",
+      "title": "Porter's Five Forces Explained and How to Use the Model - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vdGVybXMvcC9wb3J0ZXIuYXNw0gEA?oc=5",
+      "published": "2024-06-18T07:00:00.000Z",
+      "description": "Porter's Five Forces Explained and How to Use the Model&nbsp;&nbsp;Investopedia",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiT2h0dHBzOi8vd3d3LmNzaXMub3JnL2V2ZW50cy9udWNsZWFyLW9wdGlvbi1kZWNpcGhlcmluZy1ydXNzaWFzLW5ldy1zcGFjZS10aHJlYXTSAQA",
-      "title": "The Nuclear Option: Deciphering Russia's New Space Threat - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNzaXMub3JnL2V2ZW50cy9udWNsZWFyLW9wdGlvbi1kZWNpcGhlcmluZy1ydXNzaWFzLW5ldy1zcGFjZS10aHJlYXTSAQA?oc=5",
-      "published": "2024-05-03T07:00:00.000Z",
-      "description": "The Nuclear Option: Deciphering Russia's New Space Threat&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "id": "CBMiUmh0dHBzOi8vd3d3LmNzaXMub3JnL2V2ZW50cy9ydXNzaWEtc3RyYXRlZ2ljLXRocmVhdC11a3JhaW5lLW5hdG8tYW5kLWJleW9uZC1ldXJvcGXSAQA",
+      "title": "Russia as a Strategic Threat: Ukraine, NATO, and Beyond Europe - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNzaXMub3JnL2V2ZW50cy9ydXNzaWEtc3RyYXRlZ2ljLXRocmVhdC11a3JhaW5lLW5hdG8tYW5kLWJleW9uZC1ldXJvcGXSAQA?oc=5",
+      "published": "2023-09-18T07:00:00.000Z",
+      "description": "Russia as a Strategic Threat: Ukraine, NATO, and Beyond Europe&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjTSAQA",
+      "title": "“Space Threat Assessment 2024”: Audio Brief with Clayton Swope - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjTSAQA?oc=5",
+      "published": "2024-04-17T07:00:00.000Z",
+      "description": "“Space Threat Assessment 2024”: Audio Brief with Clayton Swope&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -202,6 +202,16 @@
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNwb21hZ2F6aW5lLmNvbS9jeWJlci1zZWN1cml0eS9zdHJhdGVnaWMtY3liZXItZGVmZW5zZS1iYWxhbmNpbmctdGhyZWF0LWNlbnRyaWMtYW5kLXJpc2stY2VudHJpYy1hcHByb2FjaGVzL9IBAA?oc=5",
       "published": "2024-05-15T07:00:00.000Z",
       "description": "Strategic Cyber Defense: Balancing Threat-Centric and Risk-Centric Approaches&nbsp;&nbsp;CPO Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL3d3dy5jc2lzLm9yZy9wcm9ncmFtcy9mb3JtZXItcHJvZ3JhbXMvd2FyZmFyZS1pcnJlZ3VsYXItdGhyZWF0cy1hbmQtdGVycm9yaXNtLXByb2dyYW0tYXJjaGl2ZXMvdGVycm9yaXNtLWJhY2tncm91bmRlcnMvaXNsYW1pY9IBAA",
+      "title": "Islamic State Khorasan (IS-K) | Terrorism Backgrounders - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jc2lzLm9yZy9wcm9ncmFtcy9mb3JtZXItcHJvZ3JhbXMvd2FyZmFyZS1pcnJlZ3VsYXItdGhyZWF0cy1hbmQtdGVycm9yaXNtLXByb2dyYW0tYXJjaGl2ZXMvdGVycm9yaXNtLWJhY2tncm91bmRlcnMvaXNsYW1pY9IBAA?oc=5",
+      "published": "2024-06-15T23:33:54.000Z",
+      "description": "Islamic State Khorasan (IS-K) | Terrorism Backgrounders&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -247,11 +257,31 @@
       "category": ""
     },
     {
+      "id": "CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VuaXRlZC1zdGF0ZXMtcGhpbGlwcGluZXMtY2hpbmEtYjgxMTBlZGM2ZTI1NTUxOTBlZWFjNGUwNzQ4NWQzZjDSAQA",
+      "title": "US and Philippines step up strategic partnership as China threats loom in South China Sea - The Associated Press",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VuaXRlZC1zdGF0ZXMtcGhpbGlwcGluZXMtY2hpbmEtYjgxMTBlZGM2ZTI1NTUxOTBlZWFjNGUwNzQ4NWQzZjDSAQA?oc=5",
+      "published": "2024-04-12T07:00:00.000Z",
+      "description": "US and Philippines step up strategic partnership as China threats loom in South China Sea&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiemh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDYvY3liZXJhdHRhY2stb24tc3dlZGlzaC1nYW1ibGluZy1zaXRlLWR1cmluZy1ldXJvdmlzaW9uLWhpZ2hsaWdodHMtc3RyYXRlZ2ljLXRocmVhdHMv0gF-aHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyNC8wNi9jeWJlcmF0dGFjay1vbi1zd2VkaXNoLWdhbWJsaW5nLXNpdGUtZHVyaW5nLWV1cm92aXNpb24taGlnaGxpZ2h0cy1zdHJhdGVnaWMtdGhyZWF0cy9hbXAv",
       "title": "Cyberattack on Swedish Gambling Site During Eurovision Highlights Strategic Threats - Security Boulevard",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vc2VjdXJpdHlib3VsZXZhcmQuY29tLzIwMjQvMDYvY3liZXJhdHRhY2stb24tc3dlZGlzaC1nYW1ibGluZy1zaXRlLWR1cmluZy1ldXJvdmlzaW9uLWhpZ2hsaWdodHMtc3RyYXRlZ2ljLXRocmVhdHMv0gF-aHR0cHM6Ly9zZWN1cml0eWJvdWxldmFyZC5jb20vMjAyNC8wNi9jeWJlcmF0dGFjay1vbi1zd2VkaXNoLWdhbWJsaW5nLXNpdGUtZHVyaW5nLWV1cm92aXNpb24taGlnaGxpZ2h0cy1zdHJhdGVnaWMtdGhyZWF0cy9hbXAv?oc=5",
       "published": "2024-06-13T07:00:00.000Z",
       "description": "Cyberattack on Swedish Gambling Site During Eurovision Highlights Strategic Threats&nbsp;&nbsp;Security Boulevard",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMixgFodHRwczovL2VuZ2xpc2guZWxwYWlzLmNvbS9pbnRlcm5hdGlvbmFsLzIwMjQtMDUtMDkvcHV0aW4taXNzdWVzLW5ldy10aHJlYXQtdG8td2VzdC1vbi12aWN0b3J5LWRheS1pbi1tb3Njb3ctd2Utd2lsbC1ub3QtYWxsb3ctYW55b25lLXRvLXRocmVhdGVuLXVzLW91ci1zdHJhdGVnaWMtZm9yY2VzLWFyZS1hbHdheXMtY29tYmF0LXJlYWR5Lmh0bWzSAdUBaHR0cHM6Ly9lbmdsaXNoLmVscGFpcy5jb20vaW50ZXJuYXRpb25hbC8yMDI0LTA1LTA5L3B1dGluLWlzc3Vlcy1uZXctdGhyZWF0LXRvLXdlc3Qtb24tdmljdG9yeS1kYXktaW4tbW9zY293LXdlLXdpbGwtbm90LWFsbG93LWFueW9uZS10by10aHJlYXRlbi11cy1vdXItc3RyYXRlZ2ljLWZvcmNlcy1hcmUtYWx3YXlzLWNvbWJhdC1yZWFkeS5odG1sP291dHB1dFR5cGU9YW1w",
+      "title": "Putin issues new threat to West on Victory Day in Moscow: ‘We will not allow anyone to threaten us. Our strategic forces are always combat ready’ - EL PAÍS USA",
+      "link": "https://news.google.com/rss/articles/CBMixgFodHRwczovL2VuZ2xpc2guZWxwYWlzLmNvbS9pbnRlcm5hdGlvbmFsLzIwMjQtMDUtMDkvcHV0aW4taXNzdWVzLW5ldy10aHJlYXQtdG8td2VzdC1vbi12aWN0b3J5LWRheS1pbi1tb3Njb3ctd2Utd2lsbC1ub3QtYWxsb3ctYW55b25lLXRvLXRocmVhdGVuLXVzLW91ci1zdHJhdGVnaWMtZm9yY2VzLWFyZS1hbHdheXMtY29tYmF0LXJlYWR5Lmh0bWzSAdUBaHR0cHM6Ly9lbmdsaXNoLmVscGFpcy5jb20vaW50ZXJuYXRpb25hbC8yMDI0LTA1LTA5L3B1dGluLWlzc3Vlcy1uZXctdGhyZWF0LXRvLXdlc3Qtb24tdmljdG9yeS1kYXktaW4tbW9zY293LXdlLXdpbGwtbm90LWFsbG93LWFueW9uZS10by10aHJlYXRlbi11cy1vdXItc3RyYXRlZ2ljLWZvcmNlcy1hcmUtYWx3YXlzLWNvbWJhdC1yZWFkeS5odG1sP291dHB1dFR5cGU9YW1w?oc=5",
+      "published": "2024-05-09T07:00:00.000Z",
+      "description": "Putin issues new threat to West on Victory Day in Moscow: ‘We will not allow anyone to threaten us. Our strategic forces are always combat ready’&nbsp;&nbsp;EL PAÍS USA",
       "summary": "",
       "author": "",
       "category": ""
@@ -267,11 +297,11 @@
       "category": ""
     },
     {
-      "id": "CBMifWh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vYnktaW52aXRhdGlvbi8yMDI0LzA0LzA0L2FzLXRoZS13b3JsZC1jaGFuZ2VzLXNvLXNob3VsZC1hbWVyaWNhcy1udWNsZWFyLXN0cmF0ZWd5LXNheXMtZnJhbmstbWlsbGVy0gEA",
-      "title": "As the world changes, so should America's nuclear strategy, says Frank Miller - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vYnktaW52aXRhdGlvbi8yMDI0LzA0LzA0L2FzLXRoZS13b3JsZC1jaGFuZ2VzLXNvLXNob3VsZC1hbWVyaWNhcy1udWNsZWFyLXN0cmF0ZWd5LXNheXMtZnJhbmstbWlsbGVy0gEA?oc=5",
-      "published": "2024-04-04T07:00:00.000Z",
-      "description": "As the world changes, so should America's nuclear strategy, says Frank Miller&nbsp;&nbsp;The Economist",
+      "id": "CBMijgFodHRwczovL3d3dy5hdGxhbnRpY2NvdW5jaWwub3JnL2Jsb2dzL25ldy1hdGxhbnRpY2lzdC9pcy10aGUtdW5pdGVkLXN0YXRlcy1mYWxsaW5nLWJlaGluZC10aGUtbm9ydGgta29yZWFuLWljYm0tdGhyZWF0LWNvbmdyZXNzLW5lZWRzLWFuc3dlcnMv0gEA",
+      "title": "Is the United States falling behind the North Korean ICBM threat? Congress needs answers. - Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5hdGxhbnRpY2NvdW5jaWwub3JnL2Jsb2dzL25ldy1hdGxhbnRpY2lzdC9pcy10aGUtdW5pdGVkLXN0YXRlcy1mYWxsaW5nLWJlaGluZC10aGUtbm9ydGgta29yZWFuLWljYm0tdGhyZWF0LWNvbmdyZXNzLW5lZWRzLWFuc3dlcnMv0gEA?oc=5",
+      "published": "2024-04-11T07:00:00.000Z",
+      "description": "Is the United States falling behind the North Korean ICBM threat? Congress needs answers.&nbsp;&nbsp;Atlantic Council",
       "summary": "",
       "author": "",
       "category": ""
@@ -282,6 +312,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lmt1cmRpc3RhbjI0Lm5ldC9lbi9zdG9yeS8zMzY0NC1BbWIuLUphbWVzLUplZmZyZXk6LUlyYW4taXMtc3RyYXRlZ2ljLXRocmVhdC10by1yZWdpb27SAQA?oc=5",
       "published": "2024-01-04T08:00:00.000Z",
       "description": "Amb. James Jeffrey: Iran is strategic threat to region&nbsp;&nbsp;Kurdistan24",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS10aHJlYXQtYmUtZm9jdXMtYXVzdGlucy1zZWN1cml0eS10YWxrcy1zZW91bC0yMDIzLTExLTEzL9IBAA",
+      "title": "US, South Korea revise deterrence strategy, boost drills over North Korea threat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS10aHJlYXQtYmUtZm9jdXMtYXVzdGlucy1zZWN1cml0eS10YWxrcy1zZW91bC0yMDIzLTExLTEzL9IBAA?oc=5",
+      "published": "2023-11-12T08:00:00.000Z",
+      "description": "US, South Korea revise deterrence strategy, boost drills over North Korea threat&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -307,21 +347,51 @@
       "category": ""
     },
     {
-      "id": "CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2lzcmFlbHMtYXNoZG9kLXBvcnQtc2Vlcy1zdHJhdGVnaWMtcmlzay1jaGluYS1kdXJpbmctZ2F6YS13YXItMjAyNC0wMS0yNi_SAQA",
-      "title": "Israel's Ashdod port sees strategic risk from China during Gaza war - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2lzcmFlbHMtYXNoZG9kLXBvcnQtc2Vlcy1zdHJhdGVnaWMtcmlzay1jaGluYS1kdXJpbmctZ2F6YS13YXItMjAyNC0wMS0yNi_SAQA?oc=5",
-      "published": "2024-01-26T08:00:00.000Z",
-      "description": "Israel's Ashdod port sees strategic risk from China during Gaza war&nbsp;&nbsp;Reuters",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibmh0dHBzOi8vd3d3LmVuZXJneS5nb3Yvbm5zYS9hcnRpY2xlcy9wcmV2ZW50LWNvdW50ZXItYW5kLXJlc3BvbmQtbm5zYXMtcGxhbi1yZWR1Y2UtZ2xvYmFsLW51Y2xlYXItdGhyZWF0cy1ucGNy0gEA",
       "title": "Prevent, Counter, and Respond: NNSA's Plan to Reduce Global Nuclear Threats (NPCR) - Energy.gov",
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmVuZXJneS5nb3Yvbm5zYS9hcnRpY2xlcy9wcmV2ZW50LWNvdW50ZXItYW5kLXJlc3BvbmQtbm5zYXMtcGxhbi1yZWR1Y2UtZ2xvYmFsLW51Y2xlYXItdGhyZWF0cy1ucGNy0gEA?oc=5",
       "published": "2023-09-19T07:00:00.000Z",
       "description": "Prevent, Counter, and Respond: NNSA's Plan to Reduce Global Nuclear Threats (NPCR)&nbsp;&nbsp;Energy.gov",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijwFodHRwczovL3d3dy5ucm8uZ292L25ld3MtbWVkaWEtZmVhdHVyZWQtc3Rvcmllcy9uZXdzLW1lZGlhLWFyY2hpdmUvTmV3cy1BcnRpY2xlL0FydGljbGUvMzUxMjIwMy90cmktc2VhbC1jb21tZXJjaWFsLXNwYWNlLXByb3RlY3Rpb24tZnJhbWV3b3JrL9IBAA",
+      "title": "Tri-Seal Commercial Space Protection Framework > > News Article - National Reconnaissance Office",
+      "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5ucm8uZ292L25ld3MtbWVkaWEtZmVhdHVyZWQtc3Rvcmllcy9uZXdzLW1lZGlhLWFyY2hpdmUvTmV3cy1BcnRpY2xlL0FydGljbGUvMzUxMjIwMy90cmktc2VhbC1jb21tZXJjaWFsLXNwYWNlLXByb3RlY3Rpb24tZnJhbWV3b3JrL9IBAA?oc=5",
+      "published": "2023-08-31T07:00:00.000Z",
+      "description": "Tri-Seal Commercial Space Protection Framework > > News Article&nbsp;&nbsp;National Reconnaissance Office",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiamh0dHBzOi8vd3d3LmJ1c2luZXNzZ3JlZW4uY29tL25ld3MtYW5hbHlzaXMvNDE4OTc4Mi9zdHJhdGVnaWMtdGhyZWF0LWFwcGFyZWwtZmlybXMtd2FybmVkLXdha2Utd2F0ZXItcmlza3PSAQA",
+      "title": "'Strategic threat': Why apparel firms are being warned to wake up to water risks - BusinessGreen",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJ1c2luZXNzZ3JlZW4uY29tL25ld3MtYW5hbHlzaXMvNDE4OTc4Mi9zdHJhdGVnaWMtdGhyZWF0LWFwcGFyZWwtZmlybXMtd2FybmVkLXdha2Utd2F0ZXItcmlza3PSAQA?oc=5",
+      "published": "2024-03-26T07:00:00.000Z",
+      "description": "'Strategic threat': Why apparel firms are being warned to wake up to water risks&nbsp;&nbsp;BusinessGreen",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnLzIwMjMvMTIvMjEvYmFsdGljLXNlYS1yZWdpb24tbGFib3JhdG9yeS1mb3Itb3ZlcmNvbWluZy1ldXJvcGVhbi1zZWN1cml0eS1jaGFsbGVuZ2VzLXB1Yi05MTMxMtIBAA",
+      "title": "The Baltic Sea Region: A Laboratory for Overcoming European Security Challenges - Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnLzIwMjMvMTIvMjEvYmFsdGljLXNlYS1yZWdpb24tbGFib3JhdG9yeS1mb3Itb3ZlcmNvbWluZy1ldXJvcGVhbi1zZWN1cml0eS1jaGFsbGVuZ2VzLXB1Yi05MTMxMtIBAA?oc=5",
+      "published": "2023-12-21T08:00:00.000Z",
+      "description": "The Baltic Sea Region: A Laboratory for Overcoming European Security Challenges&nbsp;&nbsp;Carnegie Endowment for International Peace",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigAFodHRwczovL25ld3MudXNuaS5vcmcvMjAyMy8xMC8yMC9uZXctcnVzc2lhbi1jaGluZXNlLXdlYXBvbnMtcHJvbXB0LXUtcy10by1yZXRoaW5rLXN0cmF0ZWdpYy1sYXlkb3duLXNheXMtbmV3LXJlcG9ydC10by1jb25ncmVzc9IBAA",
+      "title": "New Russian, Chinese Weapons Prompt U.S. to Rethink Strategic Laydown, Says New Report to Congress - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL25ld3MudXNuaS5vcmcvMjAyMy8xMC8yMC9uZXctcnVzc2lhbi1jaGluZXNlLXdlYXBvbnMtcHJvbXB0LXUtcy10by1yZXRoaW5rLXN0cmF0ZWdpYy1sYXlkb3duLXNheXMtbmV3LXJlcG9ydC10by1jb25ncmVzc9IBAA?oc=5",
+      "published": "2023-10-20T07:00:00.000Z",
+      "description": "New Russian, Chinese Weapons Prompt U.S. to Rethink Strategic Laydown, Says New Report to Congress - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -337,11 +407,71 @@
       "category": ""
     },
     {
+      "id": "CBMiUGh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0xMS9uZXdzL25ldy11cy1zdHJhdGVneS1hZ2FpbnN0LXdtZC10aHJlYXRz0gEA",
+      "title": "A New U.S. Strategy Against WMD Threats - Arms Control Association",
+      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyMy0xMS9uZXdzL25ldy11cy1zdHJhdGVneS1hZ2FpbnN0LXdtZC10aHJlYXRz0gEA?oc=5",
+      "published": "2023-11-01T07:00:00.000Z",
+      "description": "A New U.S. Strategy Against WMD Threats&nbsp;&nbsp;Arms Control Association",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMi2gFodHRwczovL3JlbGllZndlYi5pbnQvcmVwb3J0L3dvcmxkL2VpZ2h0ZWVudGgtcmVwb3J0LXNlY3JldGFyeS1nZW5lcmFsLXRocmVhdC1wb3NlZC1pc2lsLWRhZXNoLWludGVybmF0aW9uYWwtcGVhY2UtYW5kLXNlY3VyaXR5LWFuZC1yYW5nZS11bml0ZWQtbmF0aW9ucy1lZmZvcnRzLXN1cHBvcnQtbWVtYmVyLXN0YXRlcy1jb3VudGVyaW5nLXRocmVhdC1zMjAyNDExNy1lbmFycnV6aNIBAA",
+      "title": "Eighteenth report of the Secretary-General on the threat posed by ISIL (Da'esh) to international peace and security and ... - ReliefWeb",
+      "link": "https://news.google.com/rss/articles/CBMi2gFodHRwczovL3JlbGllZndlYi5pbnQvcmVwb3J0L3dvcmxkL2VpZ2h0ZWVudGgtcmVwb3J0LXNlY3JldGFyeS1nZW5lcmFsLXRocmVhdC1wb3NlZC1pc2lsLWRhZXNoLWludGVybmF0aW9uYWwtcGVhY2UtYW5kLXNlY3VyaXR5LWFuZC1yYW5nZS11bml0ZWQtbmF0aW9ucy1lZmZvcnRzLXN1cHBvcnQtbWVtYmVyLXN0YXRlcy1jb3VudGVyaW5nLXRocmVhdC1zMjAyNDExNy1lbmFycnV6aNIBAA?oc=5",
+      "published": "2024-02-11T08:00:00.000Z",
+      "description": "Eighteenth report of the Secretary-General on the threat posed by ISIL (Da'esh) to international peace and security and ...&nbsp;&nbsp;ReliefWeb",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidmh0dHBzOi8vZW5nbGlzaC5reW9kb25ld3MubmV0L25ld3MvMjAyMy8xMS8yYmZiM2Q3MDZiMzUtcy1rb3JlYS11cy1yZXZpc2UtZGV0ZXJyZW5jZS1zdHJhdGVneS1hbWlkLW4ta29yZWEtdGhyZWF0Lmh0bWzSAQA",
+      "title": "South Korea, U.S. revise deterrence strategy amid North Korea threat - Kyodo News Plus",
+      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vZW5nbGlzaC5reW9kb25ld3MubmV0L25ld3MvMjAyMy8xMS8yYmZiM2Q3MDZiMzUtcy1rb3JlYS11cy1yZXZpc2UtZGV0ZXJyZW5jZS1zdHJhdGVneS1hbWlkLW4ta29yZWEtdGhyZWF0Lmh0bWzSAQA?oc=5",
+      "published": "2023-11-14T08:00:00.000Z",
+      "description": "South Korea, U.S. revise deterrence strategy amid North Korea threat&nbsp;&nbsp;Kyodo News Plus",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vZWxlY3RyZWsuY28vMjAyNC8wMi8xNC9mb3JkLWJldHRlci1nZXQtZ29pbmctb3ItbG9zZS10by1jaGVhcGVyLWNoaW5lc2UtZXZzL9IBAA",
+      "title": "Ford 'better get going' or it will lose out to cheaper Chinese EVs - Electrek.co",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZWxlY3RyZWsuY28vMjAyNC8wMi8xNC9mb3JkLWJldHRlci1nZXQtZ29pbmctb3ItbG9zZS10by1jaGVhcGVyLWNoaW5lc2UtZXZzL9IBAA?oc=5",
+      "published": "2024-02-14T08:00:00.000Z",
+      "description": "Ford 'better get going' or it will lose out to cheaper Chinese EVs&nbsp;&nbsp;Electrek.co",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiuAFodHRwczovL3d3dy5zZW50aW5lbG9uZS5jb20vcHJlc3Mvc2VudGluZWxvbmUtYW5kLW1hbmRpYW50LWJvbHN0ZXItc3RyYXRlZ2ljLXBhcnRuZXJzaGlwLWVtcG93ZXJpbmctb3JnYW5pemF0aW9ucy10by1oYXJkZW4tZGVmZW5zZXMtYW5kLXByb2FjdGl2ZWx5LXByb3RlY3QtYWdhaW5zdC10aGUtbGF0ZXN0LXRocmVhdHMv0gEA",
+      "title": "and Mandiant Bolster Strategic Partnership, Empowering Organizations to Harden Defenses and Proactively Protect ... - SentinelOne",
+      "link": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5zZW50aW5lbG9uZS5jb20vcHJlc3Mvc2VudGluZWxvbmUtYW5kLW1hbmRpYW50LWJvbHN0ZXItc3RyYXRlZ2ljLXBhcnRuZXJzaGlwLWVtcG93ZXJpbmctb3JnYW5pemF0aW9ucy10by1oYXJkZW4tZGVmZW5zZXMtYW5kLXByb2FjdGl2ZWx5LXByb3RlY3QtYWdhaW5zdC10aGUtbGF0ZXN0LXRocmVhdHMv0gEA?oc=5",
+      "published": "2023-09-18T07:00:00.000Z",
+      "description": "and Mandiant Bolster Strategic Partnership, Empowering Organizations to Harden Defenses and Proactively Protect ...&nbsp;&nbsp;SentinelOne",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiaWh0dHBzOi8vZW5nbGlzaC5hbG1heWFkZWVuLm5ldC9uZXdzL3BvbGl0aWNzL3llbWVuaS10aHJlYXQtcG9zZXMtdmVyeS1zZXJpb3VzLXN0cmF0ZWdpYy10aHJlYXQtdG8tLWlzcmFlbNIBAA",
       "title": "Yemeni threat poses very serious strategic threat to 'Israel': Media - Al Mayadeen English",
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZW5nbGlzaC5hbG1heWFkZWVuLm5ldC9uZXdzL3BvbGl0aWNzL3llbWVuaS10aHJlYXQtcG9zZXMtdmVyeS1zZXJpb3VzLXN0cmF0ZWdpYy10aHJlYXQtdG8tLWlzcmFlbNIBAA?oc=5",
       "published": "2023-12-10T08:00:00.000Z",
       "description": "Yemeni threat poses very serious strategic threat to 'Israel': Media&nbsp;&nbsp;Al Mayadeen English",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMirwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTIxMTk5NDkwNS9lbi9GbGFzaHBvaW50LWFuZC1TY2FsZS1BSS1Gb3JnZS1TdHJhdGVnaWMtUGFydG5lcnNoaXAtdG8tRW1wb3dlci1Hb3Zlcm5tZW50LUNsaWVudHMtV2l0aC1BSS1FbmhhbmNlZC1UaHJlYXQtSW50ZWxsaWdlbmNl0gEA",
+      "title": "Flashpoint and Scale AI Forge Strategic Partnership to Empower Government Clients With AI-Enhanced Threat ... - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDIzMTIxMTk5NDkwNS9lbi9GbGFzaHBvaW50LWFuZC1TY2FsZS1BSS1Gb3JnZS1TdHJhdGVnaWMtUGFydG5lcnNoaXAtdG8tRW1wb3dlci1Hb3Zlcm5tZW50LUNsaWVudHMtV2l0aC1BSS1FbmhhbmNlZC1UaHJlYXQtSW50ZWxsaWdlbmNl0gEA?oc=5",
+      "published": "2023-12-11T08:00:00.000Z",
+      "description": "Flashpoint and Scale AI Forge Strategic Partnership to Empower Government Clients With AI-Enhanced Threat ...&nbsp;&nbsp;Business Wire",
       "summary": "",
       "author": "",
       "category": ""
@@ -387,16 +517,6 @@
       "category": ""
     },
     {
-      "id": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzBjY2ZlNTlhLTk4M2YtNDhmYS04ODVmLTAwMzU0OTFhZjhiZtIBAA",
-      "title": "Video: AI & cyber — threat or strategic opportunity? - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzBjY2ZlNTlhLTk4M2YtNDhmYS04ODVmLTAwMzU0OTFhZjhiZtIBAA?oc=5",
-      "published": "2023-09-27T07:00:00.000Z",
-      "description": "Video: AI & cyber — threat or strategic opportunity?&nbsp;&nbsp;Financial Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyMy0xMi0xNy9zaGFsZS1vaWwtcy11bmV4cGVjdGVkLXN1cmdlLXBvc2VzLXRocmVhdC10by1vcGVjLXMtYmlkLXRvLXByb3AtdXAtY3J1ZGUtcHJpY2Vz0gEA",
       "title": "Fracking News: Shale Oil Surge Poses Threat to OPEC’s Crude Prices - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyMy0xMi0xNy9zaGFsZS1vaWwtcy11bmV4cGVjdGVkLXN1cmdlLXBvc2VzLXRocmVhdC10by1vcGVjLXMtYmlkLXRvLXByb3AtdXAtY3J1ZGUtcHJpY2Vz0gEA?oc=5",
@@ -407,11 +527,21 @@
       "category": ""
     },
     {
-      "id": "CBMiOWh0dHBzOi8vd3d3Lmdpc3JlcG9ydHNvbmxpbmUuY29tL3IvbmF0by1kb2N0cmluZS1vdmVyYWxsL9IBAA",
-      "title": "NATO overhauls its defense doctrine to meet new threats - Geopolitical Intelligence Services AG",
-      "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lmdpc3JlcG9ydHNvbmxpbmUuY29tL3IvbmF0by1kb2N0cmluZS1vdmVyYWxsL9IBAA?oc=5",
-      "published": "2023-11-01T07:00:00.000Z",
-      "description": "NATO overhauls its defense doctrine to meet new threats&nbsp;&nbsp;Geopolitical Intelligence Services AG",
+      "id": "CBMiY2h0dHBzOi8vd3d3Lmhlcml0YWdlLm9yZy9kZWZlbnNlL2NvbW1lbnRhcnkvaXRzLXRpbWUtbmF0aW9uYWwtc2VjdXJpdHktc3RyYXRlZ3ktbWlsaXRhcnktcmVjcnVpdGluZ9IBAA",
+      "title": "It's Time for a National Security Strategy for Military Recruiting - Heritage.org",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lmhlcml0YWdlLm9yZy9kZWZlbnNlL2NvbW1lbnRhcnkvaXRzLXRpbWUtbmF0aW9uYWwtc2VjdXJpdHktc3RyYXRlZ3ktbWlsaXRhcnktcmVjcnVpdGluZ9IBAA?oc=5",
+      "published": "2023-08-21T07:00:00.000Z",
+      "description": "It's Time for a National Security Strategy for Military Recruiting&nbsp;&nbsp;Heritage.org",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiT2h0dHBzOi8vd3d3LndpbHNvbmNlbnRlci5vcmcvYXJ0aWNsZS9hcmN0aWMtc2VjdXJpdHktYXdha2VuaW5nLXdha2UtY2FsbC1jYW5hZGHSAQA",
+      "title": "Arctic Security Awakening – A Wake-Up Call for Canada? - Wilson Center",
+      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LndpbHNvbmNlbnRlci5vcmcvYXJ0aWNsZS9hcmN0aWMtc2VjdXJpdHktYXdha2VuaW5nLXdha2UtY2FsbC1jYW5hZGHSAQA?oc=5",
+      "published": "2023-08-23T07:00:00.000Z",
+      "description": "Arctic Security Awakening – A Wake-Up Call for Canada?&nbsp;&nbsp;Wilson Center",
       "summary": "",
       "author": "",
       "category": ""
@@ -437,11 +567,41 @@
       "category": ""
     },
     {
+      "id": "CBMie2h0dHBzOi8vd3d3LmhvbWVhZmZhaXJzLmdvdi5hdS9hYm91dC11cy9vdXItcG9ydGZvbGlvcy9jeWJlci1zZWN1cml0eS9zdHJhdGVneS8yMDIzLTIwMzAtYXVzdHJhbGlhbi1jeWJlci1zZWN1cml0eS1zdHJhdGVnedIBAA",
+      "title": "Strategy - 2023-2030 Australian Cyber Security Strategy - Home Affairs",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmhvbWVhZmZhaXJzLmdvdi5hdS9hYm91dC11cy9vdXItcG9ydGZvbGlvcy9jeWJlci1zZWN1cml0eS9zdHJhdGVneS8yMDIzLTIwMzAtYXVzdHJhbGlhbi1jeWJlci1zZWN1cml0eS1zdHJhdGVnedIBAA?oc=5",
+      "published": "2023-12-21T08:00:00.000Z",
+      "description": "Strategy - 2023-2030 Australian Cyber Security Strategy&nbsp;&nbsp;Home Affairs",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMihAFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzIxMjAwNS9uZXctc3RyYXRlZ3ktc2Vla3MtdG8tcmVpbnZpZ29yYXRlLWRldGVycmVuY2UtaW4tYS1jaGFuZ2luZy13b3JsZC_SAQA",
       "title": "New Strategy Seeks to Reinvigorate Deterrence in a Changing World - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzIxMjAwNS9uZXctc3RyYXRlZ3ktc2Vla3MtdG8tcmVpbnZpZ29yYXRlLWRldGVycmVuY2UtaW4tYS1jaGFuZ2luZy13b3JsZC_SAQA?oc=5",
       "published": "2022-11-07T08:00:00.000Z",
       "description": "New Strategy Seeks to Reinvigorate Deterrence in a Changing World&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidmh0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvdWstYW5kLXVzLWFubm91bmNlLW5ldy1zdHJhdGVnaWMtcGFydG5lcnNoaXAtdG8tdGFja2xlLWluY3JlYXNlZC1iaW9sb2dpY2FsLXRocmVhdHPSAQA",
+      "title": "UK and U.S. announce new strategic partnership to tackle increased biological threats - GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lmdvdi51ay9nb3Zlcm5tZW50L25ld3MvdWstYW5kLXVzLWFubm91bmNlLW5ldy1zdHJhdGVnaWMtcGFydG5lcnNoaXAtdG8tdGFja2xlLWluY3JlYXNlZC1iaW9sb2dpY2FsLXRocmVhdHPSAQA?oc=5",
+      "published": "2024-01-16T08:00:00.000Z",
+      "description": "UK and U.S. announce new strategic partnership to tackle increased biological threats&nbsp;&nbsp;GOV.UK",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zMzE1ODI3L2FsbGllcy1wYXJ0bmVycy1jZW50cmFsLXRvLXVzLWludGVncmF0ZWQtZGV0ZXJyZW5jZS1lZmZvcnQv0gEA",
+      "title": "Allies, Partners Central to U.S. Integrated Deterrence Effort - Department of Defense",
+      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zMzE1ODI3L2FsbGllcy1wYXJ0bmVycy1jZW50cmFsLXRvLXVzLWludGVncmF0ZWQtZGV0ZXJyZW5jZS1lZmZvcnQv0gEA?oc=5",
+      "published": "2023-03-01T08:00:00.000Z",
+      "description": "Allies, Partners Central to U.S. Integrated Deterrence Effort&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -462,6 +622,16 @@
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zMzc1NTc3L29mZmljaWFsLWRldGFpbHMtc3BhY2UtYmFzZWQtdGhyZWF0cy1hbmQtdXMtY291bnRlcm1lYXN1cmVzL9IBAA?oc=5",
       "published": "2023-04-26T07:00:00.000Z",
       "description": "Official Details Space-Based Threats and U.S. Countermeasures&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUmh0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS9hLW5hdGlvbmFsLWRlZmVuY2Utc3RyYXRlZ3ktZm9yLXRoZS1waGlsaXBwaW5lcy_SAQA",
+      "title": "A national defence strategy for the Philippines | The Strategist - The Strategist",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFzcGlzdHJhdGVnaXN0Lm9yZy5hdS9hLW5hdGlvbmFsLWRlZmVuY2Utc3RyYXRlZ3ktZm9yLXRoZS1waGlsaXBwaW5lcy_SAQA?oc=5",
+      "published": "2023-11-20T08:00:00.000Z",
+      "description": "A national defence strategy for the Philippines | The Strategist&nbsp;&nbsp;The Strategist",
       "summary": "",
       "author": "",
       "category": ""
@@ -517,11 +687,31 @@
       "category": ""
     },
     {
+      "id": "CBMiRGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3JjbXAtcG9saWNlLWZ1dHVyZS10cmVuZHMtMS43MTM4MDQ20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMzgwNDY",
+      "title": "Canada faces a series of 'crises' that will test it in the coming years, RCMP warns - CBC.ca",
+      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL3JjbXAtcG9saWNlLWZ1dHVyZS10cmVuZHMtMS43MTM4MDQ20gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcxMzgwNDY?oc=5",
+      "published": "2024-03-10T08:00:00.000Z",
+      "description": "Canada faces a series of 'crises' that will test it in the coming years, RCMP warns&nbsp;&nbsp;CBC.ca",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMikQFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzIwMjQzOC9kb2QtcmVsZWFzZXMtbmF0aW9uYWwtZGVmZW5zZS1zdHJhdGVneS1taXNzaWxlLWRlZmVuc2UtbnVjbGVhci1wb3N0dXJlLXJldmlld3Mv0gEA",
       "title": "DOD Releases National Defense Strategy, Missile Defense, Nuclear Posture Reviews - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzIwMjQzOC9kb2QtcmVsZWFzZXMtbmF0aW9uYWwtZGVmZW5zZS1zdHJhdGVneS1taXNzaWxlLWRlZmVuc2UtbnVjbGVhci1wb3N0dXJlLXJldmlld3Mv0gEA?oc=5",
       "published": "2022-10-27T07:00:00.000Z",
       "description": "DOD Releases National Defense Strategy, Missile Defense, Nuclear Posture Reviews&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vbG9yZHNsaWJyYXJ5LnBhcmxpYW1lbnQudWsvdWstbG9uZy10ZXJtLXN0cmF0ZWdpYy1jaGFsbGVuZ2VzLXBvc2VkLWJ5LWNoaW5hL9IBAA",
+      "title": "UK: Long-term strategic challenges posed by China - House of Lords Library",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbG9yZHNsaWJyYXJ5LnBhcmxpYW1lbnQudWsvdWstbG9uZy10ZXJtLXN0cmF0ZWdpYy1jaGFsbGVuZ2VzLXBvc2VkLWJ5LWNoaW5hL9IBAA?oc=5",
+      "published": "2023-10-03T07:00:00.000Z",
+      "description": "UK: Long-term strategic challenges posed by China&nbsp;&nbsp;House of Lords Library",
       "summary": "",
       "author": "",
       "category": ""
@@ -567,11 +757,11 @@
       "category": ""
     },
     {
-      "id": "CBMibWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvZW5kZ2FtZS1hLXJlZmxlY3Rpb24tb24tdS1zLXN0cmF0ZWdpYy1jaG9pY2VzLWFuZC10aGUtbm9ydGgta29yZWFuLXRocmVhdC_SAQA",
-      "title": "Endgame: A reflection on U.S. strategic choices and the North Korean threat | Brookings - Brookings Institution",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvZW5kZ2FtZS1hLXJlZmxlY3Rpb24tb24tdS1zLXN0cmF0ZWdpYy1jaG9pY2VzLWFuZC10aGUtbm9ydGgta29yZWFuLXRocmVhdC_SAQA?oc=5",
-      "published": "2023-06-27T04:08:08.000Z",
-      "description": "Endgame: A reflection on U.S. strategic choices and the North Korean threat | Brookings&nbsp;&nbsp;Brookings Institution",
+      "id": "CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjPSAQA",
+      "title": "Space Threat Assessment 2023 - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjPSAQA?oc=5",
+      "published": "2023-04-14T07:00:00.000Z",
+      "description": "Space Threat Assessment 2023&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -587,11 +777,11 @@
       "category": ""
     },
     {
-      "id": "CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjPSAQA",
-      "title": "Space Threat Assessment 2023 - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjPSAQA?oc=5",
-      "published": "2023-04-14T07:00:00.000Z",
-      "description": "Space Threat Assessment 2023&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "id": "CBMibWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvZW5kZ2FtZS1hLXJlZmxlY3Rpb24tb24tdS1zLXN0cmF0ZWdpYy1jaG9pY2VzLWFuZC10aGUtbm9ydGgta29yZWFuLXRocmVhdC_SAQA",
+      "title": "Endgame: A reflection on U.S. strategic choices and the North Korean threat | Brookings - Brookings Institution",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJyb29raW5ncy5lZHUvYXJ0aWNsZXMvZW5kZ2FtZS1hLXJlZmxlY3Rpb24tb24tdS1zLXN0cmF0ZWdpYy1jaG9pY2VzLWFuZC10aGUtbm9ydGgta29yZWFuLXRocmVhdC_SAQA?oc=5",
+      "published": "2023-06-27T04:08:08.000Z",
+      "description": "Endgame: A reflection on U.S. strategic choices and the North Korean threat | Brookings&nbsp;&nbsp;Brookings Institution",
       "summary": "",
       "author": "",
       "category": ""
@@ -607,41 +797,11 @@
       "category": ""
     },
     {
-      "id": "CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjDSAQA",
-      "title": "Space Threat Assessment 2020 - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjDSAQA?oc=5",
-      "published": "2020-03-30T07:00:00.000Z",
-      "description": "Space Threat Assessment 2020&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIyLzYvMzAvbmF0by1uYW1lcy1jaGluYS1hLXN0cmF0ZWdpYy1wcmlvcml0eS1mb3ItdGhlLWZpcnN0LXRpbWXSAWVodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjIvNi8zMC9uYXRvLW5hbWVzLWNoaW5hLWEtc3RyYXRlZ2ljLXByaW9yaXR5LWZvci10aGUtZmlyc3QtdGltZQ",
       "title": "NATO declares China a security challenge for the first time - Al Jazeera English",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIyLzYvMzAvbmF0by1uYW1lcy1jaGluYS1hLXN0cmF0ZWdpYy1wcmlvcml0eS1mb3ItdGhlLWZpcnN0LXRpbWXSAWVodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjIvNi8zMC9uYXRvLW5hbWVzLWNoaW5hLWEtc3RyYXRlZ2ljLXByaW9yaXR5LWZvci10aGUtZmlyc3QtdGltZQ?oc=5",
       "published": "2022-06-30T07:00:00.000Z",
       "description": "NATO declares China a security challenge for the first time&nbsp;&nbsp;Al Jazeera English",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2dlcm1hbnktZmlyc3QtbmF0aW9uYWwtc2VjdXJpdHktc3RyYXRlZ3ktOWVmYjg1NWE5YWQ2YTlhYjg0Mjg5NTY3NDJjZWM4ODjSAQA",
-      "title": "Germany unveils 1st national security strategy to address growing threats, singles out Russia - The Associated Press",
-      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2dlcm1hbnktZmlyc3QtbmF0aW9uYWwtc2VjdXJpdHktc3RyYXRlZ3ktOWVmYjg1NWE5YWQ2YTlhYjg0Mjg5NTY3NDJjZWM4ODjSAQA?oc=5",
-      "published": "2023-06-14T07:00:00.000Z",
-      "description": "Germany unveils 1st national security strategy to address growing threats, singles out Russia&nbsp;&nbsp;The Associated Press",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMingFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9ibG9ncy9DaGFuYWt5YUNvZGUvbmF0aW9uYWwtc2VjdXJpdHktcG9saWN5LW9mLXRoZS1waGlsaXBwaW5lcy1zdHJhdGVneS10by1jb3VudGVyLWV4dGVybmFsLXRocmVhdHMtYW5kLWNvZ25pdGl2ZS13YXJmYXJlL9IBngFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9ibG9ncy9DaGFuYWt5YUNvZGUvbmF0aW9uYWwtc2VjdXJpdHktcG9saWN5LW9mLXRoZS1waGlsaXBwaW5lcy1zdHJhdGVneS10by1jb3VudGVyLWV4dGVybmFsLXRocmVhdHMtYW5kLWNvZ25pdGl2ZS13YXJmYXJlLw",
-      "title": "National security policy of the Philippines: Strategy to counter external threats and cognitive warfare - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9ibG9ncy9DaGFuYWt5YUNvZGUvbmF0aW9uYWwtc2VjdXJpdHktcG9saWN5LW9mLXRoZS1waGlsaXBwaW5lcy1zdHJhdGVneS10by1jb3VudGVyLWV4dGVybmFsLXRocmVhdHMtYW5kLWNvZ25pdGl2ZS13YXJmYXJlL9IBngFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9ibG9ncy9DaGFuYWt5YUNvZGUvbmF0aW9uYWwtc2VjdXJpdHktcG9saWN5LW9mLXRoZS1waGlsaXBwaW5lcy1zdHJhdGVneS10by1jb3VudGVyLWV4dGVybmFsLXRocmVhdHMtYW5kLWNvZ25pdGl2ZS13YXJmYXJlLw?oc=5",
-      "published": "2023-11-11T08:00:00.000Z",
-      "description": "National security policy of the Philippines: Strategy to counter external threats and cognitive warfare&nbsp;&nbsp;The Times of India",
       "summary": "",
       "author": "",
       "category": ""
@@ -667,31 +827,11 @@
       "category": ""
     },
     {
-      "id": "CBMidWh0dHBzOi8vd3d3Lm5paC5nb3YvbmV3cy1ldmVudHMvbmV3cy1yZWxlYXNlcy9uaWgtc3RyYXRlZ2ljLXJlc2VhcmNoLXBsYW4tYWRkcmVzc2VzLWdyb3dpbmctdGlja2Jvcm5lLWRpc2Vhc2VzLXRocmVhdNIBAA",
-      "title": "NIH strategic research plan addresses growing tickborne diseases threat - National Institutes of Health (NIH) (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5paC5nb3YvbmV3cy1ldmVudHMvbmV3cy1yZWxlYXNlcy9uaWgtc3RyYXRlZ2ljLXJlc2VhcmNoLXBsYW4tYWRkcmVzc2VzLWdyb3dpbmctdGlja2Jvcm5lLWRpc2Vhc2VzLXRocmVhdNIBAA?oc=5",
-      "published": "2019-10-10T07:00:00.000Z",
-      "description": "NIH strategic research plan addresses growing tickborne diseases threat&nbsp;&nbsp;National Institutes of Health (NIH) (.gov)",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiImh0dHBzOi8vd3d3LnRzYS5nb3YvYWJvdXQvc3RyYXRlZ3nSAQA",
-      "title": "TSA Strategy - Transportation Security Administration",
-      "link": "https://news.google.com/rss/articles/CBMiImh0dHBzOi8vd3d3LnRzYS5nb3YvYWJvdXQvc3RyYXRlZ3nSAQA?oc=5",
-      "published": "2018-09-05T14:56:07.000Z",
-      "description": "TSA Strategy&nbsp;&nbsp;Transportation Security Administration",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2VzY2FsYXRpbmctdGVycm9yaXNtLXByb2JsZW0tdW5pdGVkLXN0YXRlc9IBAA",
-      "title": "The Escalating Terrorism Problem in the United States - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2VzY2FsYXRpbmctdGVycm9yaXNtLXByb2JsZW0tdW5pdGVkLXN0YXRlc9IBAA?oc=5",
-      "published": "2020-06-17T07:00:00.000Z",
-      "description": "The Escalating Terrorism Problem in the United States&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "id": "CBMibmh0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvY29udGVudC1zZXJpZXMvc2NvcmVjYXJkL3Njb3djcm9mdC1zdHJhdGVneS1zY29yZWNhcmQtbmF0b3Mtc3RyYXRlZ2ljLWNvbmNlcHQv0gEA",
+      "title": "Scowcroft Strategy Scorecard: NATO's Strategic Concept clear on threats, but will require sustained commitment from ... - Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvY29udGVudC1zZXJpZXMvc2NvcmVjYXJkL3Njb3djcm9mdC1zdHJhdGVneS1zY29yZWNhcmQtbmF0b3Mtc3RyYXRlZ2ljLWNvbmNlcHQv0gEA?oc=5",
+      "published": "2022-07-07T21:15:13.000Z",
+      "description": "Scowcroft Strategy Scorecard: NATO's Strategic Concept clear on threats, but will require sustained commitment from ...&nbsp;&nbsp;Atlantic Council",
       "summary": "",
       "author": "",
       "category": ""
@@ -737,11 +877,11 @@
       "category": ""
     },
     {
-      "id": "CBMikgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzI3NjE0OTcvY29sbGFib3JhdGlvbi1iZXR3ZWVuLWNoaW5hLXJ1c3NpYS1jb21wb3VuZHMtdGhyZWF0LXN0cmF0Y29tLWNvbW1hbmRlci1zYXlzL9IBAA",
-      "title": "Collaboration Between China, Russia Compounds Threat, Stratcom Commander Says - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzI3NjE0OTcvY29sbGFib3JhdGlvbi1iZXR3ZWVuLWNoaW5hLXJ1c3NpYS1jb21wb3VuZHMtdGhyZWF0LXN0cmF0Y29tLWNvbW1hbmRlci1zYXlzL9IBAA?oc=5",
-      "published": "2021-09-01T17:22:14.000Z",
-      "description": "Collaboration Between China, Russia Compounds Threat, Stratcom Commander Says&nbsp;&nbsp;U.S. Strategic Command",
+      "id": "CBMiY2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvbmF0by1sZWFkZXItYWRvcHQtc3RyYXRlZ3ktYmx1ZXByaW50LWJyYW5kaW5nLXJ1c3NpYS1kaXJlY3QtdGhyZWF0L9IBAA",
+      "title": "NATO leaders brand Russia a 'direct threat' in new strategy blueprint - POLITICO Europe",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvbmF0by1sZWFkZXItYWRvcHQtc3RyYXRlZ3ktYmx1ZXByaW50LWJyYW5kaW5nLXJ1c3NpYS1kaXJlY3QtdGhyZWF0L9IBAA?oc=5",
+      "published": "2022-06-29T07:00:00.000Z",
+      "description": "NATO leaders brand Russia a 'direct threat' in new strategy blueprint&nbsp;&nbsp;POLITICO Europe",
       "summary": "",
       "author": "",
       "category": ""
@@ -757,11 +897,51 @@
       "category": ""
     },
     {
+      "id": "CBMikgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzI3NjE0OTcvY29sbGFib3JhdGlvbi1iZXR3ZWVuLWNoaW5hLXJ1c3NpYS1jb21wb3VuZHMtdGhyZWF0LXN0cmF0Y29tLWNvbW1hbmRlci1zYXlzL9IBAA",
+      "title": "Collaboration Between China, Russia Compounds Threat, Stratcom Commander Says - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzI3NjE0OTcvY29sbGFib3JhdGlvbi1iZXR3ZWVuLWNoaW5hLXJ1c3NpYS1jb21wb3VuZHMtdGhyZWF0LXN0cmF0Y29tLWNvbW1hbmRlci1zYXlzL9IBAA?oc=5",
+      "published": "2021-09-01T17:22:14.000Z",
+      "description": "Collaboration Between China, Russia Compounds Threat, Stratcom Commander Says&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiLGh0dHBzOi8vbmF0aW9uYWxjcmltZWFnZW5jeS5nb3YudWsvbnNhLWRydWdz0gEA",
       "title": "National Strategic Assessment (NSA) Campaign 2023 - Drugs - National Crime Agency",
       "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbmF0aW9uYWxjcmltZWFnZW5jeS5nb3YudWsvbnNhLWRydWdz0gEA?oc=5",
       "published": "2023-07-17T11:23:40.000Z",
       "description": "National Strategic Assessment (NSA) Campaign 2023 - Drugs&nbsp;&nbsp;National Crime Agency",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibWh0dHBzOi8vbmF0aW9uYWxjcmltZWFnZW5jeS5nb3YudWsvbmV3cy9kaXJlY3Rvci1nZW5lcmFsLWdyYWVtZS1iaWdnYXItbGF1bmNoZXMtbmF0aW9uYWwtc3RyYXRlZ2ljLWFzc2Vzc21lbnTSAQA",
+      "title": "Director General Graeme Biggar launches National Strategic Assessment - National Crime Agency",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbmF0aW9uYWxjcmltZWFnZW5jeS5nb3YudWsvbmV3cy9kaXJlY3Rvci1nZW5lcmFsLWdyYWVtZS1iaWdnYXItbGF1bmNoZXMtbmF0aW9uYWwtc3RyYXRlZ2ljLWFzc2Vzc21lbnTSAQA?oc=5",
+      "published": "2023-08-07T11:58:47.000Z",
+      "description": "Director General Graeme Biggar launches National Strategic Assessment&nbsp;&nbsp;National Crime Agency",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2N6ZWNocy1jYWxsLXJ1c3NpYS10aHJlYXQtY2hpbmEtc3lzdGVtaWMtY2hhbGxlbmdlLW5ldy1zZWN1cml0eS1zdHJhdGVneS0yMDIzLTA2LTI4L9IBAA",
+      "title": "Czechs call Russia a threat, China a systemic challenge in new security strategy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2N6ZWNocy1jYWxsLXJ1c3NpYS10aHJlYXQtY2hpbmEtc3lzdGVtaWMtY2hhbGxlbmdlLW5ldy1zZWN1cml0eS1zdHJhdGVneS0yMDIzLTA2LTI4L9IBAA?oc=5",
+      "published": "2023-06-28T07:00:00.000Z",
+      "description": "Czechs call Russia a threat, China a systemic challenge in new security strategy&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieGh0dHBzOi8vd3d3LnN0aW1zb24ub3JnLzIwMjIvdXMtcm9rLXN0cmF0ZWdpYy1kaWFsb2d1ZS1yZWNhbGlicmF0aW5nLWRldGVycmVuY2UtYWdhaW5zdC1hbi1ldm9sdmluZy1kcHJrLW51Y2xlYXItdGhyZWF0L9IBAA",
+      "title": "US-ROK Strategic Dialogue: Recalibrating Deterrence Against An Evolving DPRK Nuclear Threat • Stimson Center - Stimson Center",
+      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnN0aW1zb24ub3JnLzIwMjIvdXMtcm9rLXN0cmF0ZWdpYy1kaWFsb2d1ZS1yZWNhbGlicmF0aW5nLWRldGVycmVuY2UtYWdhaW5zdC1hbi1ldm9sdmluZy1kcHJrLW51Y2xlYXItdGhyZWF0L9IBAA?oc=5",
+      "published": "2022-09-20T07:00:00.000Z",
+      "description": "US-ROK Strategic Dialogue: Recalibrating Deterrence Against An Evolving DPRK Nuclear Threat • Stimson Center&nbsp;&nbsp;Stimson Center",
       "summary": "",
       "author": "",
       "category": ""
@@ -777,16 +957,6 @@
       "category": ""
     },
     {
-      "id": "CBMiVmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2NvbXBsZXgtYWlyLWRlZmVuc2UtY291bnRlcmluZy1oeXBlcnNvbmljLW1pc3NpbGUtdGhyZWF00gEA",
-      "title": "Complex Air Defense: Countering the Hypersonic Missile Threat - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2NvbXBsZXgtYWlyLWRlZmVuc2UtY291bnRlcmluZy1oeXBlcnNvbmljLW1pc3NpbGUtdGhyZWF00gEA?oc=5",
-      "published": "2022-02-07T08:00:00.000Z",
-      "description": "Complex Air Defense: Countering the Hypersonic Missile Threat&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9nZXJtYW55LXVudmVpbC1maXJzdC1ldmVyLW5hdGlvbmFsLXNlY3VyaXR5LXN0cmF0ZWd5LTIwMjMtMDYtMTQv0gEA",
       "title": "Germany calls China a growing threat as it steps up focus on security - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9nZXJtYW55LXVudmVpbC1maXJzdC1ldmVyLW5hdGlvbmFsLXNlY3VyaXR5LXN0cmF0ZWd5LTIwMjMtMDYtMTQv0gEA?oc=5",
@@ -797,11 +967,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjUzODYzL2FybXlfaW50cm9kdWNlc19zdHJhdGVneV90b19jb21iYXRfY2xpbWF0ZV9jaGFuZ2VfdGhyZWF0c9IBYWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI1Mzg2My9hcm15X2ludHJvZHVjZXNfc3RyYXRlZ3lfdG9fY29tYmF0X2NsaW1hdGVfY2hhbmdlX3RocmVhdHM",
-      "title": "Army introduces strategy to combat climate change threats - United States Army",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjUzODYzL2FybXlfaW50cm9kdWNlc19zdHJhdGVneV90b19jb21iYXRfY2xpbWF0ZV9jaGFuZ2VfdGhyZWF0c9IBYWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI1Mzg2My9hcm15X2ludHJvZHVjZXNfc3RyYXRlZ3lfdG9fY29tYmF0X2NsaW1hdGVfY2hhbmdlX3RocmVhdHM?oc=5",
-      "published": "2022-02-10T08:00:00.000Z",
-      "description": "Army introduces strategy to combat climate change threats&nbsp;&nbsp;United States Army",
+      "id": "CBMiU2h0dHBzOi8vd3d3LnRoZWxhbmNldC5jb20vam91cm5hbHMvbGFuY2V0L2FydGljbGUvUElJUzAxNDAtNjczNigyMikwMjE2My04L2Z1bGx0ZXh00gEA",
+      "title": "The NIH Climate Change and Health Initiative and Strategic Framework: addressing the threat of climate change to health - The Lancet",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWxhbmNldC5jb20vam91cm5hbHMvbGFuY2V0L2FydGljbGUvUElJUzAxNDAtNjczNigyMikwMjE2My04L2Z1bGx0ZXh00gEA?oc=5",
+      "published": "2022-11-04T07:00:00.000Z",
+      "description": "The NIH Climate Change and Health Initiative and Strategic Framework: addressing the threat of climate change to health&nbsp;&nbsp;The Lancet",
       "summary": "",
       "author": "",
       "category": ""
@@ -817,11 +987,11 @@
       "category": ""
     },
     {
-      "id": "CBMiLGh0dHBzOi8vbWlzc2lsZXRocmVhdC5jc2lzLm9yZy9jb3VudHJ5L2Rwcmsv0gEA",
-      "title": "Missiles of North Korea | Missile Threat - Missile Threat",
-      "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbWlzc2lsZXRocmVhdC5jc2lzLm9yZy9jb3VudHJ5L2Rwcmsv0gEA?oc=5",
-      "published": "2022-11-22T08:00:00.000Z",
-      "description": "Missiles of North Korea | Missile Threat&nbsp;&nbsp;Missile Threat",
+      "id": "CBMiXmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3B1c2hlZC1leHRyZW1lcy1kb21lc3RpYy10ZXJyb3Jpc20tYW1pZC1wb2xhcml6YXRpb24tYW5kLXByb3Rlc3TSAQA",
+      "title": "Pushed to Extremes: Domestic Terrorism amid Polarization and Protest - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3B1c2hlZC1leHRyZW1lcy1kb21lc3RpYy10ZXJyb3Jpc20tYW1pZC1wb2xhcml6YXRpb24tYW5kLXByb3Rlc3TSAQA?oc=5",
+      "published": "2022-05-17T07:00:00.000Z",
+      "description": "Pushed to Extremes: Domestic Terrorism amid Polarization and Protest&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -832,176 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvdS1zLWRlZmVuc2Utc3RyYXRlZ3ktY2FzdHMtY2hpbmEtYXMtZ3JlYXRlc3QtZGFuZ2VyLXRvLWFtZXJpY2FuLXNlY3VyaXR5LTExNjY2ODg1MDIz0gEA?oc=5",
       "published": "2022-10-27T07:00:00.000Z",
       "description": "U.S. Defense Strategy Casts China as Greatest Danger to American Security&nbsp;&nbsp;The Wall Street Journal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaGh0dHBzOi8vZXVyby1zZC5jb20vMjAyMy8wMy9hcnRpY2xlcy8zMDAxMy9pbi10aGUtZ3VsZi1hbmQtYmV5b25kLWlyYW4tYXMtYS1kaXNydXB0aXZlLXN0cmF0ZWdpYy10aHJlYXQv0gEA",
-      "title": "In the Gulf and Beyond – Iran as a Disruptive Strategic Threat - European Security & Defence",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vZXVyby1zZC5jb20vMjAyMy8wMy9hcnRpY2xlcy8zMDAxMy9pbi10aGUtZ3VsZi1hbmQtYmV5b25kLWlyYW4tYXMtYS1kaXNydXB0aXZlLXN0cmF0ZWdpYy10aHJlYXQv0gEA?oc=5",
-      "published": "2023-03-15T07:00:00.000Z",
-      "description": "In the Gulf and Beyond – Iran as a Disruptive Strategic Threat&nbsp;&nbsp;European Security & Defence",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiX2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIyLzEwLzI3L3BhY2luZy1jaGFsbGVuZ2UtdXMtZGVmZW5jZS1zdHJhdGVneS1mb2N1c2VzLW9uLWNoaW5h0gFjaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIyLzEwLzI3L3BhY2luZy1jaGFsbGVuZ2UtdXMtZGVmZW5jZS1zdHJhdGVneS1mb2N1c2VzLW9uLWNoaW5h",
-      "title": "‘Pacing challenge’: US defence strategy focuses on China - Al Jazeera English",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIyLzEwLzI3L3BhY2luZy1jaGFsbGVuZ2UtdXMtZGVmZW5jZS1zdHJhdGVneS1mb2N1c2VzLW9uLWNoaW5h0gFjaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIyLzEwLzI3L3BhY2luZy1jaGFsbGVuZ2UtdXMtZGVmZW5jZS1zdHJhdGVneS1mb2N1c2VzLW9uLWNoaW5h?oc=5",
-      "published": "2022-10-27T07:00:00.000Z",
-      "description": "‘Pacing challenge’: US defence strategy focuses on China&nbsp;&nbsp;Al Jazeera English",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMieWh0dHBzOi8vd3d3LmV1cm9wb2wuZXVyb3BhLmV1L29wZXJhdGlvbnMtc2VydmljZXMtYW5kLWlubm92YXRpb24vc2VydmljZXMtc3VwcG9ydC9pbmZvcm1hdGlvbi1leGNoYW5nZS9zdHJhdGVnaWMtYW5hbHlzaXPSAQA",
-      "title": "Strategic Analysis | Europol - Europol",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmV1cm9wb2wuZXVyb3BhLmV1L29wZXJhdGlvbnMtc2VydmljZXMtYW5kLWlubm92YXRpb24vc2VydmljZXMtc3VwcG9ydC9pbmZvcm1hdGlvbi1leGNoYW5nZS9zdHJhdGVnaWMtYW5hbHlzaXPSAQA?oc=5",
-      "published": "2021-12-07T12:22:44.000Z",
-      "description": "Strategic Analysis | Europol&nbsp;&nbsp;Europol",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMicGh0dHBzOi8vd3d3LnVuYXYuZWR1L3dlYi9nbG9iYWwtYWZmYWlycy9ldS1zdHJhdGVnaWMtY29tcGFzcy1oYXMtdGhlLWV1LWFkdmFuY2VkLWluLWl0cy10aHJlYXQtYW5hbHlzaXMtY2FwYWNpdHnSAQA",
-      "title": "EU Strategic Compass: Has the EU advanced in its threat-analysis capacity? - Universidad de Navarra",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnVuYXYuZWR1L3dlYi9nbG9iYWwtYWZmYWlycy9ldS1zdHJhdGVnaWMtY29tcGFzcy1oYXMtdGhlLWV1LWFkdmFuY2VkLWluLWl0cy10aHJlYXQtYW5hbHlzaXMtY2FwYWNpdHnSAQA?oc=5",
-      "published": "2022-07-09T22:51:06.000Z",
-      "description": "EU Strategic Compass: Has the EU advanced in its threat-analysis capacity?&nbsp;&nbsp;Universidad de Navarra",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIxLzA4LzE4L3J1c3NpYS1pcy10b3AtbWlsaXRhcnktdGhyZWF0LXRvLXUtcy1ob21lbGFuZC1haXItZm9yY2UtZ2VuZXJhbC1zYXlz0gEA",
-      "title": "Russia is Top Military Threat to U.S. Homeland, Air Force General Says - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIxLzA4LzE4L3J1c3NpYS1pcy10b3AtbWlsaXRhcnktdGhyZWF0LXRvLXUtcy1ob21lbGFuZC1haXItZm9yY2UtZ2VuZXJhbC1zYXlz0gEA?oc=5",
-      "published": "2021-08-18T07:00:00.000Z",
-      "description": "Russia is Top Military Threat to U.S. Homeland, Air Force General Says - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIzL21heS8yNC9pbnNpZGUtcmluZy1uZXVyby1zdHJpa2Utd2VhcG9ucy1leHBhbmQtZG9tYWlucy13YS_SAQA",
-      "title": "Inside the Ring: Neuro-strike weapons expand domains of warfare as new strategic threat, expert says - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIzL21heS8yNC9pbnNpZGUtcmluZy1uZXVyby1zdHJpa2Utd2VhcG9ucy1leHBhbmQtZG9tYWlucy13YS_SAQA?oc=5",
-      "published": "2023-05-24T07:00:00.000Z",
-      "description": "Inside the Ring: Neuro-strike weapons expand domains of warfare as new strategic threat, expert says&nbsp;&nbsp;Washington Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaWh0dHBzOi8vd3d3LmNmci5vcmcvYmxvZy9jaGluYXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utc3RyYXRlZ3ktcG9zZXMtY3JlZGlibGUtdGhyZWF0LXVzLXRlY2gtbGVhZGVyc2hpcNIBAA",
-      "title": "China's Artificial Intelligence Strategy Poses a Credible Threat to U.S. Tech Leadership - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNmci5vcmcvYmxvZy9jaGluYXMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2Utc3RyYXRlZ3ktcG9zZXMtY3JlZGlibGUtdGhyZWF0LXVzLXRlY2gtbGVhZGVyc2hpcNIBAA?oc=5",
-      "published": "2017-12-04T08:00:00.000Z",
-      "description": "China's Artificial Intelligence Strategy Poses a Credible Threat to U.S. Tech Leadership&nbsp;&nbsp;Council on Foreign Relations",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiV2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3dhci1jb21lcy1ob21lLWV2b2x1dGlvbi1kb21lc3RpYy10ZXJyb3Jpc20tdW5pdGVkLXN0YXRlc9IBAA",
-      "title": "The War Comes Home: The Evolution of Domestic Terrorism in the United States - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3dhci1jb21lcy1ob21lLWV2b2x1dGlvbi1kb21lc3RpYy10ZXJyb3Jpc20tdW5pdGVkLXN0YXRlc9IBAA?oc=5",
-      "published": "2020-10-22T07:00:00.000Z",
-      "description": "The War Comes Home: The Evolution of Domestic Terrorism in the United States&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZmh0dHBzOi8vd3d3LmxleDE4LmNvbS9uZXdzL3N0YXQtc3RyYXRlZ2ljLXRocmVhdC1hc3Nlc3NtZW50LXRyYWluaW5nLXdvcmtpbmctdG8tcHJldmVudC1tYXNzLXNob290aW5nc9IBAA",
-      "title": "STAT: Strategic Threat Assessment Training working to prevent mass shootings - LEX 18 News - Lexington, KY",
-      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmxleDE4LmNvbS9uZXdzL3N0YXQtc3RyYXRlZ2ljLXRocmVhdC1hc3Nlc3NtZW50LXRyYWluaW5nLXdvcmtpbmctdG8tcHJldmVudC1tYXNzLXNob290aW5nc9IBAA?oc=5",
-      "published": "2023-04-12T07:00:00.000Z",
-      "description": "STAT: Strategic Threat Assessment Training working to prevent mass shootings&nbsp;&nbsp;LEX 18 News - Lexington, KY",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiPmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2V2b2x1dGlvbi1zYWxhZmktamloYWRpc3QtdGhyZWF00gEA",
-      "title": "The Evolution of the Salafi-Jihadist Threat - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2V2b2x1dGlvbi1zYWxhZmktamloYWRpc3QtdGhyZWF00gEA?oc=5",
-      "published": "2018-11-20T08:00:00.000Z",
-      "description": "The Evolution of the Salafi-Jihadist Threat&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiMmh0dHBzOi8vd3d3LnJlY29yZGVkZnV0dXJlLmNvbS90aHJlYXQtaW50ZWxsaWdlbmNl0gEA",
-      "title": "What is Threat Intelligence? [The Complete Guide, Updated 2024] - Recorded Future",
-      "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LnJlY29yZGVkZnV0dXJlLmNvbS90aHJlYXQtaW50ZWxsaWdlbmNl0gEA?oc=5",
-      "published": "2017-05-06T01:11:26.000Z",
-      "description": "What is Threat Intelligence? [The Complete Guide, Updated 2024]&nbsp;&nbsp;Recorded Future",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiT2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjMvMDUvMjUvZnJvbS1zdHJhdGVnaWMtZGVwdGgtdG8tc3RyYXRlZ2ljLXRocmVhdC_SAQA",
-      "title": "From Strategic depth to Strategic Threat - Modern Diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vbW9kZXJuZGlwbG9tYWN5LmV1LzIwMjMvMDUvMjUvZnJvbS1zdHJhdGVnaWMtZGVwdGgtdG8tc3RyYXRlZ2ljLXRocmVhdC_SAQA?oc=5",
-      "published": "2023-05-25T07:00:00.000Z",
-      "description": "From Strategic depth to Strategic Threat&nbsp;&nbsp;Modern Diplomacy",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiVmh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzAxLzI2L3J1c3NpYW4tYXJjdGljLXRocmVhdC1ncm93aW5nLW1vcmUtcG90ZW50LXJlcG9ydC1zYXlz0gEA",
-      "title": "Russian Arctic Threat Growing More Potent, Report Says - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzAxLzI2L3J1c3NpYW4tYXJjdGljLXRocmVhdC1ncm93aW5nLW1vcmUtcG90ZW50LXJlcG9ydC1zYXlz0gEA?oc=5",
-      "published": "2023-01-26T08:00:00.000Z",
-      "description": "Russian Arctic Threat Growing More Potent, Report Says - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiQGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3doby1hcmUtYW50aWZhLWFuZC1hcmUtdGhleS10aHJlYXTSAQA",
-      "title": "Who Are Antifa, and Are They a Threat? - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3doby1hcmUtYW50aWZhLWFuZC1hcmUtdGhleS10aHJlYXTSAQA?oc=5",
-      "published": "2020-06-04T07:00:00.000Z",
-      "description": "Who Are Antifa, and Are They a Threat?&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL3RoZS1lbmVyZ3ktc2VjdG9yLXRocmVhdC1ob3ctdG8tYWRkcmVzcy1jeWJlcnNlY3VyaXR5LXZ1bG5lcmFiaWxpdGllc9IBAA",
-      "title": "The energy-sector threat: How to address cybersecurity vulnerabilities - McKinsey",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5tY2tpbnNleS5jb20vY2FwYWJpbGl0aWVzL3Jpc2stYW5kLXJlc2lsaWVuY2Uvb3VyLWluc2lnaHRzL3RoZS1lbmVyZ3ktc2VjdG9yLXRocmVhdC1ob3ctdG8tYWRkcmVzcy1jeWJlcnNlY3VyaXR5LXZ1bG5lcmFiaWxpdGllc9IBAA?oc=5",
-      "published": "2020-11-03T08:00:00.000Z",
-      "description": "The energy-sector threat: How to address cybersecurity vulnerabilities&nbsp;&nbsp;McKinsey",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMic2h0dHBzOi8vZmVkZXJhbG5ld3NuZXR3b3JrLmNvbS9pbnNpZ2h0LW9mLXRoZS1tb250aC8yMDE5LzAyL21pdHJlcy1uZXctYXR0Y2stdG9vbC1hbi1lbmN5Y2xvcGVkaWEtb2YtY3liZXItdGhyZWF0cy_SAQA",
-      "title": "MITRE's new 'ATT&CK' resource an encyclopedia of cyber threats - Federal News Network",
-      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vZmVkZXJhbG5ld3NuZXR3b3JrLmNvbS9pbnNpZ2h0LW9mLXRoZS1tb250aC8yMDE5LzAyL21pdHJlcy1uZXctYXR0Y2stdG9vbC1hbi1lbmN5Y2xvcGVkaWEtb2YtY3liZXItdGhyZWF0cy_SAQA?oc=5",
-      "published": "2019-02-12T08:00:00.000Z",
-      "description": "MITRE's new 'ATT&CK' resource an encyclopedia of cyber threats&nbsp;&nbsp;Federal News Network",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMia2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2lyYW5zLXRocmVhdC1zYXVkaS1jcml0aWNhbC1pbmZyYXN0cnVjdHVyZS1pbXBsaWNhdGlvbnMtdXMtaXJhbmlhbi1lc2NhbGF0aW9u0gEA",
-      "title": "Iran's Threat to Saudi Critical Infrastructure: The Implications of U.S.-Iranian Escalation - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2lyYW5zLXRocmVhdC1zYXVkaS1jcml0aWNhbC1pbmZyYXN0cnVjdHVyZS1pbXBsaWNhdGlvbnMtdXMtaXJhbmlhbi1lc2NhbGF0aW9u0gEA?oc=5",
-      "published": "2019-08-05T07:00:00.000Z",
-      "description": "Iran's Threat to Saudi Critical Infrastructure: The Implications of U.S.-Iranian Escalation&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
