@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-24T17:26:51.000Z",
+  "published": "2024-06-24T18:33:05.000Z",
   "entries": [
     {
       "id": "CBMibWh0dHBzOi8vbmV3cy5sb2NraGVlZG1hcnRpbi5jb20vMjAyMy0wOS0yNi1Mb2NraGVlZC1NYXJ0aW4tQ29uZHVjdHMtRmlyc3QtRmxpZ2h0LWluLVUtMi1Bdmlvbmljcy1UZWNoLVJlZnJlc2jSAQA",
@@ -182,6 +182,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9uYXNhLW1pbmVyYWwtcHJvc3BlY3Rpbmctd2l0aC11MnPSAQA?oc=5",
       "published": "2023-11-10T08:00:00.000Z",
       "description": "NASA is using Lockheed U2 spy planes to hunt for minerals in the desert&nbsp;&nbsp;Interesting Engineering",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicmh0dHBzOi8vd3d3LmVkd2FyZHMuYWYubWlsL05ld3MvQXJ0aWNsZS1WaWV3L0FydGljbGUvMzcyNDMzMC9vbC1wbGFudC00Mi1icmVhdGhlcy1uZXctZmlyZS1pbnRvLXR1LTJzLWRyYWdvbi1sYWR5L9IBAA",
+      "title": "OL Plant 42 breathes new fire into TU-2S Dragon Lady - Edwards Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmVkd2FyZHMuYWYubWlsL05ld3MvQXJ0aWNsZS1WaWV3L0FydGljbGUvMzcyNDMzMC9vbC1wbGFudC00Mi1icmVhdGhlcy1uZXctZmlyZS1pbnRvLXR1LTJzLWRyYWdvbi1sYWR5L9IBAA?oc=5",
+      "published": "2024-03-28T07:00:00.000Z",
+      "description": "OL Plant 42 breathes new fire into TU-2S Dragon Lady&nbsp;&nbsp;Edwards Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -477,16 +487,6 @@
       "category": ""
     },
     {
-      "id": "CBMicWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ZvcmdldC1yZXRpcmVtZW50LXNyLTcxLWJsYWNrYmlyZC11bmZvcmdldHRhYmxlLWZhc3Rlc3QtcGxhbmUtZWFydGgtMjEwMzYw0gEA",
-      "title": "Forget Retirement: SR-71 Blackbird Is the Unforgettable Fastest Plane on Earth - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ZvcmdldC1yZXRpcmVtZW50LXNyLTcxLWJsYWNrYmlyZC11bmZvcmdldHRhYmxlLWZhc3Rlc3QtcGxhbmUtZWFydGgtMjEwMzYw0gEA?oc=5",
-      "published": "2024-04-02T07:00:00.000Z",
-      "description": "Forget Retirement: SR-71 Blackbird Is the Unforgettable Fastest Plane on Earth&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMie2h0dHBzOi8vd3d3LmF2aWF0aW9uMjQuYmUvbWFudWZhY3R1cmVycy9sb2NraGVlZC1tYXJ0aW4vbG9ja2hlZWQtbWFydGluLWNvbmR1Y3RzLWZpcnN0LWZsaWdodC1pbi11LTItYXZpb25pY3MtdGVjaC1yZWZyZXNoL9IBf2h0dHBzOi8vd3d3LmF2aWF0aW9uMjQuYmUvbWFudWZhY3R1cmVycy9sb2NraGVlZC1tYXJ0aW4vbG9ja2hlZWQtbWFydGluLWNvbmR1Y3RzLWZpcnN0LWZsaWdodC1pbi11LTItYXZpb25pY3MtdGVjaC1yZWZyZXNoL2FtcC8",
       "title": "Lockheed Martin conducts first flight in U-2 avionics tech refresh - Aviation24.be",
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmF2aWF0aW9uMjQuYmUvbWFudWZhY3R1cmVycy9sb2NraGVlZC1tYXJ0aW4vbG9ja2hlZWQtbWFydGluLWNvbmR1Y3RzLWZpcnN0LWZsaWdodC1pbi11LTItYXZpb25pY3MtdGVjaC1yZWZyZXNoL9IBf2h0dHBzOi8vd3d3LmF2aWF0aW9uMjQuYmUvbWFudWZhY3R1cmVycy9sb2NraGVlZC1tYXJ0aW4vbG9ja2hlZWQtbWFydGluLWNvbmR1Y3RzLWZpcnN0LWZsaWdodC1pbi11LTItYXZpb25pY3MtdGVjaC1yZWZyZXNoL2FtcC8?oc=5",
@@ -497,31 +497,11 @@
       "category": ""
     },
     {
-      "id": "CBMicmh0dHBzOi8vd3d3LmFmbWMuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzcyNDkyMC9vbC1wbGFudC00Mi1icmVhdGhlcy1uZXctZmlyZS1pbnRvLXR1LTJzLWRyYWdvbi1sYWR5L9IBAA",
-      "title": "OL Plant 42 breathes new fire into TU-2S Dragon Lady - afmc.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFmbWMuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzcyNDkyMC9vbC1wbGFudC00Mi1icmVhdGhlcy1uZXctZmlyZS1pbnRvLXR1LTJzLWRyYWdvbi1sYWR5L9IBAA?oc=5",
-      "published": "2024-03-28T07:00:00.000Z",
-      "description": "OL Plant 42 breathes new fire into TU-2S Dragon Lady&nbsp;&nbsp;afmc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9oaXN0b3J5LWRlZmluaW5nLWxvY2toZWVkLW1hcnRpbi1taWxpdGFyeS1haXJjcmFmdC_SAQA",
       "title": "5 Lockheed Martin Aircraft That Have Defined The History Of Military Aviation - Simple Flying",
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9oaXN0b3J5LWRlZmluaW5nLWxvY2toZWVkLW1hcnRpbi1taWxpdGFyeS1haXJjcmFmdC_SAQA?oc=5",
       "published": "2024-03-01T08:00:00.000Z",
       "description": "5 Lockheed Martin Aircraft That Have Defined The History Of Military Aviation&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiKmh0dHBzOi8vYXZnZWVrZXJ5LmNvbS91Mi1haXJjcmFmdC1jYXJyaWVyL9IBAA",
-      "title": "Back When a U-2 Spyplane Operated From an Aircraft Carrier - Avgeekery",
-      "link": "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vYXZnZWVrZXJ5LmNvbS91Mi1haXJjcmFmdC1jYXJyaWVyL9IBAA?oc=5",
-      "published": "2023-11-18T08:00:00.000Z",
-      "description": "Back When a U-2 Spyplane Operated From an Aircraft Carrier&nbsp;&nbsp;Avgeekery",
       "summary": "",
       "author": "",
       "category": ""
@@ -542,6 +522,16 @@
       "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmJiYy5jb20vZnV0dXJlL2FydGljbGUvMjAyMDEyMTAtbG9ja2hlZWQtdS0yLXNweXBsYW5l0gEA?oc=5",
       "published": "2020-12-11T08:00:00.000Z",
       "description": "The veteran spy plane too valuable to replace&nbsp;&nbsp;BBC.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigwFodHRwczovL3d3dy5hdXRvZXZvbHV0aW9uLmNvbS9uZXdzL215YXNpc2hjaGV2LW0tNTUtYS1yZXRpcmVkLWhpZ2gtYWx0aXR1ZGUtc292aWV0LXNweS1wbGFuZS10aGF0LW1pZ2h0LW1ha2UtYS1jb21lYmFjay0yMjU0MjYuaHRtbNIBAA",
+      "title": "Myasishchev M-55: A Retired High-Altitude Soviet Spy Plane That Might Make a Comeback - autoevolution",
+      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5hdXRvZXZvbHV0aW9uLmNvbS9uZXdzL215YXNpc2hjaGV2LW0tNTUtYS1yZXRpcmVkLWhpZ2gtYWx0aXR1ZGUtc292aWV0LXNweS1wbGFuZS10aGF0LW1pZ2h0LW1ha2UtYS1jb21lYmFjay0yMjU0MjYuaHRtbNIBAA?oc=5",
+      "published": "2023-12-01T08:00:00.000Z",
+      "description": "Myasishchev M-55: A Retired High-Altitude Soviet Spy Plane That Might Make a Comeback&nbsp;&nbsp;autoevolution",
       "summary": "",
       "author": "",
       "category": ""
@@ -997,11 +987,21 @@
       "category": ""
     },
     {
-      "id": "CBMiaWh0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjMtMDEtMDUvdS0yLXNweS1wbGFuZS1zZXQtdG8tZ28tb24tZGlzcGxheS1hdC1oaWxsLWFpci1mb3JjZS1iYXNlLW11c2V1bdIBAA",
-      "title": "U-2 spy plane set to go on display at Hill Air Force Base museum - Utah Public Radio",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjMtMDEtMDUvdS0yLXNweS1wbGFuZS1zZXQtdG8tZ28tb24tZGlzcGxheS1hdC1oaWxsLWFpci1mb3JjZS1iYXNlLW11c2V1bdIBAA?oc=5",
-      "published": "2023-01-05T08:00:00.000Z",
-      "description": "U-2 spy plane set to go on display at Hill Air Force Base museum&nbsp;&nbsp;Utah Public Radio",
+      "id": "CBMiSGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA1L2FsbC1kb21haW4tZGVtby1saW5rcy11LTItZi0zNS1mLTIyL9IBTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA1L2FsbC1kb21haW4tZGVtby1saW5rcy11LTItZi0zNS1mLTIyLz9hbXA9MQ",
+      "title": "All-Domain Demo Links U-2, F-35 & F-22 - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA1L2FsbC1kb21haW4tZGVtby1saW5rcy11LTItZi0zNS1mLTIyL9IBTmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA1L2FsbC1kb21haW4tZGVtby1saW5rcy11LTItZi0zNS1mLTIyLz9hbXA9MQ?oc=5",
+      "published": "2021-05-07T07:00:00.000Z",
+      "description": "All-Domain Demo Links U-2, F-35 & F-22&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzMwNjA3Ny91LTItZW5oYW5jZXMtd2VhcG9ucy1zY2hvb2wtY2Fwc3RvbmUtZXhwZXJpZW5jZdIBAA",
+      "title": "News - U-2 enhances Weapons School capstone experience - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzMwNjA3Ny91LTItZW5oYW5jZXMtd2VhcG9ucy1zY2hvb2wtY2Fwc3RvbmUtZXhwZXJpZW5jZdIBAA?oc=5",
+      "published": "2019-02-01T08:00:00.000Z",
+      "description": "News - U-2 enhances Weapons School capstone experience&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
