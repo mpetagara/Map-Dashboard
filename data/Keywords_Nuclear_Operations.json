@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-24T07:23:21.000Z",
+  "published": "2024-06-24T08:32:09.000Z",
   "entries": [
     {
       "id": "CBMif2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzA1MTIvMjAyMy1udWNsZWFyLWRldGVycmVuY2Utb3BlcmF0aW9ucy1taXNzaWxlLW9wZXJhdGlvbnMtYXdhcmRzLWFubm91bmNlZC_SAQA",
@@ -32,16 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm9lY2QtbmVhLm9yZy9qY21zL3BsXzY2MTMwL3VrcmFpbmUtY3VycmVudC1zdGF0dXMtb2YtbnVjbGVhci1wb3dlci1pbnN0YWxsYXRpb25z0gEA?oc=5",
       "published": "2024-06-04T07:00:00.000Z",
       "description": "NEA) - Ukraine: Current status of nuclear power installations&nbsp;&nbsp;Nuclear Energy Agency",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZWh0dHBzOi8vd3d3Lm51Y25ldC5vcmcvbmV3cy9maXJzdC1udWNsZWFyLXN0ZWFtLXN1cHBseS1wcm9qZWN0LWZvci1pbmR1c3RyeS1iZWdpbnMtb3BlcmF0aW9uLTYtNC0yMDI00gEA",
-      "title": "China / First Nuclear Steam Supply Project For Industry Begins Operation - NucNet",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm51Y25ldC5vcmcvbmV3cy9maXJzdC1udWNsZWFyLXN0ZWFtLXN1cHBseS1wcm9qZWN0LWZvci1pbmR1c3RyeS1iZWdpbnMtb3BlcmF0aW9uLTYtNC0yMDI00gEA?oc=5",
-      "published": "2024-06-20T14:05:34.000Z",
-      "description": "China / First Nuclear Steam Supply Project For Industry Begins Operation&nbsp;&nbsp;NucNet",
       "summary": "",
       "author": "",
       "category": ""
@@ -118,10 +108,10 @@
     },
     {
       "id": "CBMiVGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2NvbnZlbnRpb25hbC1udWNsZWFyLWludGVncmF0aW9uLXN0cmVuZ3RoZW4tZGV0ZXJyZW5jZdIBAA",
-      "title": "Conventional-Nuclear Integration to Strengthen Deterrence - CSIS | Center for Strategic and International Studies",
+      "title": "Conventional-Nuclear Integration to Strengthen Deterrence - csis.org",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2NvbnZlbnRpb25hbC1udWNsZWFyLWludGVncmF0aW9uLXN0cmVuZ3RoZW4tZGV0ZXJyZW5jZdIBAA?oc=5",
       "published": "2023-10-04T07:00:00.000Z",
-      "description": "Conventional-Nuclear Integration to Strengthen Deterrence&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "description": "Conventional-Nuclear Integration to Strengthen Deterrence&nbsp;&nbsp;csis.org",
       "summary": "",
       "author": "",
       "category": ""
@@ -167,6 +157,16 @@
       "category": ""
     },
     {
+      "id": "CBMigwFodHRwczovL3d3dy5jYXRmLnVzLzIwMjQvMDMvY29udGludWVkLW9wZXJhdGlvbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcG93ZXItcGxhbnQtcHJvdmlkZXMtY2FsaWZvcm5pYS1maXJtLXplcm8tY2FyYm9uLWVsZWN0cmljaXR5L9IBAA",
+      "title": "Continued operation of Diablo Canyon Nuclear Power Plant provides California with firm, zero-carbon electricity - Clean Air Task Force",
+      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYXRmLnVzLzIwMjQvMDMvY29udGludWVkLW9wZXJhdGlvbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcG93ZXItcGxhbnQtcHJvdmlkZXMtY2FsaWZvcm5pYS1maXJtLXplcm8tY2FyYm9uLWVsZWN0cmljaXR5L9IBAA?oc=5",
+      "published": "2024-03-29T07:00:00.000Z",
+      "description": "Continued operation of Diablo Canyon Nuclear Power Plant provides California with firm, zero-carbon electricity&nbsp;&nbsp;Clean Air Task Force",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiS2h0dHBzOi8vd3d3LmVuZXJneS5nb3YvbmUvYXJ0aWNsZXMvYWR2YW50YWdlcy1hbmQtY2hhbGxlbmdlcy1udWNsZWFyLWVuZXJnedIBAA",
       "title": "Advantages and Challenges of Nuclear Energy - Energy.gov",
       "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVuZXJneS5nb3YvbmUvYXJ0aWNsZXMvYWR2YW50YWdlcy1hbmQtY2hhbGxlbmdlcy1udWNsZWFyLWVuZXJnedIBAA?oc=5",
@@ -202,16 +202,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMzY4OTA0OS9taWNoYWVsLW8td2FsdGVycy_SAQA?oc=5",
       "published": "2024-02-29T22:50:18.000Z",
       "description": "MICHAEL O. WALTERS > Air Force > Biography Display&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMigwFodHRwczovL3d3dy5jYXRmLnVzLzIwMjQvMDMvY29udGludWVkLW9wZXJhdGlvbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcG93ZXItcGxhbnQtcHJvdmlkZXMtY2FsaWZvcm5pYS1maXJtLXplcm8tY2FyYm9uLWVsZWN0cmljaXR5L9IBAA",
-      "title": "Continued operation of Diablo Canyon Nuclear Power Plant provides California with firm, zero-carbon electricity - Clean Air Task Force",
-      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYXRmLnVzLzIwMjQvMDMvY29udGludWVkLW9wZXJhdGlvbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcG93ZXItcGxhbnQtcHJvdmlkZXMtY2FsaWZvcm5pYS1maXJtLXplcm8tY2FyYm9uLWVsZWN0cmljaXR5L9IBAA?oc=5",
-      "published": "2024-03-29T07:00:00.000Z",
-      "description": "Continued operation of Diablo Canyon Nuclear Power Plant provides California with firm, zero-carbon electricity&nbsp;&nbsp;Clean Air Task Force",
       "summary": "",
       "author": "",
       "category": ""
@@ -257,16 +247,6 @@
       "category": ""
     },
     {
-      "id": "CBMilgFodHRwczovL3d3dy5iaWNtYWdhemluZS5jb20vZGVwYXJ0bWVudHMvb3BlcmF0aW9ucy9mbHVvci1hd2FyZGVkLW5hdGlvbmFsLW51Y2xlYXItc2VjdXJpdHktYWRtaW5pc3RyYXRpb25zLXBhbnRleC1wbGFudC1tYW5hZ2VtZW50LW9wZXJhdGluZy1jb250cmFjdC_SAQA",
-      "title": "Fluor awarded National Nuclear Security Administration's Pantex plant management and operating contract - BIC Magazine",
-      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5iaWNtYWdhemluZS5jb20vZGVwYXJ0bWVudHMvb3BlcmF0aW9ucy9mbHVvci1hd2FyZGVkLW5hdGlvbmFsLW51Y2xlYXItc2VjdXJpdHktYWRtaW5pc3RyYXRpb25zLXBhbnRleC1wbGFudC1tYW5hZ2VtZW50LW9wZXJhdGluZy1jb250cmFjdC_SAQA?oc=5",
-      "published": "2024-06-17T16:23:33.000Z",
-      "description": "Fluor awarded National Nuclear Security Administration's Pantex plant management and operating contract&nbsp;&nbsp;BIC Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZGh0dHBzOi8vd3d3LnRpbWVzZnJlZXByZXNzLmNvbS9uZXdzLzIwMjQvbWFyLzIwL2NoYXR0YW5vb2dhLXN0YXRlLXN0dWRlbnRzLWZ1dHVyZS1udWNsZWFyLXBvd2VyLXRmcC_SAQA",
       "title": "TVA backs Chattanooga State programs in radiation protection, nuclear operations - Chattanooga Times Free Press",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRpbWVzZnJlZXByZXNzLmNvbS9uZXdzLzIwMjQvbWFyLzIwL2NoYXR0YW5vb2dhLXN0YXRlLXN0dWRlbnRzLWZ1dHVyZS1udWNsZWFyLXBvd2VyLXRmcC_SAQA?oc=5",
@@ -282,6 +262,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd29ybGQtbnVjbGVhci5vcmcvaW5mb3JtYXRpb24tbGlicmFyeS9jb3VudHJ5LXByb2ZpbGVzL2NvdW50cmllcy1vLXMvc2xvdmFraWHSAQA?oc=5",
       "published": "2024-03-28T07:00:00.000Z",
       "description": "Nuclear Power in Slovakia&nbsp;&nbsp;World Nuclear Association",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilgFodHRwczovL3d3dy5iaWNtYWdhemluZS5jb20vZGVwYXJ0bWVudHMvb3BlcmF0aW9ucy9mbHVvci1hd2FyZGVkLW5hdGlvbmFsLW51Y2xlYXItc2VjdXJpdHktYWRtaW5pc3RyYXRpb25zLXBhbnRleC1wbGFudC1tYW5hZ2VtZW50LW9wZXJhdGluZy1jb250cmFjdC_SAQA",
+      "title": "Fluor awarded National Nuclear Security Administration's Pantex plant management and operating contract - BIC Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5iaWNtYWdhemluZS5jb20vZGVwYXJ0bWVudHMvb3BlcmF0aW9ucy9mbHVvci1hd2FyZGVkLW5hdGlvbmFsLW51Y2xlYXItc2VjdXJpdHktYWRtaW5pc3RyYXRpb25zLXBhbnRleC1wbGFudC1tYW5hZ2VtZW50LW9wZXJhdGluZy1jb250cmFjdC_SAQA?oc=5",
+      "published": "2024-06-17T16:23:33.000Z",
+      "description": "Fluor awarded National Nuclear Security Administration's Pantex plant management and operating contract&nbsp;&nbsp;BIC Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -878,10 +868,10 @@
     },
     {
       "id": "CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VzLXJvay1udWNsZWFyLWNvbnN1bHRhdGl2ZS1ncm91cHMtc3VjY2Vzc2Z1bC1sYXVuY2hpbmfSAQA",
-      "title": "The U.S.-ROK Nuclear Consultative Group's Successful Launching - CSIS | Center for Strategic and International Studies",
+      "title": "The U.S.-ROK Nuclear Consultative Group's Successful Launching - csis.org",
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VzLXJvay1udWNsZWFyLWNvbnN1bHRhdGl2ZS1ncm91cHMtc3VjY2Vzc2Z1bC1sYXVuY2hpbmfSAQA?oc=5",
       "published": "2023-07-20T07:00:00.000Z",
-      "description": "The U.S.-ROK Nuclear Consultative Group's Successful Launching&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "description": "The U.S.-ROK Nuclear Consultative Group's Successful Launching&nbsp;&nbsp;csis.org",
       "summary": "",
       "author": "",
       "category": ""
