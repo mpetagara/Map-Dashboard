@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-24T08:32:12.000Z",
+  "published": "2024-06-24T09:28:40.000Z",
   "entries": [
     {
       "id": "CBMinQFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjQtMDYtMTgtVVMtQWlyLUZvcmNlLWFuZC1Mb2NraGVlZC1NYXJ0aW4tQ29tcGxldGUtRmxpZ2h0LVRlc3Qtb2YtRnV0dXJlLUludGVyY29udGluZW50YWwtQmFsbGlzdGljLU1pc3NpbGUtUmVlbnRyeS1WZWhpY2xl0gEA",
@@ -62,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtdGVzdC1raW0tam9uZy11bi10ZW5zaW9ucy04OWJiZTA4MGY5NjcwMDkzYTRkOWI0N2U2NmZkNjVmY9IBAA?oc=5",
       "published": "2024-05-29T07:00:00.000Z",
       "description": "North Korea fires missile barrage toward its eastern waters days after failed satellite launch&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiKmh0dHBzOi8vd3d3LnluZXRuZXdzLmNvbS9hcnRpY2xlL3MxaTE4NWw4YdIBAA",
+      "title": "During wartime, Israel tests new missile propulsion system - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LnluZXRuZXdzLmNvbS9hcnRpY2xlL3MxaTE4NWw4YdIBAA?oc=5",
+      "published": "2024-06-24T08:39:08.000Z",
+      "description": "During wartime, Israel tests new missile propulsion system&nbsp;&nbsp;Ynetnews",
       "summary": "",
       "author": "",
       "category": ""
@@ -147,21 +157,11 @@
       "category": ""
     },
     {
-      "id": "CBMia2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzIzL25vcnRoLWtvcmVhLWxhdW5jaGVzLWJhbGxpc3RpYy1taXNzaWxlLWluLW51Y2VsYXItY29tbWFuZC1hbmQtY29udHJvbC10ZXN00gEA",
-      "title": "North Korea Launches Ballistic Missiles in Nuclear Command and Control Test - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzIzL25vcnRoLWtvcmVhLWxhdW5jaGVzLWJhbGxpc3RpYy1taXNzaWxlLWluLW51Y2VsYXItY29tbWFuZC1hbmQtY29udHJvbC10ZXN00gEA?oc=5",
-      "published": "2024-04-23T07:00:00.000Z",
-      "description": "North Korea Launches Ballistic Missiles in Nuclear Command and Control Test - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtbGF1bmNoLWJjMDM5MWU5ODFiMmVlZGNlNWRjMTc3MzRlMjdlZTBj0gEA",
-      "title": "North Korea fires long-range ballistic missile into sea - The Associated Press",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtbGF1bmNoLWJjMDM5MWU5ODFiMmVlZGNlNWRjMTc3MzRlMjdlZTBj0gEA?oc=5",
-      "published": "2023-12-18T08:00:00.000Z",
-      "description": "North Korea fires long-range ballistic missile into sea&nbsp;&nbsp;The Associated Press",
+      "id": "CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWNydWlzZS1taXNzaWxlLXdhcmhlYWQtYW50aWFpcmNyYWZ0LXRlc3QtMjc3OWViYzg1MDc3NDNmY2ZkMTJlNDNjNTA1Zjg2Y2HSAQA",
+      "title": "North Korea says it tested 'super-large' cruise missile warhead and new anti-aircraft missile - The Associated Press",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWNydWlzZS1taXNzaWxlLXdhcmhlYWQtYW50aWFpcmNyYWZ0LXRlc3QtMjc3OWViYzg1MDc3NDNmY2ZkMTJlNDNjNTA1Zjg2Y2HSAQA?oc=5",
+      "published": "2024-04-19T07:00:00.000Z",
+      "description": "North Korea says it tested 'super-large' cruise missile warhead and new anti-aircraft missile&nbsp;&nbsp;The Associated Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -177,11 +177,11 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWNydWlzZS1taXNzaWxlLXdhcmhlYWQtYW50aWFpcmNyYWZ0LXRlc3QtMjc3OWViYzg1MDc3NDNmY2ZkMTJlNDNjNTA1Zjg2Y2HSAQA",
-      "title": "North Korea says it tested 'super-large' cruise missile warhead and new anti-aircraft missile - The Associated Press",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWNydWlzZS1taXNzaWxlLXdhcmhlYWQtYW50aWFpcmNyYWZ0LXRlc3QtMjc3OWViYzg1MDc3NDNmY2ZkMTJlNDNjNTA1Zjg2Y2HSAQA?oc=5",
-      "published": "2024-04-19T07:00:00.000Z",
-      "description": "North Korea says it tested 'super-large' cruise missile warhead and new anti-aircraft missile&nbsp;&nbsp;The Associated Press",
+      "id": "CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtbGF1bmNoLWJjMDM5MWU5ODFiMmVlZGNlNWRjMTc3MzRlMjdlZTBj0gEA",
+      "title": "North Korea fires long-range ballistic missile into sea - The Associated Press",
+      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtbGF1bmNoLWJjMDM5MWU5ODFiMmVlZGNlNWRjMTc3MzRlMjdlZTBj0gEA?oc=5",
+      "published": "2023-12-18T08:00:00.000Z",
+      "description": "North Korea fires long-range ballistic missile into sea&nbsp;&nbsp;The Associated Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -202,6 +202,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGUtc29saWRmdWVsLWh5cGVyc29uaWMtYWY5ZjhjNjllNGZmMDA0Y2QwNDU5MmQyYzgwY2RhNDfSAQA?oc=5",
       "published": "2024-03-19T07:00:00.000Z",
       "description": "North Korea claims progress in developing a hypersonic missile designed to strike distant US targets&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMia2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzIzL25vcnRoLWtvcmVhLWxhdW5jaGVzLWJhbGxpc3RpYy1taXNzaWxlLWluLW51Y2VsYXItY29tbWFuZC1hbmQtY29udHJvbC10ZXN00gEA",
+      "title": "North Korea Launches Ballistic Missiles in Nuclear Command and Control Test - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzIzL25vcnRoLWtvcmVhLWxhdW5jaGVzLWJhbGxpc3RpYy1taXNzaWxlLWluLW51Y2VsYXItY29tbWFuZC1hbmQtY29udHJvbC10ZXN00gEA?oc=5",
+      "published": "2024-04-23T07:00:00.000Z",
+      "description": "North Korea Launches Ballistic Missiles in Nuclear Command and Control Test - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -257,16 +267,6 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE3L3VzLWFybXktcy1uZXctaHlwZXJzb25pYy13ZWFwb24taXMtc3RpbGwtbW9udGhzLWF3YXktZ2FvLXNheXPSAQA",
-      "title": "US Army's New Hypersonic Weapon Is Still Months Away, GAO Says - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE3L3VzLWFybXktcy1uZXctaHlwZXJzb25pYy13ZWFwb24taXMtc3RpbGwtbW9udGhzLWF3YXktZ2FvLXNheXPSAQA?oc=5",
-      "published": "2024-06-17T14:57:50.000Z",
-      "description": "US Army's New Hypersonic Weapon Is Still Months Away, GAO Says&nbsp;&nbsp;Bloomberg",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieWh0dHBzOi8vd3d3LjM4bm9ydGgub3JnLzIwMjQvMDQvaGd2LXVucHJvdmVuLWF0LWlyYm0tcmFuZ2VzLWFuYWx5c2lzLW9mLXRoZS1hcHJpbC0yLWh3YXNvbmctMTZuYS1oeXBlcnNvbmljLW1pc3NpbGUtdGVzdC_SAQA",
       "title": "HGV Unproven at IRBM Ranges: Analysis of the April 2 Hwasong-16Na Hypersonic Missile Test - 38 North",
       "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LjM4bm9ydGgub3JnLzIwMjQvMDQvaGd2LXVucHJvdmVuLWF0LWlyYm0tcmFuZ2VzLWFuYWx5c2lzLW9mLXRoZS1hcHJpbC0yLWh3YXNvbmctMTZuYS1oeXBlcnNvbmljLW1pc3NpbGUtdGVzdC_SAQA?oc=5",
@@ -292,6 +292,16 @@
       "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1zYXlzLWl0LXRlc3QtZmlyZWQtbmV3LXNvbGlkLWZ1ZWwtaHlwZXJzb25pYy1taXNzaWxlLTIwMjQtMDQtMDIv0gEA?oc=5",
       "published": "2024-04-03T07:00:00.000Z",
       "description": "North Korea aims to adopt solid-fuel missiles for faster launches&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE3L3VzLWFybXktcy1uZXctaHlwZXJzb25pYy13ZWFwb24taXMtc3RpbGwtbW9udGhzLWF3YXktZ2FvLXNheXPSAQA",
+      "title": "US Army's New Hypersonic Weapon Is Still Months Away, GAO Says - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE3L3VzLWFybXktcy1uZXctaHlwZXJzb25pYy13ZWFwb24taXMtc3RpbGwtbW9udGhzLWF3YXktZ2FvLXNheXPSAQA?oc=5",
+      "published": "2024-06-17T14:57:50.000Z",
+      "description": "US Army's New Hypersonic Weapon Is Still Months Away, GAO Says&nbsp;&nbsp;Bloomberg",
       "summary": "",
       "author": "",
       "category": ""
@@ -422,16 +432,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLW1pc3NpbGVzLXRlbnNpb25zLWtpbS1qb25nLXVuLTRkODhlNDQ4MDI0NGMwNjJlZTlkMmRhYmE2NjM5Mzdj0gEA?oc=5",
       "published": "2024-02-14T08:00:00.000Z",
       "description": "Kim watches missile tests and warns that North Korea will take an aggressive stance in disputed seas&nbsp;&nbsp;The Associated Press",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiamh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL21kYS1sYXVuY2hlcy1uZXctdGVzdGJlZC1oeXBlcnNvbmljLWRlZmVuc2XSAQA",
-      "title": "MDA Launches New Testbed For Hypersonic Defense - Aviation Week",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL21pc3NpbGUtZGVmZW5zZS13ZWFwb25zL21kYS1sYXVuY2hlcy1uZXctdGVzdGJlZC1oeXBlcnNvbmljLWRlZmVuc2XSAQA?oc=5",
-      "published": "2024-06-14T22:08:07.000Z",
-      "description": "MDA Launches New Testbed For Hypersonic Defense&nbsp;&nbsp;Aviation Week",
       "summary": "",
       "author": "",
       "category": ""
@@ -867,21 +867,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDI0LzA2L2Fpci1sYXVuY2hlZC1zbS02LXNwb3R0ZWQtYWdhaW4tb24tZi1hLTE4LXN1cGVyLWhvcm5ldC_SAQA",
-      "title": "Air-launched SM-6 Spotted Again on U.S. Navy F/A-18 Super Hornet - Naval News",
-      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDI0LzA2L2Fpci1sYXVuY2hlZC1zbS02LXNwb3R0ZWQtYWdhaW4tb24tZi1hLTE4LXN1cGVyLWhvcm5ldC_SAQA?oc=5",
-      "published": "2024-06-04T07:00:00.000Z",
-      "description": "Air-launched SM-6 Spotted Again on U.S. Navy F/A-18 Super Hornet&nbsp;&nbsp;Naval News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvdGFpd2FuLWNvbmR1Y3RzLW1pc3NpbGUtZHJpbGxzLWluLWZhY2Utb2YtY2hpbmEtbWlsaXRhcnktaW50cnVzaW9ucy0vNzU0Mjg4NS5odG1s0gFtaHR0cHM6Ly93d3cudm9hbmV3cy5jb20vYW1wL3RhaXdhbi1jb25kdWN0cy1taXNzaWxlLWRyaWxscy1pbi1mYWNlLW9mLWNoaW5hLW1pbGl0YXJ5LWludHJ1c2lvbnMtLzc1NDI4ODUuaHRtbA",
       "title": "Taiwan Conducts Missile Drills 'in Face of' China Military Intrusions - VOA Asia",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvdGFpd2FuLWNvbmR1Y3RzLW1pc3NpbGUtZHJpbGxzLWluLWZhY2Utb2YtY2hpbmEtbWlsaXRhcnktaW50cnVzaW9ucy0vNzU0Mjg4NS5odG1s0gFtaHR0cHM6Ly93d3cudm9hbmV3cy5jb20vYW1wL3RhaXdhbi1jb25kdWN0cy1taXNzaWxlLWRyaWxscy1pbi1mYWNlLW9mLWNoaW5hLW1pbGl0YXJ5LWludHJ1c2lvbnMtLzc1NDI4ODUuaHRtbA?oc=5",
       "published": "2024-03-26T07:00:00.000Z",
       "description": "Taiwan Conducts Missile Drills 'in Face of' China Military Intrusions&nbsp;&nbsp;VOA Asia",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDI0LzA2L2Fpci1sYXVuY2hlZC1zbS02LXNwb3R0ZWQtYWdhaW4tb24tZi1hLTE4LXN1cGVyLWhvcm5ldC_SAQA",
+      "title": "Air-launched SM-6 Spotted Again on U.S. Navy F/A-18 Super Hornet - Naval News",
+      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDI0LzA2L2Fpci1sYXVuY2hlZC1zbS02LXNwb3R0ZWQtYWdhaW4tb24tZi1hLTE4LXN1cGVyLWhvcm5ldC_SAQA?oc=5",
+      "published": "2024-06-04T07:00:00.000Z",
+      "description": "Air-launched SM-6 Spotted Again on U.S. Navy F/A-18 Super Hornet&nbsp;&nbsp;Naval News",
       "summary": "",
       "author": "",
       "category": ""
