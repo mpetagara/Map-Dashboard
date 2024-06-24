@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-24T02:24:10.000Z",
+  "published": "2024-06-24T03:29:07.000Z",
   "entries": [
     {
       "id": "CBMifGh0dHBzOi8vd3d3LnNjbXAuY29tL25ld3MvY2hpbmEvbWlsaXRhcnkvYXJ0aWNsZS8zMjY3NTkwL2NoaW5lc2UtbWlsaXRhcnktZm9jdXNpbmctbnVjbGVhci1wb3dlcmVkLXN1YnMtZXllLXVzLW5hdnktYW5hbHlzdHPSAQA",
@@ -157,16 +157,6 @@
       "category": ""
     },
     {
-      "id": "CBMiMWh0dHBzOi8vdG9tZGlzcGF0Y2guY29tL3RoZS1hcnQtb2YtdGhlLXN1Ym1hcmluZS_SAQA",
-      "title": "The Art of the Submarine - TomDispatch.com - Tom Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vdG9tZGlzcGF0Y2guY29tL3RoZS1hcnQtb2YtdGhlLXN1Ym1hcmluZS_SAQA?oc=5",
-      "published": "2024-06-20T13:31:02.000Z",
-      "description": "The Art of the Submarine - TomDispatch.com&nbsp;&nbsp;Tom Dispatch",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiPWh0dHBzOi8vbmV3cy5taXQuZWR1LzIwMjQvZGl2aW5nLWludG8tbnVjbGVhci1zdWJtYXJpbmVzLTAxMTHSAQA",
       "title": "Diving into nuclear submarines | MIT News | Massachusetts Institute of Technology - MIT News",
       "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vbmV3cy5taXQuZWR1LzIwMjQvZGl2aW5nLWludG8tbnVjbGVhci1zdWJtYXJpbmVzLTAxMTHSAQA?oc=5",
@@ -182,6 +172,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25hdG8tZnJhbmNlLW5hdnktc3VibWFyaW5lLXBob3Rvcy01MjUxZGI2Y2UwYWY3N2Y5MjdjNjk2ZTRiZjBmNTI2ZNIBAA?oc=5",
       "published": "2024-04-16T07:00:00.000Z",
       "description": "AP PHOTOS: Aboard France's aging nuclear submarines — old boats but new missions&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiMWh0dHBzOi8vdG9tZGlzcGF0Y2guY29tL3RoZS1hcnQtb2YtdGhlLXN1Ym1hcmluZS_SAQA",
+      "title": "The Art of the Submarine - TomDispatch.com - Tom Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vdG9tZGlzcGF0Y2guY29tL3RoZS1hcnQtb2YtdGhlLXN1Ym1hcmluZS_SAQA?oc=5",
+      "published": "2024-06-20T13:31:02.000Z",
+      "description": "The Art of the Submarine - TomDispatch.com&nbsp;&nbsp;Tom Dispatch",
       "summary": "",
       "author": "",
       "category": ""
@@ -277,21 +277,21 @@
       "category": ""
     },
     {
-      "id": "CBMiUGh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vYXVzdHJhbGlhbnMtZGVwbG95LW51Y2xlYXItc3ViLXRyYWluaW5nLTAyMDYwNTE3Ny5odG1s0gEA",
-      "title": "Australians deploy for nuclear sub training mission - Yahoo New Zealand News",
-      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vYXVzdHJhbGlhbnMtZGVwbG95LW51Y2xlYXItc3ViLXRyYWluaW5nLTAyMDYwNTE3Ny5odG1s0gEA?oc=5",
-      "published": "2024-06-22T02:06:00.000Z",
-      "description": "Australians deploy for nuclear sub training mission&nbsp;&nbsp;Yahoo New Zealand News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9ncmFwaGljcy8yMDIzLzExLzE0L251Y2xlYXItc3VibWFyaW5lLXVzLXNlbnQtdG8tbWlkZGxlLWVhc3QvNzE0ODYxMDQwMDcv0gEA",
       "title": "US deploys nuclear submarine to Middle East to deter Israel-Hamas war - USA TODAY",
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9ncmFwaGljcy8yMDIzLzExLzE0L251Y2xlYXItc3VibWFyaW5lLXVzLXNlbnQtdG8tbWlkZGxlLWVhc3QvNzE0ODYxMDQwMDcv0gEA?oc=5",
       "published": "2023-11-14T08:00:00.000Z",
       "description": "US deploys nuclear submarine to Middle East to deter Israel-Hamas war&nbsp;&nbsp;USA TODAY",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUGh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vYXVzdHJhbGlhbnMtZGVwbG95LW51Y2xlYXItc3ViLXRyYWluaW5nLTAyMDYwNTE3Ny5odG1s0gEA",
+      "title": "Australians deploy for nuclear sub training mission - Yahoo New Zealand News",
+      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vbnoubmV3cy55YWhvby5jb20vYXVzdHJhbGlhbnMtZGVwbG95LW51Y2xlYXItc3ViLXRyYWluaW5nLTAyMDYwNTE3Ny5odG1s0gEA?oc=5",
+      "published": "2024-06-22T02:06:00.000Z",
+      "description": "Australians deploy for nuclear sub training mission&nbsp;&nbsp;Yahoo New Zealand News",
       "summary": "",
       "author": "",
       "category": ""
@@ -447,21 +447,21 @@
       "category": ""
     },
     {
-      "id": "CBMiV2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItY3ViYS1oYXZhbmEta2F6YW4tZGFtYWdlLWh1bGwtMTkxNDA2NdIBAA",
-      "title": "Russian Submarine's Damaged Hull During Cuba Visit Raises Questions - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItY3ViYS1oYXZhbmEta2F6YW4tZGFtYWdlLWh1bGwtMTkxNDA2NdIBAA?oc=5",
-      "published": "2024-06-18T08:00:00.000Z",
-      "description": "Russian Submarine's Damaged Hull During Cuba Visit Raises Questions&nbsp;&nbsp;Newsweek",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xNC9wb2xpdGljcy9udWNsZWFyLXN1Ym1hcmluZS11cy1uYXZ5LWhhdmFuYS1ydXNzaWEvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMTQvcG9saXRpY3MvbnVjbGVhci1zdWJtYXJpbmUtdXMtbmF2eS1oYXZhbmEtcnVzc2lh",
       "title": "US nuclear-powered submarine arrives in Guantanamo Bay a day after Russian Navy docks in Havana - CNN",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNi8xNC9wb2xpdGljcy9udWNsZWFyLXN1Ym1hcmluZS11cy1uYXZ5LWhhdmFuYS1ydXNzaWEvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDYvMTQvcG9saXRpY3MvbnVjbGVhci1zdWJtYXJpbmUtdXMtbmF2eS1oYXZhbmEtcnVzc2lh?oc=5",
       "published": "2024-06-14T07:00:00.000Z",
       "description": "US nuclear-powered submarine arrives in Guantanamo Bay a day after Russian Navy docks in Havana&nbsp;&nbsp;CNN",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiV2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItY3ViYS1oYXZhbmEta2F6YW4tZGFtYWdlLWh1bGwtMTkxNDA2NdIBAA",
+      "title": "Russian Submarine's Damaged Hull During Cuba Visit Raises Questions - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItY3ViYS1oYXZhbmEta2F6YW4tZGFtYWdlLWh1bGwtMTkxNDA2NdIBAA?oc=5",
+      "published": "2024-06-18T08:00:00.000Z",
+      "description": "Russian Submarine's Damaged Hull During Cuba Visit Raises Questions&nbsp;&nbsp;Newsweek",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,16 +657,6 @@
       "category": ""
     },
     {
-      "id": "CBMiP2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItdHJpYWwtMTkxNDEwMtIBAA",
-      "title": "Russia Trials 'Arkhangelsk' Stealth Submarine Armed with Hypersonic Nukes - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItdHJpYWwtMTkxNDEwMtIBAA?oc=5",
-      "published": "2024-06-18T11:45:23.000Z",
-      "description": "Russia Trials 'Arkhangelsk' Stealth Submarine Armed with Hypersonic Nukes&nbsp;&nbsp;Newsweek",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiS2h0dHBzOi8vd3d3Lndzai5jb20vd29ybGQvY2hpbmEvdXMtc3VibWFyaW5lLWRvbWluYW5jZS1zaGlmdC1jaGluYS04ZGIxMGEwZNIBAA",
       "title": "The Era of Total U.S. Submarine Dominance Over China Is Ending - The Wall Street Journal",
       "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lndzai5jb20vd29ybGQvY2hpbmEvdXMtc3VibWFyaW5lLWRvbWluYW5jZS1zaGlmdC1jaGluYS04ZGIxMGEwZNIBAA?oc=5",
@@ -687,21 +677,21 @@
       "category": ""
     },
     {
-      "id": "CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzExL3NvdXRoLWtvcmVhbi1hZG1pcmFsLWNsYWltcy10aGF0LW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWFyZS1uZWNlc3Nhcnkv0gEA",
-      "title": "South Korean Admiral Claims that Nuclear-Powered Submarines are Necessary - Naval News",
-      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzExL3NvdXRoLWtvcmVhbi1hZG1pcmFsLWNsYWltcy10aGF0LW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWFyZS1uZWNlc3Nhcnkv0gEA?oc=5",
-      "published": "2023-11-16T08:00:00.000Z",
-      "description": "South Korean Admiral Claims that Nuclear-Powered Submarines are Necessary&nbsp;&nbsp;Naval News",
+      "id": "CBMiP2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItdHJpYWwtMTkxNDEwMtIBAA",
+      "title": "Russia Trials 'Arkhangelsk' Stealth Submarine Armed with Hypersonic Nukes - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9ydXNzaWEtc3VibWFyaW5lLW51Y2xlYXItdHJpYWwtMTkxNDEwMtIBAA?oc=5",
+      "published": "2024-06-18T11:45:23.000Z",
+      "description": "Russia Trials 'Arkhangelsk' Stealth Submarine Armed with Hypersonic Nukes&nbsp;&nbsp;Newsweek",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vd29ybGQtbmV3cy9ydXNzaWEtbnVjbGVhci1wb3dlcmVkLXN1Ym1hcmluZXMtbGF1bmNoLW1pc3NpbGVzLWR1cmluZy1iYXJlbnRzLXNlYS1kcmlsbHMtMTI0MDYxOTAwMjQyXzEuaHRtbNIBkAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYW1wL3dvcmxkLW5ld3MvcnVzc2lhLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWxhdW5jaC1taXNzaWxlcy1kdXJpbmctYmFyZW50cy1zZWEtZHJpbGxzLTEyNDA2MTkwMDI0Ml8xLmh0bWw",
-      "title": "Russia nuclear-powered submarines launch missiles during Barents Sea drills - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vd29ybGQtbmV3cy9ydXNzaWEtbnVjbGVhci1wb3dlcmVkLXN1Ym1hcmluZXMtbGF1bmNoLW1pc3NpbGVzLWR1cmluZy1iYXJlbnRzLXNlYS1kcmlsbHMtMTI0MDYxOTAwMjQyXzEuaHRtbNIBkAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYW1wL3dvcmxkLW5ld3MvcnVzc2lhLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWxhdW5jaC1taXNzaWxlcy1kdXJpbmctYmFyZW50cy1zZWEtZHJpbGxzLTEyNDA2MTkwMDI0Ml8xLmh0bWw?oc=5",
-      "published": "2024-06-19T05:51:08.000Z",
-      "description": "Russia nuclear-powered submarines launch missiles during Barents Sea drills&nbsp;&nbsp;Business Standard",
+      "id": "CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzExL3NvdXRoLWtvcmVhbi1hZG1pcmFsLWNsYWltcy10aGF0LW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWFyZS1uZWNlc3Nhcnkv0gEA",
+      "title": "South Korean Admiral Claims that Nuclear-Powered Submarines are Necessary - Naval News",
+      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzExL3NvdXRoLWtvcmVhbi1hZG1pcmFsLWNsYWltcy10aGF0LW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWFyZS1uZWNlc3Nhcnkv0gEA?oc=5",
+      "published": "2023-11-16T08:00:00.000Z",
+      "description": "South Korean Admiral Claims that Nuclear-Powered Submarines are Necessary&nbsp;&nbsp;Naval News",
       "summary": "",
       "author": "",
       "category": ""
@@ -717,21 +707,21 @@
       "category": ""
     },
     {
-      "id": "CBMifWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1s0gGBAWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1sL2FtcA",
-      "title": "Chinese nuclear submarine appears in Taiwan Strait, causes concern across region - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1s0gGBAWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1sL2FtcA?oc=5",
-      "published": "2024-06-19T13:42:28.000Z",
-      "description": "Chinese nuclear submarine appears in Taiwan Strait, causes concern across region&nbsp;&nbsp;Firstpost",
+      "id": "CBMijAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vd29ybGQtbmV3cy9ydXNzaWEtbnVjbGVhci1wb3dlcmVkLXN1Ym1hcmluZXMtbGF1bmNoLW1pc3NpbGVzLWR1cmluZy1iYXJlbnRzLXNlYS1kcmlsbHMtMTI0MDYxOTAwMjQyXzEuaHRtbNIBkAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYW1wL3dvcmxkLW5ld3MvcnVzc2lhLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWxhdW5jaC1taXNzaWxlcy1kdXJpbmctYmFyZW50cy1zZWEtZHJpbGxzLTEyNDA2MTkwMDI0Ml8xLmh0bWw",
+      "title": "Russia nuclear-powered submarines launch missiles during Barents Sea drills - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vd29ybGQtbmV3cy9ydXNzaWEtbnVjbGVhci1wb3dlcmVkLXN1Ym1hcmluZXMtbGF1bmNoLW1pc3NpbGVzLWR1cmluZy1iYXJlbnRzLXNlYS1kcmlsbHMtMTI0MDYxOTAwMjQyXzEuaHRtbNIBkAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYW1wL3dvcmxkLW5ld3MvcnVzc2lhLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzLWxhdW5jaC1taXNzaWxlcy1kdXJpbmctYmFyZW50cy1zZWEtZHJpbGxzLTEyNDA2MTkwMDI0Ml8xLmh0bWw?oc=5",
+      "published": "2024-06-19T05:51:08.000Z",
+      "description": "Russia nuclear-powered submarines launch missiles during Barents Sea drills&nbsp;&nbsp;Business Standard",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMib2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci1yZWFjdG9yLWxlYWtpbmctcnVzc2lhbi1zdWJtYXJpbmUtYmVjYW1lLXVuZGVyd2F0ZXItY2hlcm5vYnlsLTIxMTQ5NtIBAA",
-      "title": "\"Sir, the Reactor Is Leaking\": A Russian Submarine Became an Underwater Chernobyl - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci1yZWFjdG9yLWxlYWtpbmctcnVzc2lhbi1zdWJtYXJpbmUtYmVjYW1lLXVuZGVyd2F0ZXItY2hlcm5vYnlsLTIxMTQ5NtIBAA?oc=5",
-      "published": "2024-06-18T17:27:17.000Z",
-      "description": "\"Sir, the Reactor Is Leaking\": A Russian Submarine Became an Underwater Chernobyl&nbsp;&nbsp;The National Interest Online",
+      "id": "CBMifWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1s0gGBAWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1sL2FtcA",
+      "title": "Chinese nuclear submarine appears in Taiwan Strait, causes concern across region - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1s0gGBAWh0dHBzOi8vd3d3LmZpcnN0cG9zdC5jb20vd29ybGQvY2hpbmVzZS1udWNsZWFyLXN1Ym1hcmluZS1hcHBlYXJzLWluLXRhaXdhbi1zdHJhaXQtY2F1c2VzLWNvbmNlcm4tYWNyb3NzLXJlZ2lvbi0xMzc4NDA1NC5odG1sL2FtcA?oc=5",
+      "published": "2024-06-19T13:42:28.000Z",
+      "description": "Chinese nuclear submarine appears in Taiwan Strait, causes concern across region&nbsp;&nbsp;Firstpost",
       "summary": "",
       "author": "",
       "category": ""
@@ -757,21 +747,21 @@
       "category": ""
     },
     {
-      "id": "CBMiiQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZdIBiQFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZQ",
-      "title": "UK’s ever more expensive nuclear submarines will torpedo spending plans for years to come - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZdIBiQFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZQ?oc=5",
-      "published": "2024-03-31T07:00:00.000Z",
-      "description": "UK’s ever more expensive nuclear submarines will torpedo spending plans for years to come&nbsp;&nbsp;The Guardian",
+      "id": "CBMib2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci1yZWFjdG9yLWxlYWtpbmctcnVzc2lhbi1zdWJtYXJpbmUtYmVjYW1lLXVuZGVyd2F0ZXItY2hlcm5vYnlsLTIxMTQ5NtIBAA",
+      "title": "\"Sir, the Reactor Is Leaking\": A Russian Submarine Became an Underwater Chernobyl - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci1yZWFjdG9yLWxlYWtpbmctcnVzc2lhbi1zdWJtYXJpbmUtYmVjYW1lLXVuZGVyd2F0ZXItY2hlcm5vYnlsLTIxMTQ5NtIBAA?oc=5",
+      "published": "2024-06-18T17:27:17.000Z",
+      "description": "\"Sir, the Reactor Is Leaking\": A Russian Submarine Became an Underwater Chernobyl&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiNWh0dHA6Ly9lbi5wZW9wbGUuY24vbjMvMjAyNC8wNjIwL2M5MDAwMC0yMDE4MzI4My5odG1s0gEA",
-      "title": "Loyalty, grit shape 70 years of Chinese submarine force - People's Daily",
-      "link": "https://news.google.com/rss/articles/CBMiNWh0dHA6Ly9lbi5wZW9wbGUuY24vbjMvMjAyNC8wNjIwL2M5MDAwMC0yMDE4MzI4My5odG1s0gEA?oc=5",
-      "published": "2024-06-20T00:25:00.000Z",
-      "description": "Loyalty, grit shape 70 years of Chinese submarine force&nbsp;&nbsp;People's Daily",
+      "id": "CBMiiQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZdIBiQFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZQ",
+      "title": "UK’s ever more expensive nuclear submarines will torpedo spending plans for years to come - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZdIBiQFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vYnVzaW5lc3MvMjAyNC9tYXIvMzEvdWtzLWV2ZXItbW9yZS1leHBlbnNpdmUtbnVjbGVhci1zdWJtYXJpbmVzLXdpbGwtdG9ycGVkby1zcGVuZGluZy1wbGFucy1mb3IteWVhcnMtdG8tY29tZQ?oc=5",
+      "published": "2024-03-31T07:00:00.000Z",
+      "description": "UK’s ever more expensive nuclear submarines will torpedo spending plans for years to come&nbsp;&nbsp;The Guardian",
       "summary": "",
       "author": "",
       "category": ""
@@ -787,11 +777,11 @@
       "category": ""
     },
     {
-      "id": "CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3RhaXdhbi1rZWVwaW5nLXdhdGNoLWNoaW5lc2Utc3VibWFyaW5lLTAyNTU1ODc3NS5odG1s0gEA",
-      "title": "Taiwan keeping watch after Chinese submarine surfaces in Taiwan Strait - Yahoo! Voices",
-      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3RhaXdhbi1rZWVwaW5nLXdhdGNoLWNoaW5lc2Utc3VibWFyaW5lLTAyNTU1ODc3NS5odG1s0gEA?oc=5",
-      "published": "2024-06-18T05:42:00.000Z",
-      "description": "Taiwan keeping watch after Chinese submarine surfaces in Taiwan Strait&nbsp;&nbsp;Yahoo! Voices",
+      "id": "CBMiNWh0dHA6Ly9lbi5wZW9wbGUuY24vbjMvMjAyNC8wNjIwL2M5MDAwMC0yMDE4MzI4My5odG1s0gEA",
+      "title": "Loyalty, grit shape 70 years of Chinese submarine force - People's Daily",
+      "link": "https://news.google.com/rss/articles/CBMiNWh0dHA6Ly9lbi5wZW9wbGUuY24vbjMvMjAyNC8wNjIwL2M5MDAwMC0yMDE4MzI4My5odG1s0gEA?oc=5",
+      "published": "2024-06-20T00:25:00.000Z",
+      "description": "Loyalty, grit shape 70 years of Chinese submarine force&nbsp;&nbsp;People's Daily",
       "summary": "",
       "author": "",
       "category": ""
@@ -802,6 +792,16 @@
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wdXRpbi12aWV3cy1uZXctbnVjbGVhci1zdWJtYXJpbmVzLXNheXMtbW9yZS1hcmUtYmVpbmctcm9sbGVkLW91dC0yMDIzLTEyLTExL9IBAA?oc=5",
       "published": "2023-12-11T08:00:00.000Z",
       "description": "Putin views new nuclear submarines, says more are being rolled out&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3RhaXdhbi1rZWVwaW5nLXdhdGNoLWNoaW5lc2Utc3VibWFyaW5lLTAyNTU1ODc3NS5odG1s0gEA",
+      "title": "Taiwan keeping watch after Chinese submarine surfaces in Taiwan Strait - Yahoo! Voices",
+      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3RhaXdhbi1rZWVwaW5nLXdhdGNoLWNoaW5lc2Utc3VibWFyaW5lLTAyNTU1ODc3NS5odG1s0gEA?oc=5",
+      "published": "2024-06-18T05:42:00.000Z",
+      "description": "Taiwan keeping watch after Chinese submarine surfaces in Taiwan Strait&nbsp;&nbsp;Yahoo! Voices",
       "summary": "",
       "author": "",
       "category": ""
@@ -837,16 +837,6 @@
       "category": ""
     },
     {
-      "id": "CBMifGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci13ZS1oaXQtYW5vdGhlci1zdWJtYXJpbmUtYnJpdGlzaC1hbmQtZnJlbmNoLW51Y2xlYXItbWlzc2lsZXMtc3Vicy1jb2xsaWRlZC0yMTE0NTTSAQA",
-      "title": "\"Sir, We Hit Another Submarine\": British and French Nuclear Missiles Subs Collided - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci13ZS1oaXQtYW5vdGhlci1zdWJtYXJpbmUtYnJpdGlzaC1hbmQtZnJlbmNoLW51Y2xlYXItbWlzc2lsZXMtc3Vicy1jb2xsaWRlZC0yMTE0NTTSAQA?oc=5",
-      "published": "2024-06-14T07:00:00.000Z",
-      "description": "\"Sir, We Hit Another Submarine\": British and French Nuclear Missiles Subs Collided&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMijwFodHRwczovL3d3dy5uYXZ5Lm1pbC9QcmVzcy1PZmZpY2UvTmV3cy1TdG9yaWVzL0FydGljbGUvMzU3MzQ1NC9zZWNvbmQtY2FkcmUtb2Ytcm95YWwtYXVzdHJhbGlhbi1uYXZ5LW9mZmljZXJzLWdyYWR1YXRlLWZyb20tbnVjbGVhci1wb3dlci1zY2hvL9IBAA",
       "title": "Second Cadre of Royal Australian Navy Officers Graduate from Nuclear Power School while Fi - navy.mil",
       "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5uYXZ5Lm1pbC9QcmVzcy1PZmZpY2UvTmV3cy1TdG9yaWVzL0FydGljbGUvMzU3MzQ1NC9zZWNvbmQtY2FkcmUtb2Ytcm95YWwtYXVzdHJhbGlhbi1uYXZ5LW9mZmljZXJzLWdyYWR1YXRlLWZyb20tbnVjbGVhci1wb3dlci1zY2hvL9IBAA?oc=5",
@@ -877,6 +867,16 @@
       "category": ""
     },
     {
+      "id": "CBMifGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci13ZS1oaXQtYW5vdGhlci1zdWJtYXJpbmUtYnJpdGlzaC1hbmQtZnJlbmNoLW51Y2xlYXItbWlzc2lsZXMtc3Vicy1jb2xsaWRlZC0yMTE0NTTSAQA",
+      "title": "\"Sir, We Hit Another Submarine\": British and French Nuclear Missiles Subs Collided - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Npci13ZS1oaXQtYW5vdGhlci1zdWJtYXJpbmUtYnJpdGlzaC1hbmQtZnJlbmNoLW51Y2xlYXItbWlzc2lsZXMtc3Vicy1jb2xsaWRlZC0yMTE0NTTSAQA?oc=5",
+      "published": "2024-06-14T07:00:00.000Z",
+      "description": "\"Sir, We Hit Another Submarine\": British and French Nuclear Missiles Subs Collided&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiWmh0dHBzOi8vY3RtaXJyb3Iub3JnLzIwMjMvMTIvMTQvY3Qtc2lrb3Jza3ktcHJhdHQtd2hpdG5leS1lbGVjdHJpYy1ib2F0LW51Y2xlYXItc3VibWFyaW5lL9IBAA",
       "title": "Federal bill bolsters CT defense industry, nuclear submarine deal - The Connecticut Mirror",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vY3RtaXJyb3Iub3JnLzIwMjMvMTIvMTQvY3Qtc2lrb3Jza3ktcHJhdHQtd2hpdG5leS1lbGVjdHJpYy1ib2F0LW51Y2xlYXItc3VibWFyaW5lL9IBAA?oc=5",
@@ -897,21 +897,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYdIBXmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYS9hbXA",
-      "title": "Russia fires missiles from nuclear submarines in latest show of force against NATO - Express",
-      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYdIBXmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYS9hbXA?oc=5",
-      "published": "2024-06-19T10:55:00.000Z",
-      "description": "Russia fires missiles from nuclear submarines in latest show of force against NATO&nbsp;&nbsp;Express",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZWh0dHBzOi8vYXNpYS5uaWtrZWkuY29tL1BvbGl0aWNzL0RlZmVuc2UvVS5TLi1jdXRzLWtleS1zdWJtYXJpbmUtb3JkZXItZm9yLTIwMjUtYW1pZC1zaGlwYnVpbGRpbmctamFt0gEA",
       "title": "U.S. cuts key submarine order for 2025 amid shipbuilding jam - Nikkei Asia",
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXNpYS5uaWtrZWkuY29tL1BvbGl0aWNzL0RlZmVuc2UvVS5TLi1jdXRzLWtleS1zdWJtYXJpbmUtb3JkZXItZm9yLTIwMjUtYW1pZC1zaGlwYnVpbGRpbmctamFt0gEA?oc=5",
       "published": "2024-03-12T07:00:00.000Z",
       "description": "U.S. cuts key submarine order for 2025 amid shipbuilding jam&nbsp;&nbsp;Nikkei Asia",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYdIBXmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYS9hbXA",
+      "title": "Russia fires missiles from nuclear submarines in latest show of force against NATO - Express",
+      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYdIBXmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy93b3JsZC8xOTEyOTQxL3J1c3NpYS1taXNzaWxlcy1udWNsZWFyLXN1Ym1hcmluZS1iYXJlbnRzLXNlYS9hbXA?oc=5",
+      "published": "2024-06-19T10:55:00.000Z",
+      "description": "Russia fires missiles from nuclear submarines in latest show of force against NATO&nbsp;&nbsp;Express",
       "summary": "",
       "author": "",
       "category": ""
@@ -927,16 +927,6 @@
       "category": ""
     },
     {
-      "id": "CBMidWh0dHBzOi8vd3d3Lm55c3VuLmNvbS9hcnRpY2xlL3dpbGwtdGhlLWJpZGVuLWFkbWluaXN0cmF0aW9uLXJlc3BvbmQtYXMtcnVzcy1udWNsZWFyLXN1Ym1hcmluZS1jaHVncy11cC10aGUtZWFzdC1jb2FzdNIBAA",
-      "title": "Will the Biden Administration Respond as Russ Nuclear Submarine Chugs up the East Coast? - The New York Sun",
-      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm55c3VuLmNvbS9hcnRpY2xlL3dpbGwtdGhlLWJpZGVuLWFkbWluaXN0cmF0aW9uLXJlc3BvbmQtYXMtcnVzcy1udWNsZWFyLXN1Ym1hcmluZS1jaHVncy11cC10aGUtZWFzdC1jb2FzdNIBAA?oc=5",
-      "published": "2024-06-21T10:37:27.000Z",
-      "description": "Will the Biden Administration Respond as Russ Nuclear Submarine Chugs up the East Coast?&nbsp;&nbsp;The New York Sun",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wNS9wb2xpdGljcy91cy1taXNzaWxlLXN1Ym1hcmluZS1taWRkbGUtZWFzdC9pbmRleC5odG1s0gFMaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMS8wNS9wb2xpdGljcy91cy1taXNzaWxlLXN1Ym1hcmluZS1taWRkbGUtZWFzdA",
       "title": "In rare announcement, US says guided missile sub has arrived in Middle East, a message of deterrence to adversaries - CNN",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMS8wNS9wb2xpdGljcy91cy1taXNzaWxlLXN1Ym1hcmluZS1taWRkbGUtZWFzdC9pbmRleC5odG1s0gFMaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMS8wNS9wb2xpdGljcy91cy1taXNzaWxlLXN1Ym1hcmluZS1taWRkbGUtZWFzdA?oc=5",
@@ -947,21 +937,21 @@
       "category": ""
     },
     {
-      "id": "CBMikQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2dlbmVyYWwtZHluYW1pY3MtZWxlY3RyaWMtYm9hdC1hd2FyZGVkLTIxNy1taWxsaW9uLWNvbnRyYWN0LWZvci12aXJnaW5pYS1jbGFzcy1zdWJtYXJpbmVzLTMwMTk1ODAxNS5odG1s0gEA",
-      "title": "General Dynamics Electric Boat Awarded $217 Million Contract for Virginia-Class Submarines - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2dlbmVyYWwtZHluYW1pY3MtZWxlY3RyaWMtYm9hdC1hd2FyZGVkLTIxNy1taWxsaW9uLWNvbnRyYWN0LWZvci12aXJnaW5pYS1jbGFzcy1zdWJtYXJpbmVzLTMwMTk1ODAxNS5odG1s0gEA?oc=5",
-      "published": "2023-10-16T07:00:00.000Z",
-      "description": "General Dynamics Electric Boat Awarded $217 Million Contract for Virginia-Class Submarines&nbsp;&nbsp;PR Newswire",
+      "id": "CBMidWh0dHBzOi8vd3d3Lm55c3VuLmNvbS9hcnRpY2xlL3dpbGwtdGhlLWJpZGVuLWFkbWluaXN0cmF0aW9uLXJlc3BvbmQtYXMtcnVzcy1udWNsZWFyLXN1Ym1hcmluZS1jaHVncy11cC10aGUtZWFzdC1jb2FzdNIBAA",
+      "title": "Will the Biden Administration Respond as Russ Nuclear Submarine Chugs up the East Coast? - The New York Sun",
+      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm55c3VuLmNvbS9hcnRpY2xlL3dpbGwtdGhlLWJpZGVuLWFkbWluaXN0cmF0aW9uLXJlc3BvbmQtYXMtcnVzcy1udWNsZWFyLXN1Ym1hcmluZS1jaHVncy11cC10aGUtZWFzdC1jb2FzdNIBAA?oc=5",
+      "published": "2024-06-21T10:37:27.000Z",
+      "description": "Will the Biden Administration Respond as Russ Nuclear Submarine Chugs up the East Coast?&nbsp;&nbsp;The New York Sun",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiNGh0dHBzOi8vd3d3Lmdsb2JhbHRpbWVzLmNuL3BhZ2UvMjAyNDA2LzEzMTQyNzYuc2h0bWzSAQA",
-      "title": "PLA Navy’s submarine force makes historic breakthroughs - Global Times",
-      "link": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3Lmdsb2JhbHRpbWVzLmNuL3BhZ2UvMjAyNDA2LzEzMTQyNzYuc2h0bWzSAQA?oc=5",
-      "published": "2024-06-17T13:29:00.000Z",
-      "description": "PLA Navy’s submarine force makes historic breakthroughs&nbsp;&nbsp;Global Times",
+      "id": "CBMikQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2dlbmVyYWwtZHluYW1pY3MtZWxlY3RyaWMtYm9hdC1hd2FyZGVkLTIxNy1taWxsaW9uLWNvbnRyYWN0LWZvci12aXJnaW5pYS1jbGFzcy1zdWJtYXJpbmVzLTMwMTk1ODAxNS5odG1s0gEA",
+      "title": "General Dynamics Electric Boat Awarded $217 Million Contract for Virginia-Class Submarines - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL2dlbmVyYWwtZHluYW1pY3MtZWxlY3RyaWMtYm9hdC1hd2FyZGVkLTIxNy1taWxsaW9uLWNvbnRyYWN0LWZvci12aXJnaW5pYS1jbGFzcy1zdWJtYXJpbmVzLTMwMTk1ODAxNS5odG1s0gEA?oc=5",
+      "published": "2023-10-16T07:00:00.000Z",
+      "description": "General Dynamics Electric Boat Awarded $217 Million Contract for Virginia-Class Submarines&nbsp;&nbsp;PR Newswire",
       "summary": "",
       "author": "",
       "category": ""
@@ -987,11 +977,21 @@
       "category": ""
     },
     {
-      "id": "CBMiY2h0dHBzOi8vd3RhcS5jb20vMjAyNC8wNi8xNy90YWl3YW4ta2VlcGluZy13YXRjaC1hZnRlci1jaGluZXNlLXN1Ym1hcmluZS1zdXJmYWNlcy1pbi10YWl3YW4tc3RyYWl0L9IBAA",
-      "title": "Taiwan keeping watch after Chinese submarine surfaces in Taiwan Strait - WTAQ",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3RhcS5jb20vMjAyNC8wNi8xNy90YWl3YW4ta2VlcGluZy13YXRjaC1hZnRlci1jaGluZXNlLXN1Ym1hcmluZS1zdXJmYWNlcy1pbi10YWl3YW4tc3RyYWl0L9IBAA?oc=5",
-      "published": "2024-06-18T02:48:45.000Z",
-      "description": "Taiwan keeping watch after Chinese submarine surfaces in Taiwan Strait&nbsp;&nbsp;WTAQ",
+      "id": "CBMiS2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzAzLzIyL2F1c3RyYWxpYS1iYWUtbnVjbGVhci1zdWJtYXJpbmVzL9IBAA",
+      "title": "Australia Picks BAE to Build Multibillion-Dollar Nuclear Submarines - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzAzLzIyL2F1c3RyYWxpYS1iYWUtbnVjbGVhci1zdWJtYXJpbmVzL9IBAA?oc=5",
+      "published": "2024-03-22T07:00:00.000Z",
+      "description": "Australia Picks BAE to Build Multibillion-Dollar Nuclear Submarines&nbsp;&nbsp;The Defense Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiggFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL2ludGVybmF0aW9uYWwvYXJ0aWNsZS8yMDI0LzAzLzI3L2ZyYW5jZS10by1oZWxwLWJyYXppbC1kZXZlbG9wLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzXzY2NTk4MTJfNC5odG1s0gEA",
+      "title": "France to help Brazil develop nuclear-powered submarines - Le Monde",
+      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL2ludGVybmF0aW9uYWwvYXJ0aWNsZS8yMDI0LzAzLzI3L2ZyYW5jZS10by1oZWxwLWJyYXppbC1kZXZlbG9wLW51Y2xlYXItcG93ZXJlZC1zdWJtYXJpbmVzXzY2NTk4MTJfNC5odG1s0gEA?oc=5",
+      "published": "2024-03-27T07:00:00.000Z",
+      "description": "France to help Brazil develop nuclear-powered submarines&nbsp;&nbsp;Le Monde",
       "summary": "",
       "author": "",
       "category": ""
