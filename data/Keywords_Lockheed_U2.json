@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-25T14:31:34.000Z",
+  "published": "2024-06-25T15:27:15.000Z",
   "entries": [
     {
       "id": "CBMibWh0dHBzOi8vbmV3cy5sb2NraGVlZG1hcnRpbi5jb20vMjAyMy0wOS0yNi1Mb2NraGVlZC1NYXJ0aW4tQ29uZHVjdHMtRmlyc3QtRmxpZ2h0LWluLVUtMi1Bdmlvbmljcy1UZWNoLVJlZnJlc2jSAQA",
@@ -82,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzA5LzI3L3VzLWRyYWdvbi1sYWR5LXNweS1wbGFuZS_SAQA?oc=5",
       "published": "2023-09-27T07:00:00.000Z",
       "description": "USAF Conducts First Flight of Upgraded U-2 Dragon Lady Spy Plane&nbsp;&nbsp;The Defense Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiT2h0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9vZmYtZHV0eS9hdXRvcy91LTItY2hhc2UtY2FyLXNweS1qZXRzLWJlc3QtZnJpZW5kLmh0bWzSAVNodHRwczovL3d3dy5taWxpdGFyeS5jb20vb2ZmLWR1dHkvYXV0b3MvdS0yLWNoYXNlLWNhci1zcHktamV0cy1iZXN0LWZyaWVuZC5odG1sP2FtcA",
-      "title": "The U-2 Chase Car Is a Spy Jet's Best Friend - Military.com",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9vZmYtZHV0eS9hdXRvcy91LTItY2hhc2UtY2FyLXNweS1qZXRzLWJlc3QtZnJpZW5kLmh0bWzSAVNodHRwczovL3d3dy5taWxpdGFyeS5jb20vb2ZmLWR1dHkvYXV0b3MvdS0yLWNoYXNlLWNhci1zcHktamV0cy1iZXN0LWZyaWVuZC5odG1sP2FtcA?oc=5",
-      "published": "2024-01-04T08:00:00.000Z",
-      "description": "The U-2 Chase Car Is a Spy Jet's Best Friend&nbsp;&nbsp;Military.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -237,6 +227,16 @@
       "category": ""
     },
     {
+      "id": "CBMijwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lL9IBjwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lLw",
+      "title": "U-2 driver explains why Dragon Lady pilots must stall the U-2 in the air in order to land the iconic spy plane - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lL9IBjwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lLw?oc=5",
+      "published": "2024-03-23T09:02:36.000Z",
+      "description": "U-2 driver explains why Dragon Lady pilots must stall the U-2 in the air in order to land the iconic spy plane&nbsp;&nbsp;The Aviation Geek Club",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMicmh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9sZWdlbmRhcnktc3B5LXBsYW5lLXJldGlyZWQtZnJvbS1ub3J0aGVybi1jYWxpZm9ybmlhLWFpci1mb3JjZS1iYXNlL9IBdmh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9sZWdlbmRhcnktc3B5LXBsYW5lLXJldGlyZWQtZnJvbS1ub3J0aGVybi1jYWxpZm9ybmlhLWFpci1mb3JjZS1iYXNlL2FtcC8",
       "title": "Legendary spy plane retired from Northern California Air Force Base - KTXL FOX 40 Sacramento",
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9sZWdlbmRhcnktc3B5LXBsYW5lLXJldGlyZWQtZnJvbS1ub3J0aGVybi1jYWxpZm9ybmlhLWFpci1mb3JjZS1iYXNlL9IBdmh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9sZWdlbmRhcnktc3B5LXBsYW5lLXJldGlyZWQtZnJvbS1ub3J0aGVybi1jYWxpZm9ybmlhLWFpci1mb3JjZS1iYXNlL2FtcC8?oc=5",
@@ -267,11 +267,11 @@
       "category": ""
     },
     {
-      "id": "CBMijwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lL9IBjwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lLw",
-      "title": "U-2 driver explains why Dragon Lady pilots must stall the U-2 in the air in order to land the iconic spy plane - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lL9IBjwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3UtMi1kcml2ZXItZXhwbGFpbnMtd2h5LWRyYWdvbi1sYWR5LXBpbG90cy1tdXN0LXN0YWxsLXRoZS11LTItaW4tdGhlLWFpci1pbi1vcmRlci10by1sYW5kLXRoZS1pY29uaWMtc3B5LXBsYW5lLw?oc=5",
-      "published": "2024-03-23T09:02:36.000Z",
-      "description": "U-2 driver explains why Dragon Lady pilots must stall the U-2 in the air in order to land the iconic spy plane&nbsp;&nbsp;The Aviation Geek Club",
+      "id": "CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA",
+      "title": "Rare TU-2S plane takes to the skies after three years of maintenance - defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA?oc=5",
+      "published": "2024-03-25T07:00:00.000Z",
+      "description": "Rare TU-2S plane takes to the skies after three years of maintenance&nbsp;&nbsp;defence-blog.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -287,11 +287,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA",
-      "title": "Rare TU-2S plane takes to the skies after three years of maintenance - defence-blog.com",
-      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA?oc=5",
-      "published": "2024-03-25T07:00:00.000Z",
-      "description": "Rare TU-2S plane takes to the skies after three years of maintenance&nbsp;&nbsp;defence-blog.com",
+      "id": "CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8",
+      "title": "Beale Air Force Base retires third U-2 of 2024 - KTXL FOX 40 Sacramento",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8?oc=5",
+      "published": "2024-04-23T07:00:00.000Z",
+      "description": "Beale Air Force Base retires third U-2 of 2024&nbsp;&nbsp;KTXL FOX 40 Sacramento",
       "summary": "",
       "author": "",
       "category": ""
@@ -357,11 +357,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8",
-      "title": "Beale Air Force Base retires third U-2 of 2024 - KTXL FOX 40 Sacramento",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8?oc=5",
-      "published": "2024-04-23T07:00:00.000Z",
-      "description": "Beale Air Force Base retires third U-2 of 2024&nbsp;&nbsp;KTXL FOX 40 Sacramento",
+      "id": "CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtMi1yZXRpcmVtZW50LXJlcHJpZXZlLWVtZXJnZXMtMjAyNzU5NDc5Lmh0bWzSAQA",
+      "title": "U-2 Retirement Reprieve Emerges In Proposed Defense Spending Bill - Yahoo! Voices",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtMi1yZXRpcmVtZW50LXJlcHJpZXZlLWVtZXJnZXMtMjAyNzU5NDc5Lmh0bWzSAQA?oc=5",
+      "published": "2024-06-04T07:00:00.000Z",
+      "description": "U-2 Retirement Reprieve Emerges In Proposed Defense Spending Bill&nbsp;&nbsp;Yahoo! Voices",
       "summary": "",
       "author": "",
       "category": ""
@@ -527,21 +527,21 @@
       "category": ""
     },
     {
-      "id": "CBMiX2h0dHBzOi8vd3d3LmFpcmRhdGFuZXdzLmNvbS91LTItc3B5LXBsYW5lLWNvbXBsZXRlcy1maXJzdC1mbGlnaHQtd2l0aC11cGRhdGVkLWF2aW9uaWNzLXBhY2thZ2Uv0gEA",
-      "title": "U-2 spy plane completes first flight with updated avionics package - Air Data News",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFpcmRhdGFuZXdzLmNvbS91LTItc3B5LXBsYW5lLWNvbXBsZXRlcy1maXJzdC1mbGlnaHQtd2l0aC11cGRhdGVkLWF2aW9uaWNzLXBhY2thZ2Uv0gEA?oc=5",
-      "published": "2023-09-26T07:00:00.000Z",
-      "description": "U-2 spy plane completes first flight with updated avionics package&nbsp;&nbsp;Air Data News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZGh0dHBzOi8vd2NjZnRlY2guY29tL2xvY2toZWVkLWZsaWVzLWZpcnN0LXUtMi1hcy1wYXJ0LW9mLXVwZ3JhZGVzLXRoYXQtaW5jbHVkZS10b3VjaHNjcmVlbi1kaXNwbGF5cy_SAWhodHRwczovL3djY2Z0ZWNoLmNvbS9sb2NraGVlZC1mbGllcy1maXJzdC11LTItYXMtcGFydC1vZi11cGdyYWRlcy10aGF0LWluY2x1ZGUtdG91Y2hzY3JlZW4tZGlzcGxheXMvYW1wLw",
       "title": "Lockheed Flies First U-2 As Part Of Upgrades That Include Touchscreen Displays - Wccftech",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd2NjZnRlY2guY29tL2xvY2toZWVkLWZsaWVzLWZpcnN0LXUtMi1hcy1wYXJ0LW9mLXVwZ3JhZGVzLXRoYXQtaW5jbHVkZS10b3VjaHNjcmVlbi1kaXNwbGF5cy_SAWhodHRwczovL3djY2Z0ZWNoLmNvbS9sb2NraGVlZC1mbGllcy1maXJzdC11LTItYXMtcGFydC1vZi11cGdyYWRlcy10aGF0LWluY2x1ZGUtdG91Y2hzY3JlZW4tZGlzcGxheXMvYW1wLw?oc=5",
       "published": "2023-09-26T07:00:00.000Z",
       "description": "Lockheed Flies First U-2 As Part Of Upgrades That Include Touchscreen Displays&nbsp;&nbsp;Wccftech",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiX2h0dHBzOi8vd3d3LmFpcmRhdGFuZXdzLmNvbS91LTItc3B5LXBsYW5lLWNvbXBsZXRlcy1maXJzdC1mbGlnaHQtd2l0aC11cGRhdGVkLWF2aW9uaWNzLXBhY2thZ2Uv0gEA",
+      "title": "U-2 spy plane completes first flight with updated avionics package - Air Data News",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFpcmRhdGFuZXdzLmNvbS91LTItc3B5LXBsYW5lLWNvbXBsZXRlcy1maXJzdC1mbGlnaHQtd2l0aC11cGRhdGVkLWF2aW9uaWNzLXBhY2thZ2Uv0gEA?oc=5",
+      "published": "2023-09-26T07:00:00.000Z",
+      "description": "U-2 spy plane completes first flight with updated avionics package&nbsp;&nbsp;Air Data News",
       "summary": "",
       "author": "",
       "category": ""
@@ -837,6 +837,16 @@
       "category": ""
     },
     {
+      "id": "CBMia2h0dHBzOi8vYXJteXJlY29nbml0aW9uLmNvbS9uZXdzL2FybXktbmV3cy9hcm15LW5ld3MtMjAyNC91LTItZHJhZ29uLWxhZHktc3B5LXBsYW5lLWFwcGVhcnMtaW4tcG9saXNoLXNraWVz0gEA",
+      "title": "U-2 Dragon Lady spy plane appears in Polish skies - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXJteXJlY29nbml0aW9uLmNvbS9uZXdzL2FybXktbmV3cy9hcm15LW5ld3MtMjAyNC91LTItZHJhZ29uLWxhZHktc3B5LXBsYW5lLWFwcGVhcnMtaW4tcG9saXNoLXNraWVz0gEA?oc=5",
+      "published": "2024-03-13T07:00:00.000Z",
+      "description": "U-2 Dragon Lady spy plane appears in Polish skies&nbsp;&nbsp;Army Recognition",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiRGh0dHBzOi8vd3d3LnR1Y3NvbnNlbnRpbmVsLmNvbS9sb2NhbC9yZXBvcnQvMDQwMjIxX3NweV9wbGFuZV9ib3JkZXIv0gEA",
       "title": "Air Force U-2 spy plane spotted flying along Arizona-Mexico border - TucsonSentinel.com",
       "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnR1Y3NvbnNlbnRpbmVsLmNvbS9sb2NhbC9yZXBvcnQvMDQwMjIxX3NweV9wbGFuZV9ib3JkZXIv0gEA?oc=5",
@@ -927,21 +937,21 @@
       "category": ""
     },
     {
-      "id": "CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ob3ctdS0yLWVuYWJsZWQtY29tbXVuaWNhdGlvbi1iZXR3ZWVuLWZpZ2h0ZXItamV0cy_SAQA",
-      "title": "How An Aging Spy Plane Enabled Communication Between Different Generation Fighter Jets - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ob3ctdS0yLWVuYWJsZWQtY29tbXVuaWNhdGlvbi1iZXR3ZWVuLWZpZ2h0ZXItamV0cy_SAQA?oc=5",
-      "published": "2023-07-15T07:00:00.000Z",
-      "description": "How An Aging Spy Plane Enabled Communication Between Different Generation Fighter Jets&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA",
       "title": "ER-2 High-Altitude Airborne Science Aircraft - NASA",
       "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA?oc=5",
       "published": "2014-09-17T07:00:00.000Z",
       "description": "ER-2 High-Altitude Airborne Science Aircraft&nbsp;&nbsp;NASA",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ob3ctdS0yLWVuYWJsZWQtY29tbXVuaWNhdGlvbi1iZXR3ZWVuLWZpZ2h0ZXItamV0cy_SAQA",
+      "title": "How An Aging Spy Plane Enabled Communication Between Different Generation Fighter Jets - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9ob3ctdS0yLWVuYWJsZWQtY29tbXVuaWNhdGlvbi1iZXR3ZWVuLWZpZ2h0ZXItamV0cy_SAQA?oc=5",
+      "published": "2023-07-15T07:00:00.000Z",
+      "description": "How An Aging Spy Plane Enabled Communication Between Different Generation Fighter Jets&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
       "category": ""
@@ -982,16 +992,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzMwNjA3Ny91LTItZW5oYW5jZXMtd2VhcG9ucy1zY2hvb2wtY2Fwc3RvbmUtZXhwZXJpZW5jZdIBAA?oc=5",
       "published": "2019-02-01T08:00:00.000Z",
       "description": "News - U-2 enhances Weapons School capstone experience&nbsp;&nbsp;DVIDS",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiqwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3RoZS1zb3ZpZXQtbWlnLTE5LXBpbG90LXNob3QtZG93bi1hbmQta2lsbGVkLWJ5LXNvdmlldC1zYW1zLXdoaWxlLWhlLXdhcy10cnlpbmctdG8taW50ZXJjZXB0LXRoZS1hbHJlYWR5LWRlc3Ryb3llZC1mcmFuY2lzLWdhcnktcG93ZXJzLXUtMi_SAasBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS90aGUtc292aWV0LW1pZy0xOS1waWxvdC1zaG90LWRvd24tYW5kLWtpbGxlZC1ieS1zb3ZpZXQtc2Ftcy13aGlsZS1oZS13YXMtdHJ5aW5nLXRvLWludGVyY2VwdC10aGUtYWxyZWFkeS1kZXN0cm95ZWQtZnJhbmNpcy1nYXJ5LXBvd2Vycy11LTIv",
-      "title": "The Soviet MiG-19 pilot shot down and killed by Soviet SAMs while he was trying to intercept the already de... - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3RoZS1zb3ZpZXQtbWlnLTE5LXBpbG90LXNob3QtZG93bi1hbmQta2lsbGVkLWJ5LXNvdmlldC1zYW1zLXdoaWxlLWhlLXdhcy10cnlpbmctdG8taW50ZXJjZXB0LXRoZS1hbHJlYWR5LWRlc3Ryb3llZC1mcmFuY2lzLWdhcnktcG93ZXJzLXUtMi_SAasBaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS90aGUtc292aWV0LW1pZy0xOS1waWxvdC1zaG90LWRvd24tYW5kLWtpbGxlZC1ieS1zb3ZpZXQtc2Ftcy13aGlsZS1oZS13YXMtdHJ5aW5nLXRvLWludGVyY2VwdC10aGUtYWxyZWFkeS1kZXN0cm95ZWQtZnJhbmNpcy1nYXJ5LXBvd2Vycy11LTIv?oc=5",
-      "published": "2024-04-30T09:38:05.000Z",
-      "description": "The Soviet MiG-19 pilot shot down and killed by Soviet SAMs while he was trying to intercept the already de...&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""
