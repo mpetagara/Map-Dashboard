@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-25T12:54:50.000Z",
+  "published": "2024-06-25T13:27:47.000Z",
   "entries": [
     {
       "id": "CBMicGh0dHBzOi8vd3d3LjM4bm9ydGgub3JnLzIwMjQvMDYvdGhlLXJ1c3NpYS1jaGluYS1kcHJrLXN0cmF0ZWdpYy10cmlhbmdsZS1waGFudG9tLXRocmVhdC1vci1nZW9wb2xpdGljYWwtcmVhbGl0eS_SAQA",
@@ -222,6 +222,16 @@
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNwb21hZ2F6aW5lLmNvbS9jeWJlci1zZWN1cml0eS9zdHJhdGVnaWMtY3liZXItZGVmZW5zZS1iYWxhbmNpbmctdGhyZWF0LWNlbnRyaWMtYW5kLXJpc2stY2VudHJpYy1hcHByb2FjaGVzL9IBAA?oc=5",
       "published": "2024-05-15T07:00:00.000Z",
       "description": "Strategic Cyber Defense: Balancing Threat-Centric and Risk-Centric Approaches&nbsp;&nbsp;CPO Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL3d3dy5jc2lzLm9yZy9wcm9ncmFtcy9mb3JtZXItcHJvZ3JhbXMvd2FyZmFyZS1pcnJlZ3VsYXItdGhyZWF0cy1hbmQtdGVycm9yaXNtLXByb2dyYW0tYXJjaGl2ZXMvdGVycm9yaXNtLWJhY2tncm91bmRlcnMvaXNsYW1pY9IBAA",
+      "title": "Islamic State Khorasan (IS-K) | Terrorism Backgrounders - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5jc2lzLm9yZy9wcm9ncmFtcy9mb3JtZXItcHJvZ3JhbXMvd2FyZmFyZS1pcnJlZ3VsYXItdGhyZWF0cy1hbmQtdGVycm9yaXNtLXByb2dyYW0tYXJjaGl2ZXMvdGVycm9yaXNtLWJhY2tncm91bmRlcnMvaXNsYW1pY9IBAA?oc=5",
+      "published": "2024-06-15T23:33:54.000Z",
+      "description": "Islamic State Khorasan (IS-K) | Terrorism Backgrounders&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -637,21 +647,21 @@
       "category": ""
     },
     {
-      "id": "CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjDSAQA",
-      "title": "Space Threat Assessment 2020 - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjDSAQA?oc=5",
-      "published": "2020-03-30T07:00:00.000Z",
-      "description": "Space Threat Assessment 2020&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVGh0dHBzOi8vZm9yZWlnbnBvbGljeS5jb20vMjAyMy8wMS8yMC9qYXBhbi1jaGluYS1lY29ub21pYy1zZWN1cml0eS1zdHJhdGVnaWMtdGhyZWF0L9IBAA",
       "title": "Japan Sees China as Economic, Strategic Threat - Foreign Policy",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZm9yZWlnbnBvbGljeS5jb20vMjAyMy8wMS8yMC9qYXBhbi1jaGluYS1lY29ub21pYy1zZWN1cml0eS1zdHJhdGVnaWMtdGhyZWF0L9IBAA?oc=5",
       "published": "2023-01-20T08:00:00.000Z",
       "description": "Japan Sees China as Economic, Strategic Threat&nbsp;&nbsp;Foreign Policy",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjDSAQA",
+      "title": "Space Threat Assessment 2020 - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3NwYWNlLXRocmVhdC1hc3Nlc3NtZW50LTIwMjDSAQA?oc=5",
+      "published": "2020-03-30T07:00:00.000Z",
+      "description": "Space Threat Assessment 2020&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
@@ -678,10 +688,10 @@
     },
     {
       "id": "CBMidWh0dHBzOi8vd3d3Lm5paC5nb3YvbmV3cy1ldmVudHMvbmV3cy1yZWxlYXNlcy9uaWgtc3RyYXRlZ2ljLXJlc2VhcmNoLXBsYW4tYWRkcmVzc2VzLWdyb3dpbmctdGlja2Jvcm5lLWRpc2Vhc2VzLXRocmVhdNIBAA",
-      "title": "NIH strategic research plan addresses growing tickborne diseases threat - nih.gov",
+      "title": "NIH strategic research plan addresses growing tickborne diseases threat - National Institutes of Health (NIH) (.gov)",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm5paC5nb3YvbmV3cy1ldmVudHMvbmV3cy1yZWxlYXNlcy9uaWgtc3RyYXRlZ2ljLXJlc2VhcmNoLXBsYW4tYWRkcmVzc2VzLWdyb3dpbmctdGlja2Jvcm5lLWRpc2Vhc2VzLXRocmVhdNIBAA?oc=5",
       "published": "2019-10-10T07:00:00.000Z",
-      "description": "NIH strategic research plan addresses growing tickborne diseases threat&nbsp;&nbsp;nih.gov",
+      "description": "NIH strategic research plan addresses growing tickborne diseases threat&nbsp;&nbsp;National Institutes of Health (NIH) (.gov)",
       "summary": "",
       "author": "",
       "category": ""
@@ -917,21 +927,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIxLzA4LzE4L3J1c3NpYS1pcy10b3AtbWlsaXRhcnktdGhyZWF0LXRvLXUtcy1ob21lbGFuZC1haXItZm9yY2UtZ2VuZXJhbC1zYXlz0gEA",
-      "title": "Russia is Top Military Threat to U.S. Homeland, Air Force General Says - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIxLzA4LzE4L3J1c3NpYS1pcy10b3AtbWlsaXRhcnktdGhyZWF0LXRvLXUtcy1ob21lbGFuZC1haXItZm9yY2UtZ2VuZXJhbC1zYXlz0gEA?oc=5",
-      "published": "2021-08-18T07:00:00.000Z",
-      "description": "Russia is Top Military Threat to U.S. Homeland, Air Force General Says - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIzL21heS8yNC9pbnNpZGUtcmluZy1uZXVyby1zdHJpa2Utd2VhcG9ucy1leHBhbmQtZG9tYWlucy13YS_SAQA",
       "title": "Inside the Ring: Neuro-strike weapons expand domains of warfare as new strategic threat, expert says - Washington Times",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lndhc2hpbmd0b250aW1lcy5jb20vbmV3cy8yMDIzL21heS8yNC9pbnNpZGUtcmluZy1uZXVyby1zdHJpa2Utd2VhcG9ucy1leHBhbmQtZG9tYWlucy13YS_SAQA?oc=5",
       "published": "2023-05-24T07:00:00.000Z",
       "description": "Inside the Ring: Neuro-strike weapons expand domains of warfare as new strategic threat, expert says&nbsp;&nbsp;Washington Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIxLzA4LzE4L3J1c3NpYS1pcy10b3AtbWlsaXRhcnktdGhyZWF0LXRvLXUtcy1ob21lbGFuZC1haXItZm9yY2UtZ2VuZXJhbC1zYXlz0gEA",
+      "title": "Russia is Top Military Threat to U.S. Homeland, Air Force General Says - USNI News - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIxLzA4LzE4L3J1c3NpYS1pcy10b3AtbWlsaXRhcnktdGhyZWF0LXRvLXUtcy1ob21lbGFuZC1haXItZm9yY2UtZ2VuZXJhbC1zYXlz0gEA?oc=5",
+      "published": "2021-08-18T07:00:00.000Z",
+      "description": "Russia is Top Military Threat to U.S. Homeland, Air Force General Says - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmxleDE4LmNvbS9uZXdzL3N0YXQtc3RyYXRlZ2ljLXRocmVhdC1hc3Nlc3NtZW50LXRyYWluaW5nLXdvcmtpbmctdG8tcHJldmVudC1tYXNzLXNob290aW5nc9IBAA?oc=5",
       "published": "2023-04-12T07:00:00.000Z",
       "description": "STAT: Strategic Threat Assessment Training working to prevent mass shootings&nbsp;&nbsp;LEX 18 News - Lexington, KY",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiPmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2V2b2x1dGlvbi1zYWxhZmktamloYWRpc3QtdGhyZWF00gEA",
-      "title": "The Evolution of the Salafi-Jihadist Threat - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL2V2b2x1dGlvbi1zYWxhZmktamloYWRpc3QtdGhyZWF00gEA?oc=5",
-      "published": "2018-11-20T08:00:00.000Z",
-      "description": "The Evolution of the Salafi-Jihadist Threat&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
