@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-25T09:25:52.000Z",
+  "published": "2024-06-25T10:32:29.000Z",
   "entries": [
     {
       "id": "CBMidmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzIzMzgvc3RyYXRjb20tY29tbWFuZGVyLWF3YXJkcy1vbWFoYS10cm9waHktdG8tbWFsbXN0cm9tLWFmYi_SAQA",
@@ -127,16 +127,6 @@
       "category": ""
     },
     {
-      "id": "CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3OTk5NjAvc2Vjb25kLW1pbnV0ZW1hbi1paWktdGVzdC1pbi13ZWVrcy10aW1lLXNob3djYXNlcy1yZWFkaW5lc3Mtb2YtdXMtaWNibS1mbGVldC_SAQA",
-      "title": "Second Minuteman III test in week's time showcases readiness of U.S. ICBM fleet - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3OTk5NjAvc2Vjb25kLW1pbnV0ZW1hbi1paWktdGVzdC1pbi13ZWVrcy10aW1lLXNob3djYXNlcy1yZWFkaW5lc3Mtb2YtdXMtaWNibS1mbGVldC_SAQA?oc=5",
-      "published": "2024-06-06T07:00:00.000Z",
-      "description": "Second Minuteman III test in week's time showcases readiness of U.S. ICBM fleet&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY5NDkzNi9zdHJlbmd0aGVuaW5nLW91ci1udWNsZWFyLWRldGVycmVuY2UtcGFydC0xL9IBAA",
       "title": "Strengthening our nuclear deterrence: Part 1 - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY5NDkzNi9zdHJlbmd0aGVuaW5nLW91ci1udWNsZWFyLWRldGVycmVuY2UtcGFydC0xL9IBAA?oc=5",
@@ -152,6 +142,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2NTE2MTEvdXNzdHJhdGNvbS1jb21tYW5kLWNoYXBsYWluLWFuZC1yZWxpZ2lvdXMtYWZmYWlycy1zZWwtdmlzaXQta2lydGxhbmQv0gEA?oc=5",
       "published": "2024-01-22T15:31:36.000Z",
       "description": "USSTRATCOM Command Chaplain and Religious Affairs SEL Visit Kirtland&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3OTk5NjAvc2Vjb25kLW1pbnV0ZW1hbi1paWktdGVzdC1pbi13ZWVrcy10aW1lLXNob3djYXNlcy1yZWFkaW5lc3Mtb2YtdXMtaWNibS1mbGVldC_SAQA",
+      "title": "Second Minuteman III test in week's time showcases readiness of U.S. ICBM fleet - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3OTk5NjAvc2Vjb25kLW1pbnV0ZW1hbi1paWktdGVzdC1pbi13ZWVrcy10aW1lLXNob3djYXNlcy1yZWFkaW5lc3Mtb2YtdXMtaWNibS1mbGVldC_SAQA?oc=5",
+      "published": "2024-06-06T07:00:00.000Z",
+      "description": "Second Minuteman III test in week's time showcases readiness of U.S. ICBM fleet&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -407,21 +407,21 @@
       "category": ""
     },
     {
-      "id": "CBMiV2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zdHJhdGVnaWMtY29tbWFuZC1tb2Rlcm5pemF0aW9uLW51Y2xlYXItZm9yY2VzLWRlbGF5L9IBAA",
-      "title": "Still 'In the Beginnings' of Nuclear Modernization, STRATCOM Has Low Margin for Delay - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zdHJhdGVnaWMtY29tbWFuZC1tb2Rlcm5pemF0aW9uLW51Y2xlYXItZm9yY2VzLWRlbGF5L9IBAA?oc=5",
-      "published": "2023-09-08T07:00:00.000Z",
-      "description": "Still 'In the Beginnings' of Nuclear Modernization, STRATCOM Has Low Margin for Delay&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA",
       "title": "JEC Director - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8zNDcwOTM4L2plYy1kaXJlY3Rvci_SAQA?oc=5",
       "published": "2023-08-25T21:29:54.000Z",
       "description": "JEC Director&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiV2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zdHJhdGVnaWMtY29tbWFuZC1tb2Rlcm5pemF0aW9uLW51Y2xlYXItZm9yY2VzLWRlbGF5L9IBAA",
+      "title": "Still 'In the Beginnings' of Nuclear Modernization, STRATCOM Has Low Margin for Delay - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9zdHJhdGVnaWMtY29tbWFuZC1tb2Rlcm5pemF0aW9uLW51Y2xlYXItZm9yY2VzLWRlbGF5L9IBAA?oc=5",
+      "published": "2023-09-08T07:00:00.000Z",
+      "description": "Still 'In the Beginnings' of Nuclear Modernization, STRATCOM Has Low Margin for Delay&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
