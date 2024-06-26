@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-26T11:20:26.000Z",
+  "published": "2024-06-26T12:56:43.000Z",
   "entries": [
     {
       "id": "CBMibWh0dHBzOi8vbmV3cy5sb2NraGVlZG1hcnRpbi5jb20vMjAyMy0wOS0yNi1Mb2NraGVlZC1NYXJ0aW4tQ29uZHVjdHMtRmlyc3QtRmxpZ2h0LWluLVUtMi1Bdmlvbmljcy1UZWNoLVJlZnJlc2jSAQA",
@@ -67,16 +67,6 @@
       "category": ""
     },
     {
-      "id": "CBMiLmh0dHBzOi8vYWVyb3hwbG9yZXIuY29tL3ZpZXdwaG90by5waHA_aWQ9NDM2ODTSAQA",
-      "title": "(68-10337) USAF - United States Air Force Lockheed U-2 Dragon Lady by rafi g - AeroXplorer",
-      "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vYWVyb3hwbG9yZXIuY29tL3ZpZXdwaG90by5waHA_aWQ9NDM2ODTSAQA?oc=5",
-      "published": "2024-06-19T22:33:20.000Z",
-      "description": "(68-10337) USAF - United States Air Force Lockheed U-2 Dragon Lady by rafi g&nbsp;&nbsp;AeroXplorer",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiQ2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzA5LzI3L3VzLWRyYWdvbi1sYWR5LXNweS1wbGFuZS_SAQA",
       "title": "USAF Conducts First Flight of Upgraded U-2 Dragon Lady Spy Plane - The Defense Post",
       "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDIzLzA5LzI3L3VzLWRyYWdvbi1sYWR5LXNweS1wbGFuZS_SAQA?oc=5",
@@ -92,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9uYXNhLWVyLTItc3B5LXBsYW5lLW1pbmVyYWwtbWFwcGluZ9IBAA?oc=5",
       "published": "2023-11-09T08:00:00.000Z",
       "description": "NASA's modified U-2 spy plane is hunting for 'strategic minerals' in the desert. Here's why&nbsp;&nbsp;Space.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiLmh0dHBzOi8vYWVyb3hwbG9yZXIuY29tL3ZpZXdwaG90by5waHA_aWQ9NDM2ODTSAQA",
+      "title": "(68-10337) USAF - United States Air Force Lockheed U-2 Dragon Lady by rafi g - AeroXplorer",
+      "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vYWVyb3hwbG9yZXIuY29tL3ZpZXdwaG90by5waHA_aWQ9NDM2ODTSAQA?oc=5",
+      "published": "2024-06-19T22:33:20.000Z",
+      "description": "(68-10337) USAF - United States Air Force Lockheed U-2 Dragon Lady by rafi g&nbsp;&nbsp;AeroXplorer",
       "summary": "",
       "author": "",
       "category": ""
@@ -447,6 +447,16 @@
       "category": ""
     },
     {
+      "id": "CBMiSWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9GYWN0LVNoZWV0cy9EaXNwbGF5L0FydGljbGUvMTA0NTYwL3UtMnN0dS0ycy_SAQA",
+      "title": "U-2S/TU-2S > Air Force > Fact Sheet Display - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9GYWN0LVNoZWV0cy9EaXNwbGF5L0FydGljbGUvMTA0NTYwL3UtMnN0dS0ycy_SAQA?oc=5",
+      "published": "2017-05-04T05:08:50.000Z",
+      "description": "U-2S/TU-2S > Air Force > Fact Sheet Display&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMirAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3RoZS11LTItdGhhdC1jcmFzaGVkLWluLWJvbGl2aWEtYWZ0ZXItaXRzLXBpbG90LWRpZWQtc3VmZmVyaW5nLWh5cG94aWEtd2hpbGUtb3ZlcmZseWluZy1jdWJhLWFuZC1hZnRlci11cy1uYXZ5LWYtNHMtZmFpbGVkLXRvLXNob290LWl0LWRvd24v0gGsAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdGhlLXUtMi10aGF0LWNyYXNoZWQtaW4tYm9saXZpYS1hZnRlci1pdHMtcGlsb3QtZGllZC1zdWZmZXJpbmctaHlwb3hpYS13aGlsZS1vdmVyZmx5aW5nLWN1YmEtYW5kLWFmdGVyLXVzLW5hdnktZi00cy1mYWlsZWQtdG8tc2hvb3QtaXQtZG93bi8",
       "title": "The U-2 that crashed in Bolivia after its pilot died suffering hypoxia while overflying Cuba and after US N... - The Aviation Geek Club",
       "link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3RoZS11LTItdGhhdC1jcmFzaGVkLWluLWJvbGl2aWEtYWZ0ZXItaXRzLXBpbG90LWRpZWQtc3VmZmVyaW5nLWh5cG94aWEtd2hpbGUtb3ZlcmZseWluZy1jdWJhLWFuZC1hZnRlci11cy1uYXZ5LWYtNHMtZmFpbGVkLXRvLXNob290LWl0LWRvd24v0gGsAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdGhlLXUtMi10aGF0LWNyYXNoZWQtaW4tYm9saXZpYS1hZnRlci1pdHMtcGlsb3QtZGllZC1zdWZmZXJpbmctaHlwb3hpYS13aGlsZS1vdmVyZmx5aW5nLWN1YmEtYW5kLWFmdGVyLXVzLW5hdnktZi00cy1mYWlsZWQtdG8tc2hvb3QtaXQtZG93bi8?oc=5",
@@ -492,16 +502,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9oaXN0b3J5LWRlZmluaW5nLWxvY2toZWVkLW1hcnRpbi1taWxpdGFyeS1haXJjcmFmdC_SAQA?oc=5",
       "published": "2024-03-01T08:00:00.000Z",
       "description": "5 Lockheed Martin Aircraft That Have Defined The History Of Military Aviation&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaGh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vdmlkZW9zL3dhdGNoLXRoaXMtdGVzbGEtbW9kZWwtcy1hc3Npc3QtYS11LTItc3B5LXBsYW5lLWR1cmluZy10YWtlb2Zm0gEA",
-      "title": "Watch This Tesla Model S Assist A U-2 Spy Plane During Takeoff - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vdmlkZW9zL3dhdGNoLXRoaXMtdGVzbGEtbW9kZWwtcy1hc3Npc3QtYS11LTItc3B5LXBsYW5lLWR1cmluZy10YWtlb2Zm0gEA?oc=5",
-      "published": "2024-05-08T02:03:11.000Z",
-      "description": "Watch This Tesla Model S Assist A U-2 Spy Plane During Takeoff&nbsp;&nbsp;Interesting Engineering",
       "summary": "",
       "author": "",
       "category": ""
@@ -737,16 +737,6 @@
       "category": ""
     },
     {
-      "id": "CBMiY2h0dHBzOi8vd3d3LmF2aWF0aW9udG9kYXkuY29tLzIwMjAvMDQvMTYvYXZpb25pY3MtdXBncmFkZS1mb3ItdS0ycy10by1mZWF0dXJlLW9wZW4tbWlzc2lvbi1zeXN0ZW1zL9IBAA",
-      "title": "Avionics Upgrade for U-2S Dragon Lady to Feature Open Mission Systems - Avionics International",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmF2aWF0aW9udG9kYXkuY29tLzIwMjAvMDQvMTYvYXZpb25pY3MtdXBncmFkZS1mb3ItdS0ycy10by1mZWF0dXJlLW9wZW4tbWlzc2lvbi1zeXN0ZW1zL9IBAA?oc=5",
-      "published": "2020-04-16T07:00:00.000Z",
-      "description": "Avionics Upgrade for U-2S Dragon Lady to Feature Open Mission Systems&nbsp;&nbsp;Avionics International",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZ2h0dHBzOi8vbmV3cy5sb2NraGVlZG1hcnRpbi5jb20vbG9ja2hlZWQtbWFydGluLWZsaWVzLXJlYWwtdGltZS1taXNzaW9uLWVuYWJsaW5nLWt1YmVybmV0ZXMtb25ib2FyZC11LTLSAQA",
       "title": "Media - Media - Lockheed Martin - Releases",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmV3cy5sb2NraGVlZG1hcnRpbi5jb20vbG9ja2hlZWQtbWFydGluLWZsaWVzLXJlYWwtdGltZS1taXNzaW9uLWVuYWJsaW5nLWt1YmVybmV0ZXMtb25ib2FyZC11LTLSAQA?oc=5",
@@ -757,11 +747,11 @@
       "category": ""
     },
     {
-      "id": "CBMifmh0dHBzOi8vd3d3LmF1dG9ldm9sdXRpb24uY29tL25ld3MvYmxhY2tiaXJkLW9uLXN0ZXJvaWRzLWhvdy10aGUtY29udmFpci1raW5nZmlzaC13YXMtYWxtb3N0LWEtYmV0dGVyLWZhc3Rlci1zci03MS0yMjI3ODUuaHRtbNIBAA",
-      "title": "Blackbird on Steroids: How the Convair Kingfish Was Almost a Better, Faster SR-71 - autoevolution",
-      "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmF1dG9ldm9sdXRpb24uY29tL25ld3MvYmxhY2tiaXJkLW9uLXN0ZXJvaWRzLWhvdy10aGUtY29udmFpci1raW5nZmlzaC13YXMtYWxtb3N0LWEtYmV0dGVyLWZhc3Rlci1zci03MS0yMjI3ODUuaHRtbNIBAA?oc=5",
-      "published": "2023-10-14T07:00:00.000Z",
-      "description": "Blackbird on Steroids: How the Convair Kingfish Was Almost a Better, Faster SR-71&nbsp;&nbsp;autoevolution",
+      "id": "CBMiY2h0dHBzOi8vd3d3LmF2aWF0aW9udG9kYXkuY29tLzIwMjAvMDQvMTYvYXZpb25pY3MtdXBncmFkZS1mb3ItdS0ycy10by1mZWF0dXJlLW9wZW4tbWlzc2lvbi1zeXN0ZW1zL9IBAA",
+      "title": "Avionics Upgrade for U-2S Dragon Lady to Feature Open Mission Systems - Avionics International",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmF2aWF0aW9udG9kYXkuY29tLzIwMjAvMDQvMTYvYXZpb25pY3MtdXBncmFkZS1mb3ItdS0ycy10by1mZWF0dXJlLW9wZW4tbWlzc2lvbi1zeXN0ZW1zL9IBAA?oc=5",
+      "published": "2020-04-16T07:00:00.000Z",
+      "description": "Avionics Upgrade for U-2S Dragon Lady to Feature Open Mission Systems&nbsp;&nbsp;Avionics International",
       "summary": "",
       "author": "",
       "category": ""
@@ -827,21 +817,21 @@
       "category": ""
     },
     {
-      "id": "CBMiaWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzYyMzY5MC95ZXN0ZXJkYXlzLWFpci1mb3JjZS10aGUtdS0yLWdhcnktcG93ZXJzLWluY2lkZW50L9IBAA",
-      "title": "Yesterday's Air Force: The U-2, Gary Powers incident - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzYyMzY5MC95ZXN0ZXJkYXlzLWFpci1mb3JjZS10aGUtdS0yLWdhcnktcG93ZXJzLWluY2lkZW50L9IBAA?oc=5",
-      "published": "2015-10-15T07:00:00.000Z",
-      "description": "Yesterday's Air Force: The U-2, Gary Powers incident&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMipwFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjAtMDItMTgtVS1TLUFpci1Gb3JjZS1Mb2NraGVlZC1NYXJ0aW4tQ29sbGlucy1BZXJvc3BhY2UtQ29tcGxldGUtVS0yLVNZRVJTLTJDLVVwZ3JhZGVzLUVuaGFuY2luZy10aGUtRHJhZ29uLUxhZHlzLUltYWdpbmctQ2FwYWJpbGl0edIBAA",
       "title": "U.S. Air Force - Media - Lockheed Martin - Releases",
       "link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjAtMDItMTgtVS1TLUFpci1Gb3JjZS1Mb2NraGVlZC1NYXJ0aW4tQ29sbGlucy1BZXJvc3BhY2UtQ29tcGxldGUtVS0yLVNZRVJTLTJDLVVwZ3JhZGVzLUVuaGFuY2luZy10aGUtRHJhZ29uLUxhZHlzLUltYWdpbmctQ2FwYWJpbGl0edIBAA?oc=5",
       "published": "2020-02-18T08:00:00.000Z",
       "description": "U.S. Air Force&nbsp;&nbsp;Media - Lockheed Martin - Releases",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzYyMzY5MC95ZXN0ZXJkYXlzLWFpci1mb3JjZS10aGUtdS0yLWdhcnktcG93ZXJzLWluY2lkZW50L9IBAA",
+      "title": "Yesterday's Air Force: The U-2, Gary Powers incident - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzYyMzY5MC95ZXN0ZXJkYXlzLWFpci1mb3JjZS10aGUtdS0yLWdhcnktcG93ZXJzLWluY2lkZW50L9IBAA?oc=5",
+      "published": "2015-10-15T07:00:00.000Z",
+      "description": "Yesterday's Air Force: The U-2, Gary Powers incident&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzMwNjA3Ny91LTItZW5oYW5jZXMtd2VhcG9ucy1zY2hvb2wtY2Fwc3RvbmUtZXhwZXJpZW5jZdIBAA?oc=5",
       "published": "2019-02-01T08:00:00.000Z",
       "description": "News - U-2 enhances Weapons School capstone experience&nbsp;&nbsp;DVIDS",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiW2h0dHBzOi8vZHJhZ29ubGFkeXRvZGF5LmNvbS8yMDIzLzAyLzIxL3RoZS11LTItYW5kLWJhbGxvb25zLXNvbWUtaGlzdG9yeS1hbmQtc29tZS10aG91Z2h0cy_SAQA",
+      "title": "THE U-2 AND BALLOONS – SOME HISTORY, AND SOME THOUGHTS - Dragon Lady Today",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZHJhZ29ubGFkeXRvZGF5LmNvbS8yMDIzLzAyLzIxL3RoZS11LTItYW5kLWJhbGxvb25zLXNvbWUtaGlzdG9yeS1hbmQtc29tZS10aG91Z2h0cy_SAQA?oc=5",
+      "published": "2023-02-21T08:00:00.000Z",
+      "description": "THE U-2 AND BALLOONS – SOME HISTORY, AND SOME THOUGHTS&nbsp;&nbsp;Dragon Lady Today",
       "summary": "",
       "author": "",
       "category": ""
