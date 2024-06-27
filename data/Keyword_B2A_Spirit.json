@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-27T03:28:54.000Z",
+  "published": "2024-06-27T04:35:10.000Z",
   "entries": [
     {
       "id": "CBMibWh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDYvMjAvYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlcnMtdmlzaXQtZ3VhbS1mb3ItdGhlLWZpcnN0LXRpbWUtaW4tZml2ZS15ZWFycy_SAQA",
@@ -317,6 +317,16 @@
       "category": ""
     },
     {
+      "id": "CBMikQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIxLzAzLzEwL3RoaXMtY2xvc2UtdXAtdmlkZW8tc2hvd3MtYi0yLXN0ZWFsdGgtYm9tYmVycy1jb250cm9sLXN1cmZhY2VzLWR1cmluZy1wcmUtZmxpZ2h0LWNoZWNrcy1pbi1zdHVubmluZy1kZXRhaWwv0gEA",
+      "title": "This Close Up Video Shows B-2 Stealth Bomber's Control Surfaces During Pre-Flight Checks In Stunning Detail - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIxLzAzLzEwL3RoaXMtY2xvc2UtdXAtdmlkZW8tc2hvd3MtYi0yLXN0ZWFsdGgtYm9tYmVycy1jb250cm9sLXN1cmZhY2VzLWR1cmluZy1wcmUtZmxpZ2h0LWNoZWNrcy1pbi1zdHVubmluZy1kZXRhaWwv0gEA?oc=5",
+      "published": "2021-03-10T08:00:00.000Z",
+      "description": "This Close Up Video Shows B-2 Stealth Bomber's Control Surfaces During Pre-Flight Checks In Stunning Detail&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMimAFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzA5LzAzL2NoZWNrLW91dC10aGlzLXZpZGVvLW9mLXR3by1iLTJhLXN0ZWFsdGgtYm9tYmVycy1yZWNvdmVyaW5nLWJhY2stdG8tcmFmLWZhaXJmb3JkLWluLXN0dW5uaW5nLWxhdGUtYWZ0ZXJub29uLWxpZ2h0L9IBAA",
       "title": "Check Out This Video Of Two B-2A Stealth Bombers Recovering Back To RAF Fairford In Stunning Late Afternoon Light - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE5LzA5LzAzL2NoZWNrLW91dC10aGlzLXZpZGVvLW9mLXR3by1iLTJhLXN0ZWFsdGgtYm9tYmVycy1yZWNvdmVyaW5nLWJhY2stdG8tcmFmLWZhaXJmb3JkLWluLXN0dW5uaW5nLWxhdGUtYWZ0ZXJub29uLWxpZ2h0L9IBAA?oc=5",
@@ -337,21 +347,21 @@
       "category": ""
     },
     {
-      "id": "CBMihgFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIyLzAzLzE4L3dlYWstbGFuZGluZy1nZWFyLXNwcmluZ3MtY2F1c2VkLXRoZS1iLTItc3Bpcml0LXRvLXNraWQtb2ZmLXJ1bndheS1hdC13aGl0ZW1hbi1hZmItaW4tc2VwdGVtYmVyL9IBAA",
-      "title": "Weak Landing Gear Springs Caused The B-2 Spirit To Skid Off Runway At Whiteman AFB In September - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIyLzAzLzE4L3dlYWstbGFuZGluZy1nZWFyLXNwcmluZ3MtY2F1c2VkLXRoZS1iLTItc3Bpcml0LXRvLXNraWQtb2ZmLXJ1bndheS1hdC13aGl0ZW1hbi1hZmItaW4tc2VwdGVtYmVyL9IBAA?oc=5",
-      "published": "2022-03-18T07:00:00.000Z",
-      "description": "Weak Landing Gear Springs Caused The B-2 Spirit To Skid Off Runway At Whiteman AFB In September&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiiAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2EtcXVpY2stbG9vay1hdC1ub24tdHJhZGl0aW9uYWwtdGFyZ2V0cy1oaXQtYnktYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlcnMtZHVyaW5nLW9wZXJhdGlvbi1hbGxpZWQtZm9yY2Uv0gGIAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vYS1xdWljay1sb29rLWF0LW5vbi10cmFkaXRpb25hbC10YXJnZXRzLWhpdC1ieS1iLTItc3Bpcml0LXN0ZWFsdGgtYm9tYmVycy1kdXJpbmctb3BlcmF0aW9uLWFsbGllZC1mb3JjZS8",
       "title": "A quick look at ‘non-traditional targets’ hit by B-2 Spirit Stealth Bombers during Operation Allied Force - The Aviation Geek Club",
       "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2EtcXVpY2stbG9vay1hdC1ub24tdHJhZGl0aW9uYWwtdGFyZ2V0cy1oaXQtYnktYi0yLXNwaXJpdC1zdGVhbHRoLWJvbWJlcnMtZHVyaW5nLW9wZXJhdGlvbi1hbGxpZWQtZm9yY2Uv0gGIAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vYS1xdWljay1sb29rLWF0LW5vbi10cmFkaXRpb25hbC10YXJnZXRzLWhpdC1ieS1iLTItc3Bpcml0LXN0ZWFsdGgtYm9tYmVycy1kdXJpbmctb3BlcmF0aW9uLWFsbGllZC1mb3JjZS8?oc=5",
       "published": "2020-04-09T15:03:46.000Z",
       "description": "A quick look at ‘non-traditional targets’ hit by B-2 Spirit Stealth Bombers during Operation Allied Force&nbsp;&nbsp;The Aviation Geek Club",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIyLzAzLzE4L3dlYWstbGFuZGluZy1nZWFyLXNwcmluZ3MtY2F1c2VkLXRoZS1iLTItc3Bpcml0LXRvLXNraWQtb2ZmLXJ1bndheS1hdC13aGl0ZW1hbi1hZmItaW4tc2VwdGVtYmVyL9IBAA",
+      "title": "Weak Landing Gear Springs Caused The B-2 Spirit To Skid Off Runway At Whiteman AFB In September - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIyLzAzLzE4L3dlYWstbGFuZGluZy1nZWFyLXNwcmluZ3MtY2F1c2VkLXRoZS1iLTItc3Bpcml0LXRvLXNraWQtb2ZmLXJ1bndheS1hdC13aGl0ZW1hbi1hZmItaW4tc2VwdGVtYmVyL9IBAA?oc=5",
+      "published": "2022-03-18T07:00:00.000Z",
+      "description": "Weak Landing Gear Springs Caused The B-2 Spirit To Skid Off Runway At Whiteman AFB In September&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -377,21 +387,21 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMTIvMDEvZW5qb3ktdGhlc2UtcGhvdG9zLW9mLXRoZS1yZWNlbnQtYi0yLWVsZXBoYW50LXdhbGstdG8tcHJlcGFyZS1mb3ItdGhlLWItMjEtdW52ZWlsaW5nL9IBAA",
-      "title": "Enjoy These Photos Of The Recent B-2 Elephant Walk To Prepare For The B-21 Unveiling - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMTIvMDEvZW5qb3ktdGhlc2UtcGhvdG9zLW9mLXRoZS1yZWNlbnQtYi0yLWVsZXBoYW50LXdhbGstdG8tcHJlcGFyZS1mb3ItdGhlLWItMjEtdW52ZWlsaW5nL9IBAA?oc=5",
-      "published": "2022-12-01T08:00:00.000Z",
-      "description": "Enjoy These Photos Of The Recent B-2 Elephant Walk To Prepare For The B-21 Unveiling&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiamh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi92aWRlby1zaG93cy1pbi1kZXRhaWwtbW92ZW1lbnQtb2YtY29udHJvbC1zdXJmYWNlcy1vZi1hLWItMmEtc3Bpcml0LWJvbWJlci_SAQA",
       "title": "Video shows in detail movement of control surfaces of a B-2A Spirit bomber - Aeroflap",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi92aWRlby1zaG93cy1pbi1kZXRhaWwtbW92ZW1lbnQtb2YtY29udHJvbC1zdXJmYWNlcy1vZi1hLWItMmEtc3Bpcml0LWJvbWJlci_SAQA?oc=5",
       "published": "2021-03-11T08:00:00.000Z",
       "description": "Video shows in detail movement of control surfaces of a B-2A Spirit bomber&nbsp;&nbsp;Aeroflap",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMTIvMDEvZW5qb3ktdGhlc2UtcGhvdG9zLW9mLXRoZS1yZWNlbnQtYi0yLWVsZXBoYW50LXdhbGstdG8tcHJlcGFyZS1mb3ItdGhlLWItMjEtdW52ZWlsaW5nL9IBAA",
+      "title": "Enjoy These Photos Of The Recent B-2 Elephant Walk To Prepare For The B-21 Unveiling - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjIvMTIvMDEvZW5qb3ktdGhlc2UtcGhvdG9zLW9mLXRoZS1yZWNlbnQtYi0yLWVsZXBoYW50LXdhbGstdG8tcHJlcGFyZS1mb3ItdGhlLWItMjEtdW52ZWlsaW5nL9IBAA?oc=5",
+      "published": "2022-12-01T08:00:00.000Z",
+      "description": "Enjoy These Photos Of The Recent B-2 Elephant Walk To Prepare For The B-21 Unveiling&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -432,16 +442,6 @@
       "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL3Bob3Rvcy1zaG93LW1vY2stYjYxLTEyLW51Y2xlYXItYm9tYi1iZWluZy1sb2FkZWQtb24tYi0yYS1zcGlyaXQtc3RlYWx0aC1ib21iZXItYmVmb3JlLWNhcHN0b25lLXRlc3Qv0gGFAWh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vcGhvdG9zLXNob3ctbW9jay1iNjEtMTItbnVjbGVhci1ib21iLWJlaW5nLWxvYWRlZC1vbi1iLTJhLXNwaXJpdC1zdGVhbHRoLWJvbWJlci1iZWZvcmUtY2Fwc3RvbmUtdGVzdC8?oc=5",
       "published": "2022-06-14T07:00:00.000Z",
       "description": "Photos show mock B61-12 nuclear bomb being loaded on B-2A Spirit stealth bomber before capstone test&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMikQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIxLzAzLzEwL3RoaXMtY2xvc2UtdXAtdmlkZW8tc2hvd3MtYi0yLXN0ZWFsdGgtYm9tYmVycy1jb250cm9sLXN1cmZhY2VzLWR1cmluZy1wcmUtZmxpZ2h0LWNoZWNrcy1pbi1zdHVubmluZy1kZXRhaWwv0gEA",
-      "title": "This Close Up Video Shows B-2 Stealth Bomber's Control Surfaces During Pre-Flight Checks In Stunning Detail - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIxLzAzLzEwL3RoaXMtY2xvc2UtdXAtdmlkZW8tc2hvd3MtYi0yLXN0ZWFsdGgtYm9tYmVycy1jb250cm9sLXN1cmZhY2VzLWR1cmluZy1wcmUtZmxpZ2h0LWNoZWNrcy1pbi1zdHVubmluZy1kZXRhaWwv0gEA?oc=5",
-      "published": "2021-03-10T08:00:00.000Z",
-      "description": "This Close Up Video Shows B-2 Stealth Bomber's Control Surfaces During Pre-Flight Checks In Stunning Detail&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -497,11 +497,11 @@
       "category": ""
     },
     {
-      "id": "CBMiaGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi9iLTJhLXNwaXJpdC1ib21iZXJzLWZseS1vdmVyLWFyY3RpYy1lc2NvcnRlZC1ieS1mLTE1Yy1hbmQtZi0zNWEtZmlnaHRlcnMv0gEA",
-      "title": "B-2A Spirit bombers fly over the Arctic escorted by F-15C and F-35A fighters - Aeroflap",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi9iLTJhLXNwaXJpdC1ib21iZXJzLWZseS1vdmVyLWFyY3RpYy1lc2NvcnRlZC1ieS1mLTE1Yy1hbmQtZi0zNWEtZmlnaHRlcnMv0gEA?oc=5",
-      "published": "2020-03-17T07:00:00.000Z",
-      "description": "B-2A Spirit bombers fly over the Arctic escorted by F-15C and F-35A fighters&nbsp;&nbsp;Aeroflap",
+      "id": "CBMiNWh0dHBzOi8vc2NpZW5jZS5ob3dzdHVmZndvcmtzLmNvbS9zdGVhbHRoLWJvbWJlcjUuaHRt0gEA",
+      "title": "Weapons - How Stealth Bombers Work | HowStuffWorks - science.howstuffworks.com",
+      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vc2NpZW5jZS5ob3dzdHVmZndvcmtzLmNvbS9zdGVhbHRoLWJvbWJlcjUuaHRt0gEA?oc=5",
+      "published": "2017-10-16T22:17:29.000Z",
+      "description": "Weapons - How Stealth Bombers Work | HowStuffWorks&nbsp;&nbsp;science.howstuffworks.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -527,6 +527,16 @@
       "category": ""
     },
     {
+      "id": "CBMibWh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2EyNzc4OC9hbWVyaWNhcy10aHJlZS1oZWF2eS1ib21iZXJzLXRvZ2V0aGVyLXdpbmctdG8td2luZy_SAQA",
+      "title": "Watch America's Three Heavy Bombers Fly Wing to Wing - Popular Mechanics",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2EyNzc4OC9hbWVyaWNhcy10aHJlZS1oZWF2eS1ib21iZXJzLXRvZ2V0aGVyLXdpbmctdG8td2luZy_SAQA?oc=5",
+      "published": "2017-08-16T07:00:00.000Z",
+      "description": "Watch America's Three Heavy Bombers Fly Wing to Wing&nbsp;&nbsp;Popular Mechanics",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMie2h0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdmlkZW8tc2hvd3MtYi0yLXNwaXJpdC1mbGlnaHQtb3BlcmF0aW9ucy13aXRoLWxvdy1hbmQtbG91ZC1vdmVyaGVhZC1wYXNzZXMtYXQtcmFmLWZhaXJmb3JkL9IBe2h0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdmlkZW8tc2hvd3MtYi0yLXNwaXJpdC1mbGlnaHQtb3BlcmF0aW9ucy13aXRoLWxvdy1hbmQtbG91ZC1vdmVyaGVhZC1wYXNzZXMtYXQtcmFmLWZhaXJmb3JkLw",
       "title": "Video Shows B-2 Spirit Flight Operations (with Low and Loud Overhead Passes) at RAF Fairford - The Aviation Geek Club",
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdmlkZW8tc2hvd3MtYi0yLXNwaXJpdC1mbGlnaHQtb3BlcmF0aW9ucy13aXRoLWxvdy1hbmQtbG91ZC1vdmVyaGVhZC1wYXNzZXMtYXQtcmFmLWZhaXJmb3JkL9IBe2h0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vdmlkZW8tc2hvd3MtYi0yLXNwaXJpdC1mbGlnaHQtb3BlcmF0aW9ucy13aXRoLWxvdy1hbmQtbG91ZC1vdmVyaGVhZC1wYXNzZXMtYXQtcmFmLWZhaXJmb3JkLw?oc=5",
@@ -537,11 +547,11 @@
       "category": ""
     },
     {
-      "id": "CBMibWh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2EyNzc4OC9hbWVyaWNhcy10aHJlZS1oZWF2eS1ib21iZXJzLXRvZ2V0aGVyLXdpbmctdG8td2luZy_SAQA",
-      "title": "Watch America's Three Heavy Bombers Fly Wing to Wing - Popular Mechanics",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2EyNzc4OC9hbWVyaWNhcy10aHJlZS1oZWF2eS1ib21iZXJzLXRvZ2V0aGVyLXdpbmctdG8td2luZy_SAQA?oc=5",
-      "published": "2017-08-16T07:00:00.000Z",
-      "description": "Watch America's Three Heavy Bombers Fly Wing to Wing&nbsp;&nbsp;Popular Mechanics",
+      "id": "CBMiaGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi9iLTJhLXNwaXJpdC1ib21iZXJzLWZseS1vdmVyLWFyY3RpYy1lc2NvcnRlZC1ieS1mLTE1Yy1hbmQtZi0zNWEtZmlnaHRlcnMv0gEA",
+      "title": "B-2A Spirit bombers fly over the Arctic escorted by F-15C and F-35A fighters - Aeroflap",
+      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi9iLTJhLXNwaXJpdC1ib21iZXJzLWZseS1vdmVyLWFyY3RpYy1lc2NvcnRlZC1ieS1mLTE1Yy1hbmQtZi0zNWEtZmlnaHRlcnMv0gEA?oc=5",
+      "published": "2020-03-17T07:00:00.000Z",
+      "description": "B-2A Spirit bombers fly over the Arctic escorted by F-15C and F-35A fighters&nbsp;&nbsp;Aeroflap",
       "summary": "",
       "author": "",
       "category": ""
@@ -627,16 +637,6 @@
       "category": ""
     },
     {
-      "id": "CBMioQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzL9IBoQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzLw",
-      "title": "Check out these Awesome Pictures of USAF B-2 Spirits Conducting Integration Flying Training With RAF F-35B ... - The Aviation Geek Club",
-      "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzL9IBoQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzLw?oc=5",
-      "published": "2019-08-30T07:00:00.000Z",
-      "description": "Check out these Awesome Pictures of USAF B-2 Spirits Conducting Integration Flying Training With RAF F-35B ...&nbsp;&nbsp;The Aviation Geek Club",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiO2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTMvMDkvMTgvYi0yLWF0bGFudGljLW1pc3Npb24v0gEA",
       "title": "All you need to know about last week's B-2 stealth bombers round trip mission across the Atlantic - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTMvMDkvMTgvYi0yLWF0bGFudGljLW1pc3Npb24v0gEA?oc=5",
@@ -647,11 +647,31 @@
       "category": ""
     },
     {
+      "id": "CBMioQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzL9IBoQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzLw",
+      "title": "Check out these Awesome Pictures of USAF B-2 Spirits Conducting Integration Flying Training With RAF F-35B ... - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzL9IBoQFodHRwczovL3RoZWF2aWF0aW9uZ2Vla2NsdWIuY29tL2NoZWNrLW91dC10aGVzZS1hd2Vzb21lLXBpY3R1cmVzLW9mLXVzYWYtYi0yLXNwaXJpdHMtY29uZHVjdGluZy1pbnRlZ3JhdGlvbi1mbHlpbmctdHJhaW5pbmctd2l0aC1yYWYtZi0zNWItam9pbnQtc3RyaWtlLWZpZ2h0ZXJzLw?oc=5",
+      "published": "2019-08-30T07:00:00.000Z",
+      "description": "Check out these Awesome Pictures of USAF B-2 Spirits Conducting Integration Flying Training With RAF F-35B ...&nbsp;&nbsp;The Aviation Geek Club",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiXWh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi8xNS15ZWFycy1hZ28lMkMtdGhlLW1vc3QtZXhwZW5zaXZlLWF2aWF0aW9uLWFjY2lkZW50LW9jY3VycmVkL9IBAA",
       "title": "15 years ago the most expensive aviation accident occurred - Aeroflap",
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmFlcm9mbGFwLmNvbS5ici9lbi8xNS15ZWFycy1hZ28lMkMtdGhlLW1vc3QtZXhwZW5zaXZlLWF2aWF0aW9uLWFjY2lkZW50LW9jY3VycmVkL9IBAA?oc=5",
       "published": "2023-02-25T08:00:00.000Z",
       "description": "15 years ago the most expensive aviation accident occurred&nbsp;&nbsp;Aeroflap",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUGh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vZmlyc3QtYi0yLXNwaXJpdC1kZXBsb3ltZW50LXRvLWhhd2FpaS1jb21wbGV0ZWQv0gFQaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9maXJzdC1iLTItc3Bpcml0LWRlcGxveW1lbnQtdG8taGF3YWlpLWNvbXBsZXRlZC8",
+      "title": "First B-2 Spirit deployment to Hawaii completed - The Aviation Geek Club",
+      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGhlYXZpYXRpb25nZWVrY2x1Yi5jb20vZmlyc3QtYi0yLXNwaXJpdC1kZXBsb3ltZW50LXRvLWhhd2FpaS1jb21wbGV0ZWQv0gFQaHR0cHM6Ly90aGVhdmlhdGlvbmdlZWtjbHViLmNvbS9maXJzdC1iLTItc3Bpcml0LWRlcGxveW1lbnQtdG8taGF3YWlpLWNvbXBsZXRlZC8?oc=5",
+      "published": "2018-10-06T21:02:42.000Z",
+      "description": "First B-2 Spirit deployment to Hawaii completed&nbsp;&nbsp;The Aviation Geek Club",
       "summary": "",
       "author": "",
       "category": ""
