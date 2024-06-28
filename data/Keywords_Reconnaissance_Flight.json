@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-28T05:28:30.000Z",
+  "published": "2024-06-28T06:36:05.000Z",
   "entries": [
     {
       "id": "CBMiUmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9kYXJwYS14cnEtNzMtZmx5aW5nLXdpbmctcmVjb25uYWlzc2FuY2UteC1wbGFuZS_SAQA",
@@ -12,16 +12,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9kYXJwYS14cnEtNzMtZmx5aW5nLXdpbmctcmVjb25uYWlzc2FuY2UteC1wbGFuZS_SAQA?oc=5",
       "published": "2024-06-25T23:26:52.000Z",
       "description": "DARPA Announces New Flying-Wing X-Plane: XRQ-73&nbsp;&nbsp;Air & Space Forces Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzI1L2ZyYW5jZS1hcnRpbGxlcnktdW5pdHMtZHJvbmVzL9IBAA",
-      "title": "France to Equip Artillery Units With DT46 Long-Range Drones - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzI1L2ZyYW5jZS1hcnRpbGxlcnktdW5pdHMtZHJvbmVzL9IBAA?oc=5",
-      "published": "2024-06-25T12:38:34.000Z",
-      "description": "France to Equip Artillery Units With DT46 Long-Range Drones&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -42,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9uYXRvLWZpZ2h0ZXItamV0cy1zY3JhbWJsZWQtaW50ZXJjZXB0LXJ1c3NpYW4tcmVjb25uYWlzc2FuY2UtcGxhbmUtMTg4ODgwNdIBAA?oc=5",
       "published": "2024-04-11T07:00:00.000Z",
       "description": "NATO Fighter Jets Scrambled to Intercept Russian Reconnaissance Plane&nbsp;&nbsp;Newsweek",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzAzLzExL3N3ZWRlbi1uYXRvLW1lbWJlcnNoaXAtZmlyc3Qtc3VydmVpbGxhbmNlL9IBAA",
+      "title": "Sweden Conducts First Surveillance Flight Near Russia Since Joining NATO - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzAzLzExL3N3ZWRlbi1uYXRvLW1lbWJlcnNoaXAtZmlyc3Qtc3VydmVpbGxhbmNlL9IBAA?oc=5",
+      "published": "2024-03-11T07:00:00.000Z",
+      "description": "Sweden Conducts First Surveillance Flight Near Russia Since Joining NATO&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -157,21 +157,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzAzLzExL3N3ZWRlbi1uYXRvLW1lbWJlcnNoaXAtZmlyc3Qtc3VydmVpbGxhbmNlL9IBAA",
-      "title": "Sweden Conducts First Surveillance Flight Near Russia Since Joining NATO - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzAzLzExL3N3ZWRlbi1uYXRvLW1lbWJlcnNoaXAtZmlyc3Qtc3VydmVpbGxhbmNlL9IBAA?oc=5",
-      "published": "2024-03-11T07:00:00.000Z",
-      "description": "Sweden Conducts First Surveillance Flight Near Russia Since Joining NATO&nbsp;&nbsp;The Defense Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9mbGlnaHQtdHJhY2tlci1kYXRhLXVzLWFpci1mb3JjZS1yYy0xMzUtc3B5LXBsYW5lLWVhc3QtY2hpbmEtc2VhLTE4OTkxMjTSAQA",
       "title": "Flight Tracker Shows US Air Force Plane Patrolling China's Shores - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9mbGlnaHQtdHJhY2tlci1kYXRhLXVzLWFpci1mb3JjZS1yYy0xMzUtc3B5LXBsYW5lLWVhc3QtY2hpbmEtc2VhLTE4OTkxMjTSAQA?oc=5",
       "published": "2024-05-10T07:00:00.000Z",
       "description": "Flight Tracker Shows US Air Force Plane Patrolling China's Shores&nbsp;&nbsp;Newsweek",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSmh0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvdS0yLXJlY29ubmFpc3NhbmNlLWFpcmNyYWZ0LXNwb3R0ZWQtb3Zlci1wb2xhbmQv0gEA",
+      "title": "U-2 Reconnaissance Aircraft Spotted Over Poland - Militarnyi - Militarnyi",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvdS0yLXJlY29ubmFpc3NhbmNlLWFpcmNyYWZ0LXNwb3R0ZWQtb3Zlci1wb2xhbmQv0gEA?oc=5",
+      "published": "2024-03-11T07:00:00.000Z",
+      "description": "U-2 Reconnaissance Aircraft Spotted Over Poland - Militarnyi&nbsp;&nbsp;Militarnyi",
       "summary": "",
       "author": "",
       "category": ""
@@ -202,16 +202,6 @@
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91cy1haXItZm9yY2UtcmVjb25uYWlzc2FuY2UtZmxpZ2h0cy1ub3J0aC1rb3JlYS1raW0tam9uZy11bi1zYXRlbGxpdGUtbGF1bmNoLXllbGxvdy1zZWEtMTkwNjY4MtIBAA?oc=5",
       "published": "2024-05-31T07:00:00.000Z",
       "description": "How US Got Front-Row Seat to North Korea's Botched Satellite Launch&nbsp;&nbsp;Newsweek",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiSmh0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvdS0yLXJlY29ubmFpc3NhbmNlLWFpcmNyYWZ0LXNwb3R0ZWQtb3Zlci1wb2xhbmQv0gEA",
-      "title": "U-2 Reconnaissance Aircraft Spotted Over Poland - Militarnyi - Militarnyi",
-      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbWlsLmluLnVhL2VuL25ld3MvdS0yLXJlY29ubmFpc3NhbmNlLWFpcmNyYWZ0LXNwb3R0ZWQtb3Zlci1wb2xhbmQv0gEA?oc=5",
-      "published": "2024-03-11T07:00:00.000Z",
-      "description": "U-2 Reconnaissance Aircraft Spotted Over Poland - Militarnyi&nbsp;&nbsp;Militarnyi",
       "summary": "",
       "author": "",
       "category": ""
@@ -987,21 +977,31 @@
       "category": ""
     },
     {
-      "id": "CBMiXGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LWFpcmNyYWZ0LXJvYXJzLXNvYXJzLW92ZXItdGFpd2FuLXN0cmFpdC1hcy1jaGluZXMv0gFcaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktYWlyY3JhZnQtcm9hcnMtc29hcnMtb3Zlci10YWl3YW4tc3RyYWl0LWFzLWNoaW5lcy8",
-      "title": "US Military Aircraft ‘Roars & Soars’ Over Taiwan Strait As Chinese Fighter Jets Watch Like A Hawk - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LWFpcmNyYWZ0LXJvYXJzLXNvYXJzLW92ZXItdGFpd2FuLXN0cmFpdC1hcy1jaGluZXMv0gFcaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktYWlyY3JhZnQtcm9hcnMtc29hcnMtb3Zlci10YWl3YW4tc3RyYWl0LWFzLWNoaW5lcy8?oc=5",
-      "published": "2023-07-13T07:00:00.000Z",
-      "description": "US Military Aircraft ‘Roars & Soars’ Over Taiwan Strait As Chinese Fighter Jets Watch Like A Hawk&nbsp;&nbsp;EurAsian Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYmh0dHBzOi8vbnNhcmNoaXZlLmd3dS5lZHUvYnJpZWZpbmctYm9vay9jaGluYS8yMDIwLTEwLTE2L3JlY29ubmFpc3NhbmNlLWZsaWdodHMtdXMtY2hpbmEtcmVsYXRpb25z0gEA",
       "title": "Reconnaissance Flights and U.S.-China Relations | National Security Archive - National Security Archive",
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vbnNhcmNoaXZlLmd3dS5lZHUvYnJpZWZpbmctYm9vay9jaGluYS8yMDIwLTEwLTE2L3JlY29ubmFpc3NhbmNlLWZsaWdodHMtdXMtY2hpbmEtcmVsYXRpb25z0gEA?oc=5",
       "published": "2020-10-16T07:00:00.000Z",
       "description": "Reconnaissance Flights and U.S.-China Relations | National Security Archive&nbsp;&nbsp;National Security Archive",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjMtMDItMDEvamV0LWNhbGlmb3JuaWEtYXRtb3NwaGVyaWMtcml2ZXJzLWNsaW1hdGUtY2hhbmdl0gEA",
+      "title": "This jet warns California of incoming atmospheric rivers - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjMtMDItMDEvamV0LWNhbGlmb3JuaWEtYXRtb3NwaGVyaWMtcml2ZXJzLWNsaW1hdGUtY2hhbmdl0gEA?oc=5",
+      "published": "2023-02-01T08:00:00.000Z",
+      "description": "This jet warns California of incoming atmospheric rivers&nbsp;&nbsp;Los Angeles Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LWFpcmNyYWZ0LXJvYXJzLXNvYXJzLW92ZXItdGFpd2FuLXN0cmFpdC1hcy1jaGluZXMv0gFcaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktYWlyY3JhZnQtcm9hcnMtc29hcnMtb3Zlci10YWl3YW4tc3RyYWl0LWFzLWNoaW5lcy8",
+      "title": "US Military Aircraft ‘Roars & Soars’ Over Taiwan Strait As Chinese Fighter Jets Watch Like A Hawk - EurAsian Times",
+      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLW1pbGl0YXJ5LWFpcmNyYWZ0LXJvYXJzLXNvYXJzLW92ZXItdGFpd2FuLXN0cmFpdC1hcy1jaGluZXMv0gFcaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtbWlsaXRhcnktYWlyY3JhZnQtcm9hcnMtc29hcnMtb3Zlci10YWl3YW4tc3RyYWl0LWFzLWNoaW5lcy8?oc=5",
+      "published": "2023-07-13T07:00:00.000Z",
+      "description": "US Military Aircraft ‘Roars & Soars’ Over Taiwan Strait As Chinese Fighter Jets Watch Like A Hawk&nbsp;&nbsp;EurAsian Times",
       "summary": "",
       "author": "",
       "category": ""
