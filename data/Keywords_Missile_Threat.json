@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-28T20:24:16.000Z",
+  "published": "2024-06-28T21:24:30.000Z",
   "entries": [
     {
       "id": "CBMiYGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNi8yNy9nLXMxLTYzODQvaXNyYWVsLWlyb24tZG9tZS1oZXpib2xsYWgtaGFtYXMtbWlzc2lsZS1kZWZlbnNlLWxpbWl0c9IBAA",
@@ -32,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzc0MzUwMS9kZWZlbnNlLW9mZmljaWFscy1zYXktY29udGludWVkLWludmVzdG1lbnRzLWluLW1pc3NpbGUtZGVmZW5zZS1hcmUtY3JpdGljYWwtYW1pL9IBAA?oc=5",
       "published": "2024-04-16T07:00:00.000Z",
       "description": "Defense Officials Say Continued Investments in Missile Defense Are Critical Amid Evolving&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMingFodHRwczovL2V1cm9tYWlkYW5wcmVzcy5jb20vMjAyNC8wNi8yOC9kZWZlbnNlLW5ld3MtZWxlY3Ryb25pYy13YXJmYXJlLWYtMTZzLWFuZC1sb25nLXJhbmdlLW1pc3NpbGUtc3lzdGVtcy1rZXktdG8tY291bnRlcmluZy1ydXNzaWFuLWdsaWRlLWJvbWJzLXNheXMtZXhwZXJ0L9IBAA",
+      "title": "Defense News: Electronic warfare, F-16s, and long-range missile systems – key to countering Russian glide bombs ... - Euromaidan Press",
+      "link": "https://news.google.com/rss/articles/CBMingFodHRwczovL2V1cm9tYWlkYW5wcmVzcy5jb20vMjAyNC8wNi8yOC9kZWZlbnNlLW5ld3MtZWxlY3Ryb25pYy13YXJmYXJlLWYtMTZzLWFuZC1sb25nLXJhbmdlLW1pc3NpbGUtc3lzdGVtcy1rZXktdG8tY291bnRlcmluZy1ydXNzaWFuLWdsaWRlLWJvbWJzLXNheXMtZXhwZXJ0L9IBAA?oc=5",
+      "published": "2024-06-28T16:48:00.000Z",
+      "description": "Defense News: Electronic warfare, F-16s, and long-range missile systems – key to countering Russian glide bombs ...&nbsp;&nbsp;Euromaidan Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -137,16 +147,6 @@
       "category": ""
     },
     {
-      "id": "CBMiPmh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMjQwNjI3X2Fpci1kZWZlbnNlLWNoYWxsZW5nZS5odG1s0gEA",
-      "title": "Iron Swords War – Air Defense Challenge - Defense Update",
-      "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMjQwNjI3X2Fpci1kZWZlbnNlLWNoYWxsZW5nZS5odG1s0gEA?oc=5",
-      "published": "2024-06-27T21:47:38.000Z",
-      "description": "Iron Swords War – Air Defense Challenge&nbsp;&nbsp;Defense Update",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiiAFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjQtMDQtMTUtVS1TLU1pc3NpbGUtRGVmZW5zZS1BZ2VuY3ktc2VsZWN0cy1Mb2NraGVlZC1NYXJ0aW4tdG8tcHJvdmlkZS1pdHMtTmV4dC1HZW5lcmF0aW9uLUludGVyY2VwdG9y0gEA",
       "title": "U.S. Missile Defense Agency selects Lockheed Martin to provide its Next Generation Interceptor - Media - Lockheed Martin - Releases",
       "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL25ld3MubG9ja2hlZWRtYXJ0aW4uY29tLzIwMjQtMDQtMTUtVS1TLU1pc3NpbGUtRGVmZW5zZS1BZ2VuY3ktc2VsZWN0cy1Mb2NraGVlZC1NYXJ0aW4tdG8tcHJvdmlkZS1pdHMtTmV4dC1HZW5lcmF0aW9uLUludGVyY2VwdG9y0gEA?oc=5",
@@ -157,21 +157,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzY1NjU4Mi91cy1wYXRyaW90LW1pc3NpbGUtc3lzdGVtLWRlcGxveXMtdG8tc291dGgta29yZWEv0gEA",
-      "title": "U.S. Patriot Missile System Deploys to South Korea - Pacific Command",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzY1NjU4Mi91cy1wYXRyaW90LW1pc3NpbGUtc3lzdGVtLWRlcGxveXMtdG8tc291dGgta29yZWEv0gEA?oc=5",
-      "published": "2024-06-18T22:25:55.000Z",
-      "description": "U.S. Patriot Missile System Deploys to South Korea&nbsp;&nbsp;Pacific Command",
+      "id": "CBMiPmh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMjQwNjI3X2Fpci1kZWZlbnNlLWNoYWxsZW5nZS5odG1s0gEA",
+      "title": "Iron Swords War – Air Defense Challenge - Defense Update",
+      "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZGVmZW5zZS11cGRhdGUuY29tLzIwMjQwNjI3X2Fpci1kZWZlbnNlLWNoYWxsZW5nZS5odG1s0gEA?oc=5",
+      "published": "2024-06-27T21:47:38.000Z",
+      "description": "Iron Swords War – Air Defense Challenge&nbsp;&nbsp;Defense Update",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA",
-      "title": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test - Northrop Grumman Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA?oc=5",
-      "published": "2024-03-29T07:00:00.000Z",
-      "description": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test&nbsp;&nbsp;Northrop Grumman Newsroom",
+      "id": "CBMiZWh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzY1NjU4Mi91cy1wYXRyaW90LW1pc3NpbGUtc3lzdGVtLWRlcGxveXMtdG8tc291dGgta29yZWEv0gEA",
+      "title": "U.S. Patriot Missile System Deploys to South Korea - Pacific Command",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzY1NjU4Mi91cy1wYXRyaW90LW1pc3NpbGUtc3lzdGVtLWRlcGxveXMtdG8tc291dGgta29yZWEv0gEA?oc=5",
+      "published": "2024-06-18T22:25:55.000Z",
+      "description": "U.S. Patriot Missile System Deploys to South Korea&nbsp;&nbsp;Pacific Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -202,6 +202,16 @@
       "link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL05ld3MtU3Rvcmllcy9BcnRpY2xlL0FydGljbGUvMzc4Mjk3My9hdC1ndWxmLWNvb3BlcmF0aW9uLWNvdW5jaWwtdXMtcGFydGljaXBhdGVzLWluLW1hcml0aW1lLW1pc3NpbGUtZGVmZW5zZS13b3JraW5nL9IBAA?oc=5",
       "published": "2024-05-22T07:00:00.000Z",
       "description": "At Gulf Cooperation Council, U.S. Participates in Maritime, Missile Defense Working Groups&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA",
+      "title": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test - Northrop Grumman Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA?oc=5",
+      "published": "2024-03-29T07:00:00.000Z",
+      "description": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test&nbsp;&nbsp;Northrop Grumman Newsroom",
       "summary": "",
       "author": "",
       "category": ""
@@ -367,11 +377,11 @@
       "category": ""
     },
     {
-      "id": "CBMigQFodHRwczovL3d3dy53YXNoaW5ndG9uaW5zdGl0dXRlLm9yZy9wb2xpY3ktYW5hbHlzaXMvaGV6Ym9sbGFoLXRocmVhdGVucy1jeXBydXMtY2FwYWJpbGl0aWVzLWludGVudGlvbnMtYW5kLXBvdGVudGlhbC1jb25zZXF1ZW5jZXPSAQA",
-      "title": "Hezbollah Threatens Cyprus: Capabilities, Intentions, and Potential Consequences - The Washington Institute",
-      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy53YXNoaW5ndG9uaW5zdGl0dXRlLm9yZy9wb2xpY3ktYW5hbHlzaXMvaGV6Ym9sbGFoLXRocmVhdGVucy1jeXBydXMtY2FwYWJpbGl0aWVzLWludGVudGlvbnMtYW5kLXBvdGVudGlhbC1jb25zZXF1ZW5jZXPSAQA?oc=5",
-      "published": "2024-06-21T18:50:49.000Z",
-      "description": "Hezbollah Threatens Cyprus: Capabilities, Intentions, and Potential Consequences&nbsp;&nbsp;The Washington Institute",
+      "id": "CBMisAFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjM1MzQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1hbmQtdXMtbmF2eS1zdWNjZXNzZnVsbHktZGVtb25zdHJhdGUtYWVnaXMtd2VhcG9uLXN5c3RlbS1jYXBhYmlsaXRpZXMtYWdhaW5zdC1hZHZhbmNlZC1jb3VudGVybWVhc3VyZS1taXNzaWxlLXRhcmdldNIBAA",
+      "title": "Missile Defense Agency and U.S. Navy Successfully Demonstrate Aegis Weapon System Capabilities against ... - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjM1MzQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1hbmQtdXMtbmF2eS1zdWNjZXNzZnVsbHktZGVtb25zdHJhdGUtYWVnaXMtd2VhcG9uLXN5c3RlbS1jYXBhYmlsaXRpZXMtYWdhaW5zdC1hZHZhbmNlZC1jb3VudGVybWVhc3VyZS1taXNzaWxlLXRhcmdldNIBAA?oc=5",
+      "published": "2024-02-09T07:14:42.000Z",
+      "description": "Missile Defense Agency and U.S. Navy Successfully Demonstrate Aegis Weapon System Capabilities against ...&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
@@ -387,11 +397,11 @@
       "category": ""
     },
     {
-      "id": "CBMisAFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjM1MzQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1hbmQtdXMtbmF2eS1zdWNjZXNzZnVsbHktZGVtb25zdHJhdGUtYWVnaXMtd2VhcG9uLXN5c3RlbS1jYXBhYmlsaXRpZXMtYWdhaW5zdC1hZHZhbmNlZC1jb3VudGVybWVhc3VyZS1taXNzaWxlLXRhcmdldNIBAA",
-      "title": "Missile Defense Agency and U.S. Navy Successfully Demonstrate Aegis Weapon System Capabilities against ... - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5kdmlkc2h1Yi5uZXQvbmV3cy80NjM1MzQvbWlzc2lsZS1kZWZlbnNlLWFnZW5jeS1hbmQtdXMtbmF2eS1zdWNjZXNzZnVsbHktZGVtb25zdHJhdGUtYWVnaXMtd2VhcG9uLXN5c3RlbS1jYXBhYmlsaXRpZXMtYWdhaW5zdC1hZHZhbmNlZC1jb3VudGVybWVhc3VyZS1taXNzaWxlLXRhcmdldNIBAA?oc=5",
-      "published": "2024-02-09T07:14:42.000Z",
-      "description": "Missile Defense Agency and U.S. Navy Successfully Demonstrate Aegis Weapon System Capabilities against ...&nbsp;&nbsp;DVIDS",
+      "id": "CBMigQFodHRwczovL3d3dy53YXNoaW5ndG9uaW5zdGl0dXRlLm9yZy9wb2xpY3ktYW5hbHlzaXMvaGV6Ym9sbGFoLXRocmVhdGVucy1jeXBydXMtY2FwYWJpbGl0aWVzLWludGVudGlvbnMtYW5kLXBvdGVudGlhbC1jb25zZXF1ZW5jZXPSAQA",
+      "title": "Hezbollah Threatens Cyprus: Capabilities, Intentions, and Potential Consequences - The Washington Institute",
+      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy53YXNoaW5ndG9uaW5zdGl0dXRlLm9yZy9wb2xpY3ktYW5hbHlzaXMvaGV6Ym9sbGFoLXRocmVhdGVucy1jeXBydXMtY2FwYWJpbGl0aWVzLWludGVudGlvbnMtYW5kLXBvdGVudGlhbC1jb25zZXF1ZW5jZXPSAQA?oc=5",
+      "published": "2024-06-21T18:50:49.000Z",
+      "description": "Hezbollah Threatens Cyprus: Capabilities, Intentions, and Potential Consequences&nbsp;&nbsp;The Washington Institute",
       "summary": "",
       "author": "",
       "category": ""
@@ -417,21 +427,21 @@
       "category": ""
     },
     {
-      "id": "CBMidWh0dHBzOi8vd3d3Lm9yZWFuZGEtbmV3cy5jb20vZW4vZ29zdWRhcnN0dm8vdGhlLWFpci1kZWZlbnNlLXN5c3RlbS13aWxsLWJlLXN0cmVuZ3RoZW5lZC1pbi1zZXZhc3RvcG9sL2FydGljbGUxNTE5ODcyL9IBAA",
-      "title": "The air defense system will be strengthened in Sevastopol - Ореанда-Новости",
-      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm9yZWFuZGEtbmV3cy5jb20vZW4vZ29zdWRhcnN0dm8vdGhlLWFpci1kZWZlbnNlLXN5c3RlbS13aWxsLWJlLXN0cmVuZ3RoZW5lZC1pbi1zZXZhc3RvcG9sL2FydGljbGUxNTE5ODcyL9IBAA?oc=5",
-      "published": "2024-06-27T20:09:31.000Z",
-      "description": "The air defense system will be strengthened in Sevastopol&nbsp;&nbsp;Ореанда-Новости",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMif2h0dHA6Ly9hcm1lZHNlcnZpY2VzLmhvdXNlLmdvdi9uZXdzL3ByZXNzLXJlbGVhc2VzL2xhbWJvcm4tb3BlbmluZy1zdGF0ZW1lbnQtaGVhcmluZy1meTI1LWJ1ZGdldC1yZXF1ZXN0LW1pc3NpbGUtZGVmZW5zZS1kZWZlYXTSAQA",
       "title": "LAMBORN OPENING STATEMENT AT HEARING ON FY25 BUDGET REQUEST FOR MISSILE DEFENSE & DEFEAT ... - House Armed Services Committee",
       "link": "https://news.google.com/rss/articles/CBMif2h0dHA6Ly9hcm1lZHNlcnZpY2VzLmhvdXNlLmdvdi9uZXdzL3ByZXNzLXJlbGVhc2VzL2xhbWJvcm4tb3BlbmluZy1zdGF0ZW1lbnQtaGVhcmluZy1meTI1LWJ1ZGdldC1yZXF1ZXN0LW1pc3NpbGUtZGVmZW5zZS1kZWZlYXTSAQA?oc=5",
       "published": "2024-04-12T07:00:00.000Z",
       "description": "LAMBORN OPENING STATEMENT AT HEARING ON FY25 BUDGET REQUEST FOR MISSILE DEFENSE & DEFEAT ...&nbsp;&nbsp;House Armed Services Committee",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidWh0dHBzOi8vd3d3Lm9yZWFuZGEtbmV3cy5jb20vZW4vZ29zdWRhcnN0dm8vdGhlLWFpci1kZWZlbnNlLXN5c3RlbS13aWxsLWJlLXN0cmVuZ3RoZW5lZC1pbi1zZXZhc3RvcG9sL2FydGljbGUxNTE5ODcyL9IBAA",
+      "title": "The air defense system will be strengthened in Sevastopol - Ореанда-Новости",
+      "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm9yZWFuZGEtbmV3cy5jb20vZW4vZ29zdWRhcnN0dm8vdGhlLWFpci1kZWZlbnNlLXN5c3RlbS13aWxsLWJlLXN0cmVuZ3RoZW5lZC1pbi1zZXZhc3RvcG9sL2FydGljbGUxNTE5ODcyL9IBAA?oc=5",
+      "published": "2024-06-27T20:09:31.000Z",
+      "description": "The air defense system will be strengthened in Sevastopol&nbsp;&nbsp;Ореанда-Новости",
       "summary": "",
       "author": "",
       "category": ""
@@ -487,21 +497,21 @@
       "category": ""
     },
     {
-      "id": "CBMiQWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXBhdHJpb3QtbWlzc2lsZS16ZWxlbnNreS0xOTE2MDgx0gEA",
-      "title": "Ukraine Gets Patriot Air Defense Boost From NATO Ally - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXBhdHJpb3QtbWlzc2lsZS16ZWxlbnNreS0xOTE2MDgx0gEA?oc=5",
-      "published": "2024-06-22T09:23:59.000Z",
-      "description": "Ukraine Gets Patriot Air Defense Boost From NATO Ally&nbsp;&nbsp;Newsweek",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibWh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyNC0wMy9uZXdzLWJyaWVmcy9taXNzaWxlLWRlZmVuc2Utc3lzdGVtLXBvbGFuZC1jb3VsZC1iZS1vcGVyYXRpb25hbC1zdW1tZXLSAQA",
       "title": "Missile Defense System in Poland Could Be Operational by Summer - Arms Control Association",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmFybXNjb250cm9sLm9yZy9hY3QvMjAyNC0wMy9uZXdzLWJyaWVmcy9taXNzaWxlLWRlZmVuc2Utc3lzdGVtLXBvbGFuZC1jb3VsZC1iZS1vcGVyYXRpb25hbC1zdW1tZXLSAQA?oc=5",
       "published": "2024-04-26T03:43:52.000Z",
       "description": "Missile Defense System in Poland Could Be Operational by Summer&nbsp;&nbsp;Arms Control Association",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiQWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXBhdHJpb3QtbWlzc2lsZS16ZWxlbnNreS0xOTE2MDgx0gEA",
+      "title": "Ukraine Gets Patriot Air Defense Boost From NATO Ally - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXBhdHJpb3QtbWlzc2lsZS16ZWxlbnNreS0xOTE2MDgx0gEA?oc=5",
+      "published": "2024-06-22T09:23:59.000Z",
+      "description": "Ukraine Gets Patriot Air Defense Boost From NATO Ally&nbsp;&nbsp;Newsweek",
       "summary": "",
       "author": "",
       "category": ""
@@ -932,16 +942,6 @@
       "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zMzY3OTE0L29mZmljaWFsLWRpc2N1c3Nlcy1zdGVwcy10by1kZXRlci1kZWZlYXQtbWlzc2lsZS10aHJlYXRzL9IBAA?oc=5",
       "published": "2023-04-19T07:00:00.000Z",
       "description": "Official Discusses Steps to Deter, Defeat Missile Threats&nbsp;&nbsp;Department of Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaWh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA2LzI1L25vcnRoLWtvcmVhLWZpcmVzLWEtYmFsbGlzdGljLW1pc3NpbGUtdG93YXJkLXNlYS1zb3V0aC1rb3JlYS1zYXlzL9IBAA",
-      "title": "Suspected North Korean hypersonic missile exploded in flight, South Korea says - CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzA2LzI1L25vcnRoLWtvcmVhLWZpcmVzLWEtYmFsbGlzdGljLW1pc3NpbGUtdG93YXJkLXNlYS1zb3V0aC1rb3JlYS1zYXlzL9IBAA?oc=5",
-      "published": "2024-06-25T21:10:00.000Z",
-      "description": "Suspected North Korean hypersonic missile exploded in flight, South Korea says&nbsp;&nbsp;CityNews Toronto",
       "summary": "",
       "author": "",
       "category": ""
