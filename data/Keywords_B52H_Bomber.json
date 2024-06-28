@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-28T09:26:27.000Z",
+  "published": "2024-06-28T10:32:43.000Z",
   "entries": [
     {
       "id": "CBMiTGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2xpdmUtZHJpbGxzLXVzLWFpci1mb3JjZS1wcmFjdGljZXMtbG9uZy1yYW5nZS_SAUxodHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9saXZlLWRyaWxscy11cy1haXItZm9yY2UtcHJhY3RpY2VzLWxvbmctcmFuZ2Uv",
@@ -77,21 +77,21 @@
       "category": ""
     },
     {
-      "id": "CBMiV2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9jb25ncmVzcy13YW50cy11cy1haXItZm9yY2UtYi01Mi1ib21iZXJzLXRvLWNhcnJ5LW51a2VzLWFnYWluL9IBAA",
-      "title": "Congress Wants US Air Force B-52 Bombers To Carry Nukes Again - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9jb25ncmVzcy13YW50cy11cy1haXItZm9yY2UtYi01Mi1ib21iZXJzLXRvLWNhcnJ5LW51a2VzLWFnYWluL9IBAA?oc=5",
-      "published": "2024-06-22T16:00:00.000Z",
-      "description": "Congress Wants US Air Force B-52 Bombers To Carry Nukes Again&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiSWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtYi01Mi1ib21iZXItY2l2aWxpYW4tYWlycG9ydC_SAQA",
       "title": "B-52 Bombers Make Rare Landing at Civilian Airport - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtYi01Mi1ib21iZXItY2l2aWxpYW4tYWlycG9ydC_SAQA?oc=5",
       "published": "2024-04-18T07:00:00.000Z",
       "description": "B-52 Bombers Make Rare Landing at Civilian Airport&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiV2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9jb25ncmVzcy13YW50cy11cy1haXItZm9yY2UtYi01Mi1ib21iZXJzLXRvLWNhcnJ5LW51a2VzLWFnYWluL9IBAA",
+      "title": "Congress Wants US Air Force B-52 Bombers To Carry Nukes Again - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9jb25ncmVzcy13YW50cy11cy1haXItZm9yY2UtYi01Mi1ib21iZXJzLXRvLWNhcnJ5LW51a2VzLWFnYWluL9IBAA?oc=5",
+      "published": "2024-06-22T16:00:00.000Z",
+      "description": "Congress Wants US Air Force B-52 Bombers To Carry Nukes Again&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
       "category": ""
@@ -180,7 +180,7 @@
       "id": "CBMiWWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91cy1haXItZm9yY2UtYjUyLWJvbWJlci1yb2xscy1yb3ljZS1lbmdpbmVzLXdvbnQtZmx5LXVudGlsLTIwMzMv0gEA",
       "title": "15 Years After Start: B-52 Bomber With Rolls-Royce Engines Won't Fly Until 2033 - Simple Flying",
       "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91cy1haXItZm9yY2UtYjUyLWJvbWJlci1yb2xscy1yb3ljZS1lbmdpbmVzLXdvbnQtZmx5LXVudGlsLTIwMzMv0gEA?oc=5",
-      "published": "2024-06-18T08:07:00.000Z",
+      "published": "2024-06-18T07:00:00.000Z",
       "description": "15 Years After Start: B-52 Bomber With Rolls-Royce Engines Won't Fly Until 2033&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
@@ -232,16 +232,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2FzaWFfcGFjaWZpYy8yMDI0LTAyLTIxL2I1Mi1ib21iZXItcGhpbGlwcGluZXMtY2hpbmEtMTMwNjc0NjcuaHRtbNIBAA?oc=5",
       "published": "2024-02-21T08:00:00.000Z",
       "description": "Air Force B-52 bomber, Philippine fighters make show of force over South China Sea&nbsp;&nbsp;Stars and Stripes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiamh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtcGxhbnMtaGF2ZS1iLTUyLWZseS11bnRpbC0yMDYwLWhpdC1hbm90aGVyLWh1cmRsZS0yMTE1MzXSAQA",
-      "title": "The Air Force's Plans to Have the B-52 to Fly Until 2060 Hit Another Hurdle - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2Fpci1mb3JjZXMtcGxhbnMtaGF2ZS1iLTUyLWZseS11bnRpbC0yMDYwLWhpdC1hbm90aGVyLWh1cmRsZS0yMTE1MzXSAQA?oc=5",
-      "published": "2024-06-21T14:31:59.000Z",
-      "description": "The Air Force's Plans to Have the B-52 to Fly Until 2060 Hit Another Hurdle&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -437,21 +427,21 @@
       "category": ""
     },
     {
-      "id": "CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA",
-      "title": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA?oc=5",
-      "published": "2024-06-02T07:00:00.000Z",
-      "description": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiPWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy11ay1ib21iZXItdGFzay1mb3JjZS_SAQA",
       "title": "B-52s Land in UK to Kick Off Bomber Task Force - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTUycy11ay1ib21iZXItdGFzay1mb3JjZS_SAQA?oc=5",
       "published": "2024-05-21T07:00:00.000Z",
       "description": "B-52s Land in UK to Kick Off Bomber Task Force&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA",
+      "title": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtdXMtYWlyLWZvcmNlLWJvbWJlci1qdXN0LXRvby1vbGQtbm8td2F5LTIxMDI1M9IBAA?oc=5",
+      "published": "2024-06-02T07:00:00.000Z",
+      "description": "B-52 Stratofortress: The U.S. Air Force Bomber That Is Just Too Old? No Way&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItNTItc3RyYXRvZm9ydHJlc3MtYm9tYmVyLXRyYW5zZm9ybWVkLXVzLWFpci1mb3JjZS1zdXBlcnBvd2VyLTIwNzIyNdIBAA?oc=5",
       "published": "2023-11-10T08:00:00.000Z",
       "description": "The B-52 Stratofortress Bomber Transformed the U.S. Air Force Into a Superpower&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8va2R2ci5jb20vbmV3cy9wcm9ibGVtLXNvbHZlcnMvc2VydmluZy10aG9zZS13aG8tc2VydmUvY29sb3JhZG8tdmV0ZXJhbi1yZXVuaXRlZC1iLTUyLWJvbWJlci12aWV0bmFtL9IBcGh0dHBzOi8va2R2ci5jb20vbmV3cy9wcm9ibGVtLXNvbHZlcnMvc2VydmluZy10aG9zZS13aG8tc2VydmUvY29sb3JhZG8tdmV0ZXJhbi1yZXVuaXRlZC1iLTUyLWJvbWJlci12aWV0bmFtL2FtcC8",
+      "title": "Colorado veteran reunited with the B-52 he flew over Vietnam 50 years ago - FOX 31 Denver",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8va2R2ci5jb20vbmV3cy9wcm9ibGVtLXNvbHZlcnMvc2VydmluZy10aG9zZS13aG8tc2VydmUvY29sb3JhZG8tdmV0ZXJhbi1yZXVuaXRlZC1iLTUyLWJvbWJlci12aWV0bmFtL9IBcGh0dHBzOi8va2R2ci5jb20vbmV3cy9wcm9ibGVtLXNvbHZlcnMvc2VydmluZy10aG9zZS13aG8tc2VydmUvY29sb3JhZG8tdmV0ZXJhbi1yZXVuaXRlZC1iLTUyLWJvbWJlci12aWV0bmFtL2FtcC8?oc=5",
+      "published": "2023-10-23T07:00:00.000Z",
+      "description": "Colorado veteran reunited with the B-52 he flew over Vietnam 50 years ago&nbsp;&nbsp;FOX 31 Denver",
       "summary": "",
       "author": "",
       "category": ""
