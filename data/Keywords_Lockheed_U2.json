@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-28T19:18:29.000Z",
+  "published": "2024-06-28T20:24:27.000Z",
   "entries": [
     {
       "id": "CBMicGh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91LTItZHJhZ29uLWxhZHktbWVldC1vbmUtb2YtdGhlLXVzLWFpci1mb3JjZXMtb2xkZXN0LWNvbGQtd2FyLWFpcmNyYWZ0LXN0aWxsLW9wZXJhdGluZy_SAQA",
@@ -32,16 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDQvMTEvYmVhbGUtYWZiLXJldGlyZXMtYW5vdGhlci11LTItYXMtZHJhZ29uLWxhZHlzLXBoYXNlLW91dC1tb3Zlcy1mb3J3YXJkL9IBAA?oc=5",
       "published": "2024-04-11T07:00:00.000Z",
       "description": "Beale AFB Retires Another U-2 As Dragon Lady's Phase Out Moves Forward&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiVGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L29sZC11LTItc3B5LXBsYW5lLWhhcy1vbmUtbWlzc2lvbi1vbmx5LTIwNzY4N9IBAA",
-      "title": "The Old U-2 Spy Plane Has One Mission Only - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L29sZC11LTItc3B5LXBsYW5lLWhhcy1vbmUtbWlzc2lvbi1vbmx5LTIwNzY4N9IBAA?oc=5",
-      "published": "2023-12-03T08:00:00.000Z",
-      "description": "The Old U-2 Spy Plane Has One Mission Only&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -82,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9uYXNhLWVyLTItc3B5LXBsYW5lLW1pbmVyYWwtbWFwcGluZ9IBAA?oc=5",
       "published": "2023-11-09T08:00:00.000Z",
       "description": "NASA's modified U-2 spy plane is hunting for 'strategic minerals' in the desert. Here's why&nbsp;&nbsp;Space.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L29sZC11LTItc3B5LXBsYW5lLWhhcy1vbmUtbWlzc2lvbi1vbmx5LTIwNzY4N9IBAA",
+      "title": "The Old U-2 Spy Plane Has One Mission Only - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L29sZC11LTItc3B5LXBsYW5lLWhhcy1vbmUtbWlzc2lvbi1vbmx5LTIwNzY4N9IBAA?oc=5",
+      "published": "2023-12-03T08:00:00.000Z",
+      "description": "The Old U-2 Spy Plane Has One Mission Only&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -137,21 +137,21 @@
       "category": ""
     },
     {
-      "id": "CBMiT2h0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9uYXNhLW1pbmVyYWwtcHJvc3BlY3Rpbmctd2l0aC11MnPSAQA",
-      "title": "NASA is using Lockheed U2 spy planes to hunt for minerals in the desert - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9uYXNhLW1pbmVyYWwtcHJvc3BlY3Rpbmctd2l0aC11MnPSAQA?oc=5",
-      "published": "2023-11-10T08:00:00.000Z",
-      "description": "NASA is using Lockheed U2 spy planes to hunt for minerals in the desert&nbsp;&nbsp;Interesting Engineering",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiRWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9iZWFsZS1haXItZm9yY2UtZWxlcGhhbnQtd2Fsay11Mi1zcHktcGxhbmVzL9IBSWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9iZWFsZS1haXItZm9yY2UtZWxlcGhhbnQtd2Fsay11Mi1zcHktcGxhbmVzLz9hbXA",
       "title": "US Air Force stages 'Elephant Walk' featuring legendary U-2 spy planes - defence-blog.com",
       "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9iZWFsZS1haXItZm9yY2UtZWxlcGhhbnQtd2Fsay11Mi1zcHktcGxhbmVzL9IBSWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9iZWFsZS1haXItZm9yY2UtZWxlcGhhbnQtd2Fsay11Mi1zcHktcGxhbmVzLz9hbXA?oc=5",
       "published": "2024-01-06T08:00:00.000Z",
       "description": "US Air Force stages 'Elephant Walk' featuring legendary U-2 spy planes&nbsp;&nbsp;defence-blog.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiT2h0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9uYXNhLW1pbmVyYWwtcHJvc3BlY3Rpbmctd2l0aC11MnPSAQA",
+      "title": "NASA is using Lockheed U2 spy planes to hunt for minerals in the desert - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vaW5ub3ZhdGlvbi9uYXNhLW1pbmVyYWwtcHJvc3BlY3Rpbmctd2l0aC11MnPSAQA?oc=5",
+      "published": "2023-11-10T08:00:00.000Z",
+      "description": "NASA is using Lockheed U2 spy planes to hunt for minerals in the desert&nbsp;&nbsp;Interesting Engineering",
       "summary": "",
       "author": "",
       "category": ""
@@ -227,21 +227,21 @@
       "category": ""
     },
     {
-      "id": "CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA",
-      "title": "Rare TU-2S plane takes to the skies after three years of maintenance - defence-blog.com",
-      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA?oc=5",
-      "published": "2024-03-25T07:00:00.000Z",
-      "description": "Rare TU-2S plane takes to the skies after three years of maintenance&nbsp;&nbsp;defence-blog.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vc3B5c2NhcGUuY29tL2FydGljbGUvbWVldC1hbWVyaWNhcy1maXJzdC1mZW1hbGUtdS0yLXRvcC1ndW4tdGhlLXNweS13aG8tc2FpZC1uby10by1zdGV2ZW4tc3BpZWxiZXJn0gEA",
       "title": "Meet America's First Black Female U-2 Spy Plane Pilot - the Woman Who Said 'No' to Spielberg - Spyscape",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vc3B5c2NhcGUuY29tL2FydGljbGUvbWVldC1hbWVyaWNhcy1maXJzdC1mZW1hbGUtdS0yLXRvcC1ndW4tdGhlLXNweS13aG8tc2FpZC1uby10by1zdGV2ZW4tc3BpZWxiZXJn0gEA?oc=5",
       "published": "2024-01-31T11:11:10.000Z",
       "description": "Meet America's First Black Female U-2 Spy Plane Pilot - the Woman Who Said 'No' to Spielberg&nbsp;&nbsp;Spyscape",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA",
+      "title": "Rare TU-2S plane takes to the skies after three years of maintenance - defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS9yYXJlLXR1LTJzLXBsYW5lLXRha2VzLXRvLXRoZS1za2llcy1hZnRlci10aHJlZS15ZWFycy1vZi1tYWludGVuYW5jZS_SAWJodHRwczovL2RlZmVuY2UtYmxvZy5jb20vcmFyZS10dS0ycy1wbGFuZS10YWtlcy10by10aGUtc2tpZXMtYWZ0ZXItdGhyZWUteWVhcnMtb2YtbWFpbnRlbmFuY2UvP2FtcA?oc=5",
+      "published": "2024-03-25T07:00:00.000Z",
+      "description": "Rare TU-2S plane takes to the skies after three years of maintenance&nbsp;&nbsp;defence-blog.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -257,16 +257,6 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8",
-      "title": "Beale Air Force Base retires third U-2 of 2024 - KTXL FOX 40 Sacramento",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8?oc=5",
-      "published": "2024-04-23T07:00:00.000Z",
-      "description": "Beale Air Force Base retires third U-2 of 2024&nbsp;&nbsp;KTXL FOX 40 Sacramento",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiUmh0dHBzOi8vZ3JleWR5bmFtaWNzLmNvbS9lc3Bpb25hZ2UtaW4tdGhlLWFpci1hLWNvbXByZWhlbnNpdmUtZ3VpZGUtdG8tc3B5LXBsYW5lcy_SAQA",
       "title": "Espionage in the Air: A Comprehensive Guide to Spy Planes - Grey Dynamics",
       "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZ3JleWR5bmFtaWNzLmNvbS9lc3Bpb25hZ2UtaW4tdGhlLWFpci1hLWNvbXByZWhlbnNpdmUtZ3VpZGUtdG8tc3B5LXBsYW5lcy_SAQA?oc=5",
@@ -277,11 +267,11 @@
       "category": ""
     },
     {
-      "id": "CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv",
-      "title": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies - KTXL FOX 40 Sacramento",
-      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv?oc=5",
-      "published": "2024-02-16T08:00:00.000Z",
-      "description": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies&nbsp;&nbsp;KTXL FOX 40 Sacramento",
+      "id": "CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8",
+      "title": "Beale Air Force Base retires third U-2 of 2024 - KTXL FOX 40 Sacramento",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L9IBYWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1haXItZm9yY2UtYmFzZS1yZXRpcmVzLXRoaXJkLXUtMi1vZi0yMDI0L2FtcC8?oc=5",
+      "published": "2024-04-23T07:00:00.000Z",
+      "description": "Beale Air Force Base retires third U-2 of 2024&nbsp;&nbsp;KTXL FOX 40 Sacramento",
       "summary": "",
       "author": "",
       "category": ""
@@ -302,6 +292,16 @@
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL29waW5pb24vaGlnaC1mbHlpbmctYWlyY3JhZnQtZGlzY292ZXJlZC1jaGluYXMtc3B5LWJhbGxvb24tbm93LWJpZGVucy1wZW50YWdvbi13YW50cy1raWxsLWl00gF4aHR0cHM6Ly93d3cuZm94bmV3cy5jb20vb3Bpbmlvbi9oaWdoLWZseWluZy1haXJjcmFmdC1kaXNjb3ZlcmVkLWNoaW5hcy1zcHktYmFsbG9vbi1ub3ctYmlkZW5zLXBlbnRhZ29uLXdhbnRzLWtpbGwtaXQuYW1w?oc=5",
       "published": "2023-11-30T08:00:00.000Z",
       "description": "This high-flying aircraft discovered China’s spy balloon. Now Biden’s Pentagon wants to kill it&nbsp;&nbsp;Fox News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv",
+      "title": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies - KTXL FOX 40 Sacramento",
+      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv?oc=5",
+      "published": "2024-02-16T08:00:00.000Z",
+      "description": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies&nbsp;&nbsp;KTXL FOX 40 Sacramento",
       "summary": "",
       "author": "",
       "category": ""
@@ -367,6 +367,16 @@
       "category": ""
     },
     {
+      "id": "CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtMi1yZXRpcmVtZW50LXJlcHJpZXZlLWVtZXJnZXMtMjAyNzU5NDc5Lmh0bWzSAQA",
+      "title": "U-2 Retirement Reprieve Emerges In Proposed Defense Spending Bill - Yahoo! Voices",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtMi1yZXRpcmVtZW50LXJlcHJpZXZlLWVtZXJnZXMtMjAyNzU5NDc5Lmh0bWzSAQA?oc=5",
+      "published": "2024-06-04T07:00:00.000Z",
+      "description": "U-2 Retirement Reprieve Emerges In Proposed Defense Spending Bill&nbsp;&nbsp;Yahoo! Voices",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiX2h0dHBzOi8vd3d3LnNjcmFtYmxlLm5sL21pbGl0YXJ5LW5ld3MvZmlyc3QtdHUtMnMtZHJhZ29uLWxhZHktYm93cy1vdXQtdGhlLWJlZ2lubmluZy1vZi10aGUtZW5k0gEA",
       "title": "First TU-2S Dragon Lady bows out. The beginning of the end - Scramble (NL)",
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnNjcmFtYmxlLm5sL21pbGl0YXJ5LW5ld3MvZmlyc3QtdHUtMnMtZHJhZ29uLWxhZHktYm93cy1vdXQtdGhlLWJlZ2lubmluZy1vZi10aGUtZW5k0gEA?oc=5",
@@ -407,31 +417,11 @@
       "category": ""
     },
     {
-      "id": "CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtMi1yZXRpcmVtZW50LXJlcHJpZXZlLWVtZXJnZXMtMjAyNzU5NDc5Lmh0bWzSAQA",
-      "title": "U-2 Retirement Reprieve Emerges In Proposed Defense Spending Bill - Yahoo! Voices",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL3UtMi1yZXRpcmVtZW50LXJlcHJpZXZlLWVtZXJnZXMtMjAyNzU5NDc5Lmh0bWzSAQA?oc=5",
-      "published": "2024-06-04T07:00:00.000Z",
-      "description": "U-2 Retirement Reprieve Emerges In Proposed Defense Spending Bill&nbsp;&nbsp;Yahoo! Voices",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXGh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2E0NDc2MzYwMS91LTItc3B5LXBsYW5lLXJldGlyaW5nLWluLTIwMjYv0gEA",
       "title": "Why We'll Miss the U-2 Spy Plane: History, Capabilities, Missions - Popular Mechanics",
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2E0NDc2MzYwMS91LTItc3B5LXBsYW5lLXJldGlyaW5nLWluLTIwMjYv0gEA?oc=5",
       "published": "2023-08-09T07:00:00.000Z",
       "description": "Why We'll Miss the U-2 Spy Plane: History, Capabilities, Missions&nbsp;&nbsp;Popular Mechanics",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL9IBbWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL2FtcC8",
-      "title": "Beale AFB TU-2S back in black after years long restoration - KTXL FOX 40 Sacramento",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL9IBbWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL2FtcC8?oc=5",
-      "published": "2024-04-01T07:00:00.000Z",
-      "description": "Beale AFB TU-2S back in black after years long restoration&nbsp;&nbsp;KTXL FOX 40 Sacramento",
       "summary": "",
       "author": "",
       "category": ""
@@ -462,6 +452,16 @@
       "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmFmbWMuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzcyNDkyMC9vbC1wbGFudC00Mi1icmVhdGhlcy1uZXctZmlyZS1pbnRvLXR1LTJzLWRyYWdvbi1sYWR5L9IBAA?oc=5",
       "published": "2024-03-28T07:00:00.000Z",
       "description": "OL Plant 42 breathes new fire into TU-2S Dragon Lady&nbsp;&nbsp;afmc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL9IBbWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL2FtcC8",
+      "title": "Beale AFB TU-2S back in black after years long restoration - KTXL FOX 40 Sacramento",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL9IBbWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9iZWFsZS1hZmItdHUtMnMtYmFjay1pbi1ibGFjay1hZnRlci15ZWFycy1sb25nLXJlc3RvcmF0aW9uL2FtcC8?oc=5",
+      "published": "2024-04-01T07:00:00.000Z",
+      "description": "Beale AFB TU-2S back in black after years long restoration&nbsp;&nbsp;KTXL FOX 40 Sacramento",
       "summary": "",
       "author": "",
       "category": ""
@@ -727,21 +727,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbC9pbmRleC5odG1s0gFeaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbA",
-      "title": "When China shot down five U-2 spy planes at the height of the Cold War - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbC9pbmRleC5odG1s0gFeaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbA?oc=5",
-      "published": "2023-03-10T08:00:00.000Z",
-      "description": "When China shot down five U-2 spy planes at the height of the Cold War&nbsp;&nbsp;CNN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYmh0dHBzOi8vd3d3LmRlZmVuc2VkYWlseS5jb20vYWlyLWZvcmNlLWJ1ZGdldC1yZXF1ZXN0LWluY2x1ZGVzLTEyMC1taWxsaW9uLXUtMi1haXJjcmFmdC9haXItZm9yY2Uv0gEA",
       "title": "Air Force Budget Request Includes $120 Million for U-2 Aircraft - Defense Daily Network",
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmRlZmVuc2VkYWlseS5jb20vYWlyLWZvcmNlLWJ1ZGdldC1yZXF1ZXN0LWluY2x1ZGVzLTEyMC1taWxsaW9uLXUtMi1haXJjcmFmdC9haXItZm9yY2Uv0gEA?oc=5",
       "published": "2020-02-18T08:00:00.000Z",
       "description": "Air Force Budget Request Includes $120 Million for U-2 Aircraft&nbsp;&nbsp;Defense Daily Network",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbC9pbmRleC5odG1s0gFeaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbA",
+      "title": "When China shot down five U-2 spy planes at the height of the Cold War - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbC9pbmRleC5odG1s0gFeaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMy8xMC9hc2lhL2NoaW5hLXVzLXRhaXdhbi1zcHktcGxhbmUtc3F1YWRyb24taGlzdG9yeS1pbnRsLWhuay1tbA?oc=5",
+      "published": "2023-03-10T08:00:00.000Z",
+      "description": "When China shot down five U-2 spy planes at the height of the Cold War&nbsp;&nbsp;CNN",
       "summary": "",
       "author": "",
       "category": ""
@@ -887,21 +887,21 @@
       "category": ""
     },
     {
-      "id": "CBMiWGh0dHBzOi8vd3d3Lndhcmhpc3RvcnlvbmxpbmUuY29tL2NvbGQtd2FyL2xvY2toZWVkLXN1Z2dlc3RlZC11LTItYW50aS1zaGlwLW1pc3NpbGVzLmh0bWzSAQA",
-      "title": "Lockheed nearly armed the U-2 with anti-ship missiles - War History Online",
-      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndhcmhpc3RvcnlvbmxpbmUuY29tL2NvbGQtd2FyL2xvY2toZWVkLXN1Z2dlc3RlZC11LTItYW50aS1zaGlwLW1pc3NpbGVzLmh0bWzSAQA?oc=5",
-      "published": "2021-08-20T07:00:00.000Z",
-      "description": "Lockheed nearly armed the U-2 with anti-ship missiles&nbsp;&nbsp;War History Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA",
       "title": "ER-2 High-Altitude Airborne Science Aircraft - NASA",
       "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm5hc2EuZ292L2NlbnRlcnMtYW5kLWZhY2lsaXRpZXMvYXJtc3Ryb25nL2VyLTItYWlyY3JhZnQv0gEA?oc=5",
       "published": "2014-09-17T07:00:00.000Z",
       "description": "ER-2 High-Altitude Airborne Science Aircraft&nbsp;&nbsp;NASA",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWGh0dHBzOi8vd3d3Lndhcmhpc3RvcnlvbmxpbmUuY29tL2NvbGQtd2FyL2xvY2toZWVkLXN1Z2dlc3RlZC11LTItYW50aS1zaGlwLW1pc3NpbGVzLmh0bWzSAQA",
+      "title": "Lockheed nearly armed the U-2 with anti-ship missiles - War History Online",
+      "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lndhcmhpc3RvcnlvbmxpbmUuY29tL2NvbGQtd2FyL2xvY2toZWVkLXN1Z2dlc3RlZC11LTItYW50aS1zaGlwLW1pc3NpbGVzLmh0bWzSAQA?oc=5",
+      "published": "2021-08-20T07:00:00.000Z",
+      "description": "Lockheed nearly armed the U-2 with anti-ship missiles&nbsp;&nbsp;War History Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -987,21 +987,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL3NldmVuLWFydGlmYWN0cy1zdXJyb3VuZGluZy0xOTYwLXUtMi1zaG9vdGRvd27SAQA",
-      "title": "Seven Artifacts Surrounding The 1960 U-2 Shootdown - Aviation Week",
-      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL3NldmVuLWFydGlmYWN0cy1zdXJyb3VuZGluZy0xOTYwLXUtMi1zaG9vdGRvd27SAQA?oc=5",
-      "published": "2020-05-01T07:00:00.000Z",
-      "description": "Seven Artifacts Surrounding The 1960 U-2 Shootdown&nbsp;&nbsp;Aviation Week",
+      "id": "CBMiIWh0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE0LzAyL3UyL9IBAA",
+      "title": "The U2 Spy Plane: Still Going Strong, Still Terrifying to Fly - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE0LzAyL3UyL9IBAA?oc=5",
+      "published": "2014-02-19T08:00:00.000Z",
+      "description": "The U2 Spy Plane: Still Going Strong, Still Terrifying to Fly&nbsp;&nbsp;WIRED",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiYWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvZHJhZ29uLWxhZHktdTItc3B5LXBsYW5lLWNvbWluZy10by1oaWxsLWFlcm9zcGFjZS1tdXNldW3SAQA",
-      "title": "'Dragon Lady' U2 spy plane coming to Hill Aerospace Museum - FOX 13 News Utah",
-      "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZveDEzbm93LmNvbS9uZXdzL2xvY2FsLW5ld3MvZHJhZ29uLWxhZHktdTItc3B5LXBsYW5lLWNvbWluZy10by1oaWxsLWFlcm9zcGFjZS1tdXNldW3SAQA?oc=5",
-      "published": "2022-03-22T07:00:00.000Z",
-      "description": "'Dragon Lady' U2 spy plane coming to Hill Aerospace Museum&nbsp;&nbsp;FOX 13 News Utah",
+      "id": "CBMiVWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL3NldmVuLWFydGlmYWN0cy1zdXJyb3VuZGluZy0xOTYwLXUtMi1zaG9vdGRvd27SAQA",
+      "title": "Seven Artifacts Surrounding The 1960 U-2 Shootdown - Aviation Week",
+      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXZpYXRpb253ZWVrLmNvbS9kZWZlbnNlLXNwYWNlL3NldmVuLWFydGlmYWN0cy1zdXJyb3VuZGluZy0xOTYwLXUtMi1zaG9vdGRvd27SAQA?oc=5",
+      "published": "2020-05-01T07:00:00.000Z",
+      "description": "Seven Artifacts Surrounding The 1960 U-2 Shootdown&nbsp;&nbsp;Aviation Week",
       "summary": "",
       "author": "",
       "category": ""
