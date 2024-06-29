@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-29T20:08:30.000Z",
+  "published": "2024-06-29T21:08:10.000Z",
   "entries": [
     {
       "id": "CBMie2h0dHBzOi8vd3d3LmF2cHJlc3MuY29tL25ld3MvdS0yLWhpc3Rvcmlhbi10by1kaXNjdXNzLXNweS1wbGFuZS1zLWhpc3RvcnkvYXJ0aWNsZV9kNzI5MTNlYy0zNWM5LTExZWYtOThhYi01ZmE0MTYyNGYwMDkuaHRtbNIBAA",
@@ -432,6 +432,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2E0NDc2MzYwMS91LTItc3B5LXBsYW5lLXJldGlyaW5nLWluLTIwMjYv0gEA?oc=5",
       "published": "2023-08-09T07:00:00.000Z",
       "description": "Why We'll Miss the U-2 Spy Plane: History, Capabilities, Missions&nbsp;&nbsp;Popular Mechanics",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9GYWN0LVNoZWV0cy9EaXNwbGF5L0FydGljbGUvMTA0NTYwL3UtMnN0dS0ycy_SAQA",
+      "title": "U-2S/TU-2S > Air Force > Fact Sheet Display - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9GYWN0LVNoZWV0cy9EaXNwbGF5L0FydGljbGUvMTA0NTYwL3UtMnN0dS0ycy_SAQA?oc=5",
+      "published": "2017-05-04T05:08:50.000Z",
+      "description": "U-2S/TU-2S > Air Force > Fact Sheet Display&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -937,21 +947,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTI4MzYyMy93aHktdGhlLXVzLWFpcmZvcmNlLWlzLXJldGlyaW5nLXRoZS11LTItc3B5LXBsYW5lL9IBAA",
-      "title": "Here's Why The US Air Force Is Retiring The Legendary U-2 Spy Plane - SlashGear",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTI4MzYyMy93aHktdGhlLXVzLWFpcmZvcmNlLWlzLXJldGlyaW5nLXRoZS11LTItc3B5LXBsYW5lL9IBAA?oc=5",
-      "published": "2023-05-14T07:00:00.000Z",
-      "description": "Here's Why The US Air Force Is Retiring The Legendary U-2 Spy Plane&nbsp;&nbsp;SlashGear",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiU2h0dHBzOi8vd3d3LmNpYS5nb3YvbGVnYWN5L2hvbm9yaW5nLWhlcm9lcy9oZXJvZXMvYWdlbmN5LXBpbG90cy1pbi10aGUtdS0yLXByb2dyYW0v0gEA",
       "title": "Agency Pilots in the U-2 Program - CIA",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNpYS5nb3YvbGVnYWN5L2hvbm9yaW5nLWhlcm9lcy9oZXJvZXMvYWdlbmN5LXBpbG90cy1pbi10aGUtdS0yLXByb2dyYW0v0gEA?oc=5",
       "published": "2021-01-19T22:44:55.000Z",
       "description": "Agency Pilots in the U-2 Program&nbsp;&nbsp;CIA",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTI4MzYyMy93aHktdGhlLXVzLWFpcmZvcmNlLWlzLXJldGlyaW5nLXRoZS11LTItc3B5LXBsYW5lL9IBAA",
+      "title": "Here's Why The US Air Force Is Retiring The Legendary U-2 Spy Plane - SlashGear",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTI4MzYyMy93aHktdGhlLXVzLWFpcmZvcmNlLWlzLXJldGlyaW5nLXRoZS11LTItc3B5LXBsYW5lL9IBAA?oc=5",
+      "published": "2023-05-14T07:00:00.000Z",
+      "description": "Here's Why The US Air Force Is Retiring The Legendary U-2 Spy Plane&nbsp;&nbsp;SlashGear",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVwci5vcmcvdXRhaC1uZXdzLzIwMjMtMDEtMDUvdS0yLXNweS1wbGFuZS1zZXQtdG8tZ28tb24tZGlzcGxheS1hdC1oaWxsLWFpci1mb3JjZS1iYXNlLW11c2V1bdIBAA?oc=5",
       "published": "2023-01-05T08:00:00.000Z",
       "description": "U-2 spy plane set to go on display at Hill Air Force Base museum&nbsp;&nbsp;Utah Public Radio",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiIWh0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE0LzAyL3UyL9IBAA",
-      "title": "The U2 Spy Plane: Still Going Strong, Still Terrifying to Fly - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE0LzAyL3UyL9IBAA?oc=5",
-      "published": "2014-02-19T08:00:00.000Z",
-      "description": "The U2 Spy Plane: Still Going Strong, Still Terrifying to Fly&nbsp;&nbsp;WIRED",
       "summary": "",
       "author": "",
       "category": ""
