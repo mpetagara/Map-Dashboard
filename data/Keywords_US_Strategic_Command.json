@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-29T19:06:23.000Z",
+  "published": "2024-06-29T20:08:20.000Z",
   "entries": [
     {
       "id": "CBMiemh0dHBzOi8vbmVicmFza2FleGFtaW5lci5jb20vMjAyNC8wNi8yNS9vZmZ1dHQtYWlyLWZvcmNlLWJhc2Utc3RyYXRjb20tbmVicmFza2Etc2VlLXNwZW5kaW5nLWJ1bXBzLWluLWxhdGVzdC1kZWZlbnNlLWJpbGwv0gEA",
@@ -42,6 +42,16 @@
       "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3MzIzMzgvc3RyYXRjb20tY29tbWFuZGVyLWF3YXJkcy1vbWFoYS10cm9waHktdG8tbWFsbXN0cm9tLWFmYi_SAQA?oc=5",
       "published": "2024-04-04T07:00:00.000Z",
       "description": "STRATCOM commander awards Omaha Trophy to Malmstrom AFB&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8xMDg4MDU4L2ozLWRpcmVjdG9yLWdsb2JhbC1vcGVyYXRpb25zL9IBAA",
+      "title": "J3 Director, Global Operations - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8xMDg4MDU4L2ozLWRpcmVjdG9yLWdsb2JhbC1vcGVyYXRpb25zL9IBAA?oc=5",
+      "published": "2023-10-11T12:10:06.000Z",
+      "description": "J3 Director, Global Operations&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -137,11 +147,31 @@
       "category": ""
     },
     {
+      "id": "CBMiemh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS85NTk1NzAvajgtZGlyZWN0b3ItY2FwYWJpbGl0eS1hbmQtcmVzb3VyY2UtaW50ZWdyYXRpb24v0gEA",
+      "title": "J8 Director, Capability and Resource Integration - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS85NTk1NzAvajgtZGlyZWN0b3ItY2FwYWJpbGl0eS1hbmQtcmVzb3VyY2UtaW50ZWdyYXRpb24v0gEA?oc=5",
+      "published": "2023-08-27T10:48:59.000Z",
+      "description": "J8 Director, Capability and Resource Integration&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiWWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS85NTk0NDUvY2hpZWYtb2Ytc3RhZmYv0gEA",
       "title": "Chief of Staff - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS85NTk0NDUvY2hpZWYtb2Ytc3RhZmYv0gEA?oc=5",
       "published": "2023-09-12T04:44:55.000Z",
       "description": "Chief of Staff&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS85NTkxNzkvZGVwdXR5LWNvbW1hbmRlci_SAQA",
+      "title": "Deputy Commander - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS85NTkxNzkvZGVwdXR5LWNvbW1hbmRlci_SAQA?oc=5",
+      "published": "2024-05-14T03:47:46.000Z",
+      "description": "Deputy Commander&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -187,6 +217,16 @@
       "category": ""
     },
     {
+      "id": "CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2MTc0NDkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1lc3RhYmxpc2hlcy1uZXctZGlyZWN0b3JhdGUv0gEA",
+      "title": "Air Force Global Strike Command Establishes New Directorate - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2MTc0NDkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1lc3RhYmxpc2hlcy1uZXctZGlyZWN0b3JhdGUv0gEA?oc=5",
+      "published": "2023-12-13T08:00:00.000Z",
+      "description": "Air Force Global Strike Command Establishes New Directorate&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2NTE2MTEvdXNzdHJhdGNvbS1jb21tYW5kLWNoYXBsYWluLWFuZC1yZWxpZ2lvdXMtYWZmYWlycy1zZWwtdmlzaXQta2lydGxhbmQv0gEA",
       "title": "USSTRATCOM Command Chaplain and Religious Affairs SEL Visit Kirtland - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2NTE2MTEvdXNzdHJhdGNvbS1jb21tYW5kLWNoYXBsYWluLWFuZC1yZWxpZ2lvdXMtYWZmYWlycy1zZWwtdmlzaXQta2lydGxhbmQv0gEA?oc=5",
@@ -222,16 +262,6 @@
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9BYm91dC9MZWFkZXJzaGlwL0Jpby1BcnRpY2xlLVZpZXcvQXJ0aWNsZS8xNzIxMDA0L21vYmlsaXphdGlvbi1hc3Npc3RhbnQtdG8tdGhlLWNvbW1hbmRlci_SAQA?oc=5",
       "published": "2023-10-11T12:09:56.000Z",
       "description": "Mobilization Assistant to the Commander&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2MTc0NDkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1lc3RhYmxpc2hlcy1uZXctZGlyZWN0b3JhdGUv0gEA",
-      "title": "Air Force Global Strike Command Establishes New Directorate - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2MTc0NDkvYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC1lc3RhYmxpc2hlcy1uZXctZGlyZWN0b3JhdGUv0gEA?oc=5",
-      "published": "2023-12-13T08:00:00.000Z",
-      "description": "Air Force Global Strike Command Establishes New Directorate&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -357,6 +387,16 @@
       "category": ""
     },
     {
+      "id": "CBMic2h0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc5MDI1NC9iLTIxLXJhaWRlci1jb250aW51ZXMtZmxpZ2h0LXRlc3QtcHJvZHVjdGlvbi_SAQA",
+      "title": "B-21 Raider continues flight test, production - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc5MDI1NC9iLTIxLXJhaWRlci1jb250aW51ZXMtZmxpZ2h0LXRlc3QtcHJvZHVjdGlvbi_SAQA?oc=5",
+      "published": "2024-05-29T18:24:03.000Z",
+      "description": "B-21 Raider continues flight test, production&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiVWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMzc0MDExOC90c2UtaG9ybmctcmljaGFyZC15dS_SAQA",
       "title": "TSE-HORNG 'RICHARD' YU > Air Force > Biography Display - Air Force Link",
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMzc0MDExOC90c2UtaG9ybmctcmljaGFyZC15dS_SAQA?oc=5",
@@ -407,16 +447,6 @@
       "category": ""
     },
     {
-      "id": "CBMic2h0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc5MDI1NC9iLTIxLXJhaWRlci1jb250aW51ZXMtZmxpZ2h0LXRlc3QtcHJvZHVjdGlvbi_SAQA",
-      "title": "B-21 Raider continues flight test, production - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc5MDI1NC9iLTIxLXJhaWRlci1jb250aW51ZXMtZmxpZ2h0LXRlc3QtcHJvZHVjdGlvbi_SAQA?oc=5",
-      "published": "2024-05-29T18:24:03.000Z",
-      "description": "B-21 Raider continues flight test, production&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY5MjE3NC9kb2QtcGFydGljaXBhdGVzLWluLXNpbmdhcG9yZS1haXJzaG93LTIwMjQv0gEA",
       "title": "DoD participates in Singapore Airshow 2024 - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY5MjE3NC9kb2QtcGFydGljaXBhdGVzLWluLXNpbmdhcG9yZS1haXJzaG93LTIwMjQv0gEA?oc=5",
@@ -457,6 +487,16 @@
       "category": ""
     },
     {
+      "id": "CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0NzExNzQvdXMtc3RyYXRlZ2ljLWNvbW1hbmQtYW5ub3VuY2VzLTIwMjMtZ2VuLWxhcnJ5LWQtd2VsY2gtZGV0ZXJyZW5jZS13cml0aW5nLWF3YXJkL9IBAA",
+      "title": "U.S. Strategic Command Announces 2023 Gen. Larry D. Welch Deterrence Writing Award Winners - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0NzExNzQvdXMtc3RyYXRlZ2ljLWNvbW1hbmQtYW5ub3VuY2VzLTIwMjMtZ2VuLWxhcnJ5LWQtd2VsY2gtZGV0ZXJyZW5jZS13cml0aW5nLWF3YXJkL9IBAA?oc=5",
+      "published": "2023-07-27T07:00:00.000Z",
+      "description": "U.S. Strategic Command Announces 2023 Gen. Larry D. Welch Deterrence Writing Award Winners&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc1MjQyOS9meTIzLWRhZi1hbm51YWwtc2FmZXR5LWF3YXJkcy_SAQA",
       "title": "FY23 DAF Annual Safety Awards - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc1MjQyOS9meTIzLWRhZi1hbm51YWwtc2FmZXR5LWF3YXJkcy_SAQA?oc=5",
@@ -467,11 +507,11 @@
       "category": ""
     },
     {
-      "id": "CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0NzExNzQvdXMtc3RyYXRlZ2ljLWNvbW1hbmQtYW5ub3VuY2VzLTIwMjMtZ2VuLWxhcnJ5LWQtd2VsY2gtZGV0ZXJyZW5jZS13cml0aW5nLWF3YXJkL9IBAA",
-      "title": "U.S. Strategic Command Announces 2023 Gen. Larry D. Welch Deterrence Writing Award Winners - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0NzExNzQvdXMtc3RyYXRlZ2ljLWNvbW1hbmQtYW5ub3VuY2VzLTIwMjMtZ2VuLWxhcnJ5LWQtd2VsY2gtZGV0ZXJyZW5jZS13cml0aW5nLWF3YXJkL9IBAA?oc=5",
-      "published": "2023-07-27T07:00:00.000Z",
-      "description": "U.S. Strategic Command Announces 2023 Gen. Larry D. Welch Deterrence Writing Award Winners&nbsp;&nbsp;U.S. Strategic Command",
+      "id": "CBMiXWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L0Fib3V0L0Jpb2dyYXBoaWVzL0Jpb2dyYXBoeS9BcnRpY2xlLzM1NjkzNzUvZ2VuZXJhbC1hbnRob255LWotY290dG9uL9IBAA",
+      "title": "General Anthony J. Cotton > U.S - Department of Defense",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L0Fib3V0L0Jpb2dyYXBoaWVzL0Jpb2dyYXBoeS9BcnRpY2xlLzM1NjkzNzUvZ2VuZXJhbC1hbnRob255LWotY290dG9uL9IBAA?oc=5",
+      "published": "2023-12-02T09:21:00.000Z",
+      "description": "General Anthony J. Cotton > U.S&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -492,16 +532,6 @@
       "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lm5hdG8uaW50L2Nwcy9lbi9uYXRvaHEvdG9waWNzXzUyMDkyLmh0bdIBAA?oc=5",
       "published": "2024-04-25T07:00:00.000Z",
       "description": "Topic: Allied Command Transformation (ACT)&nbsp;&nbsp;NATO HQ",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L0Fib3V0L0Jpb2dyYXBoaWVzL0Jpb2dyYXBoeS9BcnRpY2xlLzM1NjkzNzUvZ2VuZXJhbC1hbnRob255LWotY290dG9uL9IBAA",
-      "title": "General Anthony J. Cotton > U.S - Department of Defense",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L0Fib3V0L0Jpb2dyYXBoaWVzL0Jpb2dyYXBoeS9BcnRpY2xlLzM1NjkzNzUvZ2VuZXJhbC1hbnRob255LWotY290dG9uL9IBAA?oc=5",
-      "published": "2023-12-02T09:21:00.000Z",
-      "description": "General Anthony J. Cotton > U.S&nbsp;&nbsp;Department of Defense",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,16 +687,6 @@
       "category": ""
     },
     {
-      "id": "CBMiYmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY1NzM4NC9lbGxzd29ydGgtZ2VuZXJhdGVzLWJvbWJlcnMv0gEA",
-      "title": "Ellsworth generates bombers - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY1NzM4NC9lbGxzd29ydGgtZ2VuZXJhdGVzLWJvbWJlcnMv0gEA?oc=5",
-      "published": "2024-01-25T08:00:00.000Z",
-      "description": "Ellsworth generates bombers&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzU5NDc0My91bml0aW5nLWFsbGllcy1hbmQtcGFydG5lcnMtYS1uZXctZm91bmQtZGVkaWNhdGlvbi_SAQA",
       "title": "Uniting allies and partners: a new found dedication - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzU5NDc0My91bml0aW5nLWFsbGllcy1hbmQtcGFydG5lcnMtYS1uZXctZm91bmQtZGVkaWNhdGlvbi_SAQA?oc=5",
@@ -677,11 +697,31 @@
       "category": ""
     },
     {
+      "id": "CBMiYmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY1NzM4NC9lbGxzd29ydGgtZ2VuZXJhdGVzLWJvbWJlcnMv0gEA",
+      "title": "Ellsworth generates bombers - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzY1NzM4NC9lbGxzd29ydGgtZ2VuZXJhdGVzLWJvbWJlcnMv0gEA?oc=5",
+      "published": "2024-01-25T08:00:00.000Z",
+      "description": "Ellsworth generates bombers&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiemh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzA3LzI1L3N0cmF0ZWdpYy1jb21tYW5kLW9mZmljaWFsbHktY3JlYXRlcy1qb2ludC1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0tb3BlcmF0aW9ucy1jZW50ZXIv0gEA",
       "title": "Strategic Command officially creates Joint Electromagnetic Spectrum Operations Center - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzA3LzI1L3N0cmF0ZWdpYy1jb21tYW5kLW9mZmljaWFsbHktY3JlYXRlcy1qb2ludC1lbGVjdHJvbWFnbmV0aWMtc3BlY3RydW0tb3BlcmF0aW9ucy1jZW50ZXIv0gEA?oc=5",
       "published": "2023-07-25T07:00:00.000Z",
       "description": "Strategic Command officially creates Joint Electromagnetic Spectrum Operations Center&nbsp;&nbsp;DefenseScoop",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODI1ODMvd3dpaS1haXJwb3dlci1sZWdlbmQtcmVjZWl2ZXMtaG9ub3JhcnktcHJvbW90aW9uLXRvLWNvbG9uZWwv0gEA",
+      "title": "WWII airpower legend receives honorary promotion to Colonel - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODI1ODMvd3dpaS1haXJwb3dlci1sZWdlbmQtcmVjZWl2ZXMtaG9ub3JhcnktcHJvbW90aW9uLXRvLWNvbG9uZWwv0gEA?oc=5",
+      "published": "2023-11-06T08:00:00.000Z",
+      "description": "WWII airpower legend receives honorary promotion to Colonel&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -702,16 +742,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3OTAyNjgvZWxsc3dvcnRoLWItMS1sYW5jZXJzLXJldHVybi10by1ndWFtLWVuaGFuY2VzLXJlYWRpbmVzcy1kdXJpbmctYm9tYmVyLXRhc2stZm9yYy_SAQA?oc=5",
       "published": "2024-05-23T07:00:00.000Z",
       "description": "Ellsworth B-1 Lancers return to Guam, enhances readiness during Bomber Task Force 24-6&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAyLzI5L3N0cmF0Y29tLXByb21pc2VzLXNlbmF0ZS1uby1nYXAtaW4tYmFsbGlzdGljLW1pc3NpbGUtc3VibWFyaW5lLWNvdmVyYWdl0gEA",
-      "title": "STRATCOM Promises Senate No Gap in Ballistic Missile Submarine Coverage - USNI News - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzAyLzI5L3N0cmF0Y29tLXByb21pc2VzLXNlbmF0ZS1uby1nYXAtaW4tYmFsbGlzdGljLW1pc3NpbGUtc3VibWFyaW5lLWNvdmVyYWdl0gEA?oc=5",
-      "published": "2024-02-29T08:00:00.000Z",
-      "description": "STRATCOM Promises Senate No Gap in Ballistic Missile Submarine Coverage - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -747,16 +777,6 @@
       "category": ""
     },
     {
-      "id": "CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MjcwNjcva2lydGxhbmQtaW5ub3ZhdGlvbi1jZW50ZXItY3JlYXRpdmUtc29sdXRpb25zLWZvci1wcmFjdGljYWwtcHJvYmxlbXMv0gEA",
-      "title": "Kirtland Innovation Center: Creative Solutions for Practical Problems - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MjcwNjcva2lydGxhbmQtaW5ub3ZhdGlvbi1jZW50ZXItY3JlYXRpdmUtc29sdXRpb25zLWZvci1wcmFjdGljYWwtcHJvYmxlbXMv0gEA?oc=5",
-      "published": "2023-09-13T07:00:00.000Z",
-      "description": "Kirtland Innovation Center: Creative Solutions for Practical Problems&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiT2h0dHBzOi8vd3d3LnNwYWNlZm9yY2UubWlsL0Jpb2dyYXBoaWVzL0Rpc3BsYXkvQXJ0aWNsZS8yOTM4ODEwL3RpbW90aHktYS1zZWpiYS_SAQA",
       "title": "Timothy A. Sejba > United States Space Force > Display - Space Force",
       "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnNwYWNlZm9yY2UubWlsL0Jpb2dyYXBoaWVzL0Rpc3BsYXkvQXJ0aWNsZS8yOTM4ODEwL3RpbW90aHktYS1zZWpiYS_SAQA?oc=5",
@@ -772,16 +792,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzU4MzYwOS9wZW9wbGUtZmlyc3QtbWlzc2lvbi1hbHdheXMv0gEA?oc=5",
       "published": "2023-11-08T08:00:00.000Z",
       "description": "People-first, mission-always&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3ODI3NTAvdXMtYm9tYmVycy1kZXBsb3ktdG8tcm95YWwtYWlyLWZvcmNlLWZhaXJmb3JkLWZvci1sYXRlc3QtZXVyb3BlYW4tYm9tYmVyLXRhc2stZi_SAQA",
-      "title": "U.S. bombers deploy to Royal Air Force Fairford for latest European bomber task force - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM3ODI3NTAvdXMtYm9tYmVycy1kZXBsb3ktdG8tcm95YWwtYWlyLWZvcmNlLWZhaXJmb3JkLWZvci1sYXRlc3QtZXVyb3BlYW4tYm9tYmVyLXRhc2stZi_SAQA?oc=5",
-      "published": "2024-05-20T07:00:00.000Z",
-      "description": "U.S. bombers deploy to Royal Air Force Fairford for latest European bomber task force&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -837,16 +847,6 @@
       "category": ""
     },
     {
-      "id": "CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2MDUyOTYvYWZnc2MtZGlyZWN0b3Itb2YtaWNibS1tb2Rlcm5pemF0aW9uLWRpc2N1c3Nlcy1tb251bWVudGFsLXNlbnRpbmVsLXByb2dyYW0tYXQtai_SAQA",
-      "title": "AFGSC Director of ICBM Modernization discusses “monumental” Sentinel Program at Joint Engi - U.S. Strategic Command",
-      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2MDUyOTYvYWZnc2MtZGlyZWN0b3Itb2YtaWNibS1tb2Rlcm5pemF0aW9uLWRpc2N1c3Nlcy1tb251bWVudGFsLXNlbnRpbmVsLXByb2dyYW0tYXQtai_SAQA?oc=5",
-      "published": "2023-12-04T15:11:28.000Z",
-      "description": "AFGSC Director of ICBM Modernization discusses “monumental” Sentinel Program at Joint Engi&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMilwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODkyOTAvNDE0dGgtc2Ntcy13aW5zLTIwMjItZG9kLWF3YXJkLWZvci1zdXBwbHktY2hhaW4tZXhjZWxsZW5jZS1mb3ItbnVjbGVhci1yZWFkaW5lc3Mv0gEA",
       "title": "414th SCMS wins 2022 DoD award for supply chain excellence for nuclear readiness - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1ODkyOTAvNDE0dGgtc2Ntcy13aW5zLTIwMjItZG9kLWF3YXJkLWZvci1zdXBwbHktY2hhaW4tZXhjZWxsZW5jZS1mb3ItbnVjbGVhci1yZWFkaW5lc3Mv0gEA?oc=5",
@@ -887,21 +887,21 @@
       "category": ""
     },
     {
-      "id": "CBMilgFodHRwczovL29tYWhhLmNvbS9uZXdzL2xvY2FsL3N0cmF0Y29tLWJsYW1lcy01MDAtbWlsbGlvbi1jb21wdXRlci1jb3N0LW92ZXJydW4tb24tZmxvb2QtYW5kLXBhbmRlbWljL2FydGljbGVfZDBiZDhlODYtN2NjNy0xMWVlLWEwYTUtNTNlZDdjNzA2ODRlLmh0bWzSAQA",
-      "title": "StratCom has $500 million computer cost overrun - Omaha World-Herald",
-      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL29tYWhhLmNvbS9uZXdzL2xvY2FsL3N0cmF0Y29tLWJsYW1lcy01MDAtbWlsbGlvbi1jb21wdXRlci1jb3N0LW92ZXJydW4tb24tZmxvb2QtYW5kLXBhbmRlbWljL2FydGljbGVfZDBiZDhlODYtN2NjNy0xMWVlLWEwYTUtNTNlZDdjNzA2ODRlLmh0bWzSAQA?oc=5",
-      "published": "2023-11-13T08:00:00.000Z",
-      "description": "StratCom has $500 million computer cost overrun&nbsp;&nbsp;Omaha World-Herald",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzUzNjkzNC9yb2JvdC1kb2dzLWJyaW5nLXRoZS1iYXJrLXRvLWJhcmtzZGFsZS_SAQA",
       "title": "Robot dogs bring the bark to Barksdale - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzUzNjkzNC9yb2JvdC1kb2dzLWJyaW5nLXRoZS1iYXJrLXRvLWJhcmtzZGFsZS_SAQA?oc=5",
       "published": "2023-09-22T07:00:00.000Z",
       "description": "Robot dogs bring the bark to Barksdale&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilgFodHRwczovL29tYWhhLmNvbS9uZXdzL2xvY2FsL3N0cmF0Y29tLWJsYW1lcy01MDAtbWlsbGlvbi1jb21wdXRlci1jb3N0LW92ZXJydW4tb24tZmxvb2QtYW5kLXBhbmRlbWljL2FydGljbGVfZDBiZDhlODYtN2NjNy0xMWVlLWEwYTUtNTNlZDdjNzA2ODRlLmh0bWzSAQA",
+      "title": "StratCom has $500 million computer cost overrun - Omaha World-Herald",
+      "link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL29tYWhhLmNvbS9uZXdzL2xvY2FsL3N0cmF0Y29tLWJsYW1lcy01MDAtbWlsbGlvbi1jb21wdXRlci1jb3N0LW92ZXJydW4tb24tZmxvb2QtYW5kLXBhbmRlbWljL2FydGljbGVfZDBiZDhlODYtN2NjNy0xMWVlLWEwYTUtNTNlZDdjNzA2ODRlLmh0bWzSAQA?oc=5",
+      "published": "2023-11-13T08:00:00.000Z",
+      "description": "StratCom has $500 million computer cost overrun&nbsp;&nbsp;Omaha World-Herald",
       "summary": "",
       "author": "",
       "category": ""
@@ -942,6 +942,16 @@
       "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM0Njg1NjMvZGVsaXZlcmluZy1hc3N1cmFuY2UtdHJpLWJvbWJlcnMtc3luYy1lZmZvcnRzLWluLWFsYXNrYS1mcm9udGllci_SAQA?oc=5",
       "published": "2023-07-21T07:00:00.000Z",
       "description": "Delivering assurance: tri-bombers sync efforts in Alaska frontier&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MjcwNjcva2lydGxhbmQtaW5ub3ZhdGlvbi1jZW50ZXItY3JlYXRpdmUtc29sdXRpb25zLWZvci1wcmFjdGljYWwtcHJvYmxlbXMv0gEA",
+      "title": "Kirtland Innovation Center: Creative Solutions for Practical Problems - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM1MjcwNjcva2lydGxhbmQtaW5ub3ZhdGlvbi1jZW50ZXItY3JlYXRpdmUtc29sdXRpb25zLWZvci1wcmFjdGljYWwtcHJvYmxlbXMv0gEA?oc=5",
+      "published": "2023-09-13T07:00:00.000Z",
+      "description": "Kirtland Innovation Center: Creative Solutions for Practical Problems&nbsp;&nbsp;U.S. Strategic Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzUwMjYwNS9wYXRoZmluZGVyLW9wZXJhdGlvbnMtZW5hYmxlLWJvbWJlci10YXNrLWZvcmNlLTIzLTQv0gEA?oc=5",
       "published": "2023-08-21T07:00:00.000Z",
       "description": "Pathfinder operations enable Bomber Task Force 23-4&nbsp;&nbsp;U.S. Strategic Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiX2h0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM0ODM1MDUvdXNzdHJhdGNvbS1zZWwtdmlzaXRzLXRlYW0tbWlub3Qv0gEA",
-      "title": "USSTRATCOM SEL visits Team Minot - Minot Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM0ODM1MDUvdXNzdHJhdGNvbS1zZWwtdmlzaXRzLXRlYW0tbWlub3Qv0gEA?oc=5",
-      "published": "2023-08-04T07:00:00.000Z",
-      "description": "USSTRATCOM SEL visits Team Minot&nbsp;&nbsp;Minot Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
