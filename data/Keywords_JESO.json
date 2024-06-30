@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-06-30T03:09:48.000Z",
+  "published": "2024-06-30T04:10:17.000Z",
   "entries": [
     {
       "id": "CBMiaWh0dHBzOi8vZGVmZW5zZXNjb29wLmNvbS8yMDIzLzEyLzI3L2Fpci1mb3JjZS1wdWJsaXNoZXMtbmV3LWRvY3RyaW5lLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zL9IBAA",
@@ -47,16 +47,6 @@
       "category": ""
     },
     {
-      "id": "CBMilwFodHRwczovL2V4ZWN1dGl2ZWJpei5jb20vMjAyNC8wMy9wYWxhbnRpci11c2ctc2VjdXJlcy1kaXNhLWNvbnRyYWN0LWZvci1kb2Qtam9pbnQtZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtcGxhbm5pbmctdG9vbC1wcm90b3R5cGluZy1lZmZvcnQv0gEA",
-      "title": "Palantir USG Secures DISA Contract for DOD Joint Electromagnetic Spectrum Operations Planning Tool Prototyping ... - ExecutiveBiz",
-      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL2V4ZWN1dGl2ZWJpei5jb20vMjAyNC8wMy9wYWxhbnRpci11c2ctc2VjdXJlcy1kaXNhLWNvbnRyYWN0LWZvci1kb2Qtam9pbnQtZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtcGxhbm5pbmctdG9vbC1wcm90b3R5cGluZy1lZmZvcnQv0gEA?oc=5",
-      "published": "2024-03-04T08:00:00.000Z",
-      "description": "Palantir USG Secures DISA Contract for DOD Joint Electromagnetic Spectrum Operations Planning Tool Prototyping ...&nbsp;&nbsp;ExecutiveBiz",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidGh0dHBzOi8vbmV3cy5zYXRuZXdzLmNvbS8yMDIzLzEyLzEwL2Rpc2EtcmVsZWFzZXMtZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLWNhcGFiaWxpdHktdG8tZW5oYW5jZS1tb2Rlcm4td2FyZmlnaHRpbmcv0gEA",
       "title": "DISA releases electromagnetic spectrum capability to enhance modern warfighting – SatNews - SatNews",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbmV3cy5zYXRuZXdzLmNvbS8yMDIzLzEyLzEwL2Rpc2EtcmVsZWFzZXMtZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLWNhcGFiaWxpdHktdG8tZW5oYW5jZS1tb2Rlcm4td2FyZmlnaHRpbmcv0gEA?oc=5",
@@ -72,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZXhlY3V0aXZlZ292LmNvbS8yMDIzLzEyL2Fpci1mb3JjZS11bnZlaWxzLWVsZWN0cm9tYWduZXRpYy1zcGVjdHJ1bS1vcGVyYXRpb25zLWRvY3RyaW5lL9IBAA?oc=5",
       "published": "2023-12-28T08:00:00.000Z",
       "description": "Air Force Unveils Electromagnetic Spectrum Operations Doctrine&nbsp;&nbsp;Executive Gov",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMilwFodHRwczovL2V4ZWN1dGl2ZWJpei5jb20vMjAyNC8wMy9wYWxhbnRpci11c2ctc2VjdXJlcy1kaXNhLWNvbnRyYWN0LWZvci1kb2Qtam9pbnQtZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtcGxhbm5pbmctdG9vbC1wcm90b3R5cGluZy1lZmZvcnQv0gEA",
+      "title": "Palantir USG Secures DISA Contract for DOD Joint Electromagnetic Spectrum Operations Planning Tool Prototyping ... - ExecutiveBiz",
+      "link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL2V4ZWN1dGl2ZWJpei5jb20vMjAyNC8wMy9wYWxhbnRpci11c2ctc2VjdXJlcy1kaXNhLWNvbnRyYWN0LWZvci1kb2Qtam9pbnQtZWxlY3Ryb21hZ25ldGljLXNwZWN0cnVtLW9wZXJhdGlvbnMtcGxhbm5pbmctdG9vbC1wcm90b3R5cGluZy1lZmZvcnQv0gEA?oc=5",
+      "published": "2024-03-04T08:00:00.000Z",
+      "description": "Palantir USG Secures DISA Contract for DOD Joint Electromagnetic Spectrum Operations Planning Tool Prototyping ...&nbsp;&nbsp;ExecutiveBiz",
       "summary": "",
       "author": "",
       "category": ""
@@ -427,16 +427,6 @@
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA",
-      "title": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ... - National Guard Bureau",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5uYXRpb25hbGd1YXJkLm1pbC9MZWFkZXJzaGlwL0pvaW50LVN0YWZmL1NwZWNpYWwtU3RhZmYvU2VuaW9yLUxlYWRlci1NYW5hZ2VtZW50LU9mZmljZS9HZW5lcmFsLU9mZmljZXItTWFuYWdlbWVudC9iaW8tc2hvdy8yMzQ1L9IBAA?oc=5",
-      "published": "2020-06-08T17:09:27.000Z",
-      "description": "National Guard > Leadership > Joint Staff > Special Staff > Senior Leader Management Office > General Officer ...&nbsp;&nbsp;National Guard Bureau",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8wNi8xNS90aGUtYXJteS1tYXktaGF2ZS10aGUtZWxlY3Ryb25pYy13YXJmYXJlLXRvb2wtdGhlLXBlbnRhZ29uLW5lZWRzL9IBAA",
       "title": "The Army may have the electronic warfare tool the Pentagon needs - C4ISRNET",
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmM0aXNybmV0LmNvbS9lbGVjdHJvbmljLXdhcmZhcmUvMjAyMC8wNi8xNS90aGUtYXJteS1tYXktaGF2ZS10aGUtZWxlY3Ryb25pYy13YXJmYXJlLXRvb2wtdGhlLXBlbnRhZ29uLW5lZWRzL9IBAA?oc=5",
@@ -477,21 +467,21 @@
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vd3d3LmFmY2VhLm9yZy9zaWduYWwtbWVkaWEvaW1wcm92aW5nLW9wZXJhdGlvbnMtY29tcGxleC1zcGVjdHJ1bS1lbnZpcm9ubWVudNIBAA",
-      "title": "Improving Operations in a Complex Spectrum Environment - Signal Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFmY2VhLm9yZy9zaWduYWwtbWVkaWEvaW1wcm92aW5nLW9wZXJhdGlvbnMtY29tcGxleC1zcGVjdHJ1bS1lbnZpcm9ubWVudNIBAA?oc=5",
-      "published": "2018-04-11T07:00:00.000Z",
-      "description": "Improving Operations in a Complex Spectrum Environment&nbsp;&nbsp;Signal Magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA4L3NlY3JldGFyeS1hdXN0aW4tYXBwcm92ZXMtc3BlY3RydW0tc3VwZXJpb3JpdHktc3RyYXRlZ3ktaW1wbGVtZW50YXRpb24tcGxhbi_SAXZodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyMS8wOC9zZWNyZXRhcnktYXVzdGluLWFwcHJvdmVzLXNwZWN0cnVtLXN1cGVyaW9yaXR5LXN0cmF0ZWd5LWltcGxlbWVudGF0aW9uLXBsYW4vP2FtcD0x",
       "title": "Secretary Austin Approves Spectrum Superiority Strategy Implementation Plan - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIxLzA4L3NlY3JldGFyeS1hdXN0aW4tYXBwcm92ZXMtc3BlY3RydW0tc3VwZXJpb3JpdHktc3RyYXRlZ3ktaW1wbGVtZW50YXRpb24tcGxhbi_SAXZodHRwczovL2JyZWFraW5nZGVmZW5zZS5jb20vMjAyMS8wOC9zZWNyZXRhcnktYXVzdGluLWFwcHJvdmVzLXNwZWN0cnVtLXN1cGVyaW9yaXR5LXN0cmF0ZWd5LWltcGxlbWVudGF0aW9uLXBsYW4vP2FtcD0x?oc=5",
       "published": "2021-08-05T07:00:00.000Z",
       "description": "Secretary Austin Approves Spectrum Superiority Strategy Implementation Plan&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vd3d3LmFmY2VhLm9yZy9zaWduYWwtbWVkaWEvaW1wcm92aW5nLW9wZXJhdGlvbnMtY29tcGxleC1zcGVjdHJ1bS1lbnZpcm9ubWVudNIBAA",
+      "title": "Improving Operations in a Complex Spectrum Environment - Signal Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFmY2VhLm9yZy9zaWduYWwtbWVkaWEvaW1wcm92aW5nLW9wZXJhdGlvbnMtY29tcGxleC1zcGVjdHJ1bS1lbnZpcm9ubWVudNIBAA?oc=5",
+      "published": "2018-04-11T07:00:00.000Z",
+      "description": "Improving Operations in a Complex Spectrum Environment&nbsp;&nbsp;Signal Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -537,21 +527,21 @@
       "category": ""
     },
     {
-      "id": "CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNDI5Lmh0bWzSAQA",
-      "title": "National Guard Biography - National Guard Bureau",
-      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNDI5Lmh0bWzSAQA?oc=5",
-      "published": "2018-11-17T21:09:34.000Z",
-      "description": "National Guard Biography&nbsp;&nbsp;National Guard Bureau",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE1NTY3MTYvbmV3LXlvcmstbmF0aXZlLXJlY2VpdmVzLXRoaXJkLXN0YXItbmFtZWQtdXNzdHJhdGNvbS1kZXB1dHktY29tbWFuZGVyL9IBAA",
       "title": "New York Native Receives Third Star, Named USSTRATCOM Deputy Commander - U.S. Strategic Command",
       "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5zdHJhdGNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzE1NTY3MTYvbmV3LXlvcmstbmF0aXZlLXJlY2VpdmVzLXRoaXJkLXN0YXItbmFtZWQtdXNzdHJhdGNvbS1kZXB1dHktY29tbWFuZGVyL9IBAA?oc=5",
       "published": "2018-06-21T07:00:00.000Z",
       "description": "New York Native Receives Third Star, Named USSTRATCOM Deputy Commander&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNDI5Lmh0bWzSAQA",
+      "title": "National Guard Biography - National Guard Bureau",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5hdGlvbmFsZ3VhcmQubWlsL3BvcnRhbHMvMzEvRmVhdHVyZXMvbmdiZ29tby9iaW8vMy8zNDI5Lmh0bWzSAQA?oc=5",
+      "published": "2018-11-17T21:09:34.000Z",
+      "description": "National Guard Biography&nbsp;&nbsp;National Guard Bureau",
       "summary": "",
       "author": "",
       "category": ""
