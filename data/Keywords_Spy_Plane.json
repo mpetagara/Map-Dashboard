@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-01T09:12:16.000Z",
+  "published": "2024-07-01T10:10:56.000Z",
   "entries": [
     {
       "id": "CBMiRmh0dHBzOi8vd3d3LmNwci5vcmcvMjAyNC8wNi8zMC9jb3J0ZXotY29sb3JhZG8tY29sb3JpbmctYm9vay11Mi1wbGFuZS_SAQA",
@@ -22,16 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3NyLTcyLW1hY2gtNS1zcHktcGxhbmUtY291bGQtZmluYWxseS1iZWF0LXNyLTcxLWJsYWNrYmlyZC0yMTE2NTbSAQA?oc=5",
       "published": "2024-06-29T03:36:01.000Z",
       "description": "SR-72: The Mach 5 Spy Plane That Could Finally Beat the SR-71 Blackbird&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMie2h0dHBzOi8vd3d3LmF2cHJlc3MuY29tL25ld3MvdS0yLWhpc3Rvcmlhbi10by1kaXNjdXNzLXNweS1wbGFuZS1zLWhpc3RvcnkvYXJ0aWNsZV9kNzI5MTNlYy0zNWM5LTExZWYtOThhYi01ZmE0MTYyNGYwMDkuaHRtbNIBAA",
-      "title": "U-2 historian to discuss spy plane's history | News | avpress.com - Antelope Valley Press",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmF2cHJlc3MuY29tL25ld3MvdS0yLWhpc3Rvcmlhbi10by1kaXNjdXNzLXNweS1wbGFuZS1zLWhpc3RvcnkvYXJ0aWNsZV9kNzI5MTNlYy0zNWM5LTExZWYtOThhYi01ZmE0MTYyNGYwMDkuaHRtbNIBAA?oc=5",
-      "published": "2024-06-29T11:00:00.000Z",
-      "description": "U-2 historian to discuss spy plane's history | News | avpress.com&nbsp;&nbsp;Antelope Valley Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -167,11 +157,21 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vd3d3LnlhcmRiYXJrZXIuY29tL2VudGVydGFpbm1lbnQvYXJ0aWNsZXMvdGhlXzIwX2Jlc3RfZmlsbXNfYWJvdXRfcGlsb3RzL3MxX18zMzkxOTc3NdIBYWh0dHBzOi8vd3d3LnlhcmRiYXJrZXIuY29tL2VudGVydGFpbm1lbnQvYXJ0aWNsZXMvYW1wL3RoZV8yMF9iZXN0X2ZpbG1zX2Fib3V0X3BpbG90cy9zMV9fMzM5MTk3NzU",
-      "title": "The 20 best films about pilots - Yardbarker",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnlhcmRiYXJrZXIuY29tL2VudGVydGFpbm1lbnQvYXJ0aWNsZXMvdGhlXzIwX2Jlc3RfZmlsbXNfYWJvdXRfcGlsb3RzL3MxX18zMzkxOTc3NdIBYWh0dHBzOi8vd3d3LnlhcmRiYXJrZXIuY29tL2VudGVydGFpbm1lbnQvYXJ0aWNsZXMvYW1wL3RoZV8yMF9iZXN0X2ZpbG1zX2Fib3V0X3BpbG90cy9zMV9fMzM5MTk3NzU?oc=5",
-      "published": "2024-06-26T02:46:16.000Z",
-      "description": "The 20 best films about pilots&nbsp;&nbsp;Yardbarker",
+      "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjgzODcyMzLSAQA",
+      "title": "Ukraine says it has downed second Russian A-50 spy plane in weeks - BBC.com",
+      "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjgzODcyMzLSAQA?oc=5",
+      "published": "2024-02-23T08:00:00.000Z",
+      "description": "Ukraine says it has downed second Russian A-50 spy plane in weeks&nbsp;&nbsp;BBC.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv",
+      "title": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies - KTXL FOX 40 Sacramento",
+      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv?oc=5",
+      "published": "2024-02-16T08:00:00.000Z",
+      "description": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies&nbsp;&nbsp;KTXL FOX 40 Sacramento",
       "summary": "",
       "author": "",
       "category": ""
@@ -207,26 +207,6 @@
       "category": ""
     },
     {
-      "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjgzODcyMzLSAQA",
-      "title": "Ukraine says it has downed second Russian A-50 spy plane in weeks - BBC.com",
-      "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjgzODcyMzLSAQA?oc=5",
-      "published": "2024-02-23T08:00:00.000Z",
-      "description": "Ukraine says it has downed second Russian A-50 spy plane in weeks&nbsp;&nbsp;BBC.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv",
-      "title": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies - KTXL FOX 40 Sacramento",
-      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2ZveDQwLmNvbS9uZXdzL2xvY2FsLW5ld3MveXViYS1jb3VudHkvcmFyZS1zaWx2ZXItdS0yLXNweS1wbGFuZS1mbGllcy1mb3ItZmlyc3QtdGltZS1pbi1vdmVyLTIteWVhcnMtYWNyb3NzLWNhbGlmb3JuaWEtc2tpZXMv0gGJAWh0dHBzOi8vZm94NDAuY29tL25ld3MvbG9jYWwtbmV3cy95dWJhLWNvdW50eS9yYXJlLXNpbHZlci11LTItc3B5LXBsYW5lLWZsaWVzLWZvci1maXJzdC10aW1lLWluLW92ZXItMi15ZWFycy1hY3Jvc3MtY2FsaWZvcm5pYS1za2llcy9hbXAv?oc=5",
-      "published": "2024-02-16T08:00:00.000Z",
-      "description": "Rare silver U-2 spy plane flies for first time in over 2 years across California skies&nbsp;&nbsp;KTXL FOX 40 Sacramento",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL25ldy12aWRlby1zaG93cy1jcmFzaGVkLW5hdnktc3B5LXBsYW5lLXJlc3Rpbmctb24tY29yYWwtcmVlZi1pbi1oYXdhaWkv0gEA",
       "title": "New video shows crashed Navy spy plane resting on coral reef in Hawaii - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL3ZpZGVvL25ldy12aWRlby1zaG93cy1jcmFzaGVkLW5hdnktc3B5LXBsYW5lLXJlc3Rpbmctb24tY29yYWwtcmVlZi1pbi1oYXdhaWkv0gEA?oc=5",
@@ -238,10 +218,10 @@
     },
     {
       "id": "CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1hY2N1c2VzLXVzLXNvdXRoLWtvcmVhLWZseWluZy1zcHktcGxhbmVzLXNoaXBzLTIwMjQtMDUtMjUv0gEA",
-      "title": "North Korea accuses US, South Korea of flying spy planes, ships - Reuters.com",
+      "title": "North Korea accuses US, South Korea of flying spy planes, ships - Reuters",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1hY2N1c2VzLXVzLXNvdXRoLWtvcmVhLWZseWluZy1zcHktcGxhbmVzLXNoaXBzLTIwMjQtMDUtMjUv0gEA?oc=5",
       "published": "2024-05-25T07:00:00.000Z",
-      "description": "North Korea accuses US, South Korea of flying spy planes, ships&nbsp;&nbsp;Reuters.com",
+      "description": "North Korea accuses US, South Korea of flying spy planes, ships&nbsp;&nbsp;Reuters",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,21 +637,21 @@
       "category": ""
     },
     {
-      "id": "CBMibWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMDIvbGl2ZS1uYXZ5LW9mZmVyLXVwZGF0ZS1zYWx2YWdlLWVmZm9ydHMtZG93bmVkLXNweS1wbGFuZS1rYW5lb2hlLWJheS_SAXxodHRwczovL3d3dy5oYXdhaWluZXdzbm93LmNvbS8yMDIzLzEyLzAyL2xpdmUtbmF2eS1vZmZlci11cGRhdGUtc2FsdmFnZS1lZmZvcnRzLWRvd25lZC1zcHktcGxhbmUta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w",
-      "title": "Navy details salvage plan for downed spy aircraft in Kaneohe Bay - Hawaii News Now",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMDIvbGl2ZS1uYXZ5LW9mZmVyLXVwZGF0ZS1zYWx2YWdlLWVmZm9ydHMtZG93bmVkLXNweS1wbGFuZS1rYW5lb2hlLWJheS_SAXxodHRwczovL3d3dy5oYXdhaWluZXdzbm93LmNvbS8yMDIzLzEyLzAyL2xpdmUtbmF2eS1vZmZlci11cGRhdGUtc2FsdmFnZS1lZmZvcnRzLWRvd25lZC1zcHktcGxhbmUta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w?oc=5",
-      "published": "2023-12-01T08:00:00.000Z",
-      "description": "Navy details salvage plan for downed spy aircraft in Kaneohe Bay&nbsp;&nbsp;Hawaii News Now",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZGh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL3RocmVhdHMvMjAyMy8wOS9haXItZm9yY2UtbG9va3MtbW92ZS1zcHktcGxhbmUtc2Vuc29ycy1zYXRlbGxpdGVzLzM5MDI4MS_SAQA",
       "title": "Air Force looks to move spy-plane sensors to satellites - Defense One",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmRlZmVuc2VvbmUuY29tL3RocmVhdHMvMjAyMy8wOS9haXItZm9yY2UtbG9va3MtbW92ZS1zcHktcGxhbmUtc2Vuc29ycy1zYXRlbGxpdGVzLzM5MDI4MS_SAQA?oc=5",
       "published": "2023-09-14T07:00:00.000Z",
       "description": "Air Force looks to move spy-plane sensors to satellites&nbsp;&nbsp;Defense One",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMDIvbGl2ZS1uYXZ5LW9mZmVyLXVwZGF0ZS1zYWx2YWdlLWVmZm9ydHMtZG93bmVkLXNweS1wbGFuZS1rYW5lb2hlLWJheS_SAXxodHRwczovL3d3dy5oYXdhaWluZXdzbm93LmNvbS8yMDIzLzEyLzAyL2xpdmUtbmF2eS1vZmZlci11cGRhdGUtc2FsdmFnZS1lZmZvcnRzLWRvd25lZC1zcHktcGxhbmUta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w",
+      "title": "Navy details salvage plan for downed spy aircraft in Kaneohe Bay - Hawaii News Now",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMDIvbGl2ZS1uYXZ5LW9mZmVyLXVwZGF0ZS1zYWx2YWdlLWVmZm9ydHMtZG93bmVkLXNweS1wbGFuZS1rYW5lb2hlLWJheS_SAXxodHRwczovL3d3dy5oYXdhaWluZXdzbm93LmNvbS8yMDIzLzEyLzAyL2xpdmUtbmF2eS1vZmZlci11cGRhdGUtc2FsdmFnZS1lZmZvcnRzLWRvd25lZC1zcHktcGxhbmUta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w?oc=5",
+      "published": "2023-12-01T08:00:00.000Z",
+      "description": "Navy details salvage plan for downed spy aircraft in Kaneohe Bay&nbsp;&nbsp;Hawaii News Now",
       "summary": "",
       "author": "",
       "category": ""
@@ -687,11 +667,11 @@
       "category": ""
     },
     {
-      "id": "CBMiemh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkv0gGJAWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w",
-      "title": "Divers have righted scores of coral colonies after spy plane crash into Kaneohe Bay - Hawaii News Now",
-      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkv0gGJAWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w?oc=5",
-      "published": "2023-12-14T08:00:00.000Z",
-      "description": "Divers have righted scores of coral colonies after spy plane crash into Kaneohe Bay&nbsp;&nbsp;Hawaii News Now",
+      "id": "CBMiXGh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtbm9ydGgta29yZWEtdW5kZXJ3YXRlci1udWNsZWFyLWRyb25lLXRlc3Qv0gFgaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL3VzLXN1cnZlaWxsYW5jZS1haXJjcmFmdC1ub3J0aC1rb3JlYS11bmRlcndhdGVyLW51Y2xlYXItZHJvbmUtdGVzdC8_YW1w",
+      "title": "US spy plane monitors North Korea following Haeil drone test - defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtbm9ydGgta29yZWEtdW5kZXJ3YXRlci1udWNsZWFyLWRyb25lLXRlc3Qv0gFgaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL3VzLXN1cnZlaWxsYW5jZS1haXJjcmFmdC1ub3J0aC1rb3JlYS11bmRlcndhdGVyLW51Y2xlYXItZHJvbmUtdGVzdC8_YW1w?oc=5",
+      "published": "2024-01-22T08:00:00.000Z",
+      "description": "US spy plane monitors North Korea following Haeil drone test&nbsp;&nbsp;defence-blog.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -702,6 +682,16 @@
       "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTEvMzAvbmF2eS1kaXZlcnMtY2FwdHVyZS11bmRlcndhdGVyLXZpZGVvLWRvd25lZC1taWxpdGFyeS1zcHktYWlycGxhbmUta2FuZW9oZS1iYXkv0gGGAWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTEvMzAvbmF2eS1kaXZlcnMtY2FwdHVyZS11bmRlcndhdGVyLXZpZGVvLWRvd25lZC1taWxpdGFyeS1zcHktYWlycGxhbmUta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w?oc=5",
       "published": "2023-11-29T08:00:00.000Z",
       "description": "Navy divers capture underwater video of downed military spy airplane in Kaneohe Bay&nbsp;&nbsp;Hawaii News Now",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiemh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkv0gGJAWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w",
+      "title": "Divers have righted scores of coral colonies after spy plane crash into Kaneohe Bay - Hawaii News Now",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkv0gGJAWh0dHBzOi8vd3d3Lmhhd2FpaW5ld3Nub3cuY29tLzIwMjMvMTIvMTUvZGl2ZXJzLWhhdmUtcmlnaHRlZC1zY29yZXMtY29yYWwtY29sb25pZXMtYWZ0ZXItc3B5LXBsYW5lLWNyYXNoLWludG8ta2FuZW9oZS1iYXkvP291dHB1dFR5cGU9YW1w?oc=5",
+      "published": "2023-12-14T08:00:00.000Z",
+      "description": "Divers have righted scores of coral colonies after spy plane crash into Kaneohe Bay&nbsp;&nbsp;Hawaii News Now",
       "summary": "",
       "author": "",
       "category": ""
@@ -808,10 +798,10 @@
     },
     {
       "id": "CBMiVGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMTA1ODE5L25hdnktcGxhbmUtb3ZlcnNob290cy1ydW53YXktaGF3YWlpLWthbmVvaGUtYmF5L9IBWGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMTA1ODE5L25hdnktcGxhbmUtb3ZlcnNob290cy1ydW53YXktaGF3YWlpLWthbmVvaGUtYmF5L2FtcC8",
-      "title": "Navy spy plane overshoots runway, ends up floating in Hawaii bay - Global News",
+      "title": "Navy spy plane overshoots runway, ends up floating in Hawaii bay - Global News Toronto",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMTA1ODE5L25hdnktcGxhbmUtb3ZlcnNob290cy1ydW53YXktaGF3YWlpLWthbmVvaGUtYmF5L9IBWGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMTA1ODE5L25hdnktcGxhbmUtb3ZlcnNob290cy1ydW53YXktaGF3YWlpLWthbmVvaGUtYmF5L2FtcC8?oc=5",
       "published": "2023-11-21T08:00:00.000Z",
-      "description": "Navy spy plane overshoots runway, ends up floating in Hawaii bay&nbsp;&nbsp;Global News",
+      "description": "Navy spy plane overshoots runway, ends up floating in Hawaii bay&nbsp;&nbsp;Global News Toronto",
       "summary": "",
       "author": "",
       "category": ""
@@ -888,10 +878,10 @@
     },
     {
       "id": "CBMiQGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjEwNDc5L2JvbWJhcmRpZXItdXMtYXJteS1qZXQtZGVhbC_SAURodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDIxMDQ3OS9ib21iYXJkaWVyLXVzLWFybXktamV0LWRlYWwvYW1wLw",
-      "title": "Bombardier wins deal to supply U.S. Army with jet for spy plane prototype - Global News",
+      "title": "Bombardier wins deal to supply U.S. Army with jet for spy plane prototype - Global News Toronto",
       "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwMjEwNDc5L2JvbWJhcmRpZXItdXMtYXJteS1qZXQtZGVhbC_SAURodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDIxMDQ3OS9ib21iYXJkaWVyLXVzLWFybXktamV0LWRlYWwvYW1wLw?oc=5",
       "published": "2024-01-10T08:00:00.000Z",
-      "description": "Bombardier wins deal to supply U.S. Army with jet for spy plane prototype&nbsp;&nbsp;Global News",
+      "description": "Bombardier wins deal to supply U.S. Army with jet for spy plane prototype&nbsp;&nbsp;Global News Toronto",
       "summary": "",
       "author": "",
       "category": ""
@@ -902,16 +892,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdWtyYWluZS1zaG9vdHMtZG93bi12YWx1YWJsZS1ydXNzaWFuLXNweS1wbGFuZS1zZWNvbmQtaW4tMi1tb250aHMtNTExNzUyMdIBb2h0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvdWtyYWluZS1zaG9vdHMtZG93bi12YWx1YWJsZS1ydXNzaWFuLXNweS1wbGFuZS1zZWNvbmQtaW4tMi1tb250aHMtNTExNzUyMS9hbXAvMQ?oc=5",
       "published": "2024-02-24T08:00:00.000Z",
       "description": "Ukraine Shoots Down \"Valuable\" Russian Spy Plane, Second In 2 Months&nbsp;&nbsp;NDTV",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbmF2eS1yZWxlYXNlcy0xLTUtbWlsbGlvbi1wbGFuLXRvLXJlbW92ZS1jcmFzaGVkLWpldC1oYXdhaWlhbi1jb3JhbC1yZWVmL9IBamh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL25hdnktcmVsZWFzZXMtMS01LW1pbGxpb24tcGxhbi10by1yZW1vdmUtY3Jhc2hlZC1qZXQtaGF3YWlpYW4tY29yYWwtcmVlZi8",
-      "title": "Navy releases $1.5 million plan to remove crashed jet still stuck underwater on Hawaiian coral reef - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbmF2eS1yZWxlYXNlcy0xLTUtbWlsbGlvbi1wbGFuLXRvLXJlbW92ZS1jcmFzaGVkLWpldC1oYXdhaWlhbi1jb3JhbC1yZWVmL9IBamh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL25hdnktcmVsZWFzZXMtMS01LW1pbGxpb24tcGxhbi10by1yZW1vdmUtY3Jhc2hlZC1qZXQtaGF3YWlpYW4tY29yYWwtcmVlZi8?oc=5",
-      "published": "2023-12-02T08:00:00.000Z",
-      "description": "Navy releases $1.5 million plan to remove crashed jet still stuck underwater on Hawaiian coral reef&nbsp;&nbsp;CBS News",
       "summary": "",
       "author": "",
       "category": ""
@@ -977,6 +957,16 @@
       "category": ""
     },
     {
+      "id": "CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ",
+      "title": "US spy plane flies over S. Korea amid heightened tensions - koreatimes",
+      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmtvcmVhdGltZXMuY28ua3Ivd3d3L25hdGlvbi8yMDI0LzA2LzExM18zNjgzODEuaHRtbNIBP2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYW1wLmFzcD9uZXdzSWR4PTM2ODM4MQ?oc=5",
+      "published": "2024-02-06T08:00:00.000Z",
+      "description": "US spy plane flies over S. Korea amid heightened tensions&nbsp;&nbsp;koreatimes",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiLmh0dHBzOi8vZW4ueW5hLmNvLmtyL3ZpZXcvQUVOMjAyNDAxMjIwMDYzMDAzMTXSAQA",
       "title": "U.S. flies spy plane after N. Korea's test of underwater nuclear attack drone - Yonhap News Agency",
       "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vZW4ueW5hLmNvLmtyL3ZpZXcvQUVOMjAyNDAxMjIwMDYzMDAzMTXSAQA?oc=5",
@@ -1002,6 +992,16 @@
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vdmlkZW9zL3dhdGNoLXRoaXMtdGVzbGEtbW9kZWwtcy1hc3Npc3QtYS11LTItc3B5LXBsYW5lLWR1cmluZy10YWtlb2Zm0gEA?oc=5",
       "published": "2024-05-08T02:03:11.000Z",
       "description": "Watch This Tesla Model S Assist A U-2 Spy Plane During Takeoff&nbsp;&nbsp;Interesting Engineering",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVWh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU3NTc1My9ob3ctdXMtYXJteS11c2VzLXRlY2gtdG8tZmVlZC11LTItc3B5LXBsYW5lLXBpbG90cy_SAQA",
+      "title": "How The US Army Uses Tech To Feed U-2 Spy Plane Pilots - SlashGear",
+      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnNsYXNoZ2Vhci5jb20vMTU3NTc1My9ob3ctdXMtYXJteS11c2VzLXRlY2gtdG8tZmVlZC11LTItc3B5LXBsYW5lLXBpbG90cy_SAQA?oc=5",
+      "published": "2024-05-07T07:00:00.000Z",
+      "description": "How The US Army Uses Tech To Feed U-2 Spy Plane Pilots&nbsp;&nbsp;SlashGear",
       "summary": "",
       "author": "",
       "category": ""
