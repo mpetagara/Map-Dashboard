@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-01T06:13:33.000Z",
+  "published": "2024-07-01T07:09:23.000Z",
   "entries": [
     {
       "id": "CBMiigFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzg2NzM0L2ItMS1sYW5jZXJzLXJldHVybi10by1ndWFtLWVuaGFuY2VzLXJlYWRpbmVzcy1kdXJpbmctYm9tYmVyLXRhc2stZm9yY2UtMjQtNi_SAQA",
@@ -22,6 +22,16 @@
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmV1Y29tLm1pbC9wcmVzc3JlbGVhc2UvNDI4MTIvdXMtYWlyLWZvcmNlLWNvbmR1Y3RzLWJvbWJlci10YXNrLWZvcmNlLW1pc3Npb24tdG8tdHVya2l5ZdIBAA?oc=5",
       "published": "2024-04-16T07:00:00.000Z",
       "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiemh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzIxNzcxNzgvYi0xYi1sYW5jZXJzLXJldHVybi10by1pbmRvLXBhY2lmaWMtZm9yLWJvbWJlci10YXNrLWZvcmNlLWRlcGxveW1lbnQv0gEA",
+      "title": "B-1B Lancers Return to Indo-Pacific for Bomber Task Force Deployment - Pacific Command",
+      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnBhY29tLm1pbC9KVEYtTWljcm9uZXNpYS9BcnRpY2xlLzIxNzcxNzgvYi0xYi1sYW5jZXJzLXJldHVybi10by1pbmRvLXBhY2lmaWMtZm9yLWJvbWJlci10YXNrLWZvcmNlLWRlcGxveW1lbnQv0gEA?oc=5",
+      "published": "2024-06-19T05:21:18.000Z",
+      "description": "B-1B Lancers Return to Indo-Pacific for Bomber Task Force Deployment&nbsp;&nbsp;Pacific Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -97,16 +107,6 @@
       "category": ""
     },
     {
-      "id": "CBMikwFodHRwczovL3d3dy5wYWNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2NTExNDMvdXMtYi0xYi1sYW5jZXJzLWNvbmR1Y3QtYWlyLXRvLWFpci1yZWZ1ZWxpbmctdHJhaW5pbmctd2l0aC1yZXB1YmxpYy1vZi1zaW5nYXBvci_SAQA",
-      "title": "US B-1B Lancers conduct air-to-air refueling training with Republic of Singapore Air Force - Pacific Command",
-      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5wYWNvbS5taWwvTWVkaWEvTmV3cy9OZXdzLUFydGljbGUtVmlldy9BcnRpY2xlLzM2NTExNDMvdXMtYi0xYi1sYW5jZXJzLWNvbmR1Y3QtYWlyLXRvLWFpci1yZWZ1ZWxpbmctdHJhaW5pbmctd2l0aC1yZXB1YmxpYy1vZi1zaW5nYXBvci_SAQA?oc=5",
-      "published": "2024-01-19T21:48:55.000Z",
-      "description": "US B-1B Lancers conduct air-to-air refueling training with Republic of Singapore Air Force&nbsp;&nbsp;Pacific Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidWh0dHBzOi8vd3d3LnVzYWZlLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2ODQ5NjMvdXMtYm9tYmVycy1hcnJpdmUtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS0yNC0yL9IBAA",
       "title": "U.S. bombers arrive in Sweden for Bomber Task Force 24-2 - 501st Combat Support Wing",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnVzYWZlLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2ODQ5NjMvdXMtYm9tYmVycy1hcnJpdmUtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS0yNC0yL9IBAA?oc=5",
@@ -142,6 +142,16 @@
       "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5taWxpdGFyeS5jb20vZGFpbHktbmV3cy8yMDI0LzAxLzI2L2ItMWItYm9tYmVycy1hbmQtMjUwLWFpcm1lbi10ZW1wb3JhcmlseS1tb3Zpbmctc291dGgtZGFrb3RhLXRleGFzLWZvbGxvd2luZy1jcmFzaC5odG1s0gGJAWh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9kYWlseS1uZXdzLzIwMjQvMDEvMjYvYi0xYi1ib21iZXJzLWFuZC0yNTAtYWlybWVuLXRlbXBvcmFyaWx5LW1vdmluZy1zb3V0aC1kYWtvdGEtdGV4YXMtZm9sbG93aW5nLWNyYXNoLmh0bWw_YW1w?oc=5",
       "published": "2024-01-26T08:00:00.000Z",
       "description": "B-1B Bombers and 250 Airmen Temporarily Moving from South Dakota to Texas Following Crash&nbsp;&nbsp;Military.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijgFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjUwNzQ5L3VzLWItMWItbGFuY2Vycy1jb25kdWN0LWFpci10by1haXItcmVmdWVsaW5nLXRyYWluaW5nLXdpdGgtcmVwdWJsaWMtb2Ytc2luZ2Fwb3Iv0gEA",
+      "title": "US B-1B Lancers conduct air-to-air refueling training with Republic of Singapore Air Force - pacaf.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjUwNzQ5L3VzLWItMWItbGFuY2Vycy1jb25kdWN0LWFpci10by1haXItcmVmdWVsaW5nLXRyYWluaW5nLXdpdGgtcmVwdWJsaWMtb2Ytc2luZ2Fwb3Iv0gEA?oc=5",
+      "published": "2024-01-19T08:00:00.000Z",
+      "description": "US B-1B Lancers conduct air-to-air refueling training with Republic of Singapore Air Force&nbsp;&nbsp;pacaf.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -222,6 +232,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyODIyL3VzLWFpci1mb3JjZS1iLTFiLWJvbWJlcnMtY29uY2x1ZGUtYm9tYmVyLXRhc2stZm9yY2UtMjQtMtIBAA?oc=5",
       "published": "2024-04-24T07:00:00.000Z",
       "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDI0LTA2LTA1L2IxLWxhbmNlci1ib21iZXItc291dGgta29yZWEtMTQwODY2NjIuaHRtbNIBAA",
+      "title": "B-1 Lancer conducts bombing drill on Korean Peninsula for first time in 7 years - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDI0LTA2LTA1L2IxLWxhbmNlci1ib21iZXItc291dGgta29yZWEtMTQwODY2NjIuaHRtbNIBAA?oc=5",
+      "published": "2024-06-05T07:00:00.000Z",
+      "description": "B-1 Lancer conducts bombing drill on Korean Peninsula for first time in 7 years&nbsp;&nbsp;Stars and Stripes",
       "summary": "",
       "author": "",
       "category": ""
@@ -392,16 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItMWItbGFuY2VyLWJvbWJlci1oYXMtb25lLXByb2JsZW0taXQtY2FudC1zaGFrZS0yMDg3MjLSAQA?oc=5",
       "published": "2024-01-19T08:00:00.000Z",
       "description": "B-1B Lancer Bomber Has One Problem It Can't Shake&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiW2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVyLWxpdmUtbXVuaXRpb25zLWV4ZXJjaXNlLXNvdXRoLWtvcmVhbi1maWdodGVycy_SAQA",
-      "title": "B-1 Bomber Drops Live Munitions in Exercise over South Korea - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVyLWxpdmUtbXVuaXRpb25zLWV4ZXJjaXNlLXNvdXRoLWtvcmVhbi1maWdodGVycy_SAQA?oc=5",
-      "published": "2024-06-05T07:00:00.000Z",
-      "description": "B-1 Bomber Drops Live Munitions in Exercise over South Korea&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -637,21 +647,21 @@
       "category": ""
     },
     {
-      "id": "CBMiZ2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ZvcmdldC1yZXRpcmVtZW50LWFpci1mb3JjZXMtYi0xLWxhbmNlci1ib21iZXItZXZlcnl3aGVyZS0yMDkwOTfSAQA",
-      "title": "Forget Retirement: The Air Force's B-1 Lancer Bomber Is Everywhere - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ZvcmdldC1yZXRpcmVtZW50LWFpci1mb3JjZXMtYi0xLWxhbmNlci1ib21iZXItZXZlcnl3aGVyZS0yMDkwOTfSAQA?oc=5",
-      "published": "2024-02-05T08:00:00.000Z",
-      "description": "Forget Retirement: The Air Force's B-1 Lancer Bomber Is Everywhere&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiaGh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3Mvc2luZ2Fwb3JlLWEzMzAtdGFua2VyLXJlZnVlbHMtdXMtYi0xYi1ib21iZXJzLWR1cmluZy1zdG9wLW92ZXIv0gEA",
       "title": "Singapore A330 tanker refuels US B-1B Bombers during stop-over - Airforce Technology - Airforce Technology",
       "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3Mvc2luZ2Fwb3JlLWEzMzAtdGFua2VyLXJlZnVlbHMtdXMtYi0xYi1ib21iZXJzLWR1cmluZy1zdG9wLW92ZXIv0gEA?oc=5",
       "published": "2024-01-18T08:00:00.000Z",
       "description": "Singapore A330 tanker refuels US B-1B Bombers during stop-over - Airforce Technology&nbsp;&nbsp;Airforce Technology",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZ2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ZvcmdldC1yZXRpcmVtZW50LWFpci1mb3JjZXMtYi0xLWxhbmNlci1ib21iZXItZXZlcnl3aGVyZS0yMDkwOTfSAQA",
+      "title": "Forget Retirement: The Air Force's B-1 Lancer Bomber Is Everywhere - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ZvcmdldC1yZXRpcmVtZW50LWFpci1mb3JjZXMtYi0xLWxhbmNlci1ib21iZXItZXZlcnl3aGVyZS0yMDkwOTfSAQA?oc=5",
+      "published": "2024-02-05T08:00:00.000Z",
+      "description": "Forget Retirement: The Air Force's B-1 Lancer Bomber Is Everywhere&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -767,11 +777,31 @@
       "category": ""
     },
     {
+      "id": "CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDIwMjAzMzbSAQA",
+      "title": "US Launches Retaliatory Attacks On Iran-Linked Targets In Syria, Iraq - ایران اینترنشنال",
+      "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDIwMjAzMzbSAQA?oc=5",
+      "published": "2024-02-02T08:00:00.000Z",
+      "description": "US Launches Retaliatory Attacks On Iran-Linked Targets In Syria, Iraq&nbsp;&nbsp;ایران اینترنشنال",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDIvMjYvdS1zLWItMWItYm9tYmVycy1hcnJpdmUtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS0yNC0yL9IBAA",
       "title": "U.S. B-1B Bombers Arrive In Sweden For Bomber Task Force 24-2 - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDIvMjYvdS1zLWItMWItYm9tYmVycy1hcnJpdmUtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS0yNC0yL9IBAA?oc=5",
       "published": "2024-02-26T08:00:00.000Z",
       "description": "U.S. B-1B Bombers Arrive In Sweden For Bomber Task Force 24-2&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYGh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNzE5L3VzLWFpci1mb3JjZS1ib21iZXJzLWNvbmR1Y3QtdHJhaW5pbmctd2l0aC1zd2VkaXNoLWFpci1mb3JjZdIBAA",
+      "title": "United States European Command - U.S. European Command",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNzE5L3VzLWFpci1mb3JjZS1ib21iZXJzLWNvbmR1Y3QtdHJhaW5pbmctd2l0aC1zd2VkaXNoLWFpci1mb3JjZdIBAA?oc=5",
+      "published": "2024-02-28T08:00:00.000Z",
+      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -972,36 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvY3Jldy1zYWZlbHktZWplY3RzLWZyb20tYm9tYmVyLXNvdXRoLWRha290YS_SAQA?oc=5",
       "published": "2024-01-05T08:00:00.000Z",
       "description": "The ejection seats in a B-1B saved a crew of four this week. They haven't always worked.&nbsp;&nbsp;Task & Purpose",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiNWh0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDI0L0JURl8yNC0yX2Fycml2YWxfU1dF0gEA",
-      "title": "U.S. bombers arrive in Sweden for Bomber Task Force 24-2 - Allied Air Command",
-      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDI0L0JURl8yNC0yX2Fycml2YWxfU1dF0gEA?oc=5",
-      "published": "2024-02-23T08:00:00.000Z",
-      "description": "U.S. bombers arrive in Sweden for Bomber Task Force 24-2&nbsp;&nbsp;Allied Air Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiY2h0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWxsc3dvcnRoLWItMXMtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS1kZXBsb3ltZW50L9IBAA",
-      "title": "Ellsworth B-1s in Sweden for bomber task force deployment - KELOLAND.com",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWxsc3dvcnRoLWItMXMtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS1kZXBsb3ltZW50L9IBAA?oc=5",
-      "published": "2024-02-24T08:00:00.000Z",
-      "description": "Ellsworth B-1s in Sweden for bomber task force deployment&nbsp;&nbsp;KELOLAND.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiW2h0dHBzOi8vd3d3LmZseWluZ21hZy5jb20vdS1zLWFpci1mb3JjZS1iLTFiLWJvbWJlcnMtdHJhaW4td2l0aC1zaW5nYXBvcmUtamFwYW4tYWlyLWZvcmNlcy_SAQA",
-      "title": "U.S. Air Force B-1B Bombers Train with Singapore, Japan Air Forces - FLYING",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmZseWluZ21hZy5jb20vdS1zLWFpci1mb3JjZS1iLTFiLWJvbWJlcnMtdHJhaW4td2l0aC1zaW5nYXBvcmUtamFwYW4tYWlyLWZvcmNlcy_SAQA?oc=5",
-      "published": "2024-01-22T08:00:00.000Z",
-      "description": "U.S. Air Force B-1B Bombers Train with Singapore, Japan Air Forces&nbsp;&nbsp;FLYING",
       "summary": "",
       "author": "",
       "category": ""
