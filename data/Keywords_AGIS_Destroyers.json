@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-03T07:08:32.000Z",
+  "published": "2024-07-03T08:11:53.000Z",
   "entries": [
     {
       "id": "CBMiUmh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDIzLzEyLzIwL2phcGFuLWxvY2tzLWluLWZ1bmRpbmctZm9yLTItbmV3LWFlZ2lzLWRlc3Ryb3llcnPSAQA",
@@ -257,21 +257,21 @@
       "category": ""
     },
     {
-      "id": "CBMiUmh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIwL2F1Z3VzdC9hdXN0cmFsaWFzLWFlZ2lzLWRlc3Ryb3llcnPSAQA",
-      "title": "Australia's Aegis Destroyers | Proceedings - August 2020 Vol. 146/8/1,410 - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIwL2F1Z3VzdC9hdXN0cmFsaWFzLWFlZ2lzLWRlc3Ryb3llcnPSAQA?oc=5",
-      "published": "2020-08-01T04:50:30.000Z",
-      "description": "Australia's Aegis Destroyers | Proceedings - August 2020 Vol. 146/8/1,410&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiamh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzEyL2phcGFuZXNlLW1vZC1yZWxlYXNlcy1mdXJ0aGVyLWRldGFpbHMtb2YtYXNldi1ibWQtZGVzdHJveWVycy_SAQA",
       "title": "Japanese MoD releases further details about its future BMD destroyers - Naval News",
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIyLzEyL2phcGFuZXNlLW1vZC1yZWxlYXNlcy1mdXJ0aGVyLWRldGFpbHMtb2YtYXNldi1ibWQtZGVzdHJveWVycy_SAQA?oc=5",
       "published": "2022-12-25T08:00:00.000Z",
       "description": "Japanese MoD releases further details about its future BMD destroyers&nbsp;&nbsp;Naval News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUmh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIwL2F1Z3VzdC9hdXN0cmFsaWFzLWFlZ2lzLWRlc3Ryb3llcnPSAQA",
+      "title": "Australia's Aegis Destroyers | Proceedings - August 2020 Vol. 146/8/1,410 - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnVzbmkub3JnL21hZ2F6aW5lcy9wcm9jZWVkaW5ncy8yMDIwL2F1Z3VzdC9hdXN0cmFsaWFzLWFlZ2lzLWRlc3Ryb3llcnPSAQA?oc=5",
+      "published": "2020-08-01T04:50:30.000Z",
+      "description": "Australia's Aegis Destroyers | Proceedings - August 2020 Vol. 146/8/1,410&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -447,6 +447,16 @@
       "category": ""
     },
     {
+      "id": "CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzA3L3NvdXRoLWtvcmVhcy1oaGktc3RhcnRzLWNvbnN0cnVjdGlvbi1vZi1zZWNvbmQta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXIv0gEA",
+      "title": "South Korea’s HHI Starts Construction of Second KDX-III Batch-II Destroyer - Naval News",
+      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzA3L3NvdXRoLWtvcmVhcy1oaGktc3RhcnRzLWNvbnN0cnVjdGlvbi1vZi1zZWNvbmQta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXIv0gEA?oc=5",
+      "published": "2023-07-04T07:00:00.000Z",
+      "description": "South Korea’s HHI Starts Construction of Second KDX-III Batch-II Destroyer&nbsp;&nbsp;Naval News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMihwFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL2V2ZW50LW5ld3Mvc25hLTIwMjAvMjAyMC8wMS9zbmEtMjAyMC1mdWppdHN1LXVudmVpbHMtY29sbGFib3JhdGl2ZS10YWJsZS1mb3ItamFwYW5zLWFlZ2lzLXNoaXBzLWFlZ2lzLWFzaG9yZS_SAQA",
       "title": "SNA 2020: Fujitsu Unveils Collaborative Table for Japan's AEGIS Ships & AEGIS Ashore - Naval News",
       "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5uYXZhbG5ld3MuY29tL2V2ZW50LW5ld3Mvc25hLTIwMjAvMjAyMC8wMS9zbmEtMjAyMC1mdWppdHN1LXVudmVpbHMtY29sbGFib3JhdGl2ZS10YWJsZS1mb3ItamFwYW5zLWFlZ2lzLXNoaXBzLWFlZ2lzLWFzaG9yZS_SAQA?oc=5",
@@ -462,16 +472,6 @@
       "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vZW5nbGlzaC5reW9kb25ld3MubmV0L25ld3MvMjAyMS8wNS8wOTg0YzBjNGUwN2UtamFwYW5zLW5ldy1hZWdpcy1zaGlwcy1lc3RpbWF0ZWQtdG8tY29zdC05MDAtYmlsLXllbi1zb3VyY2VzLmh0bWzSAQA?oc=5",
       "published": "2021-05-21T07:00:00.000Z",
       "description": "Japan's new Aegis ships estimated to cost 900 bil. yen: sources&nbsp;&nbsp;Kyodo News Plus",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzA3L3NvdXRoLWtvcmVhcy1oaGktc3RhcnRzLWNvbnN0cnVjdGlvbi1vZi1zZWNvbmQta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXIv0gEA",
-      "title": "South Korea’s HHI Starts Construction of Second KDX-III Batch-II Destroyer - Naval News",
-      "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm5hdmFsbmV3cy5jb20vbmF2YWwtbmV3cy8yMDIzLzA3L3NvdXRoLWtvcmVhcy1oaGktc3RhcnRzLWNvbnN0cnVjdGlvbi1vZi1zZWNvbmQta2R4LWlpaS1iYXRjaC1paS1kZXN0cm95ZXIv0gEA?oc=5",
-      "published": "2023-07-04T07:00:00.000Z",
-      "description": "South Korea’s HHI Starts Construction of Second KDX-III Batch-II Destroyer&nbsp;&nbsp;Naval News",
       "summary": "",
       "author": "",
       "category": ""
@@ -717,21 +717,21 @@
       "category": ""
     },
     {
-      "id": "CBMiRGh0dHBzOi8vd3d3LmtlZGdsb2JhbC5jb20vYWVyb3NwYWNlLWRlZmVuc2UvbmV3c1ZpZXcva2VkMjAyMzA3MDQwMDEz0gExaHR0cHM6Ly9hbXAua2VkZ2xvYmFsLmNvbS9uZXdzQW1wL2tlZDIwMjMwNzA0MDAxMw",
-      "title": "HD Hyundai Heavy Industries starts building next-gen Aegis-equipped ship - Korea Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmtlZGdsb2JhbC5jb20vYWVyb3NwYWNlLWRlZmVuc2UvbmV3c1ZpZXcva2VkMjAyMzA3MDQwMDEz0gExaHR0cHM6Ly9hbXAua2VkZ2xvYmFsLmNvbS9uZXdzQW1wL2tlZDIwMjMwNzA0MDAxMw?oc=5",
-      "published": "2023-07-04T07:00:00.000Z",
-      "description": "HD Hyundai Heavy Industries starts building next-gen Aegis-equipped ship&nbsp;&nbsp;Korea Economic Daily",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiNmh0dHBzOi8vd3d3LmtvcmVhaGVyYWxkLmNvbS92aWV3LnBocD91ZD0yMDIwMDQyNzAwMDk4N9IBOGh0dHBzOi8vbS5rb3JlYWhlcmFsZC5jb20vYW1wL3ZpZXcucGhwP3VkPTIwMjAwNDI3MDAwOTg3",
       "title": "S. Korea approves plan to develop new combat system for 'mini-Aegis' destroyers - The Korea Herald",
       "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmtvcmVhaGVyYWxkLmNvbS92aWV3LnBocD91ZD0yMDIwMDQyNzAwMDk4N9IBOGh0dHBzOi8vbS5rb3JlYWhlcmFsZC5jb20vYW1wL3ZpZXcucGhwP3VkPTIwMjAwNDI3MDAwOTg3?oc=5",
       "published": "2020-04-27T07:00:00.000Z",
       "description": "S. Korea approves plan to develop new combat system for 'mini-Aegis' destroyers&nbsp;&nbsp;The Korea Herald",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRGh0dHBzOi8vd3d3LmtlZGdsb2JhbC5jb20vYWVyb3NwYWNlLWRlZmVuc2UvbmV3c1ZpZXcva2VkMjAyMzA3MDQwMDEz0gExaHR0cHM6Ly9hbXAua2VkZ2xvYmFsLmNvbS9uZXdzQW1wL2tlZDIwMjMwNzA0MDAxMw",
+      "title": "HD Hyundai Heavy Industries starts building next-gen Aegis-equipped ship - Korea Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmtlZGdsb2JhbC5jb20vYWVyb3NwYWNlLWRlZmVuc2UvbmV3c1ZpZXcva2VkMjAyMzA3MDQwMDEz0gExaHR0cHM6Ly9hbXAua2VkZ2xvYmFsLmNvbS9uZXdzQW1wL2tlZDIwMjMwNzA0MDAxMw?oc=5",
+      "published": "2023-07-04T07:00:00.000Z",
+      "description": "HD Hyundai Heavy Industries starts building next-gen Aegis-equipped ship&nbsp;&nbsp;Korea Economic Daily",
       "summary": "",
       "author": "",
       "category": ""
