@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-03T20:09:24.000Z",
+  "published": "2024-07-03T21:09:29.000Z",
   "entries": [
     {
       "id": "CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzM1MDMx0gEA",
@@ -67,6 +67,16 @@
       "category": ""
     },
     {
+      "id": "CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02Njc5ODUwONIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02Njc5ODUwOC5hbXA",
+      "title": "Rogue Russian pilot tried to shoot down RAF aircraft in 2022 - BBC.com",
+      "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02Njc5ODUwONIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02Njc5ODUwOC5hbXA?oc=5",
+      "published": "2023-09-13T07:00:00.000Z",
+      "description": "Rogue Russian pilot tried to shoot down RAF aircraft in 2022&nbsp;&nbsp;BBC.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiR2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDkvMTQvcnVzc2lhbi1waWxvdC1zaG90LWF0LXJhZi1yYy0xMzUv0gEA",
       "title": "Russian Pilot Deliberately Shot At RAF RC-135 Last Year - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDkvMTQvcnVzc2lhbi1waWxvdC1zaG90LWF0LXJhZi1yYy0xMzUv0gEA?oc=5",
@@ -82,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vbS5rb3JlYXRpbWVzLmNvLmtyL3BhZ2VzL2FydGljbGUuYXNwP25ld3NJZHg9MzY3NDA50gE_aHR0cHM6Ly9tLmtvcmVhdGltZXMuY28ua3IvcGFnZXMvYXJ0aWNsZS5hbXAuYXNwP25ld3NJZHg9MzY3NDA5?oc=5",
       "published": "2024-01-22T08:00:00.000Z",
       "description": "US flies spy plane after N. Korea's test of underwater nuclear attack drone&nbsp;&nbsp;koreatimes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiaWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvYXVzdHJhbGlhbi1rYy0zMGEtcmVmdWVscy10d28tdXNhZi1haXJmcmFtZXMtaW4tY2xlYXJhbmNlLXRyaWFsL9IBAA",
-      "title": "Australian KC-30A refuels two USAF airframes in clearance trial - Airforce Technology - Airforce Technology",
-      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvYXVzdHJhbGlhbi1rYy0zMGEtcmVmdWVscy10d28tdXNhZi1haXJmcmFtZXMtaW4tY2xlYXJhbmNlLXRyaWFsL9IBAA?oc=5",
-      "published": "2024-01-08T08:00:00.000Z",
-      "description": "Australian KC-30A refuels two USAF airframes in clearance trial - Airforce Technology&nbsp;&nbsp;Airforce Technology",
       "summary": "",
       "author": "",
       "category": ""
@@ -207,16 +207,6 @@
       "category": ""
     },
     {
-      "id": "CBMiP2h0dHBzOi8vd3d3LmdhLWFzaS5jb20vc2VuZC11YXMtbm90LXRyb29wcy1pbnRvLXRoZS1kYW5nZXItem9uZdIBAA",
-      "title": "Send UAS, Not Troops, Into the Danger Zone - General Atomics Aeronautical Systems",
-      "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmdhLWFzaS5jb20vc2VuZC11YXMtbm90LXRyb29wcy1pbnRvLXRoZS1kYW5nZXItem9uZdIBAA?oc=5",
-      "published": "2023-09-13T07:00:00.000Z",
-      "description": "Send UAS, Not Troops, Into the Danger Zone&nbsp;&nbsp;General Atomics Aeronautical Systems",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiemh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDY5NzU4LzU1dGgtb3BlcmF0aW9ucy1ncm91cC1lc3RhYmxpc2hlcy1uZXctZGV0YWNobWVudC1pbi1hbGFza2Ev0gEA",
       "title": "55th Operations Group establishes new detachment in Alaska - Offutt Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDY5NzU4LzU1dGgtb3BlcmF0aW9ucy1ncm91cC1lc3RhYmxpc2hlcy1uZXctZGV0YWNobWVudC1pbi1hbGFza2Ev0gEA?oc=5",
@@ -267,6 +257,16 @@
       "category": ""
     },
     {
+      "id": "CBMihwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL1NjcmFtYmxlLVJ1c3NpYW4tY3liZXJoYWNrZXJzLXVubGVhc2hlZC1HUFMtamFtbWluZy1hdHRhY2stR3JhbnQtU2hhcHBzLVJBRi1qZXQtTkFUTy1sYXVuY2hlcy1tYWpvci1yZWNvbm5haXNzYW5jZS1haXJjcmFmdC1vcGVyYXRpb24taWRlbnRpZnktc291cmNlLWVsZWN0cm9uaWMtd2FyZmFyZS1hdHRhY2stRGVmZW5jZS1TZWNyZXRhcnlzLVBvbGFuZC1mbGlnaHQuaHRtbNIBiwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL2FtcC9TY3JhbWJsZS1SdXNzaWFuLWN5YmVyaGFja2Vycy11bmxlYXNoZWQtR1BTLWphbW1pbmctYXR0YWNrLUdyYW50LVNoYXBwcy1SQUYtamV0LU5BVE8tbGF1bmNoZXMtbWFqb3ItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtb3BlcmF0aW9uLWlkZW50aWZ5LXNvdXJjZS1lbGVjdHJvbmljLXdhcmZhcmUtYXR0YWNrLURlZmVuY2UtU2VjcmV0YXJ5cy1Qb2xhbmQtZmxpZ2h0Lmh0bWw",
+      "title": "Scramble to find Russian cyberhackers who unleashed GPS jamming attack on Grant Shapps' RAF jet: NATO launches - Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMihwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL1NjcmFtYmxlLVJ1c3NpYW4tY3liZXJoYWNrZXJzLXVubGVhc2hlZC1HUFMtamFtbWluZy1hdHRhY2stR3JhbnQtU2hhcHBzLVJBRi1qZXQtTkFUTy1sYXVuY2hlcy1tYWpvci1yZWNvbm5haXNzYW5jZS1haXJjcmFmdC1vcGVyYXRpb24taWRlbnRpZnktc291cmNlLWVsZWN0cm9uaWMtd2FyZmFyZS1hdHRhY2stRGVmZW5jZS1TZWNyZXRhcnlzLVBvbGFuZC1mbGlnaHQuaHRtbNIBiwJodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEzMTk4MTQxL2FtcC9TY3JhbWJsZS1SdXNzaWFuLWN5YmVyaGFja2Vycy11bmxlYXNoZWQtR1BTLWphbW1pbmctYXR0YWNrLUdyYW50LVNoYXBwcy1SQUYtamV0LU5BVE8tbGF1bmNoZXMtbWFqb3ItcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtb3BlcmF0aW9uLWlkZW50aWZ5LXNvdXJjZS1lbGVjdHJvbmljLXdhcmZhcmUtYXR0YWNrLURlZmVuY2UtU2VjcmV0YXJ5cy1Qb2xhbmQtZmxpZ2h0Lmh0bWw?oc=5",
+      "published": "2024-03-15T07:00:00.000Z",
+      "description": "Scramble to find Russian cyberhackers who unleashed GPS jamming attack on Grant Shapps' RAF jet: NATO launches&nbsp;&nbsp;Daily Mail",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiQGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtcmMtMTM1LWluZG8tcGFjaWZpYy_SAQA",
       "title": "New Air Force Detachment Supports RC-135 Recon Jets in Alaska - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtcmMtMTM1LWluZG8tcGFjaWZpYy_SAQA?oc=5",
@@ -297,21 +297,21 @@
       "category": ""
     },
     {
-      "id": "CBMihgFodHRwczovL3RoZWJhcmVudHNvYnNlcnZlci5jb20vZW4vc2VjdXJpdHkvMjAyMy8wOC9oaWdoLXRpbWUtc2NyYXAtc2VsZi1pbXBvc2VkLXJlc3RyaWN0aW9ucy1zYXlzLWZvcm1lci1ub3J3ZWdpYW4tY29tbWFuZGVyLWF1Z3VzdC0yMtIBAA",
-      "title": "\"High time to scrap self-imposed restrictions,\" says former Norwegian Commander. This week's flight map shows why - The Independent Barents Observer",
-      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWJhcmVudHNvYnNlcnZlci5jb20vZW4vc2VjdXJpdHkvMjAyMy8wOC9oaWdoLXRpbWUtc2NyYXAtc2VsZi1pbXBvc2VkLXJlc3RyaWN0aW9ucy1zYXlzLWZvcm1lci1ub3J3ZWdpYW4tY29tbWFuZGVyLWF1Z3VzdC0yMtIBAA?oc=5",
-      "published": "2023-08-23T07:00:00.000Z",
-      "description": "\"High time to scrap self-imposed restrictions,\" says former Norwegian Commander. This week's flight map shows why&nbsp;&nbsp;The Independent Barents Observer",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMigwFodHRwczovL3d3dy5vZmZ1dHQuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzMyNDU3My9vZmZ1dHQtYWZiLXJpdmV0LWpvaW50LW1haW50YWluZXJzLWFjaGlldmUtcmFyZS1ibGFjay1sZXR0ZXItc3RhdHVzL9IBAA",
       "title": "Offutt AFB Rivet Joint maintainers achieve rare Black-Letter status - Offutt Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5vZmZ1dHQuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzMyNDU3My9vZmZ1dHQtYWZiLXJpdmV0LWpvaW50LW1haW50YWluZXJzLWFjaGlldmUtcmFyZS1ibGFjay1sZXR0ZXItc3RhdHVzL9IBAA?oc=5",
       "published": "2023-03-09T08:00:00.000Z",
       "description": "Offutt AFB Rivet Joint maintainers achieve rare Black-Letter status&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihgFodHRwczovL3RoZWJhcmVudHNvYnNlcnZlci5jb20vZW4vc2VjdXJpdHkvMjAyMy8wOC9oaWdoLXRpbWUtc2NyYXAtc2VsZi1pbXBvc2VkLXJlc3RyaWN0aW9ucy1zYXlzLWZvcm1lci1ub3J3ZWdpYW4tY29tbWFuZGVyLWF1Z3VzdC0yMtIBAA",
+      "title": "\"High time to scrap self-imposed restrictions,\" says former Norwegian Commander. This week's flight map shows why - The Independent Barents Observer",
+      "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3RoZWJhcmVudHNvYnNlcnZlci5jb20vZW4vc2VjdXJpdHkvMjAyMy8wOC9oaWdoLXRpbWUtc2NyYXAtc2VsZi1pbXBvc2VkLXJlc3RyaWN0aW9ucy1zYXlzLWZvcm1lci1ub3J3ZWdpYW4tY29tbWFuZGVyLWF1Z3VzdC0yMtIBAA?oc=5",
+      "published": "2023-08-23T07:00:00.000Z",
+      "description": "\"High time to scrap self-imposed restrictions,\" says former Norwegian Commander. This week's flight map shows why&nbsp;&nbsp;The Independent Barents Observer",
       "summary": "",
       "author": "",
       "category": ""
@@ -327,21 +327,21 @@
       "category": ""
     },
     {
-      "id": "CBMiM2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMTgvYmlkZW4taXNyYWVsL9IBAA",
-      "title": "Tracking Air Force One And The Assets Supporting President Biden's Visit To Israel Today - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMTgvYmlkZW4taXNyYWVsL9IBAA?oc=5",
-      "published": "2023-10-18T07:00:00.000Z",
-      "description": "Tracking Air Force One And The Assets Supporting President Biden's Visit To Israel Today&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiW2h0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvdWstc3VydmVpbGxhbmNlLWFpcmNyYWZ0LWRlcGxveXMtYWdhaW4tdG8tbW9uaXRvci1ydXNzaWFucy_SAQA",
       "title": "UK surveillance aircraft deploys again to monitor Russians - UK Defence Journal",
       "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvdWstc3VydmVpbGxhbmNlLWFpcmNyYWZ0LWRlcGxveXMtYWdhaW4tdG8tbW9uaXRvci1ydXNzaWFucy_SAQA?oc=5",
       "published": "2024-06-27T15:51:56.000Z",
       "description": "UK surveillance aircraft deploys again to monitor Russians&nbsp;&nbsp;UK Defence Journal",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiM2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMTgvYmlkZW4taXNyYWVsL9IBAA",
+      "title": "Tracking Air Force One And The Assets Supporting President Biden's Visit To Israel Today - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMTAvMTgvYmlkZW4taXNyYWVsL9IBAA?oc=5",
+      "published": "2023-10-18T07:00:00.000Z",
+      "description": "Tracking Air Force One And The Assets Supporting President Biden's Visit To Israel Today&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -377,16 +377,6 @@
       "category": ""
     },
     {
-      "id": "CBMihAFodHRwczovL3d3dy5vZmZ1dHQuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzQyMzY5Ny81NXRoLXdpbmctdW5pdHMtZGVtb25zdHJhdGUtYWNlLWNhcGFiaWxpdGllcy13aXRoLWV4ZXJjaXNlLWluLW5vcndheS_SAQA",
-      "title": "55th Wing units demonstrate ACE capabilities with exercise in Norway - Offutt Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5vZmZ1dHQuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzQyMzY5Ny81NXRoLXdpbmctdW5pdHMtZGVtb25zdHJhdGUtYWNlLWNhcGFiaWxpdGllcy13aXRoLWV4ZXJjaXNlLWluLW5vcndheS_SAQA?oc=5",
-      "published": "2023-06-09T07:00:00.000Z",
-      "description": "55th Wing units demonstrate ACE capabilities with exercise in Norway&nbsp;&nbsp;Offutt Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTk4LTAyMy00MTU3OC000gEA",
       "title": "Experimental investigation and quantitative prediction in interference-fit size of CFRP riveted joints under a transversal ... - Nature.com",
       "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTk4LTAyMy00MTU3OC000gEA?oc=5",
@@ -397,11 +387,11 @@
       "category": ""
     },
     {
-      "id": "CBMigAFodHRwczovL3d3dy5pMjRuZXdzLnR2L2VuL25ld3MvaW50ZXJuYXRpb25hbC9ldXJvcGUvMTY5NDY5MDYzMy1ydXNzaWFuLXBpbG90LXB1cnBvc2VseS1maXJlZC1hdC1icml0aXNoLXJhZi1wbGFuZS1pbi0yMDIyLXJlcG9ydNIBAA",
-      "title": "Russian Pilot Purposely Fired At British RAF Plane In 2022 - Report - I24NEWS - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5pMjRuZXdzLnR2L2VuL25ld3MvaW50ZXJuYXRpb25hbC9ldXJvcGUvMTY5NDY5MDYzMy1ydXNzaWFuLXBpbG90LXB1cnBvc2VseS1maXJlZC1hdC1icml0aXNoLXJhZi1wbGFuZS1pbi0yMDIyLXJlcG9ydNIBAA?oc=5",
-      "published": "2023-09-14T07:00:00.000Z",
-      "description": "Russian Pilot Purposely Fired At British RAF Plane In 2022 - Report - I24NEWS&nbsp;&nbsp;i24NEWS",
+      "id": "CBMihAFodHRwczovL3d3dy5vZmZ1dHQuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzQyMzY5Ny81NXRoLXdpbmctdW5pdHMtZGVtb25zdHJhdGUtYWNlLWNhcGFiaWxpdGllcy13aXRoLWV4ZXJjaXNlLWluLW5vcndheS_SAQA",
+      "title": "55th Wing units demonstrate ACE capabilities with exercise in Norway - Offutt Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5vZmZ1dHQuYWYubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzQyMzY5Ny81NXRoLXdpbmctdW5pdHMtZGVtb25zdHJhdGUtYWNlLWNhcGFiaWxpdGllcy13aXRoLWV4ZXJjaXNlLWluLW5vcndheS_SAQA?oc=5",
+      "published": "2023-06-09T07:00:00.000Z",
+      "description": "55th Wing units demonstrate ACE capabilities with exercise in Norway&nbsp;&nbsp;Offutt Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -417,26 +407,6 @@
       "category": ""
     },
     {
-      "id": "CBMifWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi8yNTc4NjUwL2hvdy11cy1hbmQtdWstYWlyY3JhZnQtYXJlLXNweWluZy1vbi1ydXNzaWEtaW4tdWtyYWluZS1iZWxhcnVzLWFuZC1ydXNzaWEv0gEA",
-      "title": "How US and UK aircraft are spying on Russia in Ukraine, Belarus, and Russia - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lndhc2hpbmd0b25leGFtaW5lci5jb20vb3Bpbmlvbi8yNTc4NjUwL2hvdy11cy1hbmQtdWstYWlyY3JhZnQtYXJlLXNweWluZy1vbi1ydXNzaWEtaW4tdWtyYWluZS1iZWxhcnVzLWFuZC1ydXNzaWEv0gEA?oc=5",
-      "published": "2023-09-19T07:00:00.000Z",
-      "description": "How US and UK aircraft are spying on Russia in Ukraine, Belarus, and Russia&nbsp;&nbsp;Washington Examiner",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiTmh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvcnVzc2lhbi1maWdodGVyLWpldC1zaG9vdC1kb3duLXJhZi1haXJjcmFmdNIBUmh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvcnVzc2lhbi1maWdodGVyLWpldC1zaG9vdC1kb3duLXJhZi1haXJjcmFmdC9hbXA",
-      "title": "Russian pilot intended to shoot down UK spy plane refuting ‘malfunction’ claims - AeroTime",
-      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvcnVzc2lhbi1maWdodGVyLWpldC1zaG9vdC1kb3duLXJhZi1haXJjcmFmdNIBUmh0dHBzOi8vd3d3LmFlcm90aW1lLmFlcm8vYXJ0aWNsZXMvcnVzc2lhbi1maWdodGVyLWpldC1zaG9vdC1kb3duLXJhZi1haXJjcmFmdC9hbXA?oc=5",
-      "published": "2023-09-14T07:00:00.000Z",
-      "description": "Russian pilot intended to shoot down UK spy plane refuting ‘malfunction’ claims&nbsp;&nbsp;AeroTime",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiggFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIzLzAzLzIzL3Utcy1yYy0xMzUtaW50ZWxsaWdlbmNlLWdhdGhlcmluZy1qZXQtZmx5aW5nLXVucHJlY2VkZW50ZWQtbWlzc2lvbi1pbnNpZGUtZmlubGFuZHMtYWlyc3BhY2Uv0gEA",
       "title": "U.S. RC-135 Intelligence Gathering Jet Flying Unprecedented Mission Inside Finland's Airspace - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDIzLzAzLzIzL3Utcy1yYy0xMzUtaW50ZWxsaWdlbmNlLWdhdGhlcmluZy1qZXQtZmx5aW5nLXVucHJlY2VkZW50ZWQtbWlzc2lvbi1pbnNpZGUtZmlubGFuZHMtYWlyc3BhY2Uv0gEA?oc=5",
@@ -447,21 +417,11 @@
       "category": ""
     },
     {
-      "id": "CBMiogFodHRwczovL3d3dy5hdmlhdGlvbjI0LmJlL21pbGl0YXJ5LWFpcmNyYWZ0L3JveWFsLWFpci1mb3JjZS9iYmMtc2F5cy1ydXNzaWFuLWZpZ2h0ZXItamV0LXBpbG90LWRlbGliZXJhdGVseS1maXJlZC1vbi1icml0aXNoLXN1cnZlaWxsYW5jZS1wbGFuZS1pbi1zZXB0ZW1iZXItMjAyMi_SAQA",
+      "id": "CBMiogFodHRwczovL3d3dy5hdmlhdGlvbjI0LmJlL21pbGl0YXJ5LWFpcmNyYWZ0L3JveWFsLWFpci1mb3JjZS9iYmMtc2F5cy1ydXNzaWFuLWZpZ2h0ZXItamV0LXBpbG90LWRlbGliZXJhdGVseS1maXJlZC1vbi1icml0aXNoLXN1cnZlaWxsYW5jZS1wbGFuZS1pbi1zZXB0ZW1iZXItMjAyMi_SAaYBaHR0cHM6Ly93d3cuYXZpYXRpb24yNC5iZS9taWxpdGFyeS1haXJjcmFmdC9yb3lhbC1haXItZm9yY2UvYmJjLXNheXMtcnVzc2lhbi1maWdodGVyLWpldC1waWxvdC1kZWxpYmVyYXRlbHktZmlyZWQtb24tYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtcGxhbmUtaW4tc2VwdGVtYmVyLTIwMjIvYW1wLw",
       "title": "BBC says Russian fighter jet pilot deliberately fired on British surveillance plane in September 2022 - Aviation24.be",
-      "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5hdmlhdGlvbjI0LmJlL21pbGl0YXJ5LWFpcmNyYWZ0L3JveWFsLWFpci1mb3JjZS9iYmMtc2F5cy1ydXNzaWFuLWZpZ2h0ZXItamV0LXBpbG90LWRlbGliZXJhdGVseS1maXJlZC1vbi1icml0aXNoLXN1cnZlaWxsYW5jZS1wbGFuZS1pbi1zZXB0ZW1iZXItMjAyMi_SAQA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5hdmlhdGlvbjI0LmJlL21pbGl0YXJ5LWFpcmNyYWZ0L3JveWFsLWFpci1mb3JjZS9iYmMtc2F5cy1ydXNzaWFuLWZpZ2h0ZXItamV0LXBpbG90LWRlbGliZXJhdGVseS1maXJlZC1vbi1icml0aXNoLXN1cnZlaWxsYW5jZS1wbGFuZS1pbi1zZXB0ZW1iZXItMjAyMi_SAaYBaHR0cHM6Ly93d3cuYXZpYXRpb24yNC5iZS9taWxpdGFyeS1haXJjcmFmdC9yb3lhbC1haXItZm9yY2UvYmJjLXNheXMtcnVzc2lhbi1maWdodGVyLWpldC1waWxvdC1kZWxpYmVyYXRlbHktZmlyZWQtb24tYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtcGxhbmUtaW4tc2VwdGVtYmVyLTIwMjIvYW1wLw?oc=5",
       "published": "2023-09-15T07:00:00.000Z",
       "description": "BBC says Russian fighter jet pilot deliberately fired on British surveillance plane in September 2022&nbsp;&nbsp;Aviation24.be",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDQvMTEvcnVzc2lhbi1zdS0yNy1uZWFybHktc2hvdC1kb3duLWJyaXRpc2gtcml2ZXQtam9pbnQtbGFzdC15ZWFyL9IBAA",
-      "title": "Pentagon Leaks: Russian Su-27 Nearly Shot Down British Rivet Joint Last Year - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDQvMTEvcnVzc2lhbi1zdS0yNy1uZWFybHktc2hvdC1kb3duLWJyaXRpc2gtcml2ZXQtam9pbnQtbGFzdC15ZWFyL9IBAA?oc=5",
-      "published": "2023-04-11T07:00:00.000Z",
-      "description": "Pentagon Leaks: Russian Su-27 Nearly Shot Down British Rivet Joint Last Year&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -477,11 +437,61 @@
       "category": ""
     },
     {
+      "id": "CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDQvMTEvcnVzc2lhbi1zdS0yNy1uZWFybHktc2hvdC1kb3duLWJyaXRpc2gtcml2ZXQtam9pbnQtbGFzdC15ZWFyL9IBAA",
+      "title": "Pentagon Leaks: Russian Su-27 Nearly Shot Down British Rivet Joint Last Year - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjMvMDQvMTEvcnVzc2lhbi1zdS0yNy1uZWFybHktc2hvdC1kb3duLWJyaXRpc2gtcml2ZXQtam9pbnQtbGFzdC15ZWFyL9IBAA?oc=5",
+      "published": "2023-04-11T07:00:00.000Z",
+      "description": "Pentagon Leaks: Russian Su-27 Nearly Shot Down British Rivet Joint Last Year&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA",
+      "title": "First Rivet Joint delivered to the Royal Air Force - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA?oc=5",
+      "published": "2013-11-19T08:00:00.000Z",
+      "description": "First Rivet Joint delivered to the Royal Air Force&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXmh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzE2OTU0NDYvcmMtMTM1LXJpdmV0LWpvaW50LXRvLXJlbG9jYXRlLXRvLXJhZi1mYWlyZm9yZC_SAQA",
+      "title": "RC-135 RIVET JOINT to relocate to RAF Fairford > Offutt Air Force Base > News - Offutt Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzE2OTU0NDYvcmMtMTM1LXJpdmV0LWpvaW50LXRvLXJlbG9jYXRlLXRvLXJhZi1mYWlyZm9yZC_SAQA?oc=5",
+      "published": "2018-11-20T08:00:00.000Z",
+      "description": "RC-135 RIVET JOINT to relocate to RAF Fairford > Offutt Air Force Base > News&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzIwMzQwNTkvcml2ZXQtam9pbnQtb24td2F0Y2gtZm9yLTI5LXllYXJzL9IBAA",
+      "title": "Rivet Joint: On watch for 29 years - Offutt Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzIwMzQwNTkvcml2ZXQtam9pbnQtb24td2F0Y2gtZm9yLTI5LXllYXJzL9IBAA?oc=5",
+      "published": "2019-12-06T08:00:00.000Z",
+      "description": "Rivet Joint: On watch for 29 years&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMicWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wOS8xNC9yb2d1ZS1ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy1hdC1yYWYtcGxhbmUtYWZ0ZXItY29tbWFuZC1taXgtdXAtMTk0OTY5ODAv0gF1aHR0cHM6Ly9tZXRyby5jby51ay8yMDIzLzA5LzE0L3JvZ3VlLXJ1c3NpYW4tcGlsb3QtZmlyZWQtdHdvLW1pc3NpbGVzLWF0LXJhZi1wbGFuZS1hZnRlci1jb21tYW5kLW1peC11cC0xOTQ5Njk4MC9hbXAv",
       "title": "Russian pilot tried to shoot down RAF Rivet Joint plane over Black Sea - Metro.co.uk",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wOS8xNC9yb2d1ZS1ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy1hdC1yYWYtcGxhbmUtYWZ0ZXItY29tbWFuZC1taXgtdXAtMTk0OTY5ODAv0gF1aHR0cHM6Ly9tZXRyby5jby51ay8yMDIzLzA5LzE0L3JvZ3VlLXJ1c3NpYW4tcGlsb3QtZmlyZWQtdHdvLW1pc3NpbGVzLWF0LXJhZi1wbGFuZS1hZnRlci1jb21tYW5kLW1peC11cC0xOTQ5Njk4MC9hbXAv?oc=5",
       "published": "2023-09-14T07:00:00.000Z",
       "description": "Russian pilot tried to shoot down RAF Rivet Joint plane over Black Sea&nbsp;&nbsp;Metro.co.uk",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMikAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjEvMTAvMjcvdGhlLXVzLWFpci1mb3JjZXMtZWxlY3Ryb25pYy1zdXJ2ZWlsbGFuY2UtcGxhbmVzLWFyZS1yZWFsbHktb2xkLXRoZXJlcy1uby1ydXNoLXRvLXJlcGxhY2UtdGhlbS_SAQA",
+      "title": "The U.S. Air Force's Electronic Surveillance Planes Are Really Old. There's No Rush To Replace Them. - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjEvMTAvMjcvdGhlLXVzLWFpci1mb3JjZXMtZWxlY3Ryb25pYy1zdXJ2ZWlsbGFuY2UtcGxhbmVzLWFyZS1yZWFsbHktb2xkLXRoZXJlcy1uby1ydXNoLXRvLXJlcGxhY2UtdGhlbS_SAQA?oc=5",
+      "published": "2021-10-27T07:00:00.000Z",
+      "description": "The U.S. Air Force's Electronic Surveillance Planes Are Really Old. There's No Rush To Replace Them.&nbsp;&nbsp;Forbes",
       "summary": "",
       "author": "",
       "category": ""
@@ -517,41 +527,21 @@
       "category": ""
     },
     {
-      "id": "CBMiJmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLTY2Nzk4NTA40gEqaHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvdWstNjY3OTg1MDguYW1w",
-      "title": "Rogue Russian pilot tried to shoot down RAF aircraft in 2022 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLTY2Nzk4NTA40gEqaHR0cHM6Ly93d3cuYmJjLmNvLnVrL25ld3MvdWstNjY3OTg1MDguYW1w?oc=5",
-      "published": "2023-09-14T07:00:00.000Z",
-      "description": "Rogue Russian pilot tried to shoot down RAF aircraft in 2022&nbsp;&nbsp;BBC",
+      "id": "CBMiOGh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9lcXVpcG1lbnQvcmMtMTM1di13LXJpdmV0LWpvaW500gEA",
+      "title": "RC-135V/W Rivet Joint - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lm1pbGl0YXJ5LmNvbS9lcXVpcG1lbnQvcmMtMTM1di13LXJpdmV0LWpvaW500gEA?oc=5",
+      "published": "2015-09-24T17:03:19.000Z",
+      "description": "RC-135V/W Rivet Joint&nbsp;&nbsp;Military.com",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMikAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjEvMTAvMjcvdGhlLXVzLWFpci1mb3JjZXMtZWxlY3Ryb25pYy1zdXJ2ZWlsbGFuY2UtcGxhbmVzLWFyZS1yZWFsbHktb2xkLXRoZXJlcy1uby1ydXNoLXRvLXJlcGxhY2UtdGhlbS_SAQA",
-      "title": "The U.S. Air Force's Electronic Surveillance Planes Are Really Old. There's No Rush To Replace Them. - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjEvMTAvMjcvdGhlLXVzLWFpci1mb3JjZXMtZWxlY3Ryb25pYy1zdXJ2ZWlsbGFuY2UtcGxhbmVzLWFyZS1yZWFsbHktb2xkLXRoZXJlcy1uby1ydXNoLXRvLXJlcGxhY2UtdGhlbS_SAQA?oc=5",
-      "published": "2021-10-27T07:00:00.000Z",
-      "description": "The U.S. Air Force's Electronic Surveillance Planes Are Really Old. There's No Rush To Replace Them.&nbsp;&nbsp;Forbes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiUWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzIwMzQwNTkvcml2ZXQtam9pbnQtb24td2F0Y2gtZm9yLTI5LXllYXJzL9IBAA",
-      "title": "Rivet Joint: On watch for 29 years - Offutt Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzIwMzQwNTkvcml2ZXQtam9pbnQtb24td2F0Y2gtZm9yLTI5LXllYXJzL9IBAA?oc=5",
-      "published": "2019-12-06T08:00:00.000Z",
-      "description": "Rivet Joint: On watch for 29 years&nbsp;&nbsp;Offutt Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXmh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzE2OTU0NDYvcmMtMTM1LXJpdmV0LWpvaW50LXRvLXJlbG9jYXRlLXRvLXJhZi1mYWlyZm9yZC_SAQA",
-      "title": "RC-135 RIVET JOINT to relocate to RAF Fairford > Offutt Air Force Base > News - Offutt Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzE2OTU0NDYvcmMtMTM1LXJpdmV0LWpvaW50LXRvLXJlbG9jYXRlLXRvLXJhZi1mYWlyZm9yZC_SAQA?oc=5",
-      "published": "2018-11-20T08:00:00.000Z",
-      "description": "RC-135 RIVET JOINT to relocate to RAF Fairford > Offutt Air Force Base > News&nbsp;&nbsp;Offutt Air Force Base",
+      "id": "CBMicGh0dHBzOi8vd3d3LmFpcmZvcmNldGltZXMuY29tL25ld3MveW91ci1haXItZm9yY2UvMjAxOS8wMy8yOS9maXJzdC1yaXZldC1qb2ludC1yZWNvbi1haXJwbGFuZXMtcmV0dXJuLXRvLW9mZnV0dC_SAQA",
+      "title": "First Rivet Joint recon airplanes return to Offutt - AirForceTimes.com",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFpcmZvcmNldGltZXMuY29tL25ld3MveW91ci1haXItZm9yY2UvMjAxOS8wMy8yOS9maXJzdC1yaXZldC1qb2ludC1yZWNvbi1haXJwbGFuZXMtcmV0dXJuLXRvLW9mZnV0dC_SAQA?oc=5",
+      "published": "2019-03-29T07:00:00.000Z",
+      "description": "First Rivet Joint recon airplanes return to Offutt&nbsp;&nbsp;AirForceTimes.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -567,11 +557,51 @@
       "category": ""
     },
     {
-      "id": "CBMiX2h0dHBzOi8vd3d3LmZvcmNlcy5uZXQvcnVzc2lhL3J1c3NpYW4tcGlsb3QtYmVsaWV2ZWQtaGUtaGFkLXBlcm1pc3Npb24tc2hvb3QtZG93bi1yYWYtc3B5LXBsYW5l0gEA",
-      "title": "Russian pilot 'believed he had permission to shoot down RAF spy plane' - Forces Network",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZvcmNlcy5uZXQvcnVzc2lhL3J1c3NpYW4tcGlsb3QtYmVsaWV2ZWQtaGUtaGFkLXBlcm1pc3Npb24tc2hvb3QtZG93bi1yYWYtc3B5LXBsYW5l0gEA?oc=5",
-      "published": "2023-09-14T07:00:00.000Z",
-      "description": "Russian pilot 'believed he had permission to shoot down RAF spy plane'&nbsp;&nbsp;Forces Network",
+      "id": "CBMijQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE2LzA1LzE5L3RoZS1icmFuZC1uZXctcmFmLXJpdmV0LWpvaW50LWFpcmNyYWZ0LWZyaWVkLWRhZXNoLWNvbW11bmljYXRpb25zLXdpdGgtbWFzc2l2ZS1qYW1taW5nLWF0dGFjay1pbi1saWJ5YS_SAQA",
+      "title": "The brand new RAF Rivet Joint aircraft \"fried\" Daesh communications with massive jamming attack in Libya - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE2LzA1LzE5L3RoZS1icmFuZC1uZXctcmFmLXJpdmV0LWpvaW50LWFpcmNyYWZ0LWZyaWVkLWRhZXNoLWNvbW11bmljYXRpb25zLXdpdGgtbWFzc2l2ZS1qYW1taW5nLWF0dGFjay1pbi1saWJ5YS_SAQA?oc=5",
+      "published": "2016-05-19T07:00:00.000Z",
+      "description": "The brand new RAF Rivet Joint aircraft \"fried\" Daesh communications with massive jamming attack in Libya&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihwFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cva29yZWEtd2F0Y2gvcml2ZXQtam9pbnQtYW5kLWNvYnJhLWJhbGwtZWxlY3Ryb25pYy1zcHktcGxhbmVzLXdhdGNoaW5nLW5vcnRoLWtvcmVhcy0lRTIlODAlOUNjaHJpc3RtYXPSAQA",
+      "title": "Rivet Joint and Cobra Ball: The Electronic Spy Planes Watching For North Korea's “Christmas Gift” - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cva29yZWEtd2F0Y2gvcml2ZXQtam9pbnQtYW5kLWNvYnJhLWJhbGwtZWxlY3Ryb25pYy1zcHktcGxhbmVzLXdhdGNoaW5nLW5vcnRoLWtvcmVhcy0lRTIlODAlOUNjaHJpc3RtYXPSAQA?oc=5",
+      "published": "2019-12-24T08:00:00.000Z",
+      "description": "Rivet Joint and Cobra Ball: The Electronic Spy Planes Watching For North Korea's “Christmas Gift”&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDE4LzAyL2V5ZXMtb24tdnVsbmVyYWJsZS1hd2Fjcy1yaXZldC1qb2ludC1ldGMtYWlyLWZvcmNlLXN0dWRpZXMtcmVwbGFjZW1lbnRzL9IBcmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDE4LzAyL2V5ZXMtb24tdnVsbmVyYWJsZS1hd2Fjcy1yaXZldC1qb2ludC1ldGMtYWlyLWZvcmNlLXN0dWRpZXMtcmVwbGFjZW1lbnRzLz9hbXA9MQ",
+      "title": "Eyes On Vulnerable AWACS, Rivet Joint, Etc., Air Force Studies replacements - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDE4LzAyL2V5ZXMtb24tdnVsbmVyYWJsZS1hd2Fjcy1yaXZldC1qb2ludC1ldGMtYWlyLWZvcmNlLXN0dWRpZXMtcmVwbGFjZW1lbnRzL9IBcmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDE4LzAyL2V5ZXMtb24tdnVsbmVyYWJsZS1hd2Fjcy1yaXZldC1qb2ludC1ldGMtYWlyLWZvcmNlLXN0dWRpZXMtcmVwbGFjZW1lbnRzLz9hbXA9MQ?oc=5",
+      "published": "2018-02-22T08:00:00.000Z",
+      "description": "Eyes On Vulnerable AWACS, Rivet Joint, Etc., Air Force Studies replacements&nbsp;&nbsp;Breaking Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMimQFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMjM3OTQ4MC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLW9mLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtaW4tdGhlLWFvci_SAQA",
+      "title": "763rd celebrates 30 years of Rivet Joint operations in the AOR - US AIR FORCES CENTRAL",
+      "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMjM3OTQ4MC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLW9mLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtaW4tdGhlLWFvci_SAQA?oc=5",
+      "published": "2020-10-13T07:00:00.000Z",
+      "description": "763rd celebrates 30 years of Rivet Joint operations in the AOR&nbsp;&nbsp;US AIR FORCES CENTRAL",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMifGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzE1MzQyNDkvcmFmLXdhcnJhbnQtb2ZmaWNlci1sZWFkcy1yZW5vdmF0aW9uLW9mLTFzdC1sdC1qYXJ2aXMtb2ZmdXR0cy1ncmF2ZS_SAQA",
+      "title": "RAF Warrant Officer leads renovation of 1st Lt. Jarvis Offutt's grave - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzE1MzQyNDkvcmFmLXdhcnJhbnQtb2ZmaWNlci1sZWFkcy1yZW5vdmF0aW9uLW9mLTFzdC1sdC1qYXJ2aXMtb2ZmdXR0cy1ncmF2ZS_SAQA?oc=5",
+      "published": "2018-05-29T07:00:00.000Z",
+      "description": "RAF Warrant Officer leads renovation of 1st Lt. Jarvis Offutt's grave&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -597,6 +627,16 @@
       "category": ""
     },
     {
+      "id": "CBMiRmh0dHBzOi8vd3d3LmthZGVuYS5hZi5taWwvTmV3cy9BcnRpY2xlLzMxMzczMjEvODJuZC1ob3N0cy11ay1hdmlhdG9ycy_SAQA",
+      "title": "82nd hosts UK aviators > Kadena Air Base > News - kadena.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmthZGVuYS5hZi5taWwvTmV3cy9BcnRpY2xlLzMxMzczMjEvODJuZC1ob3N0cy11ay1hdmlhdG9ycy_SAQA?oc=5",
+      "published": "2022-08-24T07:00:00.000Z",
+      "description": "82nd hosts UK aviators > Kadena Air Base > News&nbsp;&nbsp;kadena.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiU2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLXN1cGVyLXNweS1wbGFuZS10aGF0LWVhdmVzZHJvcHBlZC1vbi1ydXNzaWEtZHVyaW4v0gFTaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtc3VwZXItc3B5LXBsYW5lLXRoYXQtZWF2ZXNkcm9wcGVkLW9uLXJ1c3NpYS1kdXJpbi8",
       "title": "US ‘Super Spy Plane’ That Eavesdropped On Russia During Ukraine War Retires From Service - EurAsian Times",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzLXN1cGVyLXNweS1wbGFuZS10aGF0LWVhdmVzZHJvcHBlZC1vbi1ydXNzaWEtZHVyaW4v0gFTaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXMtc3VwZXItc3B5LXBsYW5lLXRoYXQtZWF2ZXNkcm9wcGVkLW9uLXJ1c3NpYS1kdXJpbi8?oc=5",
@@ -617,71 +657,11 @@
       "category": ""
     },
     {
-      "id": "CBMiRmh0dHBzOi8vd3d3LmthZGVuYS5hZi5taWwvTmV3cy9BcnRpY2xlLzMxMzczMjEvODJuZC1ob3N0cy11ay1hdmlhdG9ycy_SAQA",
-      "title": "82nd hosts UK aviators > Kadena Air Base > News - kadena.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmthZGVuYS5hZi5taWwvTmV3cy9BcnRpY2xlLzMxMzczMjEvODJuZC1ob3N0cy11ay1hdmlhdG9ycy_SAQA?oc=5",
-      "published": "2022-08-24T07:00:00.000Z",
-      "description": "82nd hosts UK aviators > Kadena Air Base > News&nbsp;&nbsp;kadena.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMicGh0dHBzOi8vd3d3LmFpcmZvcmNldGltZXMuY29tL25ld3MveW91ci1haXItZm9yY2UvMjAxOS8wMy8yOS9maXJzdC1yaXZldC1qb2ludC1yZWNvbi1haXJwbGFuZXMtcmV0dXJuLXRvLW9mZnV0dC_SAQA",
-      "title": "First Rivet Joint recon airplanes return to Offutt - AirForceTimes.com",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFpcmZvcmNldGltZXMuY29tL25ld3MveW91ci1haXItZm9yY2UvMjAxOS8wMy8yOS9maXJzdC1yaXZldC1qb2ludC1yZWNvbi1haXJwbGFuZXMtcmV0dXJuLXRvLW9mZnV0dC_SAQA?oc=5",
-      "published": "2019-03-29T07:00:00.000Z",
-      "description": "First Rivet Joint recon airplanes return to Offutt&nbsp;&nbsp;AirForceTimes.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMimwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L1J1c3NpYW4tcGlsb3QtdHJpZWQtc2hvb3QtUkFGLXN1cnZlaWxsYW5jZS1wbGFuZS1CbGFjay1TZWEtd3JvbmdseS10aG91Z2h0LXBlcm1pc3Npb24tbWlzc2lsZS1taXNzZWQuaHRtbNIBnwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L2FtcC9SdXNzaWFuLXBpbG90LXRyaWVkLXNob290LVJBRi1zdXJ2ZWlsbGFuY2UtcGxhbmUtQmxhY2stU2VhLXdyb25nbHktdGhvdWdodC1wZXJtaXNzaW9uLW1pc3NpbGUtbWlzc2VkLmh0bWw",
       "title": "Russian pilot tried to shoot down RAF surveillance aircraft over the Black Sea in 2022 because he believed he - Daily Mail",
       "link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L1J1c3NpYW4tcGlsb3QtdHJpZWQtc2hvb3QtUkFGLXN1cnZlaWxsYW5jZS1wbGFuZS1CbGFjay1TZWEtd3JvbmdseS10aG91Z2h0LXBlcm1pc3Npb24tbWlzc2lsZS1taXNzZWQuaHRtbNIBnwFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTEyNTE3MTc1L2FtcC9SdXNzaWFuLXBpbG90LXRyaWVkLXNob290LVJBRi1zdXJ2ZWlsbGFuY2UtcGxhbmUtQmxhY2stU2VhLXdyb25nbHktdGhvdWdodC1wZXJtaXNzaW9uLW1pc3NpbGUtbWlzc2VkLmh0bWw?oc=5",
       "published": "2023-09-14T07:00:00.000Z",
       "description": "Russian pilot tried to shoot down RAF surveillance aircraft over the Black Sea in 2022 because he believed he&nbsp;&nbsp;Daily Mail",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiW2h0dHBzOi8vd3d3LnJhZi5tb2QudWsvbmV3cy9hcnRpY2xlcy81MS1zcXVhZHJvbi1vbi1pdHMtZmlyc3QtbWFqb3ItZXhlcmNpc2UtaW4tZm91ci15ZWFycy_SAQA",
-      "title": "51 Squadron on its first major exercise in four years - Royal Air Force",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJhZi5tb2QudWsvbmV3cy9hcnRpY2xlcy81MS1zcXVhZHJvbi1vbi1pdHMtZmlyc3QtbWFqb3ItZXhlcmNpc2UtaW4tZm91ci15ZWFycy_SAQA?oc=5",
-      "published": "2023-12-05T08:00:00.000Z",
-      "description": "51 Squadron on its first major exercise in four years&nbsp;&nbsp;Royal Air Force",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMimQFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMjM3OTQ4MC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLW9mLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtaW4tdGhlLWFvci_SAQA",
-      "title": "763rd celebrates 30 years of Rivet Joint operations in the AOR - US AIR FORCES CENTRAL",
-      "link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMjM3OTQ4MC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLW9mLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtaW4tdGhlLWFvci_SAQA?oc=5",
-      "published": "2020-10-13T07:00:00.000Z",
-      "description": "763rd celebrates 30 years of Rivet Joint operations in the AOR&nbsp;&nbsp;US AIR FORCES CENTRAL",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMihwFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cva29yZWEtd2F0Y2gvcml2ZXQtam9pbnQtYW5kLWNvYnJhLWJhbGwtZWxlY3Ryb25pYy1zcHktcGxhbmVzLXdhdGNoaW5nLW5vcnRoLWtvcmVhcy0lRTIlODAlOUNjaHJpc3RtYXPSAQA",
-      "title": "Rivet Joint and Cobra Ball: The Electronic Spy Planes Watching For North Korea's “Christmas Gift” - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL25hdGlvbmFsaW50ZXJlc3Qub3JnL2Jsb2cva29yZWEtd2F0Y2gvcml2ZXQtam9pbnQtYW5kLWNvYnJhLWJhbGwtZWxlY3Ryb25pYy1zcHktcGxhbmVzLXdhdGNoaW5nLW5vcnRoLWtvcmVhcy0lRTIlODAlOUNjaHJpc3RtYXPSAQA?oc=5",
-      "published": "2019-12-24T08:00:00.000Z",
-      "description": "Rivet Joint and Cobra Ball: The Electronic Spy Planes Watching For North Korea's “Christmas Gift”&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA",
-      "title": "First Rivet Joint delivered to the Royal Air Force - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NzU0MC9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA?oc=5",
-      "published": "2013-11-19T08:00:00.000Z",
-      "description": "First Rivet Joint delivered to the Royal Air Force&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -707,11 +687,11 @@
       "category": ""
     },
     {
-      "id": "CBMiU2h0dHBzOi8vd3d3LmZvcmNlcy5uZXQvdGVjaG5vbG9neS9haXJjcmFmdC9haXJzZWVrZXItd2hhdC1yYWZzLXJpdmV0LWpvaW50LWFpcmNyYWZ00gEA",
-      "title": "Airseeker: What is the RAF's Rivet Joint aircraft? - Forces Network",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmZvcmNlcy5uZXQvdGVjaG5vbG9neS9haXJjcmFmdC9haXJzZWVrZXItd2hhdC1yYWZzLXJpdmV0LWpvaW50LWFpcmNyYWZ00gEA?oc=5",
-      "published": "2022-10-26T07:00:00.000Z",
-      "description": "Airseeker: What is the RAF's Rivet Joint aircraft?&nbsp;&nbsp;Forces Network",
+      "id": "CBMiW2h0dHBzOi8vd3d3LnJhZi5tb2QudWsvbmV3cy9hcnRpY2xlcy81MS1zcXVhZHJvbi1vbi1pdHMtZmlyc3QtbWFqb3ItZXhlcmNpc2UtaW4tZm91ci15ZWFycy_SAQA",
+      "title": "51 Squadron on its first major exercise in four years - Royal Air Force",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJhZi5tb2QudWsvbmV3cy9hcnRpY2xlcy81MS1zcXVhZHJvbi1vbi1pdHMtZmlyc3QtbWFqb3ItZXhlcmNpc2UtaW4tZm91ci15ZWFycy_SAQA?oc=5",
+      "published": "2023-12-05T08:00:00.000Z",
+      "description": "51 Squadron on its first major exercise in four years&nbsp;&nbsp;Royal Air Force",
       "summary": "",
       "author": "",
       "category": ""
@@ -727,21 +707,21 @@
       "category": ""
     },
     {
-      "id": "CBMiqQFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2FtaWQtdGFpd2FuLXRlbnNpb25zLW9mZnV0dC1iYXNlZC1yaXZldC1qb2ludC1qZXQtZ2V0cy10aHVtcGVkLWJ5LWNoaW5lc2UtZmlnaHRlci9hcnRpY2xlX2M2ZjI2MGRhLWZmMzAtMTFlZC04ZDZhLWZmOTcxYTI3ZDJiMi5odG1s0gEA",
-      "title": "Amid Taiwan tensions, Offutt-based Rivet Joint jet gets 'thumped' by Chinese fighter - Omaha World-Herald",
-      "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2FtaWQtdGFpd2FuLXRlbnNpb25zLW9mZnV0dC1iYXNlZC1yaXZldC1qb2ludC1qZXQtZ2V0cy10aHVtcGVkLWJ5LWNoaW5lc2UtZmlnaHRlci9hcnRpY2xlX2M2ZjI2MGRhLWZmMzAtMTFlZC04ZDZhLWZmOTcxYTI3ZDJiMi5odG1s0gEA?oc=5",
-      "published": "2023-06-01T07:00:00.000Z",
-      "description": "Amid Taiwan tensions, Offutt-based Rivet Joint jet gets 'thumped' by Chinese fighter&nbsp;&nbsp;Omaha World-Herald",
+      "id": "CBMiU2h0dHBzOi8vd3d3LmZvcmNlcy5uZXQvdGVjaG5vbG9neS9haXJjcmFmdC9haXJzZWVrZXItd2hhdC1yYWZzLXJpdmV0LWpvaW50LWFpcmNyYWZ00gEA",
+      "title": "Airseeker: What is the RAF's Rivet Joint aircraft? - Forces Network",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmZvcmNlcy5uZXQvdGVjaG5vbG9neS9haXJjcmFmdC9haXJzZWVrZXItd2hhdC1yYWZzLXJpdmV0LWpvaW50LWFpcmNyYWZ00gEA?oc=5",
+      "published": "2022-10-26T07:00:00.000Z",
+      "description": "Airseeker: What is the RAF's Rivet Joint aircraft?&nbsp;&nbsp;Forces Network",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiVGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91cy1hbm90aGVyLWludGVyY2VwdC1jaGluZXNlLWZpZ2h0ZXItcmMtMTM1LXZpZGVvL9IBAA",
-      "title": "US: Another 'Unprofessional' Intercept of RC-135 by Chinese Fighter. Watch the Video - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91cy1hbm90aGVyLWludGVyY2VwdC1jaGluZXNlLWZpZ2h0ZXItcmMtMTM1LXZpZGVvL9IBAA?oc=5",
-      "published": "2023-05-30T07:00:00.000Z",
-      "description": "US: Another 'Unprofessional' Intercept of RC-135 by Chinese Fighter. Watch the Video&nbsp;&nbsp;Air & Space Forces Magazine",
+      "id": "CBMiWWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM4MTAzOC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtYW9y0gEA",
+      "title": "763rd celebrates 30 years of Rivet Joint operations in the AOR - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM4MTAzOC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtYW9y0gEA?oc=5",
+      "published": "2020-10-16T07:00:00.000Z",
+      "description": "763rd celebrates 30 years of Rivet Joint operations in the AOR&nbsp;&nbsp;DVIDS",
       "summary": "",
       "author": "",
       "category": ""
@@ -757,11 +737,51 @@
       "category": ""
     },
     {
-      "id": "CBMiWWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM4MTAzOC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtYW9y0gEA",
-      "title": "763rd celebrates 30 years of Rivet Joint operations in the AOR - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzM4MTAzOC83NjNyZC1jZWxlYnJhdGVzLTMwLXllYXJzLXJpdmV0LWpvaW50LW9wZXJhdGlvbnMtYW9y0gEA?oc=5",
-      "published": "2020-10-16T07:00:00.000Z",
-      "description": "763rd celebrates 30 years of Rivet Joint operations in the AOR&nbsp;&nbsp;DVIDS",
+      "id": "CBMiYWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzY1OTcxMS9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA",
+      "title": "First Rivet Joint delivered to the Royal Air Force - Offutt Air Force Base",
+      "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzY1OTcxMS9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA?oc=5",
+      "published": "2013-11-18T08:00:00.000Z",
+      "description": "First Rivet Joint delivered to the Royal Air Force&nbsp;&nbsp;Offutt Air Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiqQFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2FtaWQtdGFpd2FuLXRlbnNpb25zLW9mZnV0dC1iYXNlZC1yaXZldC1qb2ludC1qZXQtZ2V0cy10aHVtcGVkLWJ5LWNoaW5lc2UtZmlnaHRlci9hcnRpY2xlX2M2ZjI2MGRhLWZmMzAtMTFlZC04ZDZhLWZmOTcxYTI3ZDJiMi5odG1s0gEA",
+      "title": "Amid Taiwan tensions, Offutt-based Rivet Joint jet gets 'thumped' by Chinese fighter - Omaha World-Herald",
+      "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2FtaWQtdGFpd2FuLXRlbnNpb25zLW9mZnV0dC1iYXNlZC1yaXZldC1qb2ludC1qZXQtZ2V0cy10aHVtcGVkLWJ5LWNoaW5lc2UtZmlnaHRlci9hcnRpY2xlX2M2ZjI2MGRhLWZmMzAtMTFlZC04ZDZhLWZmOTcxYTI3ZDJiMi5odG1s0gEA?oc=5",
+      "published": "2023-06-01T07:00:00.000Z",
+      "description": "Amid Taiwan tensions, Offutt-based Rivet Joint jet gets 'thumped' by Chinese fighter&nbsp;&nbsp;Omaha World-Herald",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiaWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzE3MTcwMy9xdWFydGVyLWNlbnR1cnktcml2ZXQtam9pbnQtY2VsZWJyYXRlcy1zaWx2ZXItYW5uaXZlcnNhcnktYmVpbmctaHVudNIBAA",
+      "title": "Quarter century: Rivet Joint celebrates silver anniversary being 'On the Hunt' - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzE3MTcwMy9xdWFydGVyLWNlbnR1cnktcml2ZXQtam9pbnQtY2VsZWJyYXRlcy1zaWx2ZXItYW5uaXZlcnNhcnktYmVpbmctaHVudNIBAA?oc=5",
+      "published": "2015-07-31T07:00:00.000Z",
+      "description": "Quarter century: Rivet Joint celebrates silver anniversary being 'On the Hunt'&nbsp;&nbsp;DVIDS",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMie2h0dHBzOi8vd3d3LmF1dG9ldm9sdXRpb24uY29tL25ld3MvcmFyZS1waG90by1zaG93cy1yYy0xMzUtcml2ZXQtam9pbnQtcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtd2hpbGUtcmVmdWVsbGluZy0xNjM4OTMuaHRtbNIBAA",
+      "title": "Rare Photo Shows RC-135 Rivet Joint Reconnaissance Aircraft While Refuelling - autoevolution",
+      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmF1dG9ldm9sdXRpb24uY29tL25ld3MvcmFyZS1waG90by1zaG93cy1yYy0xMzUtcml2ZXQtam9pbnQtcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtd2hpbGUtcmVmdWVsbGluZy0xNjM4OTMuaHRtbNIBAA?oc=5",
+      "published": "2021-06-24T07:00:00.000Z",
+      "description": "Rare Photo Shows RC-135 Rivet Joint Reconnaissance Aircraft While Refuelling&nbsp;&nbsp;autoevolution",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiVGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91cy1hbm90aGVyLWludGVyY2VwdC1jaGluZXNlLWZpZ2h0ZXItcmMtMTM1LXZpZGVvL9IBAA",
+      "title": "US: Another 'Unprofessional' Intercept of RC-135 by Chinese Fighter. Watch the Video - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS91cy1hbm90aGVyLWludGVyY2VwdC1jaGluZXNlLWZpZ2h0ZXItcmMtMTM1LXZpZGVvL9IBAA?oc=5",
+      "published": "2023-05-30T07:00:00.000Z",
+      "description": "US: Another 'Unprofessional' Intercept of RC-135 by Chinese Fighter. Watch the Video&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -797,21 +817,11 @@
       "category": ""
     },
     {
-      "id": "CBMie2h0dHBzOi8vd3d3LmF1dG9ldm9sdXRpb24uY29tL25ld3MvcmFyZS1waG90by1zaG93cy1yYy0xMzUtcml2ZXQtam9pbnQtcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtd2hpbGUtcmVmdWVsbGluZy0xNjM4OTMuaHRtbNIBAA",
-      "title": "Rare Photo Shows RC-135 Rivet Joint Reconnaissance Aircraft While Refuelling - autoevolution",
-      "link": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmF1dG9ldm9sdXRpb24uY29tL25ld3MvcmFyZS1waG90by1zaG93cy1yYy0xMzUtcml2ZXQtam9pbnQtcmVjb25uYWlzc2FuY2UtYWlyY3JhZnQtd2hpbGUtcmVmdWVsbGluZy0xNjM4OTMuaHRtbNIBAA?oc=5",
-      "published": "2021-06-24T07:00:00.000Z",
-      "description": "Rare Photo Shows RC-135 Rivet Joint Reconnaissance Aircraft While Refuelling&nbsp;&nbsp;autoevolution",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL9IBYWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL2FtcC8",
-      "title": "Russian fighter jet intercepts UK spy plane & two RAF Typhoons over Black Sea in latest clash with Putin... - The Sun",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL9IBYWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL2FtcC8?oc=5",
-      "published": "2024-03-06T08:00:00.000Z",
-      "description": "Russian fighter jet intercepts UK spy plane & two RAF Typhoons over Black Sea in latest clash with Putin...&nbsp;&nbsp;The Sun",
+      "id": "CBMiRGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTQvMDUvMjgvcml2ZXJ0LWpvaW50LWZpcnN0LXJhZi1mbGlnaHQv0gEA",
+      "title": "UK's \"brand new\" RC-135W Rivet Joint spyplane takes to the skies - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMTQvMDUvMjgvcml2ZXJ0LWpvaW50LWZpcnN0LXJhZi1mbGlnaHQv0gEA?oc=5",
+      "published": "2014-05-28T07:00:00.000Z",
+      "description": "UK's \"brand new\" RC-135W Rivet Joint spyplane takes to the skies&nbsp;&nbsp;The Aviationist",
       "summary": "",
       "author": "",
       "category": ""
@@ -827,11 +837,11 @@
       "category": ""
     },
     {
-      "id": "CBMiQ2h0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvcmMtMTM1LWhpdHMtMTAteWVhcnMtaW4tdWstc2VydmljZS_SAQA",
-      "title": "RC-135 hits 10 years in UK service - UK Defence Journal",
-      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvcmMtMTM1LWhpdHMtMTAteWVhcnMtaW4tdWstc2VydmljZS_SAQA?oc=5",
-      "published": "2024-06-01T07:00:00.000Z",
-      "description": "RC-135 hits 10 years in UK service&nbsp;&nbsp;UK Defence Journal",
+      "id": "CBMiXWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL9IBYWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL2FtcC8",
+      "title": "Russian fighter jet intercepts UK spy plane & two RAF Typhoons over Black Sea in latest clash with Putin... - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL9IBYWh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9uZXdzLzI2NDE5Njc0L3J1c3NpYW4tZmlnaHRlci1qZXQtaW50ZXJjZXB0cy11ay1zcHktcGxhbmUtYmxhY2stc2VhL2FtcC8?oc=5",
+      "published": "2024-03-06T08:00:00.000Z",
+      "description": "Russian fighter jet intercepts UK spy plane & two RAF Typhoons over Black Sea in latest clash with Putin...&nbsp;&nbsp;The Sun",
       "summary": "",
       "author": "",
       "category": ""
@@ -847,31 +857,31 @@
       "category": ""
     },
     {
+      "id": "CBMiYmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTMtMTAtMzAvcml2ZXQtam9pbnQtYWlyd29ydGhpbmVzcy1xdWVzdGlvbmVkLXVr0gEA",
+      "title": "Rivet Joint Airworthiness Questioned by UK - Aviation International News",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFpbm9ubGluZS5jb20vYXZpYXRpb24tbmV3cy9kZWZlbnNlLzIwMTMtMTAtMzAvcml2ZXQtam9pbnQtYWlyd29ydGhpbmVzcy1xdWVzdGlvbmVkLXVr0gEA?oc=5",
+      "published": "2013-10-30T07:00:00.000Z",
+      "description": "Rivet Joint Airworthiness Questioned by UK&nbsp;&nbsp;Aviation International News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiQ2h0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvcmMtMTM1LWhpdHMtMTAteWVhcnMtaW4tdWstc2VydmljZS_SAQA",
+      "title": "RC-135 hits 10 years in UK service - UK Defence Journal",
+      "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvcmMtMTM1LWhpdHMtMTAteWVhcnMtaW4tdWstc2VydmljZS_SAQA?oc=5",
+      "published": "2024-06-01T07:00:00.000Z",
+      "description": "RC-135 hits 10 years in UK service&nbsp;&nbsp;UK Defence Journal",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiVWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1uZWFyLWJsYWNrLXNlYS_SAQA",
       "title": "British surveillance aircraft patrols near Black Sea - UK Defence Journal",
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdWtkZWZlbmNlam91cm5hbC5vcmcudWsvYnJpdGlzaC1zdXJ2ZWlsbGFuY2UtYWlyY3JhZnQtcGF0cm9scy1uZWFyLWJsYWNrLXNlYS_SAQA?oc=5",
       "published": "2024-05-29T07:00:00.000Z",
       "description": "British surveillance aircraft patrols near Black Sea&nbsp;&nbsp;UK Defence Journal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiXmh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDIzLzA3L3AtOC1wb3NlaWRvbi1iYXJlbnRzLXNlYS1taXNzaW9uLXR1cm5lZC10cmFuc3BvbmRlcnPSAQA",
-      "title": "P-8 Poseidon on Barents Sea mission, turned off transponders - The Independent Barents Observer",
-      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDIzLzA3L3AtOC1wb3NlaWRvbi1iYXJlbnRzLXNlYS1taXNzaW9uLXR1cm5lZC10cmFuc3BvbmRlcnPSAQA?oc=5",
-      "published": "2023-07-11T07:00:00.000Z",
-      "description": "P-8 Poseidon on Barents Sea mission, turned off transponders&nbsp;&nbsp;The Independent Barents Observer",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzY1OTcxMS9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA",
-      "title": "First Rivet Joint delivered to the Royal Air Force - Offutt Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm9mZnV0dC5hZi5taWwvTmV3cy9BcnRpY2xlLzY1OTcxMS9maXJzdC1yaXZldC1qb2ludC1kZWxpdmVyZWQtdG8tdGhlLXJveWFsLWFpci1mb3JjZS_SAQA?oc=5",
-      "published": "2013-11-18T08:00:00.000Z",
-      "description": "First Rivet Joint delivered to the Royal Air Force&nbsp;&nbsp;Offutt Air Force Base",
       "summary": "",
       "author": "",
       "category": ""
@@ -887,81 +897,21 @@
       "category": ""
     },
     {
-      "id": "CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzE3ODA20gEA",
-      "title": "NATO Spy Plane Makes First-Time Flight Over Moldova - Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzE3ODA20gEA?oc=5",
-      "published": "2023-06-02T07:00:00.000Z",
-      "description": "NATO Spy Plane Makes First-Time Flight Over Moldova&nbsp;&nbsp;Kyiv Post",
+      "id": "CBMiXmh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDIzLzA3L3AtOC1wb3NlaWRvbi1iYXJlbnRzLXNlYS1taXNzaW9uLXR1cm5lZC10cmFuc3BvbmRlcnPSAQA",
+      "title": "P-8 Poseidon on Barents Sea mission, turned off transponders - The Independent Barents Observer",
+      "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDIzLzA3L3AtOC1wb3NlaWRvbi1iYXJlbnRzLXNlYS1taXNzaW9uLXR1cm5lZC10cmFuc3BvbmRlcnPSAQA?oc=5",
+      "published": "2023-07-11T07:00:00.000Z",
+      "description": "P-8 Poseidon on Barents Sea mission, turned off transponders&nbsp;&nbsp;The Independent Barents Observer",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMipAFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2VsZWN0cmljYWwtZmFpbHVyZS1vZmZ1dHQtcGlsb3RzLWRlc2NyaWJlLWluLWZsaWdodC1lbWVyZ2VuY3ktb3Zlci1jYXJpYmJlYW4vYXJ0aWNsZV81ZTIyMGNjMi1lYjk5LTExZWQtOGVlNi0zN2NkYTIzYzRiZTMuaHRtbNIBAA",
-      "title": "Electrical failure: Offutt pilots describe in-flight emergency over Caribbean - Omaha World-Herald",
-      "link": "https://news.google.com/rss/articles/CBMipAFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2VsZWN0cmljYWwtZmFpbHVyZS1vZmZ1dHQtcGlsb3RzLWRlc2NyaWJlLWluLWZsaWdodC1lbWVyZ2VuY3ktb3Zlci1jYXJpYmJlYW4vYXJ0aWNsZV81ZTIyMGNjMi1lYjk5LTExZWQtOGVlNi0zN2NkYTIzYzRiZTMuaHRtbNIBAA?oc=5",
-      "published": "2023-06-05T07:00:00.000Z",
-      "description": "Electrical failure: Offutt pilots describe in-flight emergency over Caribbean&nbsp;&nbsp;Omaha World-Herald",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiQGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMzAvcnNhZi1yZS0zYS1yYWYtd2FkZGluZ3Rvbi_SAQA",
-      "title": "Super Rare Royal Saudi Air Force Boeing RE-3A Spy Plane Makes Stopover At RAF Waddington - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMzAvcnNhZi1yZS0zYS1yYWYtd2FkZGluZ3Rvbi_SAQA?oc=5",
-      "published": "2021-09-30T07:00:00.000Z",
-      "description": "Super Rare Royal Saudi Air Force Boeing RE-3A Spy Plane Makes Stopover At RAF Waddington&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYmh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDIzLzAzL3VzLXN1cnZlaWxsYW5jZS1qZXQtbWFrZXMtZmlyc3QtbWlzc2lvbi1ub3J0aGVybi1maW5sYW5k0gEA",
-      "title": "U.S. surveillance jet makes first mission up to northern Finland - The Independent Barents Observer",
-      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdGhlYmFyZW50c29ic2VydmVyLmNvbS9lbi8yMDIzLzAzL3VzLXN1cnZlaWxsYW5jZS1qZXQtbWFrZXMtZmlyc3QtbWlzc2lvbi1ub3J0aGVybi1maW5sYW5k0gEA?oc=5",
-      "published": "2023-03-25T07:00:00.000Z",
-      "description": "U.S. surveillance jet makes first mission up to northern Finland&nbsp;&nbsp;The Independent Barents Observer",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYmh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDIzLTA1LTMwL3NvdXRoLWNoaW5hLXNlYS1pbnRlcmNlcHQtamV0cy0xMDI4NDIzMC5odG1s0gEA",
-      "title": "US says Chinese fighter conducted 'aggressive' intercept over South China Sea - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDIzLTA1LTMwL3NvdXRoLWNoaW5hLXNlYS1pbnRlcmNlcHQtamV0cy0xMDI4NDIzMC5odG1s0gEA?oc=5",
-      "published": "2023-05-30T07:00:00.000Z",
-      "description": "US says Chinese fighter conducted 'aggressive' intercept over South China Sea&nbsp;&nbsp;Stars and Stripes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiamh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyMi8xMi8yOS9kYW5nZXJvdXNseS1jbG9zZS12aWRlby1zaG93cy1jaGluZXNlLWpldC1idXp6aW5nLXVzLXNweS1wbGFuZS_SAQA",
-      "title": "'Dangerously' close: Video shows Chinese jet buzzing US spy plane - Defense News",
-      "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9haXIvMjAyMi8xMi8yOS9kYW5nZXJvdXNseS1jbG9zZS12aWRlby1zaG93cy1jaGluZXNlLWpldC1idXp6aW5nLXVzLXNweS1wbGFuZS_SAQA?oc=5",
-      "published": "2022-12-29T08:00:00.000Z",
-      "description": "'Dangerously' close: Video shows Chinese jet buzzing US spy plane&nbsp;&nbsp;Defense News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMidGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS8yMDIxLTEyLTI5L2Fpci1mb3JjZS1zdXJ2ZWlsbGFuY2Utc2lnaW50LXBsYW5lcy1mbHktbmVhci1ydXNzaWEtNDExOTQ0MC5odG1s0gEA",
-      "title": "US spy planes fly sortie over Ukraine amid ongoing tensions over Russian border buildup - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS8yMDIxLTEyLTI5L2Fpci1mb3JjZS1zdXJ2ZWlsbGFuY2Utc2lnaW50LXBsYW5lcy1mbHktbmVhci1ydXNzaWEtNDExOTQ0MC5odG1s0gEA?oc=5",
-      "published": "2021-12-29T08:00:00.000Z",
-      "description": "US spy planes fly sortie over Ukraine amid ongoing tensions over Russian border buildup&nbsp;&nbsp;Stars and Stripes",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OS5hbXA",
-      "title": "Russian pilot fired two missiles at British RAF plane carrying 30 aircrew - Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OS5hbXA?oc=5",
-      "published": "2023-09-14T07:00:00.000Z",
-      "description": "Russian pilot fired two missiles at British RAF plane carrying 30 aircrew&nbsp;&nbsp;Daily Record",
+      "id": "CBMif2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NjgyMS90aHJvdWdoLWFpcm1lbnMtZXllcy1saW5ndWlzdC1zaG91bGRlcnMtc2V2ZW4tZGVwbG95bWVudHMtaW4tZml2ZS15ZWFycy_SAQA",
+      "title": "Through Airmen's Eyes: Linguist shoulders seven deployments in five years - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzQ2NjgyMS90aHJvdWdoLWFpcm1lbnMtZXllcy1saW5ndWlzdC1zaG91bGRlcnMtc2V2ZW4tZGVwbG95bWVudHMtaW4tZml2ZS15ZWFycy_SAQA?oc=5",
+      "published": "2013-08-10T07:00:00.000Z",
+      "description": "Through Airmen's Eyes: Linguist shoulders seven deployments in five years&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -977,31 +927,81 @@
       "category": ""
     },
     {
-      "id": "CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02MzMyNzk5OdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02MzMyNzk5OS5hbXA",
-      "title": "Russian jet released missile near RAF aircraft over Black Sea - BBC.com",
-      "link": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02MzMyNzk5OdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02MzMyNzk5OS5hbXA?oc=5",
-      "published": "2022-10-20T07:00:00.000Z",
-      "description": "Russian jet released missile near RAF aircraft over Black Sea&nbsp;&nbsp;BBC.com",
+      "id": "CBMibWh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS9icml0aXNoLWFpci1mb3JjZS1nZXRzLXJjLTEzNS1yaXZldC1qb2ludC1zdXJ2ZWlsbGFuY2UtcGxhbmUtMS4zNjY0MzDSAQA",
+      "title": "British air force gets RC-135 Rivet Joint surveillance plane - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL3RoZWF0ZXJzL2V1cm9wZS9icml0aXNoLWFpci1mb3JjZS1nZXRzLXJjLTEzNS1yaXZldC1qb2ludC1zdXJ2ZWlsbGFuY2UtcGxhbmUtMS4zNjY0MzDSAQA?oc=5",
+      "published": "2015-09-04T07:00:00.000Z",
+      "description": "British air force gets RC-135 Rivet Joint surveillance plane&nbsp;&nbsp;Stars and Stripes",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiWWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzYWZzLXN1cGVyLXNjYW5uZXItYWlyY3JhZnQtc3VzcGVjdGVkLW9mLXByb3ZpZGluZy10YXJnZXQv0gFZaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXNhZnMtc3VwZXItc2Nhbm5lci1haXJjcmFmdC1zdXNwZWN0ZWQtb2YtcHJvdmlkaW5nLXRhcmdldC8",
-      "title": "USAF’s ‘Super Scanner’ Aircraft Providing Target Coordinates To Ukraine As Russian Military Comes Under Frequent Attacks – Reports - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL3VzYWZzLXN1cGVyLXNjYW5uZXItYWlyY3JhZnQtc3VzcGVjdGVkLW9mLXByb3ZpZGluZy10YXJnZXQv0gFZaHR0cHM6Ly93d3cuZXVyYXNpYW50aW1lcy5jb20vdXNhZnMtc3VwZXItc2Nhbm5lci1haXJjcmFmdC1zdXNwZWN0ZWQtb2YtcHJvdmlkaW5nLXRhcmdldC8?oc=5",
-      "published": "2022-08-11T07:00:00.000Z",
-      "description": "USAF’s ‘Super Scanner’ Aircraft Providing Target Coordinates To Ukraine As Russian Military Comes Under Frequent Attacks – Reports&nbsp;&nbsp;EurAsian Times",
+      "id": "CBMipAFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2VsZWN0cmljYWwtZmFpbHVyZS1vZmZ1dHQtcGlsb3RzLWRlc2NyaWJlLWluLWZsaWdodC1lbWVyZ2VuY3ktb3Zlci1jYXJpYmJlYW4vYXJ0aWNsZV81ZTIyMGNjMi1lYjk5LTExZWQtOGVlNi0zN2NkYTIzYzRiZTMuaHRtbNIBAA",
+      "title": "Electrical failure: Offutt pilots describe in-flight emergency over Caribbean - Omaha World-Herald",
+      "link": "https://news.google.com/rss/articles/CBMipAFodHRwczovL29tYWhhLmNvbS9uZXdzL3N0YXRlLXJlZ2lvbmFsL2VsZWN0cmljYWwtZmFpbHVyZS1vZmZ1dHQtcGlsb3RzLWRlc2NyaWJlLWluLWZsaWdodC1lbWVyZ2VuY3ktb3Zlci1jYXJpYmJlYW4vYXJ0aWNsZV81ZTIyMGNjMi1lYjk5LTExZWQtOGVlNi0zN2NkYTIzYzRiZTMuaHRtbNIBAA?oc=5",
+      "published": "2023-06-05T07:00:00.000Z",
+      "description": "Electrical failure: Offutt pilots describe in-flight emergency over Caribbean&nbsp;&nbsp;Omaha World-Herald",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMihwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMjU2MDcwNi9zaGFyZWQtZXhwZXJpZW5jZXMtMzc5dGgtZWFteHMtam9zaHVhLWVsbW9yZS_SAQA",
-      "title": "Shared Experiences | 379th EAMXS | Joshua Elmore > U.S. Air Forces Central > Article Display - US AIR FORCES CENTRAL",
-      "link": "https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5hZmNlbnQuYWYubWlsL1VuaXRzLzM3OXRoLUFpci1FeHBlZGl0aW9uYXJ5LVdpbmcvTmV3cy9EaXNwbGF5L0FydGljbGUvMjU2MDcwNi9zaGFyZWQtZXhwZXJpZW5jZXMtMzc5dGgtZWFteHMtam9zaHVhLWVsbW9yZS_SAQA?oc=5",
-      "published": "2021-04-05T07:00:00.000Z",
-      "description": "Shared Experiences | 379th EAMXS | Joshua Elmore > U.S. Air Forces Central > Article Display&nbsp;&nbsp;US AIR FORCES CENTRAL",
+      "id": "CBMiZmh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvbmV3c3VrLW1vZC1yZWNlaXZlcy1maXJzdC1yYy0xMzUtcml2ZXQtam9pbnQtc2lnaW50LWFpcmNyYWZ0L9IBAA",
+      "title": "UK MoD receives first RC-135 Rivet Joint SIGINT aircraft - Airforce Technology - Airforce Technology",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvbmV3c3VrLW1vZC1yZWNlaXZlcy1maXJzdC1yYy0xMzUtcml2ZXQtam9pbnQtc2lnaW50LWFpcmNyYWZ0L9IBAA?oc=5",
+      "published": "2013-11-12T08:00:00.000Z",
+      "description": "UK MoD receives first RC-135 Rivet Joint SIGINT aircraft - Airforce Technology&nbsp;&nbsp;Airforce Technology",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiQGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMzAvcnNhZi1yZS0zYS1yYWYtd2FkZGluZ3Rvbi_SAQA",
+      "title": "Super Rare Royal Saudi Air Force Boeing RE-3A Spy Plane Makes Stopover At RAF Waddington - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjEvMDkvMzAvcnNhZi1yZS0zYS1yYWYtd2FkZGluZ3Rvbi_SAQA?oc=5",
+      "published": "2021-09-30T07:00:00.000Z",
+      "description": "Super Rare Royal Saudi Air Force Boeing RE-3A Spy Plane Makes Stopover At RAF Waddington&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzE3ODA20gEA",
+      "title": "NATO Spy Plane Makes First-Time Flight Over Moldova - Kyiv Post",
+      "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzE3ODA20gEA?oc=5",
+      "published": "2023-06-02T07:00:00.000Z",
+      "description": "NATO Spy Plane Makes First-Time Flight Over Moldova&nbsp;&nbsp;Kyiv Post",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijgFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE2LzEyLzA2L3Utcy1haXItZm9yY2UtcmMtMTM1cy10ZWFtaW5nLXVwLXdpdGgtdS1zLW1hcmluZS1jb3Jwcy1lYS02Yi1wcm93bGVycy10by1kZXRlY3QtYW5kLXN1cHByZXNzLWlzaXMtY29tbXMv0gEA",
+      "title": "U.S. Air Force RC-135s teaming up with Marine Corps EA-6Bs (and others..) to detect and suppress ISIS comms - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3RoZWF2aWF0aW9uaXN0LmNvbS8yMDE2LzEyLzA2L3Utcy1haXItZm9yY2UtcmMtMTM1cy10ZWFtaW5nLXVwLXdpdGgtdS1zLW1hcmluZS1jb3Jwcy1lYS02Yi1wcm93bGVycy10by1kZXRlY3QtYW5kLXN1cHByZXNzLWlzaXMtY29tbXMv0gEA?oc=5",
+      "published": "2016-12-06T08:00:00.000Z",
+      "description": "U.S. Air Force RC-135s teaming up with Marine Corps EA-6Bs (and others..) to detect and suppress ISIS comms&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMihAFodHRwczovL3d3dy5hZnJjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzE1OTcxNDIvd2Vla2VuZC1kdXR5LXRvdGFsLWZvcmNlLWludGVncmF0aW9uLW1vcmUtdGhhbi1hLWJ1enotcGhyYXNlLWF0LW9mZnV0dC_SAQA",
+      "title": "Weekend-duty: Total Force Integration more than a buzz phrase at Offutt - afrc.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5hZnJjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzE1OTcxNDIvd2Vla2VuZC1kdXR5LXRvdGFsLWZvcmNlLWludGVncmF0aW9uLW1vcmUtdGhhbi1hLWJ1enotcGhyYXNlLWF0LW9mZnV0dC_SAQA?oc=5",
+      "published": "2018-08-06T07:00:00.000Z",
+      "description": "Weekend-duty: Total Force Integration more than a buzz phrase at Offutt&nbsp;&nbsp;afrc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OS5hbXA",
+      "title": "Russian pilot fired two missiles at British RAF plane carrying 30 aircrew - Daily Record",
+      "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OdIBXmh0dHBzOi8vd3d3LmRhaWx5cmVjb3JkLmNvLnVrL25ld3MvdWstd29ybGQtbmV3cy9ydXNzaWFuLXBpbG90LWZpcmVkLXR3by1taXNzaWxlcy0zMDkzODA3OS5hbXA?oc=5",
+      "published": "2023-09-14T07:00:00.000Z",
+      "description": "Russian pilot fired two missiles at British RAF plane carrying 30 aircrew&nbsp;&nbsp;Daily Record",
       "summary": "",
       "author": "",
       "category": ""
