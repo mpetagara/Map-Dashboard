@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-03T23:09:25.000Z",
+  "published": "2024-07-04T00:39:46.000Z",
   "entries": [
     {
       "id": "CBMiigFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNzg2NzM0L2ItMS1sYW5jZXJzLXJldHVybi10by1ndWFtLWVuaGFuY2VzLXJlYWRpbmVzcy1kdXJpbmctYm9tYmVyLXRhc2stZm9yY2UtMjQtNi_SAQA",
@@ -17,21 +17,11 @@
       "category": ""
     },
     {
-      "id": "CBMifmh0dHBzOi8vd3d3Lm1pbGl0YXJ5dGltZXMuY29tL25ld3MveW91ci1taWxpdGFyeS8yMDI0LzA0LzI2L2ItMS1ib21iZXItcmlzZXMtZnJvbS10aGUtYm9uZXlhcmQtdG8tcmVqb2luLXRoZS1haXItZm9yY2VzLWZsZWV0L9IBAA",
-      "title": "B-1 bomber rises from the 'Boneyard' to rejoin the Air Force's fleet - Military Times",
-      "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1pbGl0YXJ5dGltZXMuY29tL25ld3MveW91ci1taWxpdGFyeS8yMDI0LzA0LzI2L2ItMS1ib21iZXItcmlzZXMtZnJvbS10aGUtYm9uZXlhcmQtdG8tcmVqb2luLXRoZS1haXItZm9yY2VzLWZsZWV0L9IBAA?oc=5",
-      "published": "2024-04-26T07:00:00.000Z",
-      "description": "B-1 bomber rises from the 'Boneyard' to rejoin the Air Force's fleet&nbsp;&nbsp;Military Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiY2h0dHBzOi8vd3d3LmV1Y29tLm1pbC9wcmVzc3JlbGVhc2UvNDI4MTIvdXMtYWlyLWZvcmNlLWNvbmR1Y3RzLWJvbWJlci10YXNrLWZvcmNlLW1pc3Npb24tdG8tdHVya2l5ZdIBAA",
-      "title": "United States European Command - U.S. European Command",
+      "title": "U.S. Air Force conducts Bomber Task Force Mission to Türkiye - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmV1Y29tLm1pbC9wcmVzc3JlbGVhc2UvNDI4MTIvdXMtYWlyLWZvcmNlLWNvbmR1Y3RzLWJvbWJlci10YXNrLWZvcmNlLW1pc3Npb24tdG8tdHVya2l5ZdIBAA?oc=5",
       "published": "2024-04-16T07:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "description": "U.S. Air Force conducts Bomber Task Force Mission to Türkiye&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -97,6 +87,16 @@
       "category": ""
     },
     {
+      "id": "CBMiXGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDQvMDkvaGVyZXMtbGFuY2Vsb3QtdGhlLWItMWItcmVzdXJyZWN0ZWQtZnJvbS10aGUtYm9uZXlhcmQv0gEA",
+      "title": "Here’s ‘Lancelot’, The B-1B Resurrected From The Boneyard - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDQvMDkvaGVyZXMtbGFuY2Vsb3QtdGhlLWItMWItcmVzdXJyZWN0ZWQtZnJvbS10aGUtYm9uZXlhcmQv0gEA?oc=5",
+      "published": "2024-04-09T07:00:00.000Z",
+      "description": "Here’s ‘Lancelot’, The B-1B Resurrected From The Boneyard&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMidWh0dHBzOi8vd3d3LnVzYWZlLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2ODQ5NjMvdXMtYm9tYmVycy1hcnJpdmUtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS0yNC0yL9IBAA",
       "title": "U.S. bombers arrive in Sweden for Bomber Task Force 24-2 - 501st Combat Support Wing",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnVzYWZlLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2ODQ5NjMvdXMtYm9tYmVycy1hcnJpdmUtaW4tc3dlZGVuLWZvci1ib21iZXItdGFzay1mb3JjZS0yNC0yL9IBAA?oc=5",
@@ -108,10 +108,10 @@
     },
     {
       "id": "CBMifmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNzgzL2ItMWItc3RyYXRlZ2ljLWJvbWJlcnMtYXJyaXZlLWF0LW1vcm9uLWFpci1iYXNlLWZvci1sYXRlc3QtYm9tYmVyLXRhc2stZm9yY2UtZGVwbG95bWVudC11btIBAA",
-      "title": "United States European Command - U.S. European Command",
+      "title": "B-1B strategic bombers arrive at Morón Air Base for latest Bomber Task Force deployment under Large Scale Global Exercise 2024 - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNzgzL2ItMWItc3RyYXRlZ2ljLWJvbWJlcnMtYXJyaXZlLWF0LW1vcm9uLWFpci1iYXNlLWZvci1sYXRlc3QtYm9tYmVyLXRhc2stZm9yY2UtZGVwbG95bWVudC11btIBAA?oc=5",
       "published": "2024-03-28T07:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "description": "B-1B strategic bombers arrive at Morón Air Base for latest Bomber Task Force deployment under Large Scale Global Exercise 2024&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -148,10 +148,10 @@
     },
     {
       "id": "CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3NjAvYnRmLTI0LTItYm9tYmVycy1yZXR1cm4taG9tZS1hZnRlci1nbG9iYWwtZ3VhcmRpYW4v0gEA",
-      "title": "BTF 24-2 bombers return home after Global Guardian > Air Force Global Strike Command AFSTRAT-AIR > Article Display - afgsc.af.mil",
+      "title": "BTF 24-2 bombers return home after Global Guardian - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2OTI3NjAvYnRmLTI0LTItYm9tYmVycy1yZXR1cm4taG9tZS1hZnRlci1nbG9iYWwtZ3VhcmRpYW4v0gEA?oc=5",
       "published": "2024-03-01T08:00:00.000Z",
-      "description": "BTF 24-2 bombers return home after Global Guardian > Air Force Global Strike Command AFSTRAT-AIR > Article Display&nbsp;&nbsp;afgsc.af.mil",
+      "description": "BTF 24-2 bombers return home after Global Guardian&nbsp;&nbsp;afgsc.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -167,21 +167,21 @@
       "category": ""
     },
     {
-      "id": "CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzcyNTk4Ni9keWVzcy1iLTFiLWxhbmNlcnMtZGVwbG95LXRvLW1vcm4tYWItaW4tZmlyc3QtZXZlci1idGYtbWlzc2lvbi_SAQA",
-      "title": "Dyess B-1B Lancers deploy to Morón AB in first-ever BTF mission - dyess.af.mil",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzcyNTk4Ni9keWVzcy1iLTFiLWxhbmNlcnMtZGVwbG95LXRvLW1vcm4tYWItaW4tZmlyc3QtZXZlci1idGYtbWlzc2lvbi_SAQA?oc=5",
-      "published": "2024-04-01T07:00:00.000Z",
-      "description": "Dyess B-1B Lancers deploy to Morón AB in first-ever BTF mission&nbsp;&nbsp;dyess.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXmh0dHBzOi8vd3d3LmVsbHN3b3J0aC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjU2OTY5L2VsbHN3b3J0aC1nZW5lcmF0ZXMtYm9tYmVycy_SAQA",
       "title": "Ellsworth generates bombers - ellsworth.af.mil",
       "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmVsbHN3b3J0aC5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjU2OTY5L2VsbHN3b3J0aC1nZW5lcmF0ZXMtYm9tYmVycy_SAQA?oc=5",
       "published": "2024-01-25T08:00:00.000Z",
       "description": "Ellsworth generates bombers&nbsp;&nbsp;ellsworth.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzcyNTk4Ni9keWVzcy1iLTFiLWxhbmNlcnMtZGVwbG95LXRvLW1vcm4tYWItaW4tZmlyc3QtZXZlci1idGYtbWlzc2lvbi_SAQA",
+      "title": "Dyess B-1B Lancers deploy to Morón AB in first-ever BTF mission - dyess.af.mil",
+      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmR5ZXNzLmFmLm1pbC9OZXdzL0FydGljbGUvMzcyNTk4Ni9keWVzcy1iLTFiLWxhbmNlcnMtZGVwbG95LXRvLW1vcm4tYWItaW4tZmlyc3QtZXZlci1idGYtbWlzc2lvbi_SAQA?oc=5",
+      "published": "2024-04-01T07:00:00.000Z",
+      "description": "Dyess B-1B Lancers deploy to Morón AB in first-ever BTF mission&nbsp;&nbsp;dyess.af.mil",
       "summary": "",
       "author": "",
       "category": ""
@@ -197,21 +197,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDQvMDkvaGVyZXMtbGFuY2Vsb3QtdGhlLWItMWItcmVzdXJyZWN0ZWQtZnJvbS10aGUtYm9uZXlhcmQv0gEA",
-      "title": "Here's 'Lancelot', The B-1B Resurrected From The Boneyard - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDQvMDkvaGVyZXMtbGFuY2Vsb3QtdGhlLWItMWItcmVzdXJyZWN0ZWQtZnJvbS10aGUtYm9uZXlhcmQv0gEA?oc=5",
-      "published": "2024-04-09T07:00:00.000Z",
-      "description": "Here's 'Lancelot', The B-1B Resurrected From The Boneyard&nbsp;&nbsp;The Aviationist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyODIyL3VzLWFpci1mb3JjZS1iLTFiLWJvbWJlcnMtY29uY2x1ZGUtYm9tYmVyLXRhc2stZm9yY2UtMjQtMtIBAA",
-      "title": "United States European Command - U.S. European Command",
+      "title": "U.S. Air Force B-1B bombers conclude Bomber Task Force 24-2 - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyODIyL3VzLWFpci1mb3JjZS1iLTFiLWJvbWJlcnMtY29uY2x1ZGUtYm9tYmVyLXRhc2stZm9yY2UtMjQtMtIBAA?oc=5",
       "published": "2024-04-24T07:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "description": "U.S. Air Force B-1B bombers conclude Bomber Task Force 24-2&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -252,16 +242,6 @@
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmZsaWdodGdsb2JhbC5jb20vZml4ZWQtd2luZy91cy1haXItZm9yY2UtcmVjYWxscy1tb3RoYmFsbGVkLWItMWItdG8tc2VydmljZS1mcm9tLWJvbmV5YXJkLzE1NzU3Ny5hcnRpY2xl0gEA?oc=5",
       "published": "2024-04-01T07:00:00.000Z",
       "description": "US Air Force recalls mothballed B-1B to service from boneyard&nbsp;&nbsp;Flightglobal",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDI0LTA2LTA1L2IxLWxhbmNlci1ib21iZXItc291dGgta29yZWEtMTQwODY2NjIuaHRtbNIBAA",
-      "title": "B-1 Lancer conducts bombing drill on Korean Peninsula for first time in 7 years - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnN0cmlwZXMuY29tL2JyYW5jaGVzL2Fpcl9mb3JjZS8yMDI0LTA2LTA1L2IxLWxhbmNlci1ib21iZXItc291dGgta29yZWEtMTQwODY2NjIuaHRtbNIBAA?oc=5",
-      "published": "2024-06-05T07:00:00.000Z",
-      "description": "B-1 Lancer conducts bombing drill on Korean Peninsula for first time in 7 years&nbsp;&nbsp;Stars and Stripes",
       "summary": "",
       "author": "",
       "category": ""
@@ -358,20 +338,20 @@
     },
     {
       "id": "CBMicGh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXMtYi0xYi1sYW5jZXJzLXRvdWNoLWRvd24taW4tdGhlLXVrLWJvbHN0ZXJpbmctdHJhbnNhdGxhbnRpYy1zZWN1cml0eS_SAQA",
-      "title": "US B-1B Lancers touch down in the UK, bolstering transatlantic security - Airforce Technology - Airforce Technology",
+      "title": "US B-1B Lancers touch down in the UK, bolstering transatlantic security - Airforce Technology",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFpcmZvcmNlLXRlY2hub2xvZ3kuY29tL25ld3MvdXMtYi0xYi1sYW5jZXJzLXRvdWNoLWRvd24taW4tdGhlLXVrLWJvbHN0ZXJpbmctdHJhbnNhdGxhbnRpYy1zZWN1cml0eS_SAQA?oc=5",
       "published": "2023-10-13T07:00:00.000Z",
-      "description": "US B-1B Lancers touch down in the UK, bolstering transatlantic security - Airforce Technology&nbsp;&nbsp;Airforce Technology",
+      "description": "US B-1B Lancers touch down in the UK, bolstering transatlantic security&nbsp;&nbsp;Airforce Technology",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMiS2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtYi0xLWxhbmNlci1taWRkbGUtZWFzdC1zdHJpa2VzL9IBAA",
-      "title": "New Photos Show B-1 Crews Prepping for Middle East Strikes - Air & Space Forces Magazine",
+      "title": "New Photos Show B-1 Lancer Crews Prepping for Feb. 2 Middle East Strikes - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9haXItZm9yY2UtYi0xLWxhbmNlci1taWRkbGUtZWFzdC1zdHJpa2VzL9IBAA?oc=5",
       "published": "2024-02-05T08:00:00.000Z",
-      "description": "New Photos Show B-1 Crews Prepping for Middle East Strikes&nbsp;&nbsp;Air & Space Forces Magazine",
+      "description": "New Photos Show B-1 Lancer Crews Prepping for Feb. 2 Middle East Strikes&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -507,16 +487,6 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vd3d3LmRha290YW5ld3Nub3cuY29tLzIwMjQvMDEvMDUvZGV2ZWxvcGluZy1iLTFiLWxhbmNlci1jcmFzaGVzLWR1cmluZy10cmFpbmluZy1taXNzaW9uLWVsbHN3b3J0aC1haXItZm9yY2UtYmFzZS_SAQA",
-      "title": "Ellsworth Air Force Base shares update on B-1B crash - Dakota News Now",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmRha290YW5ld3Nub3cuY29tLzIwMjQvMDEvMDUvZGV2ZWxvcGluZy1iLTFiLWxhbmNlci1jcmFzaGVzLWR1cmluZy10cmFpbmluZy1taXNzaW9uLWVsbHN3b3J0aC1haXItZm9yY2UtYmFzZS_SAQA?oc=5",
-      "published": "2024-01-04T08:00:00.000Z",
-      "description": "Ellsworth Air Force Base shares update on B-1B crash&nbsp;&nbsp;Dakota News Now",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItMS1sYW5jZXItYm9tYmVycy1qdXN0LWxhbmRlZC1ydXNzaWFzLWRvb3JzdGVwLXdhcmdhbWVzLTIxMDY4ONIBAA",
       "title": "B-1 Lancer Bombers Just Landed on Russia's Doorstep for Wargames - The National Interest Online",
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2ItMS1sYW5jZXItYm9tYmVycy1qdXN0LWxhbmRlZC1ydXNzaWFzLWRvb3JzdGVwLXdhcmdhbWVzLTIxMDY4ONIBAA?oc=5",
@@ -528,10 +498,10 @@
     },
     {
       "id": "CBMiZ2h0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNTQwL3VzLWItMWItbGFuY2Vycy1jb25kdWN0LWJvbWJlci10YXNrLWZvcmNlLW1pc3Npb24taW4tZWFzdGVybi1ldXJvcGXSAQA",
-      "title": "United States European Command - U.S. European Command",
+      "title": "US B-1B Lancers conduct Bomber Task Force mission in Eastern Europe - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNTQwL3VzLWItMWItbGFuY2Vycy1jb25kdWN0LWJvbWJlci10YXNrLWZvcmNlLW1pc3Npb24taW4tZWFzdGVybi1ldXJvcGXSAQA?oc=5",
       "published": "2023-10-31T07:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "description": "US B-1B Lancers conduct Bomber Task Force mission in Eastern Europe&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -548,10 +518,10 @@
     },
     {
       "id": "CBMiUWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNTE0L3VzLWItMWItbGFuY2Vycy1hcnJpdmUtaW4tdGhlLXVrLWZvci1idGYtMjQtMdIBAA",
-      "title": "United States European Command - U.S. European Command",
+      "title": "US B-1B Lancers arrive in the UK for BTF 24-1 - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNTE0L3VzLWItMWItbGFuY2Vycy1hcnJpdmUtaW4tdGhlLXVrLWZvci1idGYtMjQtMdIBAA?oc=5",
       "published": "2023-10-12T07:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "description": "US B-1B Lancers arrive in the UK for BTF 24-1&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -608,10 +578,20 @@
     },
     {
       "id": "CBMiRWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtbGFuY2VyLWJvbWJlci1keWVzcy1tb2Rlcm5pemVkL9IBAA",
-      "title": "Modernized 'BEAST' B-1 Bomber Makes First Flight - Air & Space Forces Magazine",
+      "title": "Modernized ‘BEAST’ B-1 Bomber Makes First Flight - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtbGFuY2VyLWJvbWJlci1keWVzcy1tb2Rlcm5pemVkL9IBAA?oc=5",
       "published": "2023-10-06T07:00:00.000Z",
-      "description": "Modernized 'BEAST' B-1 Bomber Makes First Flight&nbsp;&nbsp;Air & Space Forces Magazine",
+      "description": "Modernized ‘BEAST’ B-1 Bomber Makes First Flight&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiX2h0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWxsc3dvcnRoLWFmYi1iLTFiLWxhbmNlcnMtY3Jldy10ZW1wb3JhcmlseS1yZWxvY2F0ZWQv0gEA",
+      "title": "Ellsworth AFB B-1B Lancers, crew temporarily relocated - KELOLAND.com",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWxsc3dvcnRoLWFmYi1iLTFiLWxhbmNlcnMtY3Jldy10ZW1wb3JhcmlseS1yZWxvY2F0ZWQv0gEA?oc=5",
+      "published": "2024-01-31T08:00:00.000Z",
+      "description": "Ellsworth AFB B-1B Lancers, crew temporarily relocated&nbsp;&nbsp;KELOLAND.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -648,10 +628,20 @@
     },
     {
       "id": "CBMiXmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9wcmVzc3JlbGVhc2UvNDI1NDIvdXMtYi0xYnMtbWFyay1oaXN0b3JpYy1taWxlc3RvbmUtYXQtaW5jaXJsaWstYWlyLWJhc2XSAQA",
-      "title": "United States European Command - U.S. European Command",
+      "title": "US B-1Bs mark historic milestone at Incirlik Air Base - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmV1Y29tLm1pbC9wcmVzc3JlbGVhc2UvNDI1NDIvdXMtYi0xYnMtbWFyay1oaXN0b3JpYy1taWxlc3RvbmUtYXQtaW5jaXJsaWstYWlyLWJhc2XSAQA?oc=5",
       "published": "2023-10-31T07:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
+      "description": "US B-1Bs mark historic milestone at Incirlik Air Base&nbsp;&nbsp;U.S. European Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiW2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVyLWxpdmUtbXVuaXRpb25zLWV4ZXJjaXNlLXNvdXRoLWtvcmVhbi1maWdodGVycy_SAQA",
+      "title": "B-1 Bomber Drops Live Munitions in Exercise over South Korea - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVyLWxpdmUtbXVuaXRpb25zLWV4ZXJjaXNlLXNvdXRoLWtvcmVhbi1maWdodGVycy_SAQA?oc=5",
+      "published": "2024-06-05T07:00:00.000Z",
+      "description": "B-1 Bomber Drops Live Munitions in Exercise over South Korea&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -677,11 +667,11 @@
       "category": ""
     },
     {
-      "id": "CBMiX2h0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWxsc3dvcnRoLWFmYi1iLTFiLWxhbmNlcnMtY3Jldy10ZW1wb3JhcmlseS1yZWxvY2F0ZWQv0gEA",
-      "title": "Ellsworth AFB B-1B Lancers/airmen temporarily relocating to Texas - KELOLAND.com",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmtlbG9sYW5kLmNvbS9uZXdzL2xvY2FsLW5ld3MvZWxsc3dvcnRoLWFmYi1iLTFiLWxhbmNlcnMtY3Jldy10ZW1wb3JhcmlseS1yZWxvY2F0ZWQv0gEA?oc=5",
-      "published": "2024-01-31T08:00:00.000Z",
-      "description": "Ellsworth AFB B-1B Lancers/airmen temporarily relocating to Texas&nbsp;&nbsp;KELOLAND.com",
+      "id": "CBMipQJodHRwOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy93b3JsZC91LXMtbWlsaXRhcnktZGlzcGF0Y2hlcy1wYWlyLW9mLWItMWItbGFuY2Vycy10by1kcm9wLWxpdmUtcGF5bG9hZC1vbi1rb3JlYW4tcGVuaW5zdWxhL2FyLUJCMW5VMzVuP2l0ZW09ZW5hYmxlX3JhbmRvbSUzQWZhbHNlJm9jaWQ9b2ItZmItZnJmci04MzkmYXBpdmVyc2lvbj12MiZub3NlcnZlcmNhY2hlPTEmZG9tc2hpbT0xJnJlbmRlcndlYmNvbXBvbmVudHM9MSZ3Y3Nlbz0xJmJhdGNoc2VydmVydGVsZW1ldHJ5PTEmbm9zZXJ2ZXJ0ZWxlbWV0cnk9MdIBAA",
+      "title": "U.S. Military Dispatches Pair of B-1B Lancers to Drop Live Payload on Korean Peninsula - MSN",
+      "link": "https://news.google.com/rss/articles/CBMipQJodHRwOi8vd3d3Lm1zbi5jb20vZW4tdXMvbmV3cy93b3JsZC91LXMtbWlsaXRhcnktZGlzcGF0Y2hlcy1wYWlyLW9mLWItMWItbGFuY2Vycy10by1kcm9wLWxpdmUtcGF5bG9hZC1vbi1rb3JlYW4tcGVuaW5zdWxhL2FyLUJCMW5VMzVuP2l0ZW09ZW5hYmxlX3JhbmRvbSUzQWZhbHNlJm9jaWQ9b2ItZmItZnJmci04MzkmYXBpdmVyc2lvbj12MiZub3NlcnZlcmNhY2hlPTEmZG9tc2hpbT0xJnJlbmRlcndlYmNvbXBvbmVudHM9MSZ3Y3Nlbz0xJmJhdGNoc2VydmVydGVsZW1ldHJ5PTEmbm9zZXJ2ZXJ0ZWxlbWV0cnk9MdIBAA?oc=5",
+      "published": "2024-07-01T12:37:51.000Z",
+      "description": "U.S. Military Dispatches Pair of B-1B Lancers to Drop Live Payload on Korean Peninsula&nbsp;&nbsp;MSN",
       "summary": "",
       "author": "",
       "category": ""
@@ -692,16 +682,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL21pbGl0YXJ5L2F2aWF0aW9uL2E2MDQxMjUzNS9iMS1ib21iZXItcmVzY3VlZC_SAQA?oc=5",
       "published": "2024-04-22T07:00:00.000Z",
       "description": "A Fallen Bomber Faced Disaster on the Ground—Until a Boneyard Miracle Rescue&nbsp;&nbsp;Popular Mechanics",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDIwMjAzMzbSAQA",
-      "title": "US Launches Retaliatory Attacks On Iran-Linked Targets In Syria, Iraq - ایران اینترنشنال",
-      "link": "https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmlyYW5pbnRsLmNvbS9lbi8yMDI0MDIwMjAzMzbSAQA?oc=5",
-      "published": "2024-02-02T08:00:00.000Z",
-      "description": "US Launches Retaliatory Attacks On Iran-Linked Targets In Syria, Iraq&nbsp;&nbsp;ایران اینترنشنال",
       "summary": "",
       "author": "",
       "category": ""
@@ -722,16 +702,6 @@
       "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1haXItZm9yY2UtZGVwbG95cy1iLTFiLWJvbWJlcnMtdG8tc3dlZGVuL9IBSWh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1haXItZm9yY2UtZGVwbG95cy1iLTFiLWJvbWJlcnMtdG8tc3dlZGVuLz9hbXA?oc=5",
       "published": "2024-02-24T08:00:00.000Z",
       "description": "US Air Force deploys B-1B bombers to Sweden&nbsp;&nbsp;defence-blog.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2ItMS1ib21iZXItY3Jhc2hlcy10cmFpbmluZy1taXNzaW9uLXNvdXRoLWRha290YS1jcmV3LWVqZWN0ZWQtc2FmZWx50gFjaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdXMvYi0xLWJvbWJlci1jcmFzaGVzLXRyYWluaW5nLW1pc3Npb24tc291dGgtZGFrb3RhLWNyZXctZWplY3RlZC1zYWZlbHkuYW1w",
-      "title": "B-1 bomber crashes during training mission in South Dakota; crew ejected safely - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2ItMS1ib21iZXItY3Jhc2hlcy10cmFpbmluZy1taXNzaW9uLXNvdXRoLWRha290YS1jcmV3LWVqZWN0ZWQtc2FmZWx50gFjaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vdXMvYi0xLWJvbWJlci1jcmFzaGVzLXRyYWluaW5nLW1pc3Npb24tc291dGgtZGFrb3RhLWNyZXctZWplY3RlZC1zYWZlbHkuYW1w?oc=5",
-      "published": "2024-01-05T08:00:00.000Z",
-      "description": "B-1 bomber crashes during training mission in South Dakota; crew ejected safely&nbsp;&nbsp;Fox News",
       "summary": "",
       "author": "",
       "category": ""
@@ -787,6 +757,16 @@
       "category": ""
     },
     {
+      "id": "CBMiRmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDEvMTAvYi0xLWZsaWdodHMtcGF1c2VkLWF0LWVsbHN3b3J0aC_SAQA",
+      "title": "B-1B Flights Paused at Ellsworth AFB As Crash Investigation Continues - The Aviationist",
+      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDEvMTAvYi0xLWZsaWdodHMtcGF1c2VkLWF0LWVsbHN3b3J0aC_SAQA?oc=5",
+      "published": "2024-01-10T08:00:00.000Z",
+      "description": "B-1B Flights Paused at Ellsworth AFB As Crash Investigation Continues&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMib2h0dHBzOi8vd3d3LmFsLW1vbml0b3IuY29tL29yaWdpbmFscy8yMDIzLzExL3VzLWRlcGxveXMtYi0xYi1ib21iZXJzLXR1cmtleS1sb25nLXBsYW5uZWQtZXhlcmNpc2UtYW1pZC1nYXphLXdhctIBAA",
       "title": "US deploys B-1B bombers to Turkey for 'long-planned' exercise amid Gaza war - Al-Monitor",
       "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmFsLW1vbml0b3IuY29tL29yaWdpbmFscy8yMDIzLzExL3VzLWRlcGxveXMtYi0xYi1ib21iZXJzLXR1cmtleS1sb25nLXBsYW5uZWQtZXhlcmNpc2UtYW1pZC1nYXphLXdhctIBAA?oc=5",
@@ -808,20 +788,10 @@
     },
     {
       "id": "CBMifWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNzI0L3VzLXN0cmF0ZWdpYy1ib21iZXJzLWNvbXBsZXRlLWZpcnN0LWJvbWJlci10YXNrLWZvcmNlLWRlcGxveW1lbnQtdW5kZXItbGFyZ2Utc2NhbGUtZ2xvYmFs0gEA",
-      "title": "United States European Command - U.S. European Command",
+      "title": "U.S. strategic bombers complete first Bomber Task Force deployment under Large Scale Global Exercise 2024 - U.S. European Command",
       "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmV1Y29tLm1pbC9hcnRpY2xlLzQyNzI0L3VzLXN0cmF0ZWdpYy1ib21iZXJzLWNvbXBsZXRlLWZpcnN0LWJvbWJlci10YXNrLWZvcmNlLWRlcGxveW1lbnQtdW5kZXItbGFyZ2Utc2NhbGUtZ2xvYmFs0gEA?oc=5",
       "published": "2024-03-01T08:00:00.000Z",
-      "description": "United States European Command&nbsp;&nbsp;U.S. European Command",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiRmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDEvMTAvYi0xLWZsaWdodHMtcGF1c2VkLWF0LWVsbHN3b3J0aC_SAQA",
-      "title": "B-1B Flights Paused at Ellsworth AFB As Crash Investigation Continues - The Aviationist",
-      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDEvMTAvYi0xLWZsaWdodHMtcGF1c2VkLWF0LWVsbHN3b3J0aC_SAQA?oc=5",
-      "published": "2024-01-10T08:00:00.000Z",
-      "description": "B-1B Flights Paused at Ellsworth AFB As Crash Investigation Continues&nbsp;&nbsp;The Aviationist",
+      "description": "U.S. strategic bombers complete first Bomber Task Force deployment under Large Scale Global Exercise 2024&nbsp;&nbsp;U.S. European Command",
       "summary": "",
       "author": "",
       "category": ""
@@ -847,16 +817,6 @@
       "category": ""
     },
     {
-      "id": "CBMiU2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91cy1iLTEtYm9tYmVyLWd1aWRlZC1leGVyY2lzZS1zb3V0aC1rb3JlYW4tZi0xNWstZmlnaHRlcnMv0gEA",
-      "title": "1st In 7 Years: US B-1 Bombers Conduct Guided Exercise With South Korean F-15K Fighters - Simple Flying",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91cy1iLTEtYm9tYmVyLWd1aWRlZC1leGVyY2lzZS1zb3V0aC1rb3JlYW4tZi0xNWstZmlnaHRlcnMv0gEA?oc=5",
-      "published": "2024-06-07T07:00:00.000Z",
-      "description": "1st In 7 Years: US B-1 Bombers Conduct Guided Exercise With South Korean F-15K Fighters&nbsp;&nbsp;Simple Flying",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiRGh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1haXItZm9yY2UtYi0xYi1ib21iZXJzLWFycml2ZS1pbi10aGUtdWsv0gFIaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL3VzLWFpci1mb3JjZS1iLTFiLWJvbWJlcnMtYXJyaXZlLWluLXRoZS11ay8_YW1w",
       "title": "US Air Force B-1B bombers arrive in the UK - defence-blog.com",
       "link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vZGVmZW5jZS1ibG9nLmNvbS91cy1haXItZm9yY2UtYi0xYi1ib21iZXJzLWFycml2ZS1pbi10aGUtdWsv0gFIaHR0cHM6Ly9kZWZlbmNlLWJsb2cuY29tL3VzLWFpci1mb3JjZS1iLTFiLWJvbWJlcnMtYXJyaXZlLWluLXRoZS11ay8_YW1w?oc=5",
@@ -868,10 +828,10 @@
     },
     {
       "id": "CBMiUGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTFzLWRlcGxveS11ay1sb25nLXBsYW5uZWQtYm9tYmVyLXRhc2stZm9yY2Uv0gEA",
-      "title": "B-1s Deploy to UK for 'Long-Planned' Bomber Task Force - Air & Space Forces Magazine",
+      "title": "Amid Wars in Ukraine and Israel, ‘Long-Planned’ B-1 Task Force Deploys to UK - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTFzLWRlcGxveS11ay1sb25nLXBsYW5uZWQtYm9tYmVyLXRhc2stZm9yY2Uv0gEA?oc=5",
       "published": "2023-10-13T07:00:00.000Z",
-      "description": "B-1s Deploy to UK for 'Long-Planned' Bomber Task Force&nbsp;&nbsp;Air & Space Forces Magazine",
+      "description": "Amid Wars in Ukraine and Israel, ‘Long-Planned’ B-1 Task Force Deploys to UK&nbsp;&nbsp;Air & Space Forces Magazine",
       "summary": "",
       "author": "",
       "category": ""
@@ -887,6 +847,16 @@
       "category": ""
     },
     {
+      "id": "CBMiTmh0dHBzOi8vd3d3LnNjcmFtYmxlLm5sL21pbGl0YXJ5LW5ld3MvdXNhZi1iLTFiLWxhbmNlci1ib21iZXJzLWFycml2ZS1pbi1zcGFpbtIBAA",
+      "title": "USAF B-1B Lancer bombers arrive in Spain - Scramble (NL)",
+      "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnNjcmFtYmxlLm5sL21pbGl0YXJ5LW5ld3MvdXNhZi1iLTFiLWxhbmNlci1ib21iZXJzLWFycml2ZS1pbi1zcGFpbtIBAA?oc=5",
+      "published": "2024-03-27T07:00:00.000Z",
+      "description": "USAF B-1B Lancer bombers arrive in Spain&nbsp;&nbsp;Scramble (NL)",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiQ2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTFzLWNyZXdzLWVsbHN3b3J0aC1keWVzcy13cmVjay_SAQA",
       "title": "Some B-1s and Crews Move From Ellsworth to Dyess to Train While Wreck is Cleared - Air & Space Forces Magazine",
       "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTFzLWNyZXdzLWVsbHN3b3J0aC1keWVzcy13cmVjay_SAQA?oc=5",
@@ -897,11 +867,11 @@
       "category": ""
     },
     {
-      "id": "CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVycy0zLW1pc3Npb25zLTgtZGF5cy1taWRkbGUtZWFzdC_SAQA",
-      "title": "BONEs Over the Middle East: B-1 Bombers Fly 3 Missions in 8 Days for CENTCOM - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVycy0zLW1pc3Npb25zLTgtZGF5cy1taWRkbGUtZWFzdC_SAQA?oc=5",
-      "published": "2023-11-15T08:00:00.000Z",
-      "description": "BONEs Over the Middle East: B-1 Bombers Fly 3 Missions in 8 Days for CENTCOM&nbsp;&nbsp;Air & Space Forces Magazine",
+      "id": "CBMiU2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91cy1iLTEtYm9tYmVyLWd1aWRlZC1leGVyY2lzZS1zb3V0aC1rb3JlYW4tZi0xNWstZmlnaHRlcnMv0gEA",
+      "title": "1st In 7 Years: US B-1 Bombers Conduct Guided Exercise With South Korean F-15K Fighters - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS91cy1iLTEtYm9tYmVyLWd1aWRlZC1leGVyY2lzZS1zb3V0aC1rb3JlYW4tZi0xNWstZmlnaHRlcnMv0gEA?oc=5",
+      "published": "2024-06-07T07:00:00.000Z",
+      "description": "1st In 7 Years: US B-1 Bombers Conduct Guided Exercise With South Korean F-15K Fighters&nbsp;&nbsp;Simple Flying",
       "summary": "",
       "author": "",
       "category": ""
@@ -917,11 +887,21 @@
       "category": ""
     },
     {
-      "id": "CBMiYGh0dHBzOi8vd3d3LmtvdGF0di5jb20vMjAyNC8wMS8wNS9iLTEtYm9tYmVyLWNyYXNoZXMtd2hpbGUtbGFuZGluZy1lbGxzd29ydGgtYWZiLXRodXJzZGF5LW5pZ2h0L9IBAA",
-      "title": "B-1 bomber crashes while landing at Ellsworth AFB Thursday night - KOTA",
-      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmtvdGF0di5jb20vMjAyNC8wMS8wNS9iLTEtYm9tYmVyLWNyYXNoZXMtd2hpbGUtbGFuZGluZy1lbGxzd29ydGgtYWZiLXRodXJzZGF5LW5pZ2h0L9IBAA?oc=5",
-      "published": "2024-01-04T08:00:00.000Z",
-      "description": "B-1 bomber crashes while landing at Ellsworth AFB Thursday night&nbsp;&nbsp;KOTA",
+      "id": "CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVycy0zLW1pc3Npb25zLTgtZGF5cy1taWRkbGUtZWFzdC_SAQA",
+      "title": "BONEs Over the Middle East: B-1 Bombers Fly 3 Missions in 8 Days for CENTCOM - Air & Space Forces Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmFpcmFuZHNwYWNlZm9yY2VzLmNvbS9iLTEtYm9tYmVycy0zLW1pc3Npb25zLTgtZGF5cy1taWRkbGUtZWFzdC_SAQA?oc=5",
+      "published": "2023-11-15T08:00:00.000Z",
+      "description": "BONEs Over the Middle East: B-1 Bombers Fly 3 Missions in 8 Days for CENTCOM&nbsp;&nbsp;Air & Space Forces Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMidGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2phcy0zOS1ncmlwZW5zLWItNTItYW5kLWItMS1ib21iZXJzLWFyZS10cmFpbmluZy1uZWFyLXJ1c3NpYXMtZG9vcnN0ZXAtMjA5OTA20gEA",
+      "title": "JAS 39 Gripens, B-52 and B-1 Bombers are Training Near Russia's Doorstep - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2phcy0zOS1ncmlwZW5zLWItNTItYW5kLWItMS1ib21iZXJzLWFyZS10cmFpbmluZy1uZWFyLXJ1c3NpYXMtZG9vcnN0ZXAtMjA5OTA20gEA?oc=5",
+      "published": "2024-03-07T08:00:00.000Z",
+      "description": "JAS 39 Gripens, B-52 and B-1 Bombers are Training Near Russia's Doorstep&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -937,11 +917,21 @@
       "category": ""
     },
     {
-      "id": "CBMidGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2phcy0zOS1ncmlwZW5zLWItNTItYW5kLWItMS1ib21iZXJzLWFyZS10cmFpbmluZy1uZWFyLXJ1c3NpYXMtZG9vcnN0ZXAtMjA5OTA20gEA",
-      "title": "JAS 39 Gripens, B-52 and B-1 Bombers are Training Near Russia's Doorstep - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L2phcy0zOS1ncmlwZW5zLWItNTItYW5kLWItMS1ib21iZXJzLWFyZS10cmFpbmluZy1uZWFyLXJ1c3NpYXMtZG9vcnN0ZXAtMjA5OTA20gEA?oc=5",
-      "published": "2024-03-07T08:00:00.000Z",
-      "description": "JAS 39 Gripens, B-52 and B-1 Bombers are Training Near Russia's Doorstep&nbsp;&nbsp;The National Interest Online",
+      "id": "CBMiU2h0dHBzOi8vd3d3LmZseWluZ21hZy5jb20vYi0xYnMtYmVnaW4tcmV0dXJuLXRvLWVsbHN3b3J0aC1hZmItZm9sbG93aW5nLWFpcnN0cmlrZXMv0gEA",
+      "title": "B-1Bs Begin Return to Ellsworth AFB Following Airstrikes - FLYING",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmZseWluZ21hZy5jb20vYi0xYnMtYmVnaW4tcmV0dXJuLXRvLWVsbHN3b3J0aC1hZmItZm9sbG93aW5nLWFpcnN0cmlrZXMv0gEA?oc=5",
+      "published": "2024-02-07T08:00:00.000Z",
+      "description": "B-1Bs Begin Return to Ellsworth AFB Following Airstrikes&nbsp;&nbsp;FLYING",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYGh0dHBzOi8vd3d3LmtvdGF0di5jb20vMjAyNC8wMS8wNS9iLTEtYm9tYmVyLWNyYXNoZXMtd2hpbGUtbGFuZGluZy1lbGxzd29ydGgtYWZiLXRodXJzZGF5LW5pZ2h0L9IBAA",
+      "title": "B-1 bomber crashes while landing at Ellsworth AFB Thursday night - KOTA",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmtvdGF0di5jb20vMjAyNC8wMS8wNS9iLTEtYm9tYmVyLWNyYXNoZXMtd2hpbGUtbGFuZGluZy1lbGxzd29ydGgtYWZiLXRodXJzZGF5LW5pZ2h0L9IBAA?oc=5",
+      "published": "2024-01-04T08:00:00.000Z",
+      "description": "B-1 bomber crashes while landing at Ellsworth AFB Thursday night&nbsp;&nbsp;KOTA",
       "summary": "",
       "author": "",
       "category": ""
@@ -968,10 +958,20 @@
     },
     {
       "id": "CBMiTGh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvY3Jldy1zYWZlbHktZWplY3RzLWZyb20tYm9tYmVyLXNvdXRoLWRha290YS_SAQA",
-      "title": "The ejection seats in a B-1B saved a crew of four this week. They haven't always worked. - Task & Purpose",
+      "title": "The ejection seats in a B-1B saved a crew of four this week. They haven’t always worked. - Task & Purpose",
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vdGFza2FuZHB1cnBvc2UuY29tL25ld3MvY3Jldy1zYWZlbHktZWplY3RzLWZyb20tYm9tYmVyLXNvdXRoLWRha290YS_SAQA?oc=5",
       "published": "2024-01-05T08:00:00.000Z",
-      "description": "The ejection seats in a B-1B saved a crew of four this week. They haven't always worked.&nbsp;&nbsp;Task & Purpose",
+      "description": "The ejection seats in a B-1B saved a crew of four this week. They haven’t always worked.&nbsp;&nbsp;Task & Purpose",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiNWh0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDI0L0JURl8yNC0yX2Fycml2YWxfU1dF0gEA",
+      "title": "U.S. bombers arrive in Sweden for Bomber Task Force 24-2 - Allied Air Command",
+      "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYWMubmF0by5pbnQvYXJjaGl2ZS8yMDI0L0JURl8yNC0yX2Fycml2YWxfU1dF0gEA?oc=5",
+      "published": "2024-02-23T08:00:00.000Z",
+      "description": "U.S. bombers arrive in Sweden for Bomber Task Force 24-2&nbsp;&nbsp;Allied Air Command",
       "summary": "",
       "author": "",
       "category": ""
