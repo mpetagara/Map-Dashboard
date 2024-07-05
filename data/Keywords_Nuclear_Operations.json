@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-05T18:11:22.000Z",
+  "published": "2024-07-05T19:06:39.000Z",
   "entries": [
     {
       "id": "CBMieWh0dHBzOi8vd3d3LnNjbXAuY29tL29waW5pb24vYXNpYS1vcGluaW9uL2FydGljbGUvMzI2OTAzMy9udWNsZWFyLXRlbnNpb25zLXJpc2UtYXJlLXVzLWRlZmVuY2UtcGxhbnMtc291dGgta29yZWEtd29ya2FibGXSAXlodHRwczovL2FtcC5zY21wLmNvbS9vcGluaW9uL2FzaWEtb3Bpbmlvbi9hcnRpY2xlLzMyNjkwMzMvbnVjbGVhci10ZW5zaW9ucy1yaXNlLWFyZS11cy1kZWZlbmNlLXBsYW5zLXNvdXRoLWtvcmVhLXdvcmthYmxl",
@@ -28,10 +28,10 @@
     },
     {
       "id": "CBMiXGh0dHBzOi8vd3d3Lm9lY2QtbmVhLm9yZy9qY21zL3BsXzY2MTMwL3VrcmFpbmUtY3VycmVudC1zdGF0dXMtb2YtbnVjbGVhci1wb3dlci1pbnN0YWxsYXRpb25z0gEA",
-      "title": "Ukraine: Current status of nuclear power installations - Nuclear Energy Agency",
+      "title": "NEA) - Ukraine: Current status of nuclear power installations - Nuclear Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3Lm9lY2QtbmVhLm9yZy9qY21zL3BsXzY2MTMwL3VrcmFpbmUtY3VycmVudC1zdGF0dXMtb2YtbnVjbGVhci1wb3dlci1pbnN0YWxsYXRpb25z0gEA?oc=5",
       "published": "2024-06-28T07:00:00.000Z",
-      "description": "Ukraine: Current status of nuclear power installations&nbsp;&nbsp;Nuclear Energy Agency",
+      "description": "NEA) - Ukraine: Current status of nuclear power installations&nbsp;&nbsp;Nuclear Energy Agency",
       "summary": "",
       "author": "",
       "category": ""
@@ -57,16 +57,6 @@
       "category": ""
     },
     {
-      "id": "CBMibGh0dHBzOi8vd3d3Lm1ldGFsLWFtLmNvbS93ZXN0aW5naG91c2VzLWFkZGl0aXZlLW1hbnVmYWN0dXJpbmctaW1wcm92ZXMtc2FmZXR5LWluLW9wZXJhdGluZy1udWNsZWFyLXJlYWN0b3JzL9IBAA",
-      "title": "Westinghouse’s Additive Manufacturing improves safety in operating nuclear reactors - Metal Additive Manufacturing magazine",
-      "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1ldGFsLWFtLmNvbS93ZXN0aW5naG91c2VzLWFkZGl0aXZlLW1hbnVmYWN0dXJpbmctaW1wcm92ZXMtc2FmZXR5LWluLW9wZXJhdGluZy1udWNsZWFyLXJlYWN0b3JzL9IBAA?oc=5",
-      "published": "2024-07-02T10:45:02.000Z",
-      "description": "Westinghouse’s Additive Manufacturing improves safety in operating nuclear reactors&nbsp;&nbsp;Metal Additive Manufacturing magazine",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjc2OTI2L3VzX2FybXlfbnVjbGVhcl9kaXNhYmxlbWVudF90ZWFtX2hvbmVzX21pc3Npb25fcmVhZGluZXNzX3dpdGhfc3BlY2lhbF9mb3JjZXNfdW5pdNIBeWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI3NjkyNi91c19hcm15X251Y2xlYXJfZGlzYWJsZW1lbnRfdGVhbV9ob25lc19taXNzaW9uX3JlYWRpbmVzc193aXRoX3NwZWNpYWxfZm9yY2VzX3VuaXQ",
       "title": "US Army Nuclear Disablement Team hones mission readiness with Special Forces unit - United States Army",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjc2OTI2L3VzX2FybXlfbnVjbGVhcl9kaXNhYmxlbWVudF90ZWFtX2hvbmVzX21pc3Npb25fcmVhZGluZXNzX3dpdGhfc3BlY2lhbF9mb3JjZXNfdW5pdNIBeWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUtYW1wLzI3NjkyNi91c19hcm15X251Y2xlYXJfZGlzYWJsZW1lbnRfdGVhbV9ob25lc19taXNzaW9uX3JlYWRpbmVzc193aXRoX3NwZWNpYWxfZm9yY2VzX3VuaXQ?oc=5",
@@ -87,11 +77,21 @@
       "category": ""
     },
     {
+      "id": "CBMidmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc0MTA4NS90ZWFtLW1pbm90LWNvbXBsZXRlcy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZS_SAQA",
+      "title": "Team Minot completes Exercise Prairie Vigilance - U.S. Strategic Command",
+      "link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnN0cmF0Y29tLm1pbC9NZWRpYS9OZXdzL05ld3MtQXJ0aWNsZS1WaWV3L0FydGljbGUvMzc0MTA4NS90ZWFtLW1pbm90LWNvbXBsZXRlcy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZS_SAQA?oc=5",
+      "published": "2024-04-15T07:00:00.000Z",
+      "description": "Team Minot completes Exercise Prairie Vigilance&nbsp;&nbsp;U.S. Strategic Command",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiNWh0dHBzOi8vd3d3LmVpYS5nb3YvdG9kYXlpbmVuZXJneS9kZXRhaWwucGhwP2lkPTYxOTYz0gEA",
-      "title": "Plant Vogtle Unit 4 begins commercial operation - EIA",
+      "title": "Plant Vogtle Unit 4 begins commercial operation - U.S. Energy Information Administration - EIA",
       "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmVpYS5nb3YvdG9kYXlpbmVuZXJneS9kZXRhaWwucGhwP2lkPTYxOTYz0gEA?oc=5",
       "published": "2024-05-01T07:00:00.000Z",
-      "description": "Plant Vogtle Unit 4 begins commercial operation&nbsp;&nbsp;EIA",
+      "description": "Plant Vogtle Unit 4 begins commercial operation - U.S. Energy Information Administration&nbsp;&nbsp;EIA",
       "summary": "",
       "author": "",
       "category": ""
@@ -128,10 +128,10 @@
     },
     {
       "id": "CBMiemh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA2LzExL3J1c3NpYW4tbnVjbGVhci1zdWItZnJpZ2F0ZS13aXRoLWxvbmctcmFuZ2UtbGFuZC1hdHRhY2stbWlzc2lsZXMtb3BlcmF0aW5nLW9mZi1lYXN0LWNvYXN00gEA",
-      "title": "Russian Nuclear Sub, Frigate with Long Range Land Attack Missiles Operating Off East Coast - USNI News",
+      "title": "Russian Nuclear Sub, Frigate with Long Range Land Attack Missiles Operating Off East Coast - USNI News - USNI News",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA2LzExL3J1c3NpYW4tbnVjbGVhci1zdWItZnJpZ2F0ZS13aXRoLWxvbmctcmFuZ2UtbGFuZC1hdHRhY2stbWlzc2lsZXMtb3BlcmF0aW5nLW9mZi1lYXN0LWNvYXN00gEA?oc=5",
       "published": "2024-06-11T07:00:00.000Z",
-      "description": "Russian Nuclear Sub, Frigate with Long Range Land Attack Missiles Operating Off East Coast&nbsp;&nbsp;USNI News",
+      "description": "Russian Nuclear Sub, Frigate with Long Range Land Attack Missiles Operating Off East Coast - USNI News&nbsp;&nbsp;USNI News",
       "summary": "",
       "author": "",
       "category": ""
@@ -157,11 +157,11 @@
       "category": ""
     },
     {
-      "id": "CBMibmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NDAxNjQvdGVhbS1taW5vdC1jb21wbGV0ZXMtZXhlcmNpc2UtcHJhaXJpZS12aWdpbGFuY2Uv0gEA",
-      "title": "Team Minot completes Exercise Prairie Vigilance - Minot Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NDAxNjQvdGVhbS1taW5vdC1jb21wbGV0ZXMtZXhlcmNpc2UtcHJhaXJpZS12aWdpbGFuY2Uv0gEA?oc=5",
-      "published": "2024-04-15T07:00:00.000Z",
-      "description": "Team Minot completes Exercise Prairie Vigilance&nbsp;&nbsp;Minot Air Force Base",
+      "id": "CBMiVGh0dHBzOi8vd3d3LnV0aWxpdHlkaXZlLmNvbS9uZXdzL29rbG8tZGlhbW9uZGJhY2stZW5lcmd5LW51Y2xlYXItcHBhLW9pbC1nYXMvNzEyODM0L9IBAA",
+      "title": "Oklo, Diamondback Energy in talks on nuclear PPA for oil and gas operations - Utility Dive",
+      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnV0aWxpdHlkaXZlLmNvbS9uZXdzL29rbG8tZGlhbW9uZGJhY2stZW5lcmd5LW51Y2xlYXItcHBhLW9pbC1nYXMvNzEyODM0L9IBAA?oc=5",
+      "published": "2024-04-10T07:00:00.000Z",
+      "description": "Oklo, Diamondback Energy in talks on nuclear PPA for oil and gas operations&nbsp;&nbsp;Utility Dive",
       "summary": "",
       "author": "",
       "category": ""
@@ -177,31 +177,21 @@
       "category": ""
     },
     {
+      "id": "CBMiUmh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMzY4OTA0OS9taWNoYWVsLW8td2FsdGVycy_SAQA",
+      "title": "MICHAEL O. WALTERS > Air Force > Biography Display - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMzY4OTA0OS9taWNoYWVsLW8td2FsdGVycy_SAQA?oc=5",
+      "published": "2024-02-29T22:50:18.000Z",
+      "description": "MICHAEL O. WALTERS > Air Force > Biography Display&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMihgFodHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLzI3NjI4OC9zb2xkaWVyc19haXJtZW5fdmFsaWRhdGVfY2FwYWJpbGl0aWVzX2Zvcl9udWNsZWFyX2ZvcmVuc2ljc19taXNzaW9uX2R1cmluZ19leGVyY2lzZV9pbl9taXNzaXNzaXBwadIBigFodHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzYyODgvc29sZGllcnNfYWlybWVuX3ZhbGlkYXRlX2NhcGFiaWxpdGllc19mb3JfbnVjbGVhcl9mb3JlbnNpY3NfbWlzc2lvbl9kdXJpbmdfZXhlcmNpc2VfaW5fbWlzc2lzc2lwcGk",
       "title": "Soldiers, Airmen validate capabilities for nuclear forensics mission during exercise in Mississippi - United States Army",
       "link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLzI3NjI4OC9zb2xkaWVyc19haXJtZW5fdmFsaWRhdGVfY2FwYWJpbGl0aWVzX2Zvcl9udWNsZWFyX2ZvcmVuc2ljc19taXNzaW9uX2R1cmluZ19leGVyY2lzZV9pbl9taXNzaXNzaXBwadIBigFodHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzYyODgvc29sZGllcnNfYWlybWVuX3ZhbGlkYXRlX2NhcGFiaWxpdGllc19mb3JfbnVjbGVhcl9mb3JlbnNpY3NfbWlzc2lvbl9kdXJpbmdfZXhlcmNpc2VfaW5fbWlzc2lzc2lwcGk?oc=5",
       "published": "2024-05-14T07:00:00.000Z",
       "description": "Soldiers, Airmen validate capabilities for nuclear forensics mission during exercise in Mississippi&nbsp;&nbsp;United States Army",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiUmh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMzY4OTA0OS9taWNoYWVsLW8td2FsdGVycy_SAQA",
-      "title": "Brigadier General MICHAEL O. WALTERS - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMzY4OTA0OS9taWNoYWVsLW8td2FsdGVycy_SAQA?oc=5",
-      "published": "2024-02-29T22:50:18.000Z",
-      "description": "Brigadier General MICHAEL O. WALTERS&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiVGh0dHBzOi8vd3d3LnV0aWxpdHlkaXZlLmNvbS9uZXdzL29rbG8tZGlhbW9uZGJhY2stZW5lcmd5LW51Y2xlYXItcHBhLW9pbC1nYXMvNzEyODM0L9IBAA",
-      "title": "Oklo, Diamondback Energy in talks on nuclear PPA for oil and gas operations - Utility Dive",
-      "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnV0aWxpdHlkaXZlLmNvbS9uZXdzL29rbG8tZGlhbW9uZGJhY2stZW5lcmd5LW51Y2xlYXItcHBhLW9pbC1nYXMvNzEyODM0L9IBAA?oc=5",
-      "published": "2024-04-10T07:00:00.000Z",
-      "description": "Oklo, Diamondback Energy in talks on nuclear PPA for oil and gas operations&nbsp;&nbsp;Utility Dive",
       "summary": "",
       "author": "",
       "category": ""
@@ -237,6 +227,16 @@
       "category": ""
     },
     {
+      "id": "CBMigwFodHRwczovL3d3dy5jYXRmLnVzLzIwMjQvMDMvY29udGludWVkLW9wZXJhdGlvbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcG93ZXItcGxhbnQtcHJvdmlkZXMtY2FsaWZvcm5pYS1maXJtLXplcm8tY2FyYm9uLWVsZWN0cmljaXR5L9IBAA",
+      "title": "Continued operation of Diablo Canyon Nuclear Power Plant provides California with firm, zero-carbon electricity - Clean Air Task Force",
+      "link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5jYXRmLnVzLzIwMjQvMDMvY29udGludWVkLW9wZXJhdGlvbi1kaWFibG8tY2FueW9uLW51Y2xlYXItcG93ZXItcGxhbnQtcHJvdmlkZXMtY2FsaWZvcm5pYS1maXJtLXplcm8tY2FyYm9uLWVsZWN0cmljaXR5L9IBAA?oc=5",
+      "published": "2024-03-29T07:00:00.000Z",
+      "description": "Continued operation of Diablo Canyon Nuclear Power Plant provides California with firm, zero-carbon electricity&nbsp;&nbsp;Clean Air Task Force",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZGh0dHBzOi8vd3d3LnRpbWVzZnJlZXByZXNzLmNvbS9uZXdzLzIwMjQvbWFyLzIwL2NoYXR0YW5vb2dhLXN0YXRlLXN0dWRlbnRzLWZ1dHVyZS1udWNsZWFyLXBvd2VyLXRmcC_SAQA",
       "title": "TVA backs Chattanooga State programs in radiation protection, nuclear operations - Chattanooga Times Free Press",
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRpbWVzZnJlZXByZXNzLmNvbS9uZXdzLzIwMjQvbWFyLzIwL2NoYXR0YW5vb2dhLXN0YXRlLXN0dWRlbnRzLWZ1dHVyZS1udWNsZWFyLXBvd2VyLXRmcC_SAQA?oc=5",
@@ -257,21 +257,11 @@
       "category": ""
     },
     {
-      "id": "CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9yZWFjaGluZy1uZXQtemVyby10aGUtcm9sZS1vZi1udWNsZWFyLTkwNDUzNTIv0gEA",
-      "title": "Reaching Net Zero: The Role of Nuclear Energy in Industrial Operations - JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lmpkc3VwcmEuY29tL2xlZ2FsbmV3cy9yZWFjaGluZy1uZXQtemVyby10aGUtcm9sZS1vZi1udWNsZWFyLTkwNDUzNTIv0gEA?oc=5",
-      "published": "2024-06-26T16:54:20.000Z",
-      "description": "Reaching Net Zero: The Role of Nuclear Energy in Industrial Operations&nbsp;&nbsp;JD Supra",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMic2h0dHBzOi8vd3d3LmlhZWEub3JnL25ld3NjZW50ZXIvbmV3cy9uZXctaWFlYS1uZXR3b3JrLXN1cHBvcnRzLWNvdW50cmllcy1pbi1sb25nLXRlcm0tb3BlcmF0aW9uLW9mLW51Y2xlYXItcmVhY3RvcnPSAQA",
-      "title": "New IAEA Network Supports Countries in Long Term Operation of Nuclear Reactors - International Atomic Energy Agency",
+      "title": "New IAEA Network Supports Countries in Long Term Operation of Nuclear Reactors | IAEA - International Atomic Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmlhZWEub3JnL25ld3NjZW50ZXIvbmV3cy9uZXctaWFlYS1uZXR3b3JrLXN1cHBvcnRzLWNvdW50cmllcy1pbi1sb25nLXRlcm0tb3BlcmF0aW9uLW9mLW51Y2xlYXItcmVhY3RvcnPSAQA?oc=5",
       "published": "2024-01-26T08:00:00.000Z",
-      "description": "New IAEA Network Supports Countries in Long Term Operation of Nuclear Reactors&nbsp;&nbsp;International Atomic Energy Agency",
+      "description": "New IAEA Network Supports Countries in Long Term Operation of Nuclear Reactors | IAEA&nbsp;&nbsp;International Atomic Energy Agency",
       "summary": "",
       "author": "",
       "category": ""
@@ -282,6 +272,16 @@
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjczMDA0L251Y2xlYXJfZGlzYWJsZW1lbnRfdGVhbXNfdmlzaXRfY29tbWVyY2lhbF9hdG9taWNfcG93ZXJfc3RhdGlvbl9pbl9wZW5uc3lsdmFuaWHSAXdodHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzMwMDQvbnVjbGVhcl9kaXNhYmxlbWVudF90ZWFtc192aXNpdF9jb21tZXJjaWFsX2F0b21pY19wb3dlcl9zdGF0aW9uX2luX3Blbm5zeWx2YW5pYQ?oc=5",
       "published": "2024-01-16T08:00:00.000Z",
       "description": "Nuclear Disablement Teams visit commercial atomic power station in Pennsylvania&nbsp;&nbsp;United States Army",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMinAFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL2ludGVybmF0aW9uYWwvYXJ0aWNsZS8yMDI0LzAyLzI4L251Y2xlYXItd2VhcG9ucy1mYWNpbGl0eS1wYXVzZXMtb3BlcmF0aW9ucy1hcy13aWxkZmlyZXMtc3ByZWFkLXRocm91Z2gtcnVyYWwtdGV4YXNfNjU2NjU2OV80Lmh0bWzSAQA",
+      "title": "Texan nuclear weapons facility pauses operations as wildfires spread - Le Monde",
+      "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5sZW1vbmRlLmZyL2VuL2ludGVybmF0aW9uYWwvYXJ0aWNsZS8yMDI0LzAyLzI4L251Y2xlYXItd2VhcG9ucy1mYWNpbGl0eS1wYXVzZXMtb3BlcmF0aW9ucy1hcy13aWxkZmlyZXMtc3ByZWFkLXRocm91Z2gtcnVyYWwtdGV4YXNfNjU2NjU2OV80Lmh0bWzSAQA?oc=5",
+      "published": "2024-02-28T08:00:00.000Z",
+      "description": "Texan nuclear weapons facility pauses operations as wildfires spread&nbsp;&nbsp;Le Monde",
       "summary": "",
       "author": "",
       "category": ""
@@ -298,10 +298,10 @@
     },
     {
       "id": "CBMibGh0dHBzOi8vd3d3LmlhZWEub3JnL25ld3NjZW50ZXIvbmV3cy9pYWVhLWNvbmZlcmVuY2Utb24tc2FmZXR5LWZvci1udWNsZWFyLXBvd2VyLXBsYW50cy1jb21pbmctdXAtaW4tYmVpamluZ9IBAA",
-      "title": "IAEA Conference on Safety for Nuclear Power Plants Coming up in Beijing - International Atomic Energy Agency",
+      "title": "IAEA Conference on Safety for Nuclear Power Plants Coming up in Beijing | IAEA - International Atomic Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmlhZWEub3JnL25ld3NjZW50ZXIvbmV3cy9pYWVhLWNvbmZlcmVuY2Utb24tc2FmZXR5LWZvci1udWNsZWFyLXBvd2VyLXBsYW50cy1jb21pbmctdXAtaW4tYmVpamluZ9IBAA?oc=5",
       "published": "2024-01-30T08:00:00.000Z",
-      "description": "IAEA Conference on Safety for Nuclear Power Plants Coming up in Beijing&nbsp;&nbsp;International Atomic Energy Agency",
+      "description": "IAEA Conference on Safety for Nuclear Power Plants Coming up in Beijing | IAEA&nbsp;&nbsp;International Atomic Energy Agency",
       "summary": "",
       "author": "",
       "category": ""
@@ -312,6 +312,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2RpYWJsby1jYW55b24tbnVjbGVhci1wbGFudC1jYWxpZm9ybmlhLWI3OTRhYTc0NTM0OGFlMWFjNmU4ZTVjMzMwYTExY2Q50gEA?oc=5",
       "published": "2023-12-14T08:00:00.000Z",
       "description": "California regulators vote to extend Diablo Canyon nuclear plant operations through 2030&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMic2h0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjc1MTE4L2luZm9ybWF0aW9uX2RvbWluYW5jZV9jcml0aWNhbF90b191c19taWxpdGFyeV9zdWNjZXNzX2luX211bHRpZG9tYWluX29wZXJhdGlvbnPSAXdodHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzUxMTgvaW5mb3JtYXRpb25fZG9taW5hbmNlX2NyaXRpY2FsX3RvX3VzX21pbGl0YXJ5X3N1Y2Nlc3NfaW5fbXVsdGlkb21haW5fb3BlcmF0aW9ucw",
+      "title": "Information dominance critical to US military success in multidomain operations - United States Army",
+      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjc1MTE4L2luZm9ybWF0aW9uX2RvbWluYW5jZV9jcml0aWNhbF90b191c19taWxpdGFyeV9zdWNjZXNzX2luX211bHRpZG9tYWluX29wZXJhdGlvbnPSAXdodHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzUxMTgvaW5mb3JtYXRpb25fZG9taW5hbmNlX2NyaXRpY2FsX3RvX3VzX21pbGl0YXJ5X3N1Y2Nlc3NfaW5fbXVsdGlkb21haW5fb3BlcmF0aW9ucw?oc=5",
+      "published": "2024-04-04T07:00:00.000Z",
+      "description": "Information dominance critical to US military success in multidomain operations&nbsp;&nbsp;United States Army",
       "summary": "",
       "author": "",
       "category": ""
@@ -328,10 +338,20 @@
     },
     {
       "id": "CBMigAFodHRwczovL3d3dy5pYWVhLm9yZy9uZXdzY2VudGVyL25ld3MvaWFlYS1jb25mZXJlbmNlLW9uLWVuaGFuY2luZy10aGUtb3BlcmF0aW9uYWwtc2FmZXR5LW9mLW51Y2xlYXItcG93ZXItcGxhbnRzLXN0YXJ0cy1pbi1jaGluYdIBAA",
-      "title": "IAEA Conference on Enhancing the Operational Safety of Nuclear Power Plants Starts in China - International Atomic Energy Agency",
+      "title": "IAEA Conference on Enhancing the Operational Safety of Nuclear Power Plants Starts in China | IAEA - International Atomic Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5pYWVhLm9yZy9uZXdzY2VudGVyL25ld3MvaWFlYS1jb25mZXJlbmNlLW9uLWVuaGFuY2luZy10aGUtb3BlcmF0aW9uYWwtc2FmZXR5LW9mLW51Y2xlYXItcG93ZXItcGxhbnRzLXN0YXJ0cy1pbi1jaGluYdIBAA?oc=5",
       "published": "2024-04-15T07:00:00.000Z",
-      "description": "IAEA Conference on Enhancing the Operational Safety of Nuclear Power Plants Starts in China&nbsp;&nbsp;International Atomic Energy Agency",
+      "description": "IAEA Conference on Enhancing the Operational Safety of Nuclear Power Plants Starts in China | IAEA&nbsp;&nbsp;International Atomic Energy Agency",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMif2h0dHBzOi8vd3d3LmVuZXJkYXRhLm5ldC9wdWJsaWNhdGlvbnMvZGFpbHktZW5lcmd5LW5ld3Mva2hucHMtMTQtZ3ctbnVjbGVhci1wb3dlci1wbGFudC11bml0LXN0YXJ0cy1vcGVyYXRpb25zLXNvdXRoLWtvcmVhLmh0bWzSAQA",
+      "title": "KHNP's 1.4 GW nuclear power plant unit starts operations (South Korea) - Renewables Auctions and the Energy Transition",
+      "link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmVuZXJkYXRhLm5ldC9wdWJsaWNhdGlvbnMvZGFpbHktZW5lcmd5LW5ld3Mva2hucHMtMTQtZ3ctbnVjbGVhci1wb3dlci1wbGFudC11bml0LXN0YXJ0cy1vcGVyYXRpb25zLXNvdXRoLWtvcmVhLmh0bWzSAQA?oc=5",
+      "published": "2024-04-09T07:00:00.000Z",
+      "description": "KHNP's 1.4 GW nuclear power plant unit starts operations (South Korea)&nbsp;&nbsp;Renewables Auctions and the Energy Transition",
       "summary": "",
       "author": "",
       "category": ""
@@ -357,51 +377,51 @@
       "category": ""
     },
     {
+      "id": "CBMiY2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RleGFzLXdpbGRmaXJlcy1udWNsZWFyLWZhY2lsaXR5LXBhbnRleC0xNmJmYTkwZjQ5YjY1YjYwNGY2Mzc0NGE5YWVlM2I5N9IBAA",
+      "title": "Texas wildfires forces shutdown at nuclear weapon facility. Here is what we know - The Associated Press",
+      "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RleGFzLXdpbGRmaXJlcy1udWNsZWFyLWZhY2lsaXR5LXBhbnRleC0xNmJmYTkwZjQ5YjY1YjYwNGY2Mzc0NGE5YWVlM2I5N9IBAA?oc=5",
+      "published": "2024-02-28T08:00:00.000Z",
+      "description": "Texas wildfires forces shutdown at nuclear weapon facility. Here is what we know&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiImh0dHBzOi8vd3d3LmlhZWEub3JnL2V2ZW50cy9vczIwMjTSAQA",
-      "title": "Home: International Conference on Enhancing the Operational Safety of Nuclear Power Plants - International Atomic Energy Agency",
+      "title": "Home: International Conference on Enhancing the Operational Safety of Nuclear Power Plants | IAEA - International Atomic Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMiImh0dHBzOi8vd3d3LmlhZWEub3JnL2V2ZW50cy9vczIwMjTSAQA?oc=5",
       "published": "2023-11-04T19:11:19.000Z",
-      "description": "Home: International Conference on Enhancing the Operational Safety of Nuclear Power Plants&nbsp;&nbsp;International Atomic Energy Agency",
+      "description": "Home: International Conference on Enhancing the Operational Safety of Nuclear Power Plants | IAEA&nbsp;&nbsp;International Atomic Energy Agency",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMiQ2h0dHBzOi8vd3d3LmVpYS5nb3YvZW5lcmd5ZXhwbGFpbmVkL251Y2xlYXIvdXMtbnVjbGVhci1pbmR1c3RyeS5waHDSAQA",
-      "title": "U.S. nuclear industry - EIA",
+      "title": "U.S. nuclear industry - U.S. Energy Information Administration - EIA",
       "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmVpYS5nb3YvZW5lcmd5ZXhwbGFpbmVkL251Y2xlYXIvdXMtbnVjbGVhci1pbmR1c3RyeS5waHDSAQA?oc=5",
       "published": "2023-08-24T07:00:00.000Z",
-      "description": "U.S. nuclear industry&nbsp;&nbsp;EIA",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMicGh0dHBzOi8vd3d3LnBvd2VybWFnLmNvbS92b2d0bGUtdW5pdC00LWFjaGlldmVzLWNvbW1lcmNpYWwtb3BlcmF0aW9uLW5vdy1sYXJnZXN0LW51Y2xlYXItcG93ZXItcGxhbnQtaW4tdGhlLXUtcy_SAQA",
-      "title": "Vogtle Unit 4 Achieves Commercial Operation, Now Largest Nuclear Power Plant in the U.S. - POWER magazine",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnBvd2VybWFnLmNvbS92b2d0bGUtdW5pdC00LWFjaGlldmVzLWNvbW1lcmNpYWwtb3BlcmF0aW9uLW5vdy1sYXJnZXN0LW51Y2xlYXItcG93ZXItcGxhbnQtaW4tdGhlLXUtcy_SAQA?oc=5",
-      "published": "2024-04-29T07:00:00.000Z",
-      "description": "Vogtle Unit 4 Achieves Commercial Operation, Now Largest Nuclear Power Plant in the U.S.&nbsp;&nbsp;POWER magazine",
+      "description": "U.S. nuclear industry - U.S. Energy Information Administration&nbsp;&nbsp;EIA",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMidWh0dHBzOi8vd3d3LmlhZWEub3JnL3B1YmxpY2F0aW9ucy8xNTE3Ny91c2Utb2YtcGVyaW9kaWMtc2FmZXR5LXJldmlldy1mb3ItbG9uZy10ZXJtLW9wZXJhdGlvbi1vZi1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA",
-      "title": "Use of Periodic Safety Review for Long Term Operation of Nuclear Power Plants - International Atomic Energy Agency",
+      "title": "Use of Periodic Safety Review for Long Term Operation of Nuclear Power Plants | IAEA - International Atomic Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmlhZWEub3JnL3B1YmxpY2F0aW9ucy8xNTE3Ny91c2Utb2YtcGVyaW9kaWMtc2FmZXR5LXJldmlldy1mb3ItbG9uZy10ZXJtLW9wZXJhdGlvbi1vZi1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA?oc=5",
       "published": "2023-10-25T14:06:02.000Z",
-      "description": "Use of Periodic Safety Review for Long Term Operation of Nuclear Power Plants&nbsp;&nbsp;International Atomic Energy Agency",
+      "description": "Use of Periodic Safety Review for Long Term Operation of Nuclear Power Plants | IAEA&nbsp;&nbsp;International Atomic Energy Agency",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMiggFodHRwczovL3d3dy5pYWVhLm9yZy9wdWJsaWNhdGlvbnMvMTUwODcvbGljZW5zaW5nLXByb2Nlc3MtZm9yLXRoZS1jb25zdHJ1Y3Rpb24tY29tbWlzc2lvbmluZy1hbmQtb3BlcmF0aW9uLW9mLW51Y2xlYXItcG93ZXItcGxhbnRz0gEA",
-      "title": "Licensing Process for the Construction, Commissioning and Operation of Nuclear Power Plants - International Atomic Energy Agency",
+      "title": "Licensing Process for the Construction, Commissioning and Operation of Nuclear Power Plants | IAEA - International Atomic Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5pYWVhLm9yZy9wdWJsaWNhdGlvbnMvMTUwODcvbGljZW5zaW5nLXByb2Nlc3MtZm9yLXRoZS1jb25zdHJ1Y3Rpb24tY29tbWlzc2lvbmluZy1hbmQtb3BlcmF0aW9uLW9mLW51Y2xlYXItcG93ZXItcGxhbnRz0gEA?oc=5",
       "published": "2023-10-18T18:36:54.000Z",
-      "description": "Licensing Process for the Construction, Commissioning and Operation of Nuclear Power Plants&nbsp;&nbsp;International Atomic Energy Agency",
+      "description": "Licensing Process for the Construction, Commissioning and Operation of Nuclear Power Plants | IAEA&nbsp;&nbsp;International Atomic Energy Agency",
       "summary": "",
       "author": "",
       "category": ""
@@ -417,11 +437,31 @@
       "category": ""
     },
     {
+      "id": "CBMivwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDYxMzA0OTExNi9lbi9CV1hULWxlZC1UZWFtLUF3YXJkZWQtMzAtQmlsbGlvbi1NYW5hZ2VtZW50LWFuZC1PcGVyYXRpbmctQ29udHJhY3QtZm9yLU5hdGlvbmFsLU51Y2xlYXItU2VjdXJpdHktQWRtaW5pc3RyYXRpb24lRTIlODAlOTlzLVBhbnRleC1QbGFudNIBAA",
+      "title": "BWXT-led Team Awarded $30 Billion Management and Operating Contract for National Nuclear Security ... - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5idXNpbmVzc3dpcmUuY29tL25ld3MvaG9tZS8yMDI0MDYxMzA0OTExNi9lbi9CV1hULWxlZC1UZWFtLUF3YXJkZWQtMzAtQmlsbGlvbi1NYW5hZ2VtZW50LWFuZC1PcGVyYXRpbmctQ29udHJhY3QtZm9yLU5hdGlvbmFsLU51Y2xlYXItU2VjdXJpdHktQWRtaW5pc3RyYXRpb24lRTIlODAlOTlzLVBhbnRleC1QbGFudNIBAA?oc=5",
+      "published": "2024-06-14T07:00:00.000Z",
+      "description": "BWXT-led Team Awarded $30 Billion Management and Operating Contract for National Nuclear Security ...&nbsp;&nbsp;Business Wire",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMifWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zNTYyNDQyL2RvZC1yZXBvcnQtZGV0YWlscy1jaGluZXNlLWVmZm9ydHMtdG8tYnVpbGQtbWlsaXRhcnktcG93ZXIv0gEA",
       "title": "DOD Report Details Chinese Efforts to Build Military Power - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L05ld3MvTmV3cy1TdG9yaWVzL0FydGljbGUvQXJ0aWNsZS8zNTYyNDQyL2RvZC1yZXBvcnQtZGV0YWlscy1jaGluZXNlLWVmZm9ydHMtdG8tYnVpbGQtbWlsaXRhcnktcG93ZXIv0gEA?oc=5",
       "published": "2023-10-19T07:00:00.000Z",
       "description": "DOD Report Details Chinese Efforts to Build Military Power&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RpZ2l0YWwtYXNzZXRzLzIwMjQvMDMvMDYvaG93LXRlY2gtZ2lhbnRzLWFyZS1wb3dlcmluZy10aGVpci1vcGVyYXRpb25zLXdpdGgtbnVjbGVhci1hbmQtcmVuZXdhYmxlcy_SAQA",
+      "title": "How Tech Companies Are Powering Their Operations With Nuclear And Renewables - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RpZ2l0YWwtYXNzZXRzLzIwMjQvMDMvMDYvaG93LXRlY2gtZ2lhbnRzLWFyZS1wb3dlcmluZy10aGVpci1vcGVyYXRpb25zLXdpdGgtbnVjbGVhci1hbmQtcmVuZXdhYmxlcy_SAQA?oc=5",
+      "published": "2024-03-06T08:00:00.000Z",
+      "description": "How Tech Companies Are Powering Their Operations With Nuclear And Renewables&nbsp;&nbsp;Forbes",
       "summary": "",
       "author": "",
       "category": ""
@@ -458,20 +498,10 @@
     },
     {
       "id": "CBMiiAFodHRwczovL3d3dy5rbm94bmV3cy5jb20vc3RvcnkvbW9uZXkvYnVzaW5lc3MvMjAyNC8wMS8wOC80MC11bmRlci00MC10b21teS1tb3JnYW4tY2xlYW5zLW9hay1yaWRnZXMtaGlnaC1yaXNrLW51Y2xlYXItd2FzdGUvNzEwMzM5NjAwMDcv0gEA",
-      "title": "40 Under 40: Tommy Morgan cleans up radioactive waste dating back to Manhattan Project - Knoxville News Sentinel",
+      "title": "40 Under 40: Tommy Morgan cleans Oak Ridge's high-risk nuclear waste - Knoxville News Sentinel",
       "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5rbm94bmV3cy5jb20vc3RvcnkvbW9uZXkvYnVzaW5lc3MvMjAyNC8wMS8wOC80MC11bmRlci00MC10b21teS1tb3JnYW4tY2xlYW5zLW9hay1yaWRnZXMtaGlnaC1yaXNrLW51Y2xlYXItd2FzdGUvNzEwMzM5NjAwMDcv0gEA?oc=5",
       "published": "2024-01-08T08:00:00.000Z",
-      "description": "40 Under 40: Tommy Morgan cleans up radioactive waste dating back to Manhattan Project&nbsp;&nbsp;Knoxville News Sentinel",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiiQFodHRwczovL2luZm8ud2VzdGluZ2hvdXNlbnVjbGVhci5jb20vbmV3cy93ZXN0aW5naG91c2UtaW5pdGlhdGVzLXVrLWdlbmVyaWMtZGVzaWduLWFzc2Vzc21lbnQtcHJvY2Vzcy1mb3ItdGhlLWFwMzAwLXNtYWxsLW1vZHVsYXItcmVhY3RvctIBlQFodHRwczovL2luZm8ud2VzdGluZ2hvdXNlbnVjbGVhci5jb20vbmV3cy93ZXN0aW5naG91c2UtaW5pdGlhdGVzLXVrLWdlbmVyaWMtZGVzaWduLWFzc2Vzc21lbnQtcHJvY2Vzcy1mb3ItdGhlLWFwMzAwLXNtYWxsLW1vZHVsYXItcmVhY3Rvcj9oc19hbXA9dHJ1ZQ",
-      "title": "Westinghouse Initiates UK Generic Design Assessment Process for the AP300™ Small Modular Reactor - Westinghouse Electric Company",
-      "link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL2luZm8ud2VzdGluZ2hvdXNlbnVjbGVhci5jb20vbmV3cy93ZXN0aW5naG91c2UtaW5pdGlhdGVzLXVrLWdlbmVyaWMtZGVzaWduLWFzc2Vzc21lbnQtcHJvY2Vzcy1mb3ItdGhlLWFwMzAwLXNtYWxsLW1vZHVsYXItcmVhY3RvctIBlQFodHRwczovL2luZm8ud2VzdGluZ2hvdXNlbnVjbGVhci5jb20vbmV3cy93ZXN0aW5naG91c2UtaW5pdGlhdGVzLXVrLWdlbmVyaWMtZGVzaWduLWFzc2Vzc21lbnQtcHJvY2Vzcy1mb3ItdGhlLWFwMzAwLXNtYWxsLW1vZHVsYXItcmVhY3Rvcj9oc19hbXA9dHJ1ZQ?oc=5",
-      "published": "2024-02-13T08:00:00.000Z",
-      "description": "Westinghouse Initiates UK Generic Design Assessment Process for the AP300™ Small Modular Reactor&nbsp;&nbsp;Westinghouse Electric Company",
+      "description": "40 Under 40: Tommy Morgan cleans Oak Ridge's high-risk nuclear waste&nbsp;&nbsp;Knoxville News Sentinel",
       "summary": "",
       "author": "",
       "category": ""
@@ -497,11 +527,31 @@
       "category": ""
     },
     {
+      "id": "CBMioQFodHRwczovL3d3dy5pYWVhLm9yZy9uZXdzY2VudGVyL3ByZXNzcmVsZWFzZXMvaWFlYS1zZWVzLW9wZXJhdGlvbmFsLXNhZmV0eS1jb21taXRtZW50LWF0LWJlbG95YXJzay1udWNsZWFyLXBvd2VyLXBsYW50LWluLXJ1c3NpYS1lbmNvdXJhZ2VzLWNvbnRpbnVlZC1pbXByb3ZlbWVudNIBAA",
+      "title": "IAEA Sees Operational Safety Commitment at Beloyarsk Nuclear Power Plant in Russia, Encourages Continued ... - International Atomic Energy Agency",
+      "link": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5pYWVhLm9yZy9uZXdzY2VudGVyL3ByZXNzcmVsZWFzZXMvaWFlYS1zZWVzLW9wZXJhdGlvbmFsLXNhZmV0eS1jb21taXRtZW50LWF0LWJlbG95YXJzay1udWNsZWFyLXBvd2VyLXBsYW50LWluLXJ1c3NpYS1lbmNvdXJhZ2VzLWNvbnRpbnVlZC1pbXByb3ZlbWVudNIBAA?oc=5",
+      "published": "2023-11-23T08:00:00.000Z",
+      "description": "IAEA Sees Operational Safety Commitment at Beloyarsk Nuclear Power Plant in Russia, Encourages Continued ...&nbsp;&nbsp;International Atomic Energy Agency",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiemh0dHBzOi8vd3d3LmJidmFvcGVubWluZC5jb20vZW4vdGVjaG5vbG9neS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS9udWNsZWFyLWFpLXBpb25lZXJpbmctdGhlLWZ1dHVyZS1vZi1udWNsZWFyLXRlY2hub2xvZ3kv0gEA",
-      "title": "Nuclear AI: Pioneering the Future of Nuclear Technology - BBVA OpenMind",
+      "title": "Nuclear AI: Pioneering the Future of Nuclear Technology | OpenMind - BBVA OpenMind",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmJidmFvcGVubWluZC5jb20vZW4vdGVjaG5vbG9neS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS9udWNsZWFyLWFpLXBpb25lZXJpbmctdGhlLWZ1dHVyZS1vZi1udWNsZWFyLXRlY2hub2xvZ3kv0gEA?oc=5",
       "published": "2023-11-27T08:00:00.000Z",
-      "description": "Nuclear AI: Pioneering the Future of Nuclear Technology&nbsp;&nbsp;BBVA OpenMind",
+      "description": "Nuclear AI: Pioneering the Future of Nuclear Technology | OpenMind&nbsp;&nbsp;BBVA OpenMind",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjMtMTItMTQvY2FsaWZvcm5pYS1lbmVyZ3ktb2ZmaWNpYWxzLXZvdGUtdG8tZXh0ZW5kLWRpYWJsby1jYW55b24tb3BlcmF0aW9uc9IBAA",
+      "title": "California officials extend Diablo Canyon operations - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmxhdGltZXMuY29tL2Vudmlyb25tZW50L3N0b3J5LzIwMjMtMTItMTQvY2FsaWZvcm5pYS1lbmVyZ3ktb2ZmaWNpYWxzLXZvdGUtdG8tZXh0ZW5kLWRpYWJsby1jYW55b24tb3BlcmF0aW9uc9IBAA?oc=5",
+      "published": "2023-12-14T08:00:00.000Z",
+      "description": "California officials extend Diablo Canyon operations&nbsp;&nbsp;Los Angeles Times",
       "summary": "",
       "author": "",
       "category": ""
@@ -517,6 +567,16 @@
       "category": ""
     },
     {
+      "id": "CBMieWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcxMTExL3VzX3Ryb29wc190cmFpbl9mb3JfaW50ZXJhZ2VuY3lfbnVjbGVhcl9mb3JlbnNpY3NfbWlzc2lvbl9kdXJpbmdfZXhlcmNpc2VfaW5fa2VudHVja3nSAX1odHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzExMTEvdXNfdHJvb3BzX3RyYWluX2Zvcl9pbnRlcmFnZW5jeV9udWNsZWFyX2ZvcmVuc2ljc19taXNzaW9uX2R1cmluZ19leGVyY2lzZV9pbl9rZW50dWNreQ",
+      "title": "US troops train for interagency nuclear forensics mission during exercise in Kentucky - United States Army",
+      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcxMTExL3VzX3Ryb29wc190cmFpbl9mb3JfaW50ZXJhZ2VuY3lfbnVjbGVhcl9mb3JlbnNpY3NfbWlzc2lvbl9kdXJpbmdfZXhlcmNpc2VfaW5fa2VudHVja3nSAX1odHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzExMTEvdXNfdHJvb3BzX3RyYWluX2Zvcl9pbnRlcmFnZW5jeV9udWNsZWFyX2ZvcmVuc2ljc19taXNzaW9uX2R1cmluZ19leGVyY2lzZV9pbl9rZW50dWNreQ?oc=5",
+      "published": "2023-10-24T07:00:00.000Z",
+      "description": "US troops train for interagency nuclear forensics mission during exercise in Kentucky&nbsp;&nbsp;United States Army",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiZmh0dHBzOi8vd3d3LnV0aWxpdHlkaXZlLmNvbS9uZXdzL3BhbGlzYWRlcy1udWNsZWFyLWhvbHRlYy13b2x2ZXJpbmUtaG9vc2llci1wb3dlci1wdXJjaGFzZS1wcGEvNjkzNDgwL9IBAA",
       "title": "Holtec International formally launches process to restart Palisades nuclear power plant - Utility Dive",
       "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnV0aWxpdHlkaXZlLmNvbS9uZXdzL3BhbGlzYWRlcy1udWNsZWFyLWhvbHRlYy13b2x2ZXJpbmUtaG9vc2llci1wb3dlci1wdXJjaGFzZS1wcGEvNjkzNDgwL9IBAA?oc=5",
@@ -527,11 +587,31 @@
       "category": ""
     },
     {
-      "id": "CBMieWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcxMTExL3VzX3Ryb29wc190cmFpbl9mb3JfaW50ZXJhZ2VuY3lfbnVjbGVhcl9mb3JlbnNpY3NfbWlzc2lvbl9kdXJpbmdfZXhlcmNpc2VfaW5fa2VudHVja3nSAX1odHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzExMTEvdXNfdHJvb3BzX3RyYWluX2Zvcl9pbnRlcmFnZW5jeV9udWNsZWFyX2ZvcmVuc2ljc19taXNzaW9uX2R1cmluZ19leGVyY2lzZV9pbl9rZW50dWNreQ",
-      "title": "US troops train for interagency nuclear forensics mission during exercise in Kentucky - United States Army",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjcxMTExL3VzX3Ryb29wc190cmFpbl9mb3JfaW50ZXJhZ2VuY3lfbnVjbGVhcl9mb3JlbnNpY3NfbWlzc2lvbl9kdXJpbmdfZXhlcmNpc2VfaW5fa2VudHVja3nSAX1odHRwczovL3d3dy5hcm15Lm1pbC9hcnRpY2xlLWFtcC8yNzExMTEvdXNfdHJvb3BzX3RyYWluX2Zvcl9pbnRlcmFnZW5jeV9udWNsZWFyX2ZvcmVuc2ljc19taXNzaW9uX2R1cmluZ19leGVyY2lzZV9pbl9rZW50dWNreQ?oc=5",
-      "published": "2023-10-24T07:00:00.000Z",
-      "description": "US troops train for interagency nuclear forensics mission during exercise in Kentucky&nbsp;&nbsp;United States Army",
+      "id": "CBMikwFodHRwczovL3d3dy5rY2J4Lm9yZy9lbnZpcm9ubWVudC1hbmQtZW5lcmd5LzIwMjQtMDMtMjUvYW50aS1udWNsZWFyLWFjdGl2aXN0cy1maWxlLWFwcGVhbC1vdmVyLWRpYWJsby1jYW55b24tbnVjbGVhci1wb3dlci1wbGFudHMtc2FmZXR5LW9wZXJhdGlvbnPSAQA",
+      "title": "Anti-nuclear activists file appeal over Diablo Canyon Nuclear Power Plant's safety operations - KCBX",
+      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5rY2J4Lm9yZy9lbnZpcm9ubWVudC1hbmQtZW5lcmd5LzIwMjQtMDMtMjUvYW50aS1udWNsZWFyLWFjdGl2aXN0cy1maWxlLWFwcGVhbC1vdmVyLWRpYWJsby1jYW55b24tbnVjbGVhci1wb3dlci1wbGFudHMtc2FmZXR5LW9wZXJhdGlvbnPSAQA?oc=5",
+      "published": "2024-03-25T07:00:00.000Z",
+      "description": "Anti-nuclear activists file appeal over Diablo Canyon Nuclear Power Plant's safety operations&nbsp;&nbsp;KCBX",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMigAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9ldXJvcGUvYmxhc3RzLWRhbWFnZS13aW5kb3dzLXVrcmFpbmVzLWtobWVsbnl0c2t5aS1udWNsZWFyLXBsYW50LW9wZXJhdGlvbnMtdW5hZmZlY3RlZC0yMDIzLTEwLTI1L9IBAA",
+      "title": "Blasts damage windows at Ukraine's Khmelnytskyi nuclear plant; operations unaffected - IAEA - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9ldXJvcGUvYmxhc3RzLWRhbWFnZS13aW5kb3dzLXVrcmFpbmVzLWtobWVsbnl0c2t5aS1udWNsZWFyLXBsYW50LW9wZXJhdGlvbnMtdW5hZmZlY3RlZC0yMDIzLTEwLTI1L9IBAA?oc=5",
+      "published": "2023-10-25T07:00:00.000Z",
+      "description": "Blasts damage windows at Ukraine's Khmelnytskyi nuclear plant; operations unaffected - IAEA&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMicGh0dHBzOi8vd3d3Lm1wcm5ld3Mub3JnL3N0b3J5LzIwMjQvMDIvMDEveGNlbC1lbmVyZ3ktcHJvcG9zZXMtdG8ta2VlcC1vcGVyYXRpbmctbnVjbGVhci1wbGFudHMtdW50aWwtZWFybHktMjA1MHPSAQA",
+      "title": "Xcel proposes to keep nuclear plants going until 2050s - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lm1wcm5ld3Mub3JnL3N0b3J5LzIwMjQvMDIvMDEveGNlbC1lbmVyZ3ktcHJvcG9zZXMtdG8ta2VlcC1vcGVyYXRpbmctbnVjbGVhci1wbGFudHMtdW50aWwtZWFybHktMjA1MHPSAQA?oc=5",
+      "published": "2024-02-01T08:00:00.000Z",
+      "description": "Xcel proposes to keep nuclear plants going until 2050s&nbsp;&nbsp;MPR News",
       "summary": "",
       "author": "",
       "category": ""
@@ -547,31 +627,51 @@
       "category": ""
     },
     {
+      "id": "CBMikwFodHRwczovL2VuZXJneS5lYy5ldXJvcGEuZXUvbmV3cy9ldS1hbmQtamFwYW4tY2VsZWJyYXRlLXN0YXJ0LW9wZXJhdGlvbnMtanQtNjBzYS1mdXNpb24tcmVhY3Rvci1hbmQtcmVhZmZpcm0tY2xvc2UtY29vcGVyYXRpb24tZnVzaW9uLTIwMjMtMTItMDFfZW7SAQA",
+      "title": "EU and Japan celebrate start of operations of the JT-60SA fusion reactor and reaffirm close cooperation on fusion energy - Energy",
+      "link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL2VuZXJneS5lYy5ldXJvcGEuZXUvbmV3cy9ldS1hbmQtamFwYW4tY2VsZWJyYXRlLXN0YXJ0LW9wZXJhdGlvbnMtanQtNjBzYS1mdXNpb24tcmVhY3Rvci1hbmQtcmVhZmZpcm0tY2xvc2UtY29vcGVyYXRpb24tZnVzaW9uLTIwMjMtMTItMDFfZW7SAQA?oc=5",
+      "published": "2023-12-01T08:00:00.000Z",
+      "description": "EU and Japan celebrate start of operations of the JT-60SA fusion reactor and reaffirm close cooperation on fusion energy&nbsp;&nbsp;Energy",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiUmh0dHBzOi8vc2hhcGUubmF0by5pbnQvbmV3cy1hcmNoaXZlLzIwMjMvbnVjbGVhci1leGVyY2lzZS1zdGVhZGZhc3Qtbm9vbi1jb25jbHVkZXPSAQA",
-      "title": "Nuclear exercise Steadfast Noon concludes - SHAPE",
+      "title": "SHAPE | Nuclear exercise Steadfast Noon concludes - SHAPE",
       "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vc2hhcGUubmF0by5pbnQvbmV3cy1hcmNoaXZlLzIwMjMvbnVjbGVhci1leGVyY2lzZS1zdGVhZGZhc3Qtbm9vbi1jb25jbHVkZXPSAQA?oc=5",
       "published": "2023-10-27T07:00:00.000Z",
-      "description": "Nuclear exercise Steadfast Noon concludes&nbsp;&nbsp;SHAPE",
+      "description": "SHAPE | Nuclear exercise Steadfast Noon concludes&nbsp;&nbsp;SHAPE",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMiNWh0dHBzOi8vd3d3LmVpYS5nb3YvdG9kYXlpbmVuZXJneS9kZXRhaWwucGhwP2lkPTU3Mjgw0gEA",
-      "title": "First new U.S. nuclear reactor since 2016 is now in operation - EIA",
+      "title": "First new U.S. nuclear reactor since 2016 is now in operation - U.S. Energy Information Administration - EIA",
       "link": "https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmVpYS5nb3YvdG9kYXlpbmVuZXJneS9kZXRhaWwucGhwP2lkPTU3Mjgw0gEA?oc=5",
       "published": "2023-08-01T07:00:00.000Z",
-      "description": "First new U.S. nuclear reactor since 2016 is now in operation&nbsp;&nbsp;EIA",
+      "description": "First new U.S. nuclear reactor since 2016 is now in operation - U.S. Energy Information Administration&nbsp;&nbsp;EIA",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiUWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wOS8wNi8xMTk3NTc0NzI1L3J1c3NpYS11a3JhaW5lLXdhci1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA",
+      "title": "Ukraine strains to safely operate nuclear power plants while under Russian invasion - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wOS8wNi8xMTk3NTc0NzI1L3J1c3NpYS11a3JhaW5lLXdhci1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA?oc=5",
+      "published": "2023-09-06T07:00:00.000Z",
+      "description": "Ukraine strains to safely operate nuclear power plants while under Russian invasion&nbsp;&nbsp;NPR",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMiZ2h0dHBzOi8vd3d3LmphY29icy5jb20vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZS9qYWNvYnMtd2lucy1uZXctY29udHJhY3Qtc3VwcG9ydC11a3MtbnVjbGVhci1wb3dlci1wbGFudHPSAQA",
-      "title": "Jacobs Wins New Contract to Support UK’s Nuclear Power Plants - Jacobs",
+      "title": "Jacobs Wins New Contract to Support UK's Nuclear Power Plants - Jacobs",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmphY29icy5jb20vbmV3c3Jvb20vcHJlc3MtcmVsZWFzZS9qYWNvYnMtd2lucy1uZXctY29udHJhY3Qtc3VwcG9ydC11a3MtbnVjbGVhci1wb3dlci1wbGFudHPSAQA?oc=5",
       "published": "2023-11-06T08:00:00.000Z",
-      "description": "Jacobs Wins New Contract to Support UK’s Nuclear Power Plants&nbsp;&nbsp;Jacobs",
+      "description": "Jacobs Wins New Contract to Support UK's Nuclear Power Plants&nbsp;&nbsp;Jacobs",
       "summary": "",
       "author": "",
       "category": ""
@@ -627,6 +727,16 @@
       "category": ""
     },
     {
+      "id": "CBMiVWh0dHBzOi8vdGhld2FyaG9yc2Uub3JnL2NvbGQtd2FyLW9wZXJhdGlvbi1hdHJpbmEtd2hlbi1udWNsZWFyLXN1YnMtcmVhY2hlZC11cy1jb2FzdC_SAQA",
+      "title": "Cold War Operation Atrina When Nuclear Subs Reached US Coast - The War Horse",
+      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdGhld2FyaG9yc2Uub3JnL2NvbGQtd2FyLW9wZXJhdGlvbi1hdHJpbmEtd2hlbi1udWNsZWFyLXN1YnMtcmVhY2hlZC11cy1jb2FzdC_SAQA?oc=5",
+      "published": "2024-01-24T08:00:00.000Z",
+      "description": "Cold War Operation Atrina When Nuclear Subs Reached US Coast&nbsp;&nbsp;The War Horse",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiowFodHRwczovL2luZm8ud2VzdGluZ2hvdXNlbnVjbGVhci5jb20vbmV3cy90aGUtZXJhLW9mLWFkdmFuY2VkLW51Y2xlYXItZW5lcmd5LWFycml2ZXMtaW4tdGhlLXUucy4td2l0aC1maXJzdC1hcDEwMDAtcmVhY3Rvci1hY2hpZXZpbmctY29tbWVyY2lhbC1vcGVyYXRpb24tYXQtdm9ndGxl0gGvAWh0dHBzOi8vaW5mby53ZXN0aW5naG91c2VudWNsZWFyLmNvbS9uZXdzL3RoZS1lcmEtb2YtYWR2YW5jZWQtbnVjbGVhci1lbmVyZ3ktYXJyaXZlcy1pbi10aGUtdS5zLi13aXRoLWZpcnN0LWFwMTAwMC1yZWFjdG9yLWFjaGlldmluZy1jb21tZXJjaWFsLW9wZXJhdGlvbi1hdC12b2d0bGU_aHNfYW1wPXRydWU",
       "title": "The Era of Advanced Nuclear Energy Arrives in the U.S. with First AP1000® Reactor Achieving Commercial Operation at Vogtle - Westinghouse Electric Company",
       "link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL2luZm8ud2VzdGluZ2hvdXNlbnVjbGVhci5jb20vbmV3cy90aGUtZXJhLW9mLWFkdmFuY2VkLW51Y2xlYXItZW5lcmd5LWFycml2ZXMtaW4tdGhlLXUucy4td2l0aC1maXJzdC1hcDEwMDAtcmVhY3Rvci1hY2hpZXZpbmctY29tbWVyY2lhbC1vcGVyYXRpb24tYXQtdm9ndGxl0gGvAWh0dHBzOi8vaW5mby53ZXN0aW5naG91c2VudWNsZWFyLmNvbS9uZXdzL3RoZS1lcmEtb2YtYWR2YW5jZWQtbnVjbGVhci1lbmVyZ3ktYXJyaXZlcy1pbi10aGUtdS5zLi13aXRoLWZpcnN0LWFwMTAwMC1yZWFjdG9yLWFjaGlldmluZy1jb21tZXJjaWFsLW9wZXJhdGlvbi1hdC12b2d0bGU_aHNfYW1wPXRydWU?oc=5",
@@ -638,10 +748,10 @@
     },
     {
       "id": "CBMiMWh0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL21hcmtldHMvZGVmZW5zZS1zZWN1cml0eS_SAQA",
-      "title": "Defense & Security - Bechtel",
+      "title": "Defense & Nuclear Security - Bechtel",
       "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL21hcmtldHMvZGVmZW5zZS1zZWN1cml0eS_SAQA?oc=5",
       "published": "2023-08-07T10:32:43.000Z",
-      "description": "Defense & Security&nbsp;&nbsp;Bechtel",
+      "description": "Defense & Nuclear Security&nbsp;&nbsp;Bechtel",
       "summary": "",
       "author": "",
       "category": ""
@@ -657,11 +767,21 @@
       "category": ""
     },
     {
-      "id": "CBMibWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL2Nyb3dsZXktcGFydG5lcnMtd2l0aC1id3h0LXRvLWRldmVsb3AtbnVjbGVhci1wb3dlci1nZW5lcmF0aW9uLXZlc3NlbHPSAQA",
-      "title": "Crowley Partners with BWXT to Develop Nuclear Power Generation Vessels - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbWFyaXRpbWUtZXhlY3V0aXZlLmNvbS9hcnRpY2xlL2Nyb3dsZXktcGFydG5lcnMtd2l0aC1id3h0LXRvLWRldmVsb3AtbnVjbGVhci1wb3dlci1nZW5lcmF0aW9uLXZlc3NlbHPSAQA?oc=5",
-      "published": "2023-09-20T07:00:00.000Z",
-      "description": "Crowley Partners with BWXT to Develop Nuclear Power Generation Vessels&nbsp;&nbsp;The Maritime Executive",
+      "id": "CBMiV2h0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL2JlY2h0ZWwtd2lucy1uZXctbnVjbGVhci13b3JrLWluLWNoaW5hL9IBAA",
+      "title": "Bechtel Wins New Nuclear Work in China - Bechtel",
+      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL2JlY2h0ZWwtd2lucy1uZXctbnVjbGVhci13b3JrLWluLWNoaW5hL9IBAA?oc=5",
+      "published": "2023-08-24T04:10:16.000Z",
+      "description": "Bechtel Wins New Nuclear Work in China&nbsp;&nbsp;Bechtel",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiYGh0dHBzOi8vZW5naW5lZXJpbmcud2lzYy5lZHUvYmxvZy91bmRlcmdyYWRzLWdhaW4taGFuZHMtb24tZXhwZXJpZW5jZS1vcGVyYXRpbmctbnVjbGVhci1yZWFjdG9yL9IBAA",
+      "title": "Undergrads gain hands-on experience operating nuclear reactor - College of Engineering - University of Wisconsin ... - College of Engineering",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vZW5naW5lZXJpbmcud2lzYy5lZHUvYmxvZy91bmRlcmdyYWRzLWdhaW4taGFuZHMtb24tZXhwZXJpZW5jZS1vcGVyYXRpbmctbnVjbGVhci1yZWFjdG9yL9IBAA?oc=5",
+      "published": "2023-08-03T07:00:00.000Z",
+      "description": "Undergrads gain hands-on experience operating nuclear reactor - College of Engineering - University of Wisconsin ...&nbsp;&nbsp;College of Engineering",
       "summary": "",
       "author": "",
       "category": ""
@@ -688,20 +808,20 @@
     },
     {
       "id": "CBMicGh0dHBzOi8vd3d3LmVuZXJneXBvbGljeS5jb2x1bWJpYS5lZHUvdm9ndGxlLXVuaXQtMy1oYXMtc3RhcnRlZC1jb21tZXJjaWFsLW9wZXJhdGlvbnMtd2hhdHMtbmV4dC1mb3ItdGhlLWFwMTAwMC_SAQA",
-      "title": "Vogtle Unit 3 Has Started Commercial Operations. What’s Next for the AP1000? - Columbia | SIPA Center on Global Energy Policy",
+      "title": "Vogtle Unit 3 Has Started Commercial Operations. What's Next for the AP1000? - Center on Global Energy Policy at ... - Columbia | SIPA Center on Global Energy Policy",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmVuZXJneXBvbGljeS5jb2x1bWJpYS5lZHUvdm9ndGxlLXVuaXQtMy1oYXMtc3RhcnRlZC1jb21tZXJjaWFsLW9wZXJhdGlvbnMtd2hhdHMtbmV4dC1mb3ItdGhlLWFwMTAwMC_SAQA?oc=5",
       "published": "2023-07-31T07:00:00.000Z",
-      "description": "Vogtle Unit 3 Has Started Commercial Operations. What’s Next for the AP1000?&nbsp;&nbsp;Columbia | SIPA Center on Global Energy Policy",
+      "description": "Vogtle Unit 3 Has Started Commercial Operations. What's Next for the AP1000? - Center on Global Energy Policy at ...&nbsp;&nbsp;Columbia | SIPA Center on Global Energy Policy",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMidGh0dHBzOi8vd3d3LmFmcGMuYWYubWlsL05ld3MvQXJ0aWNsZS8zMzU1ODIzLzIwMjItbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA",
-      "title": "2022 Nuclear Deterrence Operations, Missile Operations awards announced - Air Force Personnel Center",
+      "title": "2022 Nuclear Deterrence Operations, Missile Operations awards announced > Air Force's Personnel Center > News - Air Force Personnel Center",
       "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFmcGMuYWYubWlsL05ld3MvQXJ0aWNsZS8zMzU1ODIzLzIwMjItbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA?oc=5",
       "published": "2023-04-03T07:00:00.000Z",
-      "description": "2022 Nuclear Deterrence Operations, Missile Operations awards announced&nbsp;&nbsp;Air Force Personnel Center",
+      "description": "2022 Nuclear Deterrence Operations, Missile Operations awards announced > Air Force's Personnel Center > News&nbsp;&nbsp;Air Force Personnel Center",
       "summary": "",
       "author": "",
       "category": ""
@@ -738,40 +858,60 @@
     },
     {
       "id": "CBMiemh0dHBzOi8vd3d3LmF1Z2FuaXgub3JnL3ZyLW5ld3MtaGFwdHgtcGFydG5lcnMtd2l0aC15LTEyLW5hdGlvbmFsLXNlY3VyaXR5LWNvbXBsZXgtdG8tYWR2YW5jZS1udWNsZWFyLW9wZXJhdGlvbnMtdHJhaW5pbmcv0gEA",
-      "title": "HaptX partners with Y-12 National Security Complex to advance nuclear operations training - Auganix",
+      "title": "HaptX & Y-12 complex partner on nuclear operations training - Auganix",
       "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmF1Z2FuaXgub3JnL3ZyLW5ld3MtaGFwdHgtcGFydG5lcnMtd2l0aC15LTEyLW5hdGlvbmFsLXNlY3VyaXR5LWNvbXBsZXgtdG8tYWR2YW5jZS1udWNsZWFyLW9wZXJhdGlvbnMtdHJhaW5pbmcv0gEA?oc=5",
       "published": "2023-09-14T07:00:00.000Z",
-      "description": "HaptX partners with Y-12 National Security Complex to advance nuclear operations training&nbsp;&nbsp;Auganix",
+      "description": "HaptX & Y-12 complex partner on nuclear operations training&nbsp;&nbsp;Auganix",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMijwFodHRwczovL3Ruc3Iub3JnLzIwMjEvMTAvbnVjbGVhci1vcGVyYXRpb25zLWFuZC1jb3VudGVyLWhvbWVsYW5kLWNvbnZlbnRpb25hbC13YXJmYXJlLW5hdmlnYXRpbmctYmV0d2Vlbi1udWNsZWFyLXJlc3RyYWludC1hbmQtZXNjYWxhdGlvbi1yaXNrL9IBAA",
-      "title": "Nuclear Operations and Counter-Homeland Conventional Warfare: Navigating Between Nuclear Restraint and Escalation Risk - Texas National Security Review",
+      "title": "Nuclear Operations and Counter-Homeland Conventional Warfare: Navigating Between Nuclear Restraint and ... - Texas National Security Review",
       "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3Ruc3Iub3JnLzIwMjEvMTAvbnVjbGVhci1vcGVyYXRpb25zLWFuZC1jb3VudGVyLWhvbWVsYW5kLWNvbnZlbnRpb25hbC13YXJmYXJlLW5hdmlnYXRpbmctYmV0d2Vlbi1udWNsZWFyLXJlc3RyYWludC1hbmQtZXNjYWxhdGlvbi1yaXNrL9IBAA?oc=5",
       "published": "2021-10-07T07:00:00.000Z",
-      "description": "Nuclear Operations and Counter-Homeland Conventional Warfare: Navigating Between Nuclear Restraint and Escalation Risk&nbsp;&nbsp;Texas National Security Review",
+      "description": "Nuclear Operations and Counter-Homeland Conventional Warfare: Navigating Between Nuclear Restraint and ...&nbsp;&nbsp;Texas National Security Review",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiU2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDI0L2phbi8wOS9lZGYtZW5lcmd5LXVrLW51Y2xlYXItcG93ZXItcGxhbnRz0gFTaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMjQvamFuLzA5L2VkZi1lbmVyZ3ktdWstbnVjbGVhci1wb3dlci1wbGFudHM",
+      "title": "EDF Energy plans to extend life of four UK nuclear power plants - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9idXNpbmVzcy8yMDI0L2phbi8wOS9lZGYtZW5lcmd5LXVrLW51Y2xlYXItcG93ZXItcGxhbnRz0gFTaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL2J1c2luZXNzLzIwMjQvamFuLzA5L2VkZi1lbmVyZ3ktdWstbnVjbGVhci1wb3dlci1wbGFudHM?oc=5",
+      "published": "2024-01-09T08:00:00.000Z",
+      "description": "EDF Energy plans to extend life of four UK nuclear power plants&nbsp;&nbsp;The Guardian",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3Mvd29ybGQvdGV4YXMtbnVjbGVhci13ZWFwb25zLWZhY2lsaXR5LXBhbnRleC11cy13aWxkZmlyZXMtYjExNDE5NTAuaHRtbNIBAA",
+      "title": "Texas nuclear weapons facility pauses operations as wildfires spread - Evening Standard",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3Mvd29ybGQvdGV4YXMtbnVjbGVhci13ZWFwb25zLWZhY2lsaXR5LXBhbnRleC11cy13aWxkZmlyZXMtYjExNDE5NTAuaHRtbNIBAA?oc=5",
+      "published": "2024-02-28T08:00:00.000Z",
+      "description": "Texas nuclear weapons facility pauses operations as wildfires spread&nbsp;&nbsp;Evening Standard",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
       "id": "CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VzLXJvay1udWNsZWFyLWNvbnN1bHRhdGl2ZS1ncm91cHMtc3VjY2Vzc2Z1bC1sYXVuY2hpbmfSAQA",
-      "title": "The U.S.-ROK Nuclear Consultative Group’s Successful Launching - CSIS | Center for Strategic and International Studies",
+      "title": "The U.S.-ROK Nuclear Consultative Group's Successful Launching - CSIS | Center for Strategic and International Studies",
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNzaXMub3JnL2FuYWx5c2lzL3VzLXJvay1udWNsZWFyLWNvbnN1bHRhdGl2ZS1ncm91cHMtc3VjY2Vzc2Z1bC1sYXVuY2hpbmfSAQA?oc=5",
       "published": "2023-07-20T07:00:00.000Z",
-      "description": "The U.S.-ROK Nuclear Consultative Group’s Successful Launching&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
+      "description": "The U.S.-ROK Nuclear Consultative Group's Successful Launching&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiYmh0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL2JlY2h0ZWwtbGVkLXRlYW0tYXdhcmRlZC1jb250cmFjdC1mb3IteS0xMi1wYW50ZXgv0gEA",
-      "title": "Team Awarded Contract for Y-12/Pantex - Bechtel",
-      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmJlY2h0ZWwuY29tL25ld3Nyb29tL3ByZXNzLXJlbGVhc2VzL2JlY2h0ZWwtbGVkLXRlYW0tYXdhcmRlZC1jb250cmFjdC1mb3IteS0xMi1wYW50ZXgv0gEA?oc=5",
-      "published": "2023-08-24T06:34:53.000Z",
-      "description": "Team Awarded Contract for Y-12/Pantex&nbsp;&nbsp;Bechtel",
+      "id": "CBMihQFodHRwczovL3NjaW90b3ZhbGxleWd1YXJkaWFuLmNvbS8yMDIzLzA5LzA4L25yY3MtcHVibGljLW1lZXRpbmctb24tcGlrZXRvbi1udWNsZWFyLW9wZXJhdGlvbnMtc3BhcmtzLWNpdGl6ZW4tY29uY2VybnMtZm9yLXRoZS1mdXR1cmUv0gEA",
+      "title": "NRC's public meeting on Piketon nuclear operations sparks citizen concerns for the future - Scioto Valley Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3NjaW90b3ZhbGxleWd1YXJkaWFuLmNvbS8yMDIzLzA5LzA4L25yY3MtcHVibGljLW1lZXRpbmctb24tcGlrZXRvbi1udWNsZWFyLW9wZXJhdGlvbnMtc3BhcmtzLWNpdGl6ZW4tY29uY2VybnMtZm9yLXRoZS1mdXR1cmUv0gEA?oc=5",
+      "published": "2023-09-08T07:00:00.000Z",
+      "description": "NRC's public meeting on Piketon nuclear operations sparks citizen concerns for the future&nbsp;&nbsp;Scioto Valley Guardian",
       "summary": "",
       "author": "",
       "category": ""
@@ -797,21 +937,21 @@
       "category": ""
     },
     {
-      "id": "CBMidGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzI2MjQyMDgvMjAyMC1udWNsZWFyLWRldGVycmVuY2UtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA",
-      "title": "2020 nuclear deterrence, missile operations awards announced > Air Force > Article Display - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzI2MjQyMDgvMjAyMC1udWNsZWFyLWRldGVycmVuY2UtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA?oc=5",
-      "published": "2021-05-19T07:00:00.000Z",
-      "description": "2020 nuclear deterrence, missile operations awards announced > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
+      "id": "CBMidGh0dHBzOi8vbmV3cy5vbnRhcmlvLmNhL2VuL3JlbGVhc2UvMTAwNDQ2My9vbnRhcmlvLXdlbGNvbWVzLTgwLW1pbGxpb24tbnVjbGVhci1tYW51ZmFjdHVyaW5nLWludmVzdG1lbnQtaW4tY2FtYnJpZGdl0gEA",
+      "title": "Ontario Welcomes $80 Million Nuclear Manufacturing Investment in Cambridge - Government of Ontario News",
+      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbmV3cy5vbnRhcmlvLmNhL2VuL3JlbGVhc2UvMTAwNDQ2My9vbnRhcmlvLXdlbGNvbWVzLTgwLW1pbGxpb24tbnVjbGVhci1tYW51ZmFjdHVyaW5nLWludmVzdG1lbnQtaW4tY2FtYnJpZGdl0gEA?oc=5",
+      "published": "2024-04-19T07:00:00.000Z",
+      "description": "Ontario Welcomes $80 Million Nuclear Manufacturing Investment in Cambridge&nbsp;&nbsp;Government of Ontario News",
       "summary": "",
       "author": "",
       "category": ""
     },
     {
-      "id": "CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8xODE0NzU0LzIwMTgtbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtYW5kLW51Y2xlYXItbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy13aW5uZXIv0gEA",
-      "title": "2018 Nuclear Deterrence Operations and Nuclear & Missile Operations awards winners announc - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8xODE0NzU0LzIwMTgtbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtYW5kLW51Y2xlYXItbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy13aW5uZXIv0gEA?oc=5",
-      "published": "2019-04-15T07:00:00.000Z",
-      "description": "2018 Nuclear Deterrence Operations and Nuclear & Missile Operations awards winners announc&nbsp;&nbsp;Air Force Link",
+      "id": "CBMidGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzI2MjQyMDgvMjAyMC1udWNsZWFyLWRldGVycmVuY2UtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA",
+      "title": "2020 nuclear deterrence, missile operations awards announced > Air Force > Article Display - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzI2MjQyMDgvMjAyMC1udWNsZWFyLWRldGVycmVuY2UtbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy1hbm5vdW5jZWQv0gEA?oc=5",
+      "published": "2021-05-19T07:00:00.000Z",
+      "description": "2020 nuclear deterrence, missile operations awards announced > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
       "summary": "",
       "author": "",
       "category": ""
@@ -827,6 +967,26 @@
       "category": ""
     },
     {
+      "id": "CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8xODE0NzU0LzIwMTgtbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtYW5kLW51Y2xlYXItbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy13aW5uZXIv0gEA",
+      "title": "2018 Nuclear Deterrence Operations and Nuclear & Missile Operations awards winners announc - Air Force Link",
+      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8xODE0NzU0LzIwMTgtbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtYW5kLW51Y2xlYXItbWlzc2lsZS1vcGVyYXRpb25zLWF3YXJkcy13aW5uZXIv0gEA?oc=5",
+      "published": "2019-04-15T07:00:00.000Z",
+      "description": "2018 Nuclear Deterrence Operations and Nuclear & Missile Operations awards winners announc&nbsp;&nbsp;Air Force Link",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiLGh0dHBzOi8vd3d3Lm5pcHBvbi5jb20vZW4vamFwYW4tZGF0YS9oMDE3NTIv0gEA",
+      "title": "Japan's Nuclear Power Plants in 2023 | Nippon.com - Nippon.com",
+      "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3Lm5pcHBvbi5jb20vZW4vamFwYW4tZGF0YS9oMDE3NTIv0gEA?oc=5",
+      "published": "2023-08-14T07:00:00.000Z",
+      "description": "Japan's Nuclear Power Plants in 2023 | Nippon.com&nbsp;&nbsp;Nippon.com",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiPmh0dHBzOi8vaGlpLmNvbS93aGF0LXdlLWRvL2NhcGFiaWxpdGllcy9udWNsZWFyLWVudmlyb25tZW50YWwv0gEA",
       "title": "Nuclear & Environmental Services - newshii.com",
       "link": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vaGlpLmNvbS93aGF0LXdlLWRvL2NhcGFiaWxpdGllcy9udWNsZWFyLWVudmlyb25tZW50YWwv0gEA?oc=5",
@@ -837,171 +997,11 @@
       "category": ""
     },
     {
-      "id": "CBMiVmh0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDIzLzA5LzE1L2phcGFuL3Rha2FoYW1hLW51Y2xlYXItcmVhY3Rvci1yZXN0YXJ0ZWQv0gEA",
-      "title": "Takahama No. 2 nuclear reactor restarted after 12-year halt - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmphcGFudGltZXMuY28uanAvbmV3cy8yMDIzLzA5LzE1L2phcGFuL3Rha2FoYW1hLW51Y2xlYXItcmVhY3Rvci1yZXN0YXJ0ZWQv0gEA?oc=5",
-      "published": "2023-09-15T07:00:00.000Z",
-      "description": "Takahama No. 2 nuclear reactor restarted after 12-year halt&nbsp;&nbsp;The Japan Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiO2h0dHBzOi8vd3d3LmllYS5vcmcvZW5lcmd5LXN5c3RlbS9lbGVjdHJpY2l0eS9udWNsZWFyLXBvd2Vy0gEA",
-      "title": "Nuclear Power - IEA",
-      "link": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmllYS5vcmcvZW5lcmd5LXN5c3RlbS9lbGVjdHJpY2l0eS9udWNsZWFyLXBvd2Vy0gEA?oc=5",
-      "published": "2023-07-12T08:39:28.000Z",
-      "description": "Nuclear Power&nbsp;&nbsp;IEA",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8xNDc3MDI0LzIwMTctbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtbnVjbGVhci1taXNzaWxlLW9wZXJhdGlvbnMtYXdhcmRzLXdpbm5lcnMtYW4v0gEA",
-      "title": "2017 Nuclear Deterrence Operations, Nuclear & Missile Operations awards winners announced - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8xNDc3MDI0LzIwMTctbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtbnVjbGVhci1taXNzaWxlLW9wZXJhdGlvbnMtYXdhcmRzLXdpbm5lcnMtYW4v0gEA?oc=5",
-      "published": "2018-03-27T07:00:00.000Z",
-      "description": "2017 Nuclear Deterrence Operations, Nuclear & Missile Operations awards winners announced&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiRWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L011bHRpbWVkaWEvRXhwZXJpZW5jZS9BbWVyaWNhcy1OdWNsZWFyLVRyaWFkL9IBAA",
-      "title": "America's Nuclear Triad - Department of Defense",
-      "link": "https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmRlZmVuc2UuZ292L011bHRpbWVkaWEvRXhwZXJpZW5jZS9BbWVyaWNhcy1OdWNsZWFyLVRyaWFkL9IBAA?oc=5",
-      "published": "2021-09-22T05:13:56.000Z",
-      "description": "America's Nuclear Triad&nbsp;&nbsp;Department of Defense",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiQGh0dHBzOi8vd3d3LmVudGVyZ3luZXdzcm9vbS5jb20vbGVhZGVyc2hpcC9raW1iZXJseS1jb29rLW5lbHNvbi_SAQA",
-      "title": "Kimberly Cook-Nelson Executive Vice President, Nuclear Operations and Chief Nuclear Officer - Entergy Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmVudGVyZ3luZXdzcm9vbS5jb20vbGVhZGVyc2hpcC9raW1iZXJseS1jb29rLW5lbHNvbi_SAQA?oc=5",
-      "published": "2022-11-01T15:06:36.000Z",
-      "description": "Kimberly Cook-Nelson Executive Vice President, Nuclear Operations and Chief Nuclear Officer&nbsp;&nbsp;Entergy Newsroom",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMinAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9jcy90aXNrb3ZhLXpwcmF2YS9iZWNodGVsLWNvbW1lcmNpYWwtb3BlcmF0aW9ucy1hdC12b2d0bGUtdW5pdC0zLWlzLWFuLWltcG9ydGFudC1taWxlc3RvbmUtZm9yLXVzLW51Y2xlYXItaW5kdXN0cnktMzAxODg5MTU3Lmh0bWzSAQA",
-      "title": "Bechtel: Commercial Operations at Vogtle Unit 3 is an Important Milestone for US Nuclear Industry - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9jcy90aXNrb3ZhLXpwcmF2YS9iZWNodGVsLWNvbW1lcmNpYWwtb3BlcmF0aW9ucy1hdC12b2d0bGUtdW5pdC0zLWlzLWFuLWltcG9ydGFudC1taWxlc3RvbmUtZm9yLXVzLW51Y2xlYXItaW5kdXN0cnktMzAxODg5MTU3Lmh0bWzSAQA?oc=5",
-      "published": "2023-07-31T07:00:00.000Z",
-      "description": "Bechtel: Commercial Operations at Vogtle Unit 3 is an Important Milestone for US Nuclear Industry&nbsp;&nbsp;PR Newswire",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiemh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMzNjMyNTIvYW5udWFsLW51Y2xlYXItY29tbWFuZC1hbmQtY29udHJvbC1leGVyY2lzZS1iZWdpbnMtYXQtbWlub3Qv0gEA",
-      "title": "Annual Nuclear Command and Control Exercise Begins at Minot - Minot Air Force Base",
-      "link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMzNjMyNTIvYW5udWFsLW51Y2xlYXItY29tbWFuZC1hbmQtY29udHJvbC1leGVyY2lzZS1iZWdpbnMtYXQtbWlub3Qv0gEA?oc=5",
-      "published": "2023-04-14T07:00:00.000Z",
-      "description": "Annual Nuclear Command and Control Exercise Begins at Minot&nbsp;&nbsp;Minot Air Force Base",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiVWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvNTg4ODI3L2NocmlzdG9waGVyLWEtY29mZmVsdC_SAQA",
-      "title": "Brigadier General CHRISTOPHER A. COFFELT - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvNTg4ODI3L2NocmlzdG9waGVyLWEtY29mZmVsdC_SAQA?oc=5",
-      "published": "2022-11-22T13:06:31.000Z",
-      "description": "Brigadier General CHRISTOPHER A. COFFELT&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMic2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ0MTc4MC8xMjFzdC1haXItcmVmdWVsaW5nLXdpbmctcGFydGljaXBhdGVzLW51Y2xlYXItb3BlcmF0aW9uYWwtcmVhZGluZXNzLWluc3BlY3Rpb27SAQA",
-      "title": "News - The 121st Air Refueling Wing participates in a Nuclear Operational Readiness Inspection - DVIDS",
-      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmR2aWRzaHViLm5ldC9uZXdzLzQ0MTc4MC8xMjFzdC1haXItcmVmdWVsaW5nLXdpbmctcGFydGljaXBhdGVzLW51Y2xlYXItb3BlcmF0aW9uYWwtcmVhZGluZXNzLWluc3BlY3Rpb27SAQA?oc=5",
-      "published": "2023-02-04T08:00:00.000Z",
-      "description": "News - The 121st Air Refueling Wing participates in a Nuclear Operational Readiness Inspection&nbsp;&nbsp;DVIDS",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMijgFodHRwczovL3d3dy53cGFmYi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDIxMTkxL2FmaXRzLW51Y2xlYXItY29sbGVnZS13aW5zLWFldGMtbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtcHJvZmVzc2lvbmFsLXRlYW0v0gEA",
-      "title": "AFIT’s Nuclear College wins AETC Nuclear Deterrence Operations Professional Team of the Year Award - AF.mil",
-      "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy53cGFmYi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNDIxMTkxL2FmaXRzLW51Y2xlYXItY29sbGVnZS13aW5zLWFldGMtbnVjbGVhci1kZXRlcnJlbmNlLW9wZXJhdGlvbnMtcHJvZmVzc2lvbmFsLXRlYW0v0gEA?oc=5",
-      "published": "2023-06-08T07:00:00.000Z",
-      "description": "AFIT’s Nuclear College wins AETC Nuclear Deterrence Operations Professional Team of the Year Award&nbsp;&nbsp;AF.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiW2h0dHBzOi8vd3d3LmlhZWEub3JnL3B1YmxpY2F0aW9ucy8xNDkwMy90aGUtb3BlcmF0aW5nLW9yZ2FuaXphdGlvbi1mb3ItbnVjbGVhci1wb3dlci1wbGFudHPSAQA",
-      "title": "The Operating Organization for Nuclear Power Plants - International Atomic Energy Agency",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmlhZWEub3JnL3B1YmxpY2F0aW9ucy8xNDkwMy90aGUtb3BlcmF0aW5nLW9yZ2FuaXphdGlvbi1mb3ItbnVjbGVhci1wb3dlci1wbGFudHPSAQA?oc=5",
-      "published": "2022-09-13T13:38:28.000Z",
-      "description": "The Operating Organization for Nuclear Power Plants&nbsp;&nbsp;International Atomic Energy Agency",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMieWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMzNzQ2OTIvYWlyLWZvcmNlLW1vZGVybml6ZXMtbnVjbGVhci1zZWN1cml0eS13aXRoLWFkdmFuY2VkLWpsdHYtdmVoaWNsZS_SAQA",
-      "title": "Air Force modernizes nuclear security with advanced JLTV vehicle - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzMzNzQ2OTIvYWlyLWZvcmNlLW1vZGVybml6ZXMtbnVjbGVhci1zZWN1cml0eS13aXRoLWFkdmFuY2VkLWpsdHYtdmVoaWNsZS_SAQA?oc=5",
-      "published": "2023-04-29T07:00:00.000Z",
-      "description": "Air Force modernizes nuclear security with advanced JLTV vehicle&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMioAFodHRwczovL3d3dy5pc3UuZWR1L25ld3MvMjAyMC1mYWxsL251Y2xlYXItb3BlcmF0aW9ucy10ZWNobm9sb2d5LXByb2dyYW0tc3R1ZGVudHMtcmVjZWl2ZS1zY2hvbGFyc2hpcC10by1hdHRlbmQtb3BlcmF0aW9ucy10cmFpbmluZy1hdC1jaGVybm9ieWwtaW4tdWtyYWluZS5odG1s0gEA",
-      "title": "Nuclear Operations Technology Program students receive scholarship to attend operations training at Chernobyl in Ukraine - Idaho State University",
-      "link": "https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy5pc3UuZWR1L25ld3MvMjAyMC1mYWxsL251Y2xlYXItb3BlcmF0aW9ucy10ZWNobm9sb2d5LXByb2dyYW0tc3R1ZGVudHMtcmVjZWl2ZS1zY2hvbGFyc2hpcC10by1hdHRlbmQtb3BlcmF0aW9ucy10cmFpbmluZy1hdC1jaGVybm9ieWwtaW4tdWtyYWluZS5odG1s0gEA?oc=5",
-      "published": "2020-10-28T07:00:00.000Z",
-      "description": "Nuclear Operations Technology Program students receive scholarship to attend operations training at Chernobyl in Ukraine&nbsp;&nbsp;Idaho State University",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiLGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2J1c2luZXNzLTY3OTI0MDEy0gEA",
-      "title": "EDF Energy aims to extend life of UK nuclear plants - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2J1c2luZXNzLTY3OTI0MDEy0gEA?oc=5",
-      "published": "2024-01-09T08:00:00.000Z",
-      "description": "EDF Energy aims to extend life of UK nuclear plants&nbsp;&nbsp;BBC",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMifmh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzIwMzQzMTAvdmNzYWYtbWVldHMtd2l0aC1udWNsZWFyLXNjaWVudGlzdHMtZW5naW5lZXJzLWFib3V0LWZ1dHVyZS1vcGVyYXRpb25zL9IBAA",
-      "title": "VCSAF meets with nuclear scientists, engineers about future operations > Air Force > Article Display - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzIwMzQzMTAvdmNzYWYtbWVldHMtd2l0aC1udWNsZWFyLXNjaWVudGlzdHMtZW5naW5lZXJzLWFib3V0LWZ1dHVyZS1vcGVyYXRpb25zL9IBAA?oc=5",
-      "published": "2019-12-06T08:00:00.000Z",
-      "description": "VCSAF meets with nuclear scientists, engineers about future operations > Air Force > Article Display&nbsp;&nbsp;Air Force Link",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiV2h0dHBzOi8vd3d3LmVudGVyZ3luZXdzcm9vbS5jb20vbmV3cy9lbnRlcmd5LWV4cGFuZHMtbnVjbGVhci1vcGVyYXRpb25zLWluLW1pc3Npc3NpcHBpL9IBAA",
-      "title": "Entergy Expands Nuclear Operations in Mississippi - Entergy Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmVudGVyZ3luZXdzcm9vbS5jb20vbmV3cy9lbnRlcmd5LWV4cGFuZHMtbnVjbGVhci1vcGVyYXRpb25zLWluLW1pc3Npc3NpcHBpL9IBAA?oc=5",
-      "published": "2019-01-24T08:00:00.000Z",
-      "description": "Entergy Expands Nuclear Operations in Mississippi&nbsp;&nbsp;Entergy Newsroom",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiUGh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMTQzMDA4MC9hbmRyZXctai1nZWJhcmEv0gEA",
-      "title": "ANDREW J. GEBARA > Air Force > Biography Display - Air Force Link",
-      "link": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmFmLm1pbC9BYm91dC1Vcy9CaW9ncmFwaGllcy9EaXNwbGF5L0FydGljbGUvMTQzMDA4MC9hbmRyZXctai1nZWJhcmEv0gEA?oc=5",
-      "published": "2022-01-22T07:25:06.000Z",
-      "description": "ANDREW J. GEBARA > Air Force > Biography Display&nbsp;&nbsp;Air Force Link",
+      "id": "CBMiSGh0dHBzOi8vZGFpbHluZXdzLm1jbWFzdGVyLmNhL2FydGljbGVzL251Y2xlYXItc2NpZW5jZS13ZWVrLWF0LW1jbWFzdGVyL9IBAA",
+      "title": "Nuclear Science Week at McMaster – Daily News - McMaster Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZGFpbHluZXdzLm1jbWFzdGVyLmNhL2FydGljbGVzL251Y2xlYXItc2NpZW5jZS13ZWVrLWF0LW1jbWFzdGVyL9IBAA?oc=5",
+      "published": "2023-10-16T07:00:00.000Z",
+      "description": "Nuclear Science Week at McMaster – Daily News&nbsp;&nbsp;McMaster Daily News",
       "summary": "",
       "author": "",
       "category": ""

@@ -4,8 +4,18 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-05T18:11:24.000Z",
+  "published": "2024-07-05T19:06:41.000Z",
   "entries": [
+    {
+      "id": "CBMiXGh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL2lsbGljaXQtY29iYWx0LXN0cmlrZS1zZXJ2ZXJzLWRpc3J1cHRlZC1pbi1nbG9iYWwtY3JhY2tkb3du0gEA",
+      "title": "Illicit Cobalt Strike servers disrupted in global crackdown - SC Media",
+      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL2JyaWVmL2lsbGljaXQtY29iYWx0LXN0cmlrZS1zZXJ2ZXJzLWRpc3J1cHRlZC1pbi1nbG9iYWwtY3JhY2tkb3du0gEA?oc=5",
+      "published": "2024-07-05T11:55:00.000Z",
+      "description": "Illicit Cobalt Strike servers disrupted in global crackdown&nbsp;&nbsp;SC Media",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
     {
       "id": "CBMiY2h0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM4MjQxNzAvbWlub3RhdXItaS1yb2NrZXQtbGF1bmNoZXMtZnJvbS12c2ZiL9IBAA",
       "title": "MINOTAUR I ROCKET LAUNCHES FROM VSFB - afgsc.af.mil",
@@ -17,21 +27,21 @@
       "category": ""
     },
     {
-      "id": "CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNy9nbG9iYWwtcG9saWNlLW9wZXJhdGlvbi1zaHV0cy1kb3duLTYwMC5odG1s0gEA",
-      "title": "Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNy9nbG9iYWwtcG9saWNlLW9wZXJhdGlvbi1zaHV0cy1kb3duLTYwMC5odG1s0gEA?oc=5",
-      "published": "2024-07-04T03:59:00.000Z",
-      "description": "Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike&nbsp;&nbsp;The Hacker News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMimgFodHRwczovL3d3dy52YW5kZW5iZXJnLnNwYWNlZm9yY2UubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzc1NTE3OC9haXItZm9yY2UtZ2xvYmFsLXN0cmlrZS1jb21tYW5kLXZhbmRlbmJlcmctc2ZiLWVudmlyb25tZW50YWwtc2FtcGxpbmctY29tcGxldGUv0gEA",
       "title": "Air Force Global Strike Command: Vandenberg SFB Environmental Sampling Complete - Vandenberg Space Force Base",
       "link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy52YW5kZW5iZXJnLnNwYWNlZm9yY2UubWlsL05ld3MvQXJ0aWNsZS1EaXNwbGF5L0FydGljbGUvMzc1NTE3OC9haXItZm9yY2UtZ2xvYmFsLXN0cmlrZS1jb21tYW5kLXZhbmRlbmJlcmctc2ZiLWVudmlyb25tZW50YWwtc2FtcGxpbmctY29tcGxldGUv0gEA?oc=5",
       "published": "2024-04-24T07:00:00.000Z",
       "description": "Air Force Global Strike Command: Vandenberg SFB Environmental Sampling Complete&nbsp;&nbsp;Vandenberg Space Force Base",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNy9nbG9iYWwtcG9saWNlLW9wZXJhdGlvbi1zaHV0cy1kb3duLTYwMC5odG1s0gEA",
+      "title": "Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlaGFja2VybmV3cy5jb20vMjAyNC8wNy9nbG9iYWwtcG9saWNlLW9wZXJhdGlvbi1zaHV0cy1kb3duLTYwMC5odG1s0gEA?oc=5",
+      "published": "2024-07-04T03:59:00.000Z",
+      "description": "Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike&nbsp;&nbsp;The Hacker News",
       "summary": "",
       "author": "",
       "category": ""
@@ -72,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMi8xMy9idXNpbmVzcy9wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLWdhemEtY2Vhc2VmaXJlLWRlbWFuZC9pbmRleC5odG1s0gFbaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8xMi8xMy9idXNpbmVzcy9wYWxlc3Rpbmlhbi1nbG9iYWwtc3RyaWtlLWdhemEtY2Vhc2VmaXJlLWRlbWFuZA?oc=5",
       "published": "2023-12-13T08:00:00.000Z",
       "description": "US businesses and consumers participate in global strike to demand a ceasefire in Gaza&nbsp;&nbsp;CNN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA",
-      "title": "Global Strike for Gaza: LA - CODEPINK - Women for Peace - CodePink",
-      "link": "https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA?oc=5",
-      "published": "2024-04-15T07:00:00.000Z",
-      "description": "Global Strike for Gaza: LA - CODEPINK - Women for Peace&nbsp;&nbsp;CodePink",
       "summary": "",
       "author": "",
       "category": ""
@@ -192,6 +192,16 @@
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM4MDQzODAvd2hhdC1pcy1kLWRheS_SAQA?oc=5",
       "published": "2024-06-10T07:00:00.000Z",
       "description": "What is D-Day?&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA",
+      "title": "Global Strike for Gaza: LA - CODEPINK - Women for Peace - CodePink",
+      "link": "https://news.google.com/rss/articles/CBMiHmh0dHBzOi8vd3d3LmNvZGVwaW5rLm9yZy9sYTQxNdIBAA?oc=5",
+      "published": "2024-04-15T07:00:00.000Z",
+      "description": "Global Strike for Gaza: LA - CODEPINK - Women for Peace&nbsp;&nbsp;CodePink",
       "summary": "",
       "author": "",
       "category": ""
@@ -577,16 +587,6 @@
       "category": ""
     },
     {
-      "id": "CBMiggFodHRwczovL3d3dy5kYXpuLmNvbS9lbi1VUy9uZXdzL2VzcG9ydHMvZGF6bi1hbmQtZXNwb3J0cy13b3JsZC1jdXAtZm91bmRhdGlvbi1zdHJpa2UtZ2xvYmFsLXBhcnRuZXJzaGlwLzFnZTFudnVubzE2ZXMxaGc5a2ExeXIwMjBv0gEA",
-      "title": "DAZN and Esports World Cup Foundation strike global partnership - dazn.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5kYXpuLmNvbS9lbi1VUy9uZXdzL2VzcG9ydHMvZGF6bi1hbmQtZXNwb3J0cy13b3JsZC1jdXAtZm91bmRhdGlvbi1zdHJpa2UtZ2xvYmFsLXBhcnRuZXJzaGlwLzFnZTFudnVubzE2ZXMxaGc5a2ExeXIwMjBv0gEA?oc=5",
-      "published": "2024-06-27T13:05:19.000Z",
-      "description": "DAZN and Esports World Cup Foundation strike global partnership&nbsp;&nbsp;dazn.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA",
       "title": "908th looks to industry to accelerate change and readiness - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1OTkzMTIvOTA4dGgtbG9va3MtdG8taW5kdXN0cnktdG8tYWNjZWxlcmF0ZS1jaGFuZ2UtYW5kLXJlYWRpbmVzcy_SAQA?oc=5",
@@ -622,6 +622,16 @@
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1MDI1MTMvYWZnc2MtbGVhZGVycy12aXNpdHMta2lydGxhbmQtYWlyLWZvcmNlLWJhc2Uv0gEA?oc=5",
       "published": "2023-08-21T07:00:00.000Z",
       "description": "AFGSC leaders visits Kirtland Air Force Base&nbsp;&nbsp;afgsc.af.mil",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiggFodHRwczovL3d3dy5kYXpuLmNvbS9lbi1VUy9uZXdzL2VzcG9ydHMvZGF6bi1hbmQtZXNwb3J0cy13b3JsZC1jdXAtZm91bmRhdGlvbi1zdHJpa2UtZ2xvYmFsLXBhcnRuZXJzaGlwLzFnZTFudnVubzE2ZXMxaGc5a2ExeXIwMjBv0gEA",
+      "title": "DAZN and Esports World Cup Foundation strike global partnership - dazn.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5kYXpuLmNvbS9lbi1VUy9uZXdzL2VzcG9ydHMvZGF6bi1hbmQtZXNwb3J0cy13b3JsZC1jdXAtZm91bmRhdGlvbi1zdHJpa2UtZ2xvYmFsLXBhcnRuZXJzaGlwLzFnZTFudnVubzE2ZXMxaGc5a2ExeXIwMjBv0gEA?oc=5",
+      "published": "2024-06-27T13:05:19.000Z",
+      "description": "DAZN and Esports World Cup Foundation strike global partnership&nbsp;&nbsp;dazn.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -737,16 +747,6 @@
       "category": ""
     },
     {
-      "id": "CBMicWh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9idXNpbmVzcy8yMDI0LzA2LzI1L2JpdGNvaW4tcGF5bWVudHMtYXBwLXN0cmlrZS1lbnRlcnMtdWstYXMtZ2xvYmFsLWV4cGFuc2lvbi1yb2xscy1vdXQv0gF1aHR0cHM6Ly93d3cuY29pbmRlc2suY29tL2J1c2luZXNzLzIwMjQvMDYvMjUvYml0Y29pbi1wYXltZW50cy1hcHAtc3RyaWtlLWVudGVycy11ay1hcy1nbG9iYWwtZXhwYW5zaW9uLXJvbGxzLW91dC9hbXAv",
-      "title": "Bitcoin Payments App Strike Enters UK as Global Expansion Rolls Out - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9idXNpbmVzcy8yMDI0LzA2LzI1L2JpdGNvaW4tcGF5bWVudHMtYXBwLXN0cmlrZS1lbnRlcnMtdWstYXMtZ2xvYmFsLWV4cGFuc2lvbi1yb2xscy1vdXQv0gF1aHR0cHM6Ly93d3cuY29pbmRlc2suY29tL2J1c2luZXNzLzIwMjQvMDYvMjUvYml0Y29pbi1wYXltZW50cy1hcHAtc3RyaWtlLWVudGVycy11ay1hcy1nbG9iYWwtZXhwYW5zaW9uLXJvbGxzLW91dC9hbXAv?oc=5",
-      "published": "2024-06-25T07:00:00.000Z",
-      "description": "Bitcoin Payments App Strike Enters UK as Global Expansion Rolls Out&nbsp;&nbsp;CoinDesk",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMifmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3Mzc0NTYvNXRoLWxycy1zdXBwb3J0cy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZWJheW91LXZpZ2lsYW5jZS0yNC0zL9IBAA",
       "title": "5th LRS supports Exercise Prairie Vigilance/Bayou Vigilance 24-3 - Minot Air Force Base",
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm1pbm90LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3Mzc0NTYvNXRoLWxycy1zdXBwb3J0cy1leGVyY2lzZS1wcmFpcmllLXZpZ2lsYW5jZWJheW91LXZpZ2lsYW5jZS0yNC0zL9IBAA?oc=5",
@@ -787,16 +787,6 @@
       "category": ""
     },
     {
-      "id": "CBMiTGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2xpdmUtZHJpbGxzLXVzLWFpci1mb3JjZS1wcmFjdGljZXMtbG9uZy1yYW5nZS_SAUxodHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9saXZlLWRyaWxscy11cy1haXItZm9yY2UtcHJhY3RpY2VzLWxvbmctcmFuZ2Uv",
-      "title": "Live Drills! US Air Force Practices Long-Range, Conventional Strike With AGM-158 JASSM & B-52H Bomber - EurAsian Times",
-      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2xpdmUtZHJpbGxzLXVzLWFpci1mb3JjZS1wcmFjdGljZXMtbG9uZy1yYW5nZS_SAUxodHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9saXZlLWRyaWxscy11cy1haXItZm9yY2UtcHJhY3RpY2VzLWxvbmctcmFuZ2Uv?oc=5",
-      "published": "2024-06-27T13:08:32.000Z",
-      "description": "Live Drills! US Air Force Practices Long-Range, Conventional Strike With AGM-158 JASSM & B-52H Bomber&nbsp;&nbsp;EurAsian Times",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMieGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2NjUwODgvZWxsc3dvcnRoLWNlbGVicmF0ZXMtdXNhZi1jaGFwbGFpbi1jb3Jwcy03NXRoLWFubml2ZXJzYXJ5L9IBAA",
       "title": "Ellsworth celebrates USAF Chaplain Corps 75th Anniversary - afgsc.af.mil",
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM2NjUwODgvZWxsc3dvcnRoLWNlbGVicmF0ZXMtdXNhZi1jaGFwbGFpbi1jb3Jwcy03NXRoLWFubml2ZXJzYXJ5L9IBAA?oc=5",
@@ -807,11 +797,31 @@
       "category": ""
     },
     {
+      "id": "CBMicWh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9idXNpbmVzcy8yMDI0LzA2LzI1L2JpdGNvaW4tcGF5bWVudHMtYXBwLXN0cmlrZS1lbnRlcnMtdWstYXMtZ2xvYmFsLWV4cGFuc2lvbi1yb2xscy1vdXQv0gF1aHR0cHM6Ly93d3cuY29pbmRlc2suY29tL2J1c2luZXNzLzIwMjQvMDYvMjUvYml0Y29pbi1wYXltZW50cy1hcHAtc3RyaWtlLWVudGVycy11ay1hcy1nbG9iYWwtZXhwYW5zaW9uLXJvbGxzLW91dC9hbXAv",
+      "title": "Bitcoin Payments App Strike Enters UK as Global Expansion Rolls Out - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmNvaW5kZXNrLmNvbS9idXNpbmVzcy8yMDI0LzA2LzI1L2JpdGNvaW4tcGF5bWVudHMtYXBwLXN0cmlrZS1lbnRlcnMtdWstYXMtZ2xvYmFsLWV4cGFuc2lvbi1yb2xscy1vdXQv0gF1aHR0cHM6Ly93d3cuY29pbmRlc2suY29tL2J1c2luZXNzLzIwMjQvMDYvMjUvYml0Y29pbi1wYXltZW50cy1hcHAtc3RyaWtlLWVudGVycy11ay1hcy1nbG9iYWwtZXhwYW5zaW9uLXJvbGxzLW91dC9hbXAv?oc=5",
+      "published": "2024-06-25T07:00:00.000Z",
+      "description": "Bitcoin Payments App Strike Enters UK as Global Expansion Rolls Out&nbsp;&nbsp;CoinDesk",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMihAFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy9wcmlvcml0eS0xLWFpci1yZXNjdWUtcmVjZWl2ZXMtNS15ZWFyLXRyYWluaW5nLWNvbnRyYWN0LXdpdGgtYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC_SAQA",
       "title": "Priority 1 Air Rescue receives 5-year training contract with Air Force Global Strike Command - Vertical Magazine",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3ZlcnRpY2FsbWFnLmNvbS9wcmVzcy1yZWxlYXNlcy9wcmlvcml0eS0xLWFpci1yZXNjdWUtcmVjZWl2ZXMtNS15ZWFyLXRyYWluaW5nLWNvbnRyYWN0LXdpdGgtYWlyLWZvcmNlLWdsb2JhbC1zdHJpa2UtY29tbWFuZC_SAQA?oc=5",
       "published": "2024-02-23T08:00:00.000Z",
       "description": "Priority 1 Air Rescue receives 5-year training contract with Air Force Global Strike Command&nbsp;&nbsp;Vertical Magazine",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2xpdmUtZHJpbGxzLXVzLWFpci1mb3JjZS1wcmFjdGljZXMtbG9uZy1yYW5nZS_SAUxodHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9saXZlLWRyaWxscy11cy1haXItZm9yY2UtcHJhY3RpY2VzLWxvbmctcmFuZ2Uv",
+      "title": "Live Drills! US Air Force Practices Long-Range, Conventional Strike With AGM-158 JASSM & B-52H Bomber - EurAsian Times",
+      "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmV1cmFzaWFudGltZXMuY29tL2xpdmUtZHJpbGxzLXVzLWFpci1mb3JjZS1wcmFjdGljZXMtbG9uZy1yYW5nZS_SAUxodHRwczovL3d3dy5ldXJhc2lhbnRpbWVzLmNvbS9saXZlLWRyaWxscy11cy1haXItZm9yY2UtcHJhY3RpY2VzLWxvbmctcmFuZ2Uv?oc=5",
+      "published": "2024-06-27T13:08:32.000Z",
+      "description": "Live Drills! US Air Force Practices Long-Range, Conventional Strike With AGM-158 JASSM & B-52H Bomber&nbsp;&nbsp;EurAsian Times",
       "summary": "",
       "author": "",
       "category": ""
@@ -932,16 +942,6 @@
       "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFmZ3NjLmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM1NzUyODQvZHllc3MtaG9ub3ItZ3VhcmQta2lja3Mtb2ZmLXdvcmxkLXNlcmllcy1vcGVuZXIv0gEA?oc=5",
       "published": "2023-10-30T07:00:00.000Z",
       "description": "Dyess Honor Guard kicks off World Series opener&nbsp;&nbsp;afgsc.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiS2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTk5MzQxL3dlc3RqZXQtc3RyaWtlLWVuZC1mdXJ0aGVyLWRpc3J1cHRpb25zL9IBT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTk5MzQxL3dlc3RqZXQtc3RyaWtlLWVuZC1mdXJ0aGVyLWRpc3J1cHRpb25zL2FtcC8",
-      "title": "WestJet faces ‘damage control’ after strike. What passengers should know - Global News Toronto",
-      "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTk5MzQxL3dlc3RqZXQtc3RyaWtlLWVuZC1mdXJ0aGVyLWRpc3J1cHRpb25zL9IBT2h0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTk5MzQxL3dlc3RqZXQtc3RyaWtlLWVuZC1mdXJ0aGVyLWRpc3J1cHRpb25zL2FtcC8?oc=5",
-      "published": "2024-07-02T13:08:18.000Z",
-      "description": "WestJet faces ‘damage control’ after strike. What passengers should know&nbsp;&nbsp;Global News Toronto",
       "summary": "",
       "author": "",
       "category": ""
