@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-09T04:10:45.000Z",
+  "published": "2024-07-09T05:08:48.000Z",
   "entries": [
     {
       "id": "CBMif2h0dHBzOi8vd3d3LmFmLm1pbC9OZXdzL0FydGljbGUtRGlzcGxheS9BcnRpY2xlLzM3NzA1MTIvMjAyMy1udWNsZWFyLWRldGVycmVuY2Utb3BlcmF0aW9ucy1taXNzaWxlLW9wZXJhdGlvbnMtYXdhcmRzLWFubm91bmNlZC_SAQA",
@@ -118,10 +118,10 @@
     },
     {
       "id": "CBMiVWh0dHBzOi8vd3d3Lndzai5jb20vdGVjaC9haS9taWNyb3NvZnQtdGFyZ2V0cy1udWNsZWFyLXRvLXBvd2VyLWFpLW9wZXJhdGlvbnMtZTEwZmY3OTjSAQA",
-      "title": "Microsoft Targets Nuclear to Power AI Operations - The Wall Street Journal",
+      "title": "Microsoft Targets Nuclear to Power AI Operations - WSJ - The Wall Street Journal",
       "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lndzai5jb20vdGVjaC9haS9taWNyb3NvZnQtdGFyZ2V0cy1udWNsZWFyLXRvLXBvd2VyLWFpLW9wZXJhdGlvbnMtZTEwZmY3OTjSAQA?oc=5",
       "published": "2023-12-12T08:00:00.000Z",
-      "description": "Microsoft Targets Nuclear to Power AI Operations&nbsp;&nbsp;The Wall Street Journal",
+      "description": "Microsoft Targets Nuclear to Power AI Operations - WSJ&nbsp;&nbsp;The Wall Street Journal",
       "summary": "",
       "author": "",
       "category": ""
@@ -367,16 +367,6 @@
       "category": ""
     },
     {
-      "id": "CBMiRmh0dHBzOi8vd3d3LnNwZWN0YXRvci5jb20uYXUvMjAyNC8wNy9udWNsZWFyLWlzLWJ1dC10aGUtc2Vjb25kLW9wdGlvbi_SAQA",
-      "title": "Nuclear is but the second option - The Spectator Australia",
-      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnNwZWN0YXRvci5jb20uYXUvMjAyNC8wNy9udWNsZWFyLWlzLWJ1dC10aGUtc2Vjb25kLW9wdGlvbi_SAQA?oc=5",
-      "published": "2024-07-08T17:11:48.000Z",
-      "description": "Nuclear is but the second option&nbsp;&nbsp;The Spectator Australia",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMidWh0dHBzOi8vd3d3LmlhZWEub3JnL3B1YmxpY2F0aW9ucy8xNTE3Ny91c2Utb2YtcGVyaW9kaWMtc2FmZXR5LXJldmlldy1mb3ItbG9uZy10ZXJtLW9wZXJhdGlvbi1vZi1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA",
       "title": "Use of Periodic Safety Review for Long Term Operation of Nuclear Power Plants | IAEA - International Atomic Energy Agency",
       "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmlhZWEub3JnL3B1YmxpY2F0aW9ucy8xNTE3Ny91c2Utb2YtcGVyaW9kaWMtc2FmZXR5LXJldmlldy1mb3ItbG9uZy10ZXJtLW9wZXJhdGlvbi1vZi1udWNsZWFyLXBvd2VyLXBsYW50c9IBAA?oc=5",
@@ -392,6 +382,16 @@
       "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5pYWVhLm9yZy9wdWJsaWNhdGlvbnMvMTUwODcvbGljZW5zaW5nLXByb2Nlc3MtZm9yLXRoZS1jb25zdHJ1Y3Rpb24tY29tbWlzc2lvbmluZy1hbmQtb3BlcmF0aW9uLW9mLW51Y2xlYXItcG93ZXItcGxhbnRz0gEA?oc=5",
       "published": "2023-10-18T18:36:54.000Z",
       "description": "Licensing Process for the Construction, Commissioning and Operation of Nuclear Power Plants | IAEA&nbsp;&nbsp;International Atomic Energy Agency",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiRmh0dHBzOi8vd3d3LnNwZWN0YXRvci5jb20uYXUvMjAyNC8wNy9udWNsZWFyLWlzLWJ1dC10aGUtc2Vjb25kLW9wdGlvbi_SAQA",
+      "title": "Nuclear is but the second option - The Spectator Australia",
+      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LnNwZWN0YXRvci5jb20uYXUvMjAyNC8wNy9udWNsZWFyLWlzLWJ1dC10aGUtc2Vjb25kLW9wdGlvbi_SAQA?oc=5",
+      "published": "2024-07-08T17:11:48.000Z",
+      "description": "Nuclear is but the second option&nbsp;&nbsp;The Spectator Australia",
       "summary": "",
       "author": "",
       "category": ""
@@ -677,21 +677,21 @@
       "category": ""
     },
     {
-      "id": "CBMieGh0dHBzOi8vd3d3LmVuZXJneS5nb3YvbHBvL2FydGljbGVzL3BsYW50LXZvZ3RsZS11bml0LTMtZW50ZXJzLWNvbW1lcmNpYWwtb3BlcmF0aW9ucy1icmluZ2luZy1jYXJib24tZnJlZS1udWNsZWFyLWVuZXJnedIBAA",
-      "title": "Plant Vogtle Unit 3 Enters Commercial Operations, Bringing Carbon-Free Nuclear Energy to Millions - Energy.gov",
-      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmVuZXJneS5nb3YvbHBvL2FydGljbGVzL3BsYW50LXZvZ3RsZS11bml0LTMtZW50ZXJzLWNvbW1lcmNpYWwtb3BlcmF0aW9ucy1icmluZ2luZy1jYXJib24tZnJlZS1udWNsZWFyLWVuZXJnedIBAA?oc=5",
-      "published": "2023-07-31T07:00:00.000Z",
-      "description": "Plant Vogtle Unit 3 Enters Commercial Operations, Bringing Carbon-Free Nuclear Energy to Millions&nbsp;&nbsp;Energy.gov",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVGh0dHBzOi8vaW5sLmdvdi9udWNsZWFyLWVuZXJneS9hLW5ldy1tYXRlcmlhbC1leHBhbmRzLW51Y2xlYXItb3BlcmF0aW5nLXRlbXBlcmF0dXJlL9IBAA",
       "title": "Commercial alloy qualified for new use, expanding nuclear operating temperature - Idaho National Laboratory",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vaW5sLmdvdi9udWNsZWFyLWVuZXJneS9hLW5ldy1tYXRlcmlhbC1leHBhbmRzLW51Y2xlYXItb3BlcmF0aW5nLXRlbXBlcmF0dXJlL9IBAA?oc=5",
       "published": "2023-07-31T22:59:02.000Z",
       "description": "Commercial alloy qualified for new use, expanding nuclear operating temperature&nbsp;&nbsp;Idaho National Laboratory",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMieGh0dHBzOi8vd3d3LmVuZXJneS5nb3YvbHBvL2FydGljbGVzL3BsYW50LXZvZ3RsZS11bml0LTMtZW50ZXJzLWNvbW1lcmNpYWwtb3BlcmF0aW9ucy1icmluZ2luZy1jYXJib24tZnJlZS1udWNsZWFyLWVuZXJnedIBAA",
+      "title": "Plant Vogtle Unit 3 Enters Commercial Operations, Bringing Carbon-Free Nuclear Energy to Millions - Energy.gov",
+      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmVuZXJneS5nb3YvbHBvL2FydGljbGVzL3BsYW50LXZvZ3RsZS11bml0LTMtZW50ZXJzLWNvbW1lcmNpYWwtb3BlcmF0aW9ucy1icmluZ2luZy1jYXJib24tZnJlZS1udWNsZWFyLWVuZXJnedIBAA?oc=5",
+      "published": "2023-07-31T07:00:00.000Z",
+      "description": "Plant Vogtle Unit 3 Enters Commercial Operations, Bringing Carbon-Free Nuclear Energy to Millions&nbsp;&nbsp;Energy.gov",
       "summary": "",
       "author": "",
       "category": ""
