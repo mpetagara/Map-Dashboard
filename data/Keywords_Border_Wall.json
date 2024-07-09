@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-09T09:09:36.000Z",
+  "published": "2024-07-09T10:09:47.000Z",
   "entries": [
     {
       "id": "CBMidWh0dHBzOi8vbXlyZ3YuY29tL2xvY2FsLW5ld3MvMjAyNC8wNy8wNy9mZWRlcmFsLWdvdmVybm1lbnQtdGFyZ2V0cy0zOS1hY3Jlcy1pbi1zdGFyci1jb3VudHktZm9yLXByb3Bvc2VkLWJvcmRlci13YWxsL9IBAA",
@@ -187,16 +187,6 @@
       "category": ""
     },
     {
-      "id": "CBMiW2h0dHBzOi8vd3d3LmNvdXJ0aG91c2VuZXdzLmNvbS9zZWNvbmQtY2lyY3VpdC1yZWV4YW1pbmVzLWJvcmRlci13YWxsLWZ1bmRyYWlzZXItZnJhdWQtY2FzZS_SAQA",
-      "title": "Second Circuit reexamines border wall fundraiser fraud case - Courthouse News Service",
-      "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNvdXJ0aG91c2VuZXdzLmNvbS9zZWNvbmQtY2lyY3VpdC1yZWV4YW1pbmVzLWJvcmRlci13YWxsLWZ1bmRyYWlzZXItZnJhdWQtY2FzZS_SAQA?oc=5",
-      "published": "2024-05-07T07:00:00.000Z",
-      "description": "Second Circuit reexamines border wall fundraiser fraud case&nbsp;&nbsp;Courthouse News Service",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiSWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMy8xMy90ZXhhcy1ib3JkZXItYmFycmllci1mdW5kcy1iaWRlbi_SAQA",
       "title": "Biden blocked from diverting border barrier funds - The Texas Tribune",
       "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wMy8xMy90ZXhhcy1ib3JkZXItYmFycmllci1mdW5kcy1iaWRlbi_SAQA?oc=5",
@@ -237,21 +227,21 @@
       "category": ""
     },
     {
-      "id": "CBMiTWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8wNS9iaWRlbi1ib3JkZXItd2FsbC10ZXhhcy1zdGFyci1jb3VudHkv0gEA",
-      "title": "Biden administration presses forward with border wall plans in Texas, angering allies - The Texas Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8wNS9iaWRlbi1ib3JkZXItd2FsbC10ZXhhcy1zdGFyci1jb3VudHkv0gEA?oc=5",
-      "published": "2023-10-05T07:00:00.000Z",
-      "description": "Biden administration presses forward with border wall plans in Texas, angering allies&nbsp;&nbsp;The Texas Tribune",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiU2h0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3QvdGV4YXMtZm9yd2FyZC1vcGVyYXRpbmctYmFzZS1jb25zdHJ1Y3Rpb24tY29udGludWVz0gEA",
       "title": "Texas’ Forward Operating Base Construction Continues - Office of the Texas Governor",
       "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3QvdGV4YXMtZm9yd2FyZC1vcGVyYXRpbmctYmFzZS1jb25zdHJ1Y3Rpb24tY29udGludWVz0gEA?oc=5",
       "published": "2024-04-26T07:00:00.000Z",
       "description": "Texas’ Forward Operating Base Construction Continues&nbsp;&nbsp;Office of the Texas Governor",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiTWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8wNS9iaWRlbi1ib3JkZXItd2FsbC10ZXhhcy1zdGFyci1jb3VudHkv0gEA",
+      "title": "Biden administration presses forward with border wall plans in Texas, angering allies - The Texas Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8wNS9iaWRlbi1ib3JkZXItd2FsbC10ZXhhcy1zdGFyci1jb3VudHkv0gEA?oc=5",
+      "published": "2023-10-05T07:00:00.000Z",
+      "description": "Biden administration presses forward with border wall plans in Texas, angering allies&nbsp;&nbsp;The Texas Tribune",
       "summary": "",
       "author": "",
       "category": ""
@@ -277,6 +267,16 @@
       "category": ""
     },
     {
+      "id": "CBMiZWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDMvYXJpem9uYS1tZXhpY28tYm9yZGVyLWltbWlncmF0aW9uLWJpZGVuLXRydW1w0gFlaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8wMy9hcml6b25hLW1leGljby1ib3JkZXItaW1taWdyYXRpb24tYmlkZW4tdHJ1bXA",
+      "title": "At the Arizona-Mexico border, residents are fed up: ‘The politicians are creating the mayhem’ - The Guardian US",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMDMvYXJpem9uYS1tZXhpY28tYm9yZGVyLWltbWlncmF0aW9uLWJpZGVuLXRydW1w0gFlaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VzLW5ld3MvYXJ0aWNsZS8yMDI0L2p1bC8wMy9hcml6b25hLW1leGljby1ib3JkZXItaW1taWdyYXRpb24tYmlkZW4tdHJ1bXA?oc=5",
+      "published": "2024-07-03T13:00:00.000Z",
+      "description": "At the Arizona-Mexico border, residents are fed up: ‘The politicians are creating the mayhem’&nbsp;&nbsp;The Guardian US",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiYWh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1hZHZhbmNlcy1jb25zdHJ1Y3Rpb24tb2YtaGlzdG9yaWMtYm9yZGVyLXdhbGzSAQA",
       "title": "Operation Lone Star Advances Construction Of Historic Border Wall - Office of the Texas Governor",
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3Qvb3BlcmF0aW9uLWxvbmUtc3Rhci1hZHZhbmNlcy1jb25zdHJ1Y3Rpb24tb2YtaGlzdG9yaWMtYm9yZGVyLXdhbGzSAQA?oc=5",
@@ -297,11 +297,31 @@
       "category": ""
     },
     {
+      "id": "CBMiZmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2xpdGlnYXRpb24vYmlkZW4tYmFycmVkLWZyb20tcmVkaXJlY3RpbmctMS00LWJpbGxpb24taW4tdHJ1bXAtd2FsbC1mdW5kc9IBAA",
+      "title": "Biden Barred From Redirecting $1.4 Billion in Trump Wall Funds - Bloomberg Law",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vbmV3cy5ibG9vbWJlcmdsYXcuY29tL2xpdGlnYXRpb24vYmlkZW4tYmFycmVkLWZyb20tcmVkaXJlY3RpbmctMS00LWJpbGxpb24taW4tdHJ1bXAtd2FsbC1mdW5kc9IBAA?oc=5",
+      "published": "2024-03-11T07:00:00.000Z",
+      "description": "Biden Barred From Redirecting $1.4 Billion in Trump Wall Funds&nbsp;&nbsp;Bloomberg Law",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMihAFodHRwczovL3d3dy5rcGJzLm9yZy9uZXdzL2JvcmRlci1pbW1pZ3JhdGlvbi8yMDIzLzExLzMwL2EtdHJhZ2ljLW1pbGVzdG9uZS1zYW4tZGllZ28tcmVnaW9uLXJlYWNoZXMtbmV3LWhpZ2gtaW4tYm9yZGVyLXdhbGwtaW5qdXJpZXPSAQA",
       "title": "A tragic milestone: San Diego region reaches new high in border wall injuries - KPBS",
       "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5rcGJzLm9yZy9uZXdzL2JvcmRlci1pbW1pZ3JhdGlvbi8yMDIzLzExLzMwL2EtdHJhZ2ljLW1pbGVzdG9uZS1zYW4tZGllZ28tcmVnaW9uLXJlYWNoZXMtbmV3LWhpZ2gtaW4tYm9yZGVyLXdhbGwtaW5qdXJpZXPSAQA?oc=5",
       "published": "2023-11-30T08:00:00.000Z",
       "description": "A tragic milestone: San Diego region reaches new high in border wall injuries&nbsp;&nbsp;KPBS",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiX2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLWFzeWx1bS1iYW4taGFsdC1ib3JkZXItbWV4aWNvLTE5MDVlMzU2NWIyZGExY2ZmYjhmMzhhNzc4YzA3MTE40gEA",
+      "title": "Immigration: What to know about Biden’s new border order - The Associated Press",
+      "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLWFzeWx1bS1iYW4taGFsdC1ib3JkZXItbWV4aWNvLTE5MDVlMzU2NWIyZGExY2ZmYjhmMzhhNzc4YzA3MTE40gEA?oc=5",
+      "published": "2024-06-04T07:00:00.000Z",
+      "description": "Immigration: What to know about Biden’s new border order&nbsp;&nbsp;The Associated Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -447,6 +467,16 @@
       "category": ""
     },
     {
+      "id": "CBMicGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudC1taXNzaW5nLWluLW9jZWFuLWFmdGVyLXRyeWluZy10by1zd2ltLWFyb3VuZC1ib3JkZXItYmFycmllci_SAXRodHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9ib3JkZXItcmVwb3J0L21pZ3JhbnQtbWlzc2luZy1pbi1vY2Vhbi1hZnRlci10cnlpbmctdG8tc3dpbS1hcm91bmQtYm9yZGVyLWJhcnJpZXIvYW1wLw",
+      "title": "Migrant missing in ocean after trying to swim around border barrier - FOX 5 San Diego",
+      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudC1taXNzaW5nLWluLW9jZWFuLWFmdGVyLXRyeWluZy10by1zd2ltLWFyb3VuZC1ib3JkZXItYmFycmllci_SAXRodHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9ib3JkZXItcmVwb3J0L21pZ3JhbnQtbWlzc2luZy1pbi1vY2Vhbi1hZnRlci10cnlpbmctdG8tc3dpbS1hcm91bmQtYm9yZGVyLWJhcnJpZXIvYW1wLw?oc=5",
+      "published": "2024-05-31T07:00:00.000Z",
+      "description": "Migrant missing in ocean after trying to swim around border barrier&nbsp;&nbsp;FOX 5 San Diego",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjczNzI5MDnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY3MzcyOTA5LmFtcA",
       "title": "Vivek Ramaswamy idea for US-Canada border wall labelled 'extreme' - BBC.com",
       "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjczNzI5MDnSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY3MzcyOTA5LmFtcA?oc=5",
@@ -462,16 +492,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vYm9yZGVyLWNvdmVyYWdlL2JvcmRlci13YWxsLXNlY3VyaXR5LXBvbGl0aWNzL9IBZGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vYm9yZGVyLWNvdmVyYWdlL2JvcmRlci13YWxsLXNlY3VyaXR5LXBvbGl0aWNzL2FtcC8?oc=5",
       "published": "2024-05-27T07:00:00.000Z",
       "description": "Border wall about national security, not politics: sheriff&nbsp;&nbsp;NewsNation Now",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMikAFodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL2ltbWlncmF0aW9uL3RoZS1ib3JkZXItd2FsbC9yYW5jaGVyLWNvbnNpZGVycy1sZXR0aW5nLXRleGFzLWJ1aWxkLWl0cy1iZWF1dGlmdWwtYm9yZGVyLXdhbGwtb24tcml2ZXJmcm9udC1wcm9wZXJ0eS_SAZQBaHR0cHM6Ly93d3cuYm9yZGVycmVwb3J0LmNvbS9pbW1pZ3JhdGlvbi90aGUtYm9yZGVyLXdhbGwvcmFuY2hlci1jb25zaWRlcnMtbGV0dGluZy10ZXhhcy1idWlsZC1pdHMtYmVhdXRpZnVsLWJvcmRlci13YWxsLW9uLXJpdmVyZnJvbnQtcHJvcGVydHkvYW1wLw",
-      "title": "Rancher considers letting Texas build its ‘beautiful’ border wall on his riverfront property - Border Report",
-      "link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL2ltbWlncmF0aW9uL3RoZS1ib3JkZXItd2FsbC9yYW5jaGVyLWNvbnNpZGVycy1sZXR0aW5nLXRleGFzLWJ1aWxkLWl0cy1iZWF1dGlmdWwtYm9yZGVyLXdhbGwtb24tcml2ZXJmcm9udC1wcm9wZXJ0eS_SAZQBaHR0cHM6Ly93d3cuYm9yZGVycmVwb3J0LmNvbS9pbW1pZ3JhdGlvbi90aGUtYm9yZGVyLXdhbGwvcmFuY2hlci1jb25zaWRlcnMtbGV0dGluZy10ZXhhcy1idWlsZC1pdHMtYmVhdXRpZnVsLWJvcmRlci13YWxsLW9uLXJpdmVyZnJvbnQtcHJvcGVydHkvYW1wLw?oc=5",
-      "published": "2024-04-29T07:00:00.000Z",
-      "description": "Rancher considers letting Texas build its ‘beautiful’ border wall on his riverfront property&nbsp;&nbsp;Border Report",
       "summary": "",
       "author": "",
       "category": ""
@@ -497,21 +517,21 @@
       "category": ""
     },
     {
-      "id": "CBMicGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudC1taXNzaW5nLWluLW9jZWFuLWFmdGVyLXRyeWluZy10by1zd2ltLWFyb3VuZC1ib3JkZXItYmFycmllci_SAXRodHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9ib3JkZXItcmVwb3J0L21pZ3JhbnQtbWlzc2luZy1pbi1vY2Vhbi1hZnRlci10cnlpbmctdG8tc3dpbS1hcm91bmQtYm9yZGVyLWJhcnJpZXIvYW1wLw",
-      "title": "Migrant missing in ocean after trying to swim around border barrier - FOX 5 San Diego",
-      "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vZm94NXNhbmRpZWdvLmNvbS9uZXdzL2JvcmRlci1yZXBvcnQvbWlncmFudC1taXNzaW5nLWluLW9jZWFuLWFmdGVyLXRyeWluZy10by1zd2ltLWFyb3VuZC1ib3JkZXItYmFycmllci_SAXRodHRwczovL2ZveDVzYW5kaWVnby5jb20vbmV3cy9ib3JkZXItcmVwb3J0L21pZ3JhbnQtbWlzc2luZy1pbi1vY2Vhbi1hZnRlci10cnlpbmctdG8tc3dpbS1hcm91bmQtYm9yZGVyLWJhcnJpZXIvYW1wLw?oc=5",
-      "published": "2024-05-31T07:00:00.000Z",
-      "description": "Migrant missing in ocean after trying to swim around border barrier&nbsp;&nbsp;FOX 5 San Diego",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiWmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWJ1aWxkLW5ldy1iYXJyaWVycy1yb2Fkcy10ZXhhcy1ib3JkZXItYXJlYS0yMDIzLTEwLTA1L9IBAA",
       "title": "Biden to build more US border wall using Trump-era funds - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWJ1aWxkLW5ldy1iYXJyaWVycy1yb2Fkcy10ZXhhcy1ib3JkZXItYXJlYS0yMDIzLTEwLTA1L9IBAA?oc=5",
       "published": "2023-10-06T07:00:00.000Z",
       "description": "Biden to build more US border wall using Trump-era funds&nbsp;&nbsp;Reuters",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wNS9wb2xpdGljcy9iaWRlbi1hZG1pbmlzdHJhdGlvbi1ib3JkZXItd2FsbC9pbmRleC5odG1s0gEA",
+      "title": "Biden says border walls don’t work as administration bypasses laws to build more barriers in South Texas - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wNS9wb2xpdGljcy9iaWRlbi1hZG1pbmlzdHJhdGlvbi1ib3JkZXItd2FsbC9pbmRleC5odG1s0gEA?oc=5",
+      "published": "2023-10-05T07:00:00.000Z",
+      "description": "Biden says border walls don’t work as administration bypasses laws to build more barriers in South Texas&nbsp;&nbsp;CNN",
       "summary": "",
       "author": "",
       "category": ""
@@ -527,11 +547,11 @@
       "category": ""
     },
     {
-      "id": "CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wNS9wb2xpdGljcy9iaWRlbi1hZG1pbmlzdHJhdGlvbi1ib3JkZXItd2FsbC9pbmRleC5odG1s0gEA",
-      "title": "Biden says border walls don’t work as administration bypasses laws to build more barriers in South Texas - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8xMC8wNS9wb2xpdGljcy9iaWRlbi1hZG1pbmlzdHJhdGlvbi1ib3JkZXItd2FsbC9pbmRleC5odG1s0gEA?oc=5",
-      "published": "2023-10-05T07:00:00.000Z",
-      "description": "Biden says border walls don’t work as administration bypasses laws to build more barriers in South Texas&nbsp;&nbsp;CNN",
+      "id": "CBMibmh0dHBzOi8vbW9udGFuYWZyZWVwcmVzcy5vcmcvMjAyNC8wNS8yMS93aGF0LW1vbnRhbmEtdXMtaG91c2UtY2FuZGlkYXRlcy1hcmUtc2F5aW5nLWFib3V0LXRoZS1zb3V0aGVybi1ib3JkZXIv0gEA",
+      "title": "What Montana's U.S. House candidates are saying about the southern border - Montana Free Press",
+      "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbW9udGFuYWZyZWVwcmVzcy5vcmcvMjAyNC8wNS8yMS93aGF0LW1vbnRhbmEtdXMtaG91c2UtY2FuZGlkYXRlcy1hcmUtc2F5aW5nLWFib3V0LXRoZS1zb3V0aGVybi1ib3JkZXIv0gEA?oc=5",
+      "published": "2024-05-21T07:00:00.000Z",
+      "description": "What Montana's U.S. House candidates are saying about the southern border&nbsp;&nbsp;Montana Free Press",
       "summary": "",
       "author": "",
       "category": ""
@@ -557,16 +577,6 @@
       "category": ""
     },
     {
-      "id": "CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA",
-      "title": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA?oc=5",
-      "published": "2024-07-03T16:20:34.000Z",
-      "description": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion&nbsp;&nbsp;Hoodline",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FyaXpvbmEtYm9yZGVyLXdhbGwtYnJlYWNoZXMtYXN5bHVtLWltbWlncmF0aW9uLWJlZGRkMmNhMGZmZDAyODg0Y2UwZDBhZDE3ODVmNTM40gEA",
       "title": "Immigration: Illegal crossings surge along U.S. and Mexico border - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FyaXpvbmEtYm9yZGVyLXdhbGwtYnJlYWNoZXMtYXN5bHVtLWltbWlncmF0aW9uLWJlZGRkMmNhMGZmZDAyODg0Y2UwZDBhZDE3ODVmNTM40gEA?oc=5",
@@ -582,6 +592,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyNC8wNC8wMS9kYWRlLXBoZWxhbi1ib3JkZXItaW1taWdyYXRpb24tcHJpbWFyeS_SAQA?oc=5",
       "published": "2024-04-01T07:00:00.000Z",
       "description": "Phelan’s record on border takes center stage in GOP primary&nbsp;&nbsp;The Texas Tribune",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA",
+      "title": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA?oc=5",
+      "published": "2024-07-03T16:20:34.000Z",
+      "description": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion&nbsp;&nbsp;Hoodline",
       "summary": "",
       "author": "",
       "category": ""
@@ -607,11 +627,11 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8",
-      "title": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall - Reform Austin",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8?oc=5",
-      "published": "2024-07-03T19:57:31.000Z",
-      "description": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall&nbsp;&nbsp;Reform Austin",
+      "id": "CBMiU2h0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vdGV4YXMtYWJib3R0LWJvcmRlci13YWxsLWNhbWVyYXMv0gFXaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi90ZXhhcy1hYmJvdHQtYm9yZGVyLXdhbGwtY2FtZXJhcy9hbXAv",
+      "title": "Texas Gov. Abbott expands Del Rio border wall, installs cameras - NewsNation Now",
+      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vdGV4YXMtYWJib3R0LWJvcmRlci13YWxsLWNhbWVyYXMv0gFXaHR0cHM6Ly93d3cubmV3c25hdGlvbm5vdy5jb20vdXMtbmV3cy9pbW1pZ3JhdGlvbi90ZXhhcy1hYmJvdHQtYm9yZGVyLXdhbGwtY2FtZXJhcy9hbXAv?oc=5",
+      "published": "2024-05-16T07:00:00.000Z",
+      "description": "Texas Gov. Abbott expands Del Rio border wall, installs cameras&nbsp;&nbsp;NewsNation Now",
       "summary": "",
       "author": "",
       "category": ""
@@ -622,6 +642,16 @@
       "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JvcmRlci13YWxsLWJpZGVuLWltbWlncmF0aW9uLXRleGFzLXJpby1ncmFuZGUtMTQ3ZDdhYjQ5N2U2OTkxZTllYTkyOTI0MmYyMWNlYjLSAQA?oc=5",
       "published": "2023-10-05T07:00:00.000Z",
       "description": "The Biden administration says it is using executive power to allow border wall construction in Texas&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8",
+      "title": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall - Reform Austin",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8?oc=5",
+      "published": "2024-07-03T19:57:31.000Z",
+      "description": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall&nbsp;&nbsp;Reform Austin",
       "summary": "",
       "author": "",
       "category": ""
@@ -682,16 +712,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vaWRhaG9jYXBpdGFsc3VuLmNvbS8yMDI0LzA0LzIxL3Utcy1ob3VzZS12b3Rlcy1kb3duLWJvcmRlci1iaWxsLWZhdm9yZWQtYnktY29uc2VydmF0aXZlcy_SAQA?oc=5",
       "published": "2024-04-21T07:00:00.000Z",
       "description": "U.S. House votes down border bill favored by conservatives • Idaho Capital Sun&nbsp;&nbsp;Idaho Capital Sun",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiYWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvdHJ1bXAtYm9yZGVyLXdhbGwtYmVya2VsZXktcGVvcGxlLXMtcGFyay0xODU4OTU5MS5waHDSAQA",
-      "title": "'Trump's border wall' in Berkeley: Will shipping containers keep protests out of People's Park? - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnNmY2hyb25pY2xlLmNvbS9iYXlhcmVhL2FydGljbGUvdHJ1bXAtYm9yZGVyLXdhbGwtYmVya2VsZXktcGVvcGxlLXMtcGFyay0xODU4OTU5MS5waHDSAQA?oc=5",
-      "published": "2024-01-04T08:00:00.000Z",
-      "description": "'Trump's border wall' in Berkeley: Will shipping containers keep protests out of People's Park?&nbsp;&nbsp;San Francisco Chronicle",
       "summary": "",
       "author": "",
       "category": ""
@@ -762,6 +782,16 @@
       "link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vbWlzc291cmlpbmRlcGVuZGVudC5jb20vMjAyMy8xMC8xNi9iaWRlbnMtZ28tYWhlYWQtZm9yLWFkZGVkLWJvcmRlci13YWxsLWRyYXdzLWNyaXRpY2lzbS1mcm9tLWRlbW9jcmF0cy1pbi1jb25ncmVzcy_SAQA?oc=5",
       "published": "2023-10-16T07:00:00.000Z",
       "description": "Biden's go-ahead for added border wall draws criticism from Democrats in Congress • Missouri Independent&nbsp;&nbsp;Missouri Independent",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZWh0dHBzOi8vbmV3cy5tb25nYWJheS5jb20vMjAyNC8wMS91LXMtYm9yZGVyLXdhbGwtdGhyZWF0ZW5zLXdvcmxkLWhlcml0YWdlLXN0YXR1cy1vZi1tZXhpY2FuLXJlc2VydmUv0gEA",
+      "title": "U.S. border wall threatens World Heritage status of Mexican reserve - Mongabay.com",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmV3cy5tb25nYWJheS5jb20vMjAyNC8wMS91LXMtYm9yZGVyLXdhbGwtdGhyZWF0ZW5zLXdvcmxkLWhlcml0YWdlLXN0YXR1cy1vZi1tZXhpY2FuLXJlc2VydmUv0gEA?oc=5",
+      "published": "2024-01-19T08:00:00.000Z",
+      "description": "U.S. border wall threatens World Heritage status of Mexican reserve&nbsp;&nbsp;Mongabay.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -842,16 +872,6 @@
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJvcmRlcnJlcG9ydC5jb20vcmVnaW9ucy90ZXhhcy8xc3Qtc2VnbWVudC1vZi10ZXhhcy1mdW5kZWQtYm9yZGVyLXdhbGwtaW4temFwYXRhLWNvdW50eS1pcy1nb2luZy11cC_SAXRodHRwczovL3d3dy5ib3JkZXJyZXBvcnQuY29tL3JlZ2lvbnMvdGV4YXMvMXN0LXNlZ21lbnQtb2YtdGV4YXMtZnVuZGVkLWJvcmRlci13YWxsLWluLXphcGF0YS1jb3VudHktaXMtZ29pbmctdXAvYW1wLw?oc=5",
       "published": "2024-04-15T07:00:00.000Z",
       "description": "1st segment of Texas-funded border wall in Zapata County is going up&nbsp;&nbsp;Border Report",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjg4NjE2NjDSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY4ODYxNjYwLmFtcA",
-      "title": "US migrant crisis shifts from Texas to California border - BBC.com",
-      "link": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNjg4NjE2NjDSATVodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtdXMtY2FuYWRhLTY4ODYxNjYwLmFtcA?oc=5",
-      "published": "2024-04-20T07:00:00.000Z",
-      "description": "US migrant crisis shifts from Texas to California border&nbsp;&nbsp;BBC.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -982,26 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvYmlkZW4tY2xhaW1zLWNob2ljZS1idWlsZC10cnVtcHMtYm9yZGVyLXdhbGwvc3Rvcnk_aWQ9MTAzNzU3MDE30gFjaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvUG9saXRpY3MvYmlkZW4tY2xhaW1zLWNob2ljZS1idWlsZC10cnVtcHMtYm9yZGVyLXdhbGwvc3Rvcnk_aWQ9MTAzNzU3MDE3?oc=5",
       "published": "2023-10-05T07:00:00.000Z",
       "description": "Why Biden claims he has no choice but to build more of Trump's border wall&nbsp;&nbsp;ABC News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMieWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzExLzIxL2JpZGVuLXRydW1wLWJvcmRlci13YWxsLWluanVyaWVzLWRlYXRoLWhvc3BpdGFsLWltcGFjdC83MTU4NDgyOTAwNy_SAQA",
-      "title": "Migrants falling off 'unclimbable' southern border wall fill hospitals - USA TODAY",
-      "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzExLzIxL2JpZGVuLXRydW1wLWJvcmRlci13YWxsLWluanVyaWVzLWRlYXRoLWhvc3BpdGFsLWltcGFjdC83MTU4NDgyOTAwNy_SAQA?oc=5",
-      "published": "2023-11-21T08:00:00.000Z",
-      "description": "Migrants falling off 'unclimbable' southern border wall fill hospitals&nbsp;&nbsp;USA TODAY",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiVmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTAvMDUvYmlkZW4tYWRtaW5pc3RyYXRpb24tcmVzdW1lcy1ib3JkZXItd2FsbC1jb25zdHJ1Y3Rpb24v0gEA",
-      "title": "Biden administration resumes border wall construction - Roll Call",
-      "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcm9sbGNhbGwuY29tLzIwMjMvMTAvMDUvYmlkZW4tYWRtaW5pc3RyYXRpb24tcmVzdW1lcy1ib3JkZXItd2FsbC1jb25zdHJ1Y3Rpb24v0gEA?oc=5",
-      "published": "2023-10-05T07:00:00.000Z",
-      "description": "Biden administration resumes border wall construction&nbsp;&nbsp;Roll Call",
       "summary": "",
       "author": "",
       "category": ""
