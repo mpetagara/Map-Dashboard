@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-09T05:08:45.000Z",
+  "published": "2024-07-09T06:12:45.000Z",
   "entries": [
     {
       "id": "CBMiVmh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2RlZmVuc2UvNDc1OTk1Ny1zZW50aW5lbC1udWNsZWFyLW1pc3NpbGUtcHJvZ3JhbS1jZXJ0aWZpZWQv0gFaaHR0cHM6Ly90aGVoaWxsLmNvbS9wb2xpY3kvZGVmZW5zZS80NzU5OTU3LXNlbnRpbmVsLW51Y2xlYXItbWlzc2lsZS1wcm9ncmFtLWNlcnRpZmllZC9hbXAv",
@@ -37,21 +37,21 @@
       "category": ""
     },
     {
-      "id": "CBMiXGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLW5hdnlzLW1pc3NpbGUtcHJvZHVjdGlvbi1wcm9ibGVtLWxvb2tzLWRpcmUtMjExNzcy0gEA",
-      "title": "The U.S. Navy's Missile Production Problem Looks Dire - The National Interest Online",
-      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLW5hdnlzLW1pc3NpbGUtcHJvZHVjdGlvbi1wcm9ibGVtLWxvb2tzLWRpcmUtMjExNzcy0gEA?oc=5",
-      "published": "2024-07-08T18:07:41.000Z",
-      "description": "The U.S. Navy's Missile Production Problem Looks Dire&nbsp;&nbsp;The National Interest Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiTGh0dHBzOi8vd3d3Lm50aS5vcmcvYW5hbHlzaXMvYXJ0aWNsZXMvY25zLW5vcnRoLWtvcmVhLW1pc3NpbGUtdGVzdC1kYXRhYmFzZS_SAQA",
       "title": "The CNS North Korea Missile Test Database - Nuclear Threat Initiative",
       "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm50aS5vcmcvYW5hbHlzaXMvYXJ0aWNsZXMvY25zLW5vcnRoLWtvcmVhLW1pc3NpbGUtdGVzdC1kYXRhYmFzZS_SAQA?oc=5",
       "published": "2024-04-15T07:00:00.000Z",
       "description": "The CNS North Korea Missile Test Database&nbsp;&nbsp;Nuclear Threat Initiative",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLW5hdnlzLW1pc3NpbGUtcHJvZHVjdGlvbi1wcm9ibGVtLWxvb2tzLWRpcmUtMjExNzcy0gEA",
+      "title": "The U.S. Navy's Missile Production Problem Looks Dire - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3VzLW5hdnlzLW1pc3NpbGUtcHJvZHVjdGlvbi1wcm9ibGVtLWxvb2tzLWRpcmUtMjExNzcy0gEA?oc=5",
+      "published": "2024-07-08T18:07:41.000Z",
+      "description": "The U.S. Navy's Missile Production Problem Looks Dire&nbsp;&nbsp;The National Interest Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -157,16 +157,6 @@
       "category": ""
     },
     {
-      "id": "CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA",
-      "title": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test - Northrop Grumman Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA?oc=5",
-      "published": "2024-03-29T07:00:00.000Z",
-      "description": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test&nbsp;&nbsp;Northrop Grumman Newsroom",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMijAFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1NwZWVjaGVzL1NwZWVjaC9BcnRpY2xlLzM3NDM1NDIvYXNkLXNwYWNlLXBvbGljeS1yZW1hcmtzLWZvci10aGUtMTZ0aC1yb25hbGQtcmVhZ2FuLW1pc3NpbGUtZGVmZW5zZS1jb25mZXJlbmNlL9IBAA",
       "title": "ASD Space Policy Remarks for the 16th Ronald Reagan Missile Defense Conference \"Missile De - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1NwZWVjaGVzL1NwZWVjaC9BcnRpY2xlLzM3NDM1NDIvYXNkLXNwYWNlLXBvbGljeS1yZW1hcmtzLWZvci10aGUtMTZ0aC1yb25hbGQtcmVhZ2FuLW1pc3NpbGUtZGVmZW5zZS1jb25mZXJlbmNlL9IBAA?oc=5",
@@ -197,11 +187,31 @@
       "category": ""
     },
     {
+      "id": "CBMiZWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Jpc2Utc3VibWFyaW5lcy1hcmUtYWlyY3JhZnQtY2FycmllcnMtYmVjb21pbmctb2Jzb2xldGUtMjA5ODg20gEA",
+      "title": "Rise of the Submarines: Are Aircraft Carriers Becoming Obsolete? - The National Interest Online",
+      "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vbmF0aW9uYWxpbnRlcmVzdC5vcmcvYmxvZy9idXp6L3Jpc2Utc3VibWFyaW5lcy1hcmUtYWlyY3JhZnQtY2FycmllcnMtYmVjb21pbmctb2Jzb2xldGUtMjA5ODg20gEA?oc=5",
+      "published": "2024-07-08T23:28:12.000Z",
+      "description": "Rise of the Submarines: Are Aircraft Carriers Becoming Obsolete?&nbsp;&nbsp;The National Interest Online",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
       "id": "CBMijgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1JlbGVhc2VzL1JlbGVhc2UvQXJ0aWNsZS8zNjc2OTAyL21kYS1zZGEtYW5ub3VuY2UtdXBjb21pbmctbGF1bmNoLW9mLXRoZS1oeXBlcnNvbmljLWFuZC1iYWxsaXN0aWMtdHJhY2tpbmctc3BhY2Uv0gEA",
       "title": "MDA, SDA Announce Upcoming Launch of the Hypersonic and Ballistic Tracking Space Sensor an - Department of Defense",
       "link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1JlbGVhc2VzL1JlbGVhc2UvQXJ0aWNsZS8zNjc2OTAyL21kYS1zZGEtYW5ub3VuY2UtdXBjb21pbmctbGF1bmNoLW9mLXRoZS1oeXBlcnNvbmljLWFuZC1iYWxsaXN0aWMtdHJhY2tpbmctc3BhY2Uv0gEA?oc=5",
       "published": "2024-02-14T08:00:00.000Z",
       "description": "MDA, SDA Announce Upcoming Launch of the Hypersonic and Ballistic Tracking Space Sensor an&nbsp;&nbsp;Department of Defense",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA",
+      "title": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test - Northrop Grumman Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL25ld3Mubm9ydGhyb3BncnVtbWFuLmNvbS9uZXdzL3JlbGVhc2VzL25vcnRocm9wLWdydW1tYW5zLWJhbGxpc3RpYy1taXNzaWxlLXRhcmdldC1zdWNjZXNzZnVsbHktbGF1bmNoZWQtZm9yLWFlZ2lzLXdlYXBvbi1zeXN0ZW0tdGVzdNIBAA?oc=5",
+      "published": "2024-03-29T07:00:00.000Z",
+      "description": "Northrop Grumman's Ballistic Missile Target Successfully Launched for Aegis Weapon System Test&nbsp;&nbsp;Northrop Grumman Newsroom",
       "summary": "",
       "author": "",
       "category": ""
@@ -297,21 +307,21 @@
       "category": ""
     },
     {
-      "id": "CBMiiAFodHRwczovL3d3dy5nbWFuZXR3b3JrLmNvbS9uZXdzL3RvcHN0b3JpZXMvbmF0aW9uLzkxMjE0Ny9uc2MtZG5kLWRvd25wbGF5LWNoaW5lc2UtaHlwZXJzb25pYy1taXNzaWxlLXRocmVhdC1kZXNwaXRlLWltZWUtcy1jbGFpbXMvc3Rvcnkv0gGMAWh0dHBzOi8vd3d3LmdtYW5ldHdvcmsuY29tL25ld3MvdG9wc3Rvcmllcy9uYXRpb24vOTEyMTQ3L25zYy1kbmQtZG93bnBsYXktY2hpbmVzZS1oeXBlcnNvbmljLW1pc3NpbGUtdGhyZWF0LWRlc3BpdGUtaW1lZS1zLWNsYWltcy9zdG9yeS8_YW1w",
-      "title": "NSC, DND downplay Chinese hypersonic missile threat despite Imee’s claims - GMA News Online",
-      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5nbWFuZXR3b3JrLmNvbS9uZXdzL3RvcHN0b3JpZXMvbmF0aW9uLzkxMjE0Ny9uc2MtZG5kLWRvd25wbGF5LWNoaW5lc2UtaHlwZXJzb25pYy1taXNzaWxlLXRocmVhdC1kZXNwaXRlLWltZWUtcy1jbGFpbXMvc3Rvcnkv0gGMAWh0dHBzOi8vd3d3LmdtYW5ldHdvcmsuY29tL25ld3MvdG9wc3Rvcmllcy9uYXRpb24vOTEyMTQ3L25zYy1kbmQtZG93bnBsYXktY2hpbmVzZS1oeXBlcnNvbmljLW1pc3NpbGUtdGhyZWF0LWRlc3BpdGUtaW1lZS1zLWNsYWltcy9zdG9yeS8_YW1w?oc=5",
-      "published": "2024-07-03T12:44:23.000Z",
-      "description": "NSC, DND downplay Chinese hypersonic missile threat despite Imee’s claims&nbsp;&nbsp;GMA News Online",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiZ2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1pcmFuLW1pc3NpbGUtZGVmZW5zZS1pcm9uLWRvbWUtYXJyb3ctYmJmNjMzMDkxOGRhMDM2ZjJlMDAwMzYwNTU2YTgxZjbSAQA",
       "title": "Inside Israel's defense system that protected it from Iran's strikes - The Associated Press",
       "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1pcmFuLW1pc3NpbGUtZGVmZW5zZS1pcm9uLWRvbWUtYXJyb3ctYmJmNjMzMDkxOGRhMDM2ZjJlMDAwMzYwNTU2YTgxZjbSAQA?oc=5",
       "published": "2024-04-13T07:00:00.000Z",
       "description": "Inside Israel's defense system that protected it from Iran's strikes&nbsp;&nbsp;The Associated Press",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiiAFodHRwczovL3d3dy5nbWFuZXR3b3JrLmNvbS9uZXdzL3RvcHN0b3JpZXMvbmF0aW9uLzkxMjE0Ny9uc2MtZG5kLWRvd25wbGF5LWNoaW5lc2UtaHlwZXJzb25pYy1taXNzaWxlLXRocmVhdC1kZXNwaXRlLWltZWUtcy1jbGFpbXMvc3Rvcnkv0gGMAWh0dHBzOi8vd3d3LmdtYW5ldHdvcmsuY29tL25ld3MvdG9wc3Rvcmllcy9uYXRpb24vOTEyMTQ3L25zYy1kbmQtZG93bnBsYXktY2hpbmVzZS1oeXBlcnNvbmljLW1pc3NpbGUtdGhyZWF0LWRlc3BpdGUtaW1lZS1zLWNsYWltcy9zdG9yeS8_YW1w",
+      "title": "NSC, DND downplay Chinese hypersonic missile threat despite Imee’s claims - GMA News Online",
+      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5nbWFuZXR3b3JrLmNvbS9uZXdzL3RvcHN0b3JpZXMvbmF0aW9uLzkxMjE0Ny9uc2MtZG5kLWRvd25wbGF5LWNoaW5lc2UtaHlwZXJzb25pYy1taXNzaWxlLXRocmVhdC1kZXNwaXRlLWltZWUtcy1jbGFpbXMvc3Rvcnkv0gGMAWh0dHBzOi8vd3d3LmdtYW5ldHdvcmsuY29tL25ld3MvdG9wc3Rvcmllcy9uYXRpb24vOTEyMTQ3L25zYy1kbmQtZG93bnBsYXktY2hpbmVzZS1oeXBlcnNvbmljLW1pc3NpbGUtdGhyZWF0LWRlc3BpdGUtaW1lZS1zLWNsYWltcy9zdG9yeS8_YW1w?oc=5",
+      "published": "2024-07-03T12:44:23.000Z",
+      "description": "NSC, DND downplay Chinese hypersonic missile threat despite Imee’s claims&nbsp;&nbsp;GMA News Online",
       "summary": "",
       "author": "",
       "category": ""
@@ -397,16 +407,6 @@
       "category": ""
     },
     {
-      "id": "CBMiZmh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vbWlkZGxlLWVhc3QtYW5kLWFmcmljYS8yMDI0LzA3LzAyL3RoZS1uZXh0LXRlcnJpZnlpbmctd2FyLWlzcmFlbC12LWhpemJ1bGxhaNIBAA",
-      "title": "The next terrifying war: Israel v Hizbullah - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vbWlkZGxlLWVhc3QtYW5kLWFmcmljYS8yMDI0LzA3LzAyL3RoZS1uZXh0LXRlcnJpZnlpbmctd2FyLWlzcmFlbC12LWhpemJ1bGxhaNIBAA?oc=5",
-      "published": "2024-07-02T19:42:26.000Z",
-      "description": "The next terrifying war: Israel v Hizbullah&nbsp;&nbsp;The Economist",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMid2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2hvdXRoaS1yZWQtc2VhLXN0cmlrZXMta2lsbC1maXJzdC1zYWlsb3JzLWFzLWJhbGxpc3RpYy1taXNzaWxlLXRocmVhdC1wcm9saWZlcmF0ZXMv0gF9aHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjQvMDMvaG91dGhpLXJlZC1zZWEtc3RyaWtlcy1raWxsLWZpcnN0LXNhaWxvcnMtYXMtYmFsbGlzdGljLW1pc3NpbGUtdGhyZWF0LXByb2xpZmVyYXRlcy8_YW1wPTE",
       "title": "Houthi Red Sea strikes kill first sailors, as ballistic missile threat proliferates - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDI0LzAzL2hvdXRoaS1yZWQtc2VhLXN0cmlrZXMta2lsbC1maXJzdC1zYWlsb3JzLWFzLWJhbGxpc3RpYy1taXNzaWxlLXRocmVhdC1wcm9saWZlcmF0ZXMv0gF9aHR0cHM6Ly9icmVha2luZ2RlZmVuc2UuY29tLzIwMjQvMDMvaG91dGhpLXJlZC1zZWEtc3RyaWtlcy1raWxsLWZpcnN0LXNhaWxvcnMtYXMtYmFsbGlzdGljLW1pc3NpbGUtdGhyZWF0LXByb2xpZmVyYXRlcy8_YW1wPTE?oc=5",
@@ -422,6 +422,16 @@
       "link": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbWlzc2lsZXRocmVhdC5jc2lzLm9yZy9taXNzaWxlL2tuLTA5LWtuLXNzLXgtOS_SAQA?oc=5",
       "published": "2024-04-23T07:00:00.000Z",
       "description": "KN-09 (KN-SS-9) | Missile Threat&nbsp;&nbsp;Missile Threat",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZmh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vbWlkZGxlLWVhc3QtYW5kLWFmcmljYS8yMDI0LzA3LzAyL3RoZS1uZXh0LXRlcnJpZnlpbmctd2FyLWlzcmFlbC12LWhpemJ1bGxhaNIBAA",
+      "title": "The next terrifying war: Israel v Hizbullah - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vbWlkZGxlLWVhc3QtYW5kLWFmcmljYS8yMDI0LzA3LzAyL3RoZS1uZXh0LXRlcnJpZnlpbmctd2FyLWlzcmFlbC12LWhpemJ1bGxhaNIBAA?oc=5",
+      "published": "2024-07-02T19:42:26.000Z",
+      "description": "The next terrifying war: Israel v Hizbullah&nbsp;&nbsp;The Economist",
       "summary": "",
       "author": "",
       "category": ""
@@ -587,16 +597,6 @@
       "category": ""
     },
     {
-      "id": "CBMijwFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvd29ybGQvcnVzc2lhLWxhdW5jaGVzLWNydWlzZS1hbmQtYmFsbGlzdGljLW1pc3NpbGVzLWF0LXVrcmFpbmUtb3Zlcm5pZ2h0LWFpci1kZWZlbnNlLXMtd29yay1yZXBvcnRlZC9hci1CQjFwQjNzR9IBAA",
-      "title": "Russia launches cruise and ballistic missiles at Ukraine overnight: Air defense's work reported - MSN",
-      "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvd29ybGQvcnVzc2lhLWxhdW5jaGVzLWNydWlzZS1hbmQtYmFsbGlzdGljLW1pc3NpbGVzLWF0LXVrcmFpbmUtb3Zlcm5pZ2h0LWFpci1kZWZlbnNlLXMtd29yay1yZXBvcnRlZC9hci1CQjFwQjNzR9IBAA?oc=5",
-      "published": "2024-07-08T10:49:15.000Z",
-      "description": "Russia launches cruise and ballistic missiles at Ukraine overnight: Air defense's work reported&nbsp;&nbsp;MSN",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMibWh0dHBzOi8vd3d3LnJ0eC5jb20vbmV3cy9uZXdzLWNlbnRlci8yMDIzLzEyLzExL3J0eC1pbnRlcmNlcHRvci1zdWNjZXNzZnVsbHktZGVmZWF0cy1iYWxsaXN0aWMtbWlzc2lsZS10YXJnZXTSAQA",
       "title": "RTX interceptor successfully defeats ballistic missile target - Raytheon Technologies",
       "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnJ0eC5jb20vbmV3cy9uZXdzLWNlbnRlci8yMDIzLzEyLzExL3J0eC1pbnRlcmNlcHRvci1zdWNjZXNzZnVsbHktZGVmZWF0cy1iYWxsaXN0aWMtbWlzc2lsZS10YXJnZXTSAQA?oc=5",
@@ -662,6 +662,16 @@
       "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ydHguY29tL25ld3MvbmV3cy1jZW50ZXIvMjAyMy8xMi8xMy9zZWNvbmQtc3VjY2Vzc2Z1bC1saXZlLWZpcmUtZm9yLXJ0eHMtcmF5dGhlb24tbG93ZXItdGllci1haXItYW5kLW1pc3NpbGUtZGVmZW5zZdIBAA?oc=5",
       "published": "2023-12-13T08:00:00.000Z",
       "description": "Second successful live-fire for RTX's Raytheon Lower Tier Air and Missile Defense Sensor&nbsp;&nbsp;Raytheon Technologies",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMijwFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvd29ybGQvcnVzc2lhLWxhdW5jaGVzLWNydWlzZS1hbmQtYmFsbGlzdGljLW1pc3NpbGVzLWF0LXVrcmFpbmUtb3Zlcm5pZ2h0LWFpci1kZWZlbnNlLXMtd29yay1yZXBvcnRlZC9hci1CQjFwQjNzR9IBAA",
+      "title": "Russia launches cruise and ballistic missiles at Ukraine overnight: Air defense's work reported - MSN",
+      "link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5tc24uY29tL2VuLWdiL25ld3Mvd29ybGQvcnVzc2lhLWxhdW5jaGVzLWNydWlzZS1hbmQtYmFsbGlzdGljLW1pc3NpbGVzLWF0LXVrcmFpbmUtb3Zlcm5pZ2h0LWFpci1kZWZlbnNlLXMtd29yay1yZXBvcnRlZC9hci1CQjFwQjNzR9IBAA?oc=5",
+      "published": "2024-07-08T10:49:15.000Z",
+      "description": "Russia launches cruise and ballistic missiles at Ukraine overnight: Air defense's work reported&nbsp;&nbsp;MSN",
       "summary": "",
       "author": "",
       "category": ""
@@ -962,16 +972,6 @@
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbmV3cy51c25pLm9yZy8yMDI0LzA0LzAzL25vcnRoLWtvcmVhLXRlc3RzLWh5cGVyc29uaWMtd2VhcG9uLWZvbGxvd2luZy11LXMtbmF2eS1iYWxsaXN0aWMtbWlzc2lsZS1pbnRlcmNlcHQtdGVzdNIBAA?oc=5",
       "published": "2024-04-03T07:00:00.000Z",
       "description": "North Korea Tests Hypersonic Weapon Following U.S. Navy Ballistic Missile Intercept Test - USNI News&nbsp;&nbsp;USNI News",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiU2h0dHBzOi8vdW5uLnVhL2VuL25ld3MvYWlyLWZvcmNlLXdhcm5zLW9mLW1pc3NpbGUtdGhyZWF0LXVyZ2VzLWt5aXYtdG8tdGFrZS1zaGVsdGVy0gFSaHR0cHM6Ly91bm4udWEvZW4vYW1wL2Fpci1mb3JjZS13YXJucy1vZi1taXNzaWxlLXRocmVhdC11cmdlcy1reWl2LXRvLXRha2Utc2hlbHRlcg",
-      "title": "Air Force warns of missile threat, urges Kyiv to take shelter - Українські Національні Новини",
-      "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vdW5uLnVhL2VuL25ld3MvYWlyLWZvcmNlLXdhcm5zLW9mLW1pc3NpbGUtdGhyZWF0LXVyZ2VzLWt5aXYtdG8tdGFrZS1zaGVsdGVy0gFSaHR0cHM6Ly91bm4udWEvZW4vYW1wL2Fpci1mb3JjZS13YXJucy1vZi1taXNzaWxlLXRocmVhdC11cmdlcy1reWl2LXRvLXRha2Utc2hlbHRlcg?oc=5",
-      "published": "2024-07-08T07:25:21.000Z",
-      "description": "Air Force warns of missile threat, urges Kyiv to take shelter&nbsp;&nbsp;Українські Національні Новини",
       "summary": "",
       "author": "",
       "category": ""
