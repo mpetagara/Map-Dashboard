@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-10T07:09:09.000Z",
+  "published": "2024-07-10T08:13:14.000Z",
   "entries": [
     {
       "id": "CBMijgFodHRwczovL3d3dy5wYWNhZi5hZi5taWwvTmV3cy9BcnRpY2xlLURpc3BsYXkvQXJ0aWNsZS8zNjYyODUxL2JvbWJlcnMtYWJvdW5kLW5vcnRoLWRha290YS1iYXNlZC1iLTUycy1hcnJpdmUtaW4tcGFjaWZpYy1wcm92aWRlLXN0cmF0ZWdpYy1kZXQv0gEA",
@@ -232,6 +232,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmFpcmZvcmNldGltZXMuY29tL2Fpci8yMDI0LzAyLzEyL2dhbGxlcnktdGFrZS1hLWZsaWdodC1pbi10aGUtdXMtYWlyLWZvcmNlcy1iLTUyLWJvbWJlci_SAQA?oc=5",
       "published": "2024-02-12T08:00:00.000Z",
       "description": "Gallery: Take a flight in the US Air Force’s B-52 bomber&nbsp;&nbsp;Air Force Times",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiZmh0dHBzOi8vd3d3LmFzZG5ld3MuY29tL25ld3MvZGVmZW5zZS8yMDI0LzA3LzA4L2wzaGFycmlzLXNvYXJzLW5ldy1taWxlc3RvbmUtYjUyLW1vZGVybml6YXRpb24tcHJvamVjdNIBAA",
+      "title": "L3Harris Soars to New Milestone in B-52 Modernization Projec - ASDNews",
+      "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmFzZG5ld3MuY29tL25ld3MvZGVmZW5zZS8yMDI0LzA3LzA4L2wzaGFycmlzLXNvYXJzLW5ldy1taWxlc3RvbmUtYjUyLW1vZGVybml6YXRpb24tcHJvamVjdNIBAA?oc=5",
+      "published": "2024-07-08T07:00:00.000Z",
+      "description": "L3Harris Soars to New Milestone in B-52 Modernization Projec&nbsp;&nbsp;ASDNews",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,21 +477,21 @@
       "category": ""
     },
     {
-      "id": "CBMiR2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzExL2wzaGFycmlzLXVwZ3JhZGUtYi01Mi1ib21iZXIv0gEA",
-      "title": "L3Harris to Upgrade US Air Force B-52 Bomber Cockpit - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzExL2wzaGFycmlzLXVwZ3JhZGUtYi01Mi1ib21iZXIv0gEA?oc=5",
-      "published": "2024-06-11T07:00:00.000Z",
-      "description": "L3Harris to Upgrade US Air Force B-52 Bomber Cockpit&nbsp;&nbsp;The Defense Post",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiXmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMjYvdS1zLWFpci1mb3JjZS1kZXBsb3lzLWItNTJoLWFuZC1iLTFiLWJvbWJlci10YXNrLWZvcmNlcy_SAQA",
       "title": "U.S. Air Force Deploys B-52H And B-1B Bomber Task Forces - The Aviationist",
       "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGhlYXZpYXRpb25pc3QuY29tLzIwMjQvMDMvMjYvdS1zLWFpci1mb3JjZS1kZXBsb3lzLWItNTJoLWFuZC1iLTFiLWJvbWJlci10YXNrLWZvcmNlcy_SAQA?oc=5",
       "published": "2024-03-26T07:00:00.000Z",
       "description": "U.S. Air Force Deploys B-52H And B-1B Bomber Task Forces&nbsp;&nbsp;The Aviationist",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiR2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzExL2wzaGFycmlzLXVwZ3JhZGUtYi01Mi1ib21iZXIv0gEA",
+      "title": "L3Harris to Upgrade US Air Force B-52 Bomber Cockpit - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnRoZWRlZmVuc2Vwb3N0LmNvbS8yMDI0LzA2LzExL2wzaGFycmlzLXVwZ3JhZGUtYi01Mi1ib21iZXIv0gEA?oc=5",
+      "published": "2024-06-11T07:00:00.000Z",
+      "description": "L3Harris to Upgrade US Air Force B-52 Bomber Cockpit&nbsp;&nbsp;The Defense Post",
       "summary": "",
       "author": "",
       "category": ""
@@ -992,16 +1002,6 @@
       "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmFuZGVyc2VuLmFmLm1pbC9OZXdzL0ZlYXR1cmVzL0FydGljbGUvMzY5MDM2OC9hbmRlcnNlbi1hZmItaG9zdHMtaHlwZXJzb25pYy13ZWFwb24tZmFtaWxpYXJpemF0aW9uLXRyYWluaW5nL9IBAA?oc=5",
       "published": "2024-02-28T08:00:00.000Z",
       "description": "Andersen AFB Hosts Hypersonic Weapon Familiarization Training&nbsp;&nbsp;andersen.af.mil",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
-      "id": "CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvY2hpbmVzZS1maWdodGVyLWpldC1jcmFzaGVzLWFtZXJpY2FuLTUyLWJvbWJlci1zb3V0aC9zdG9yeT9pZD0xMDQzNzA1MjTSAWtodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9jaGluZXNlLWZpZ2h0ZXItamV0LWNyYXNoZXMtYW1lcmljYW4tNTItYm9tYmVyLXNvdXRoL3N0b3J5P2lkPTEwNDM3MDUyNA",
-      "title": "Chinese fighter jet nearly collides with American B-52 bomber over South China Sea: US officials - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvY2hpbmVzZS1maWdodGVyLWpldC1jcmFzaGVzLWFtZXJpY2FuLTUyLWJvbWJlci1zb3V0aC9zdG9yeT9pZD0xMDQzNzA1MjTSAWtodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9jaGluZXNlLWZpZ2h0ZXItamV0LWNyYXNoZXMtYW1lcmljYW4tNTItYm9tYmVyLXNvdXRoL3N0b3J5P2lkPTEwNDM3MDUyNA?oc=5",
-      "published": "2023-10-26T07:00:00.000Z",
-      "description": "Chinese fighter jet nearly collides with American B-52 bomber over South China Sea: US officials&nbsp;&nbsp;ABC News",
       "summary": "",
       "author": "",
       "category": ""
