@@ -4,7 +4,7 @@
   "description": "Google News",
   "language": "en-US",
   "generator": "NFE/5.0",
-  "published": "2024-07-10T06:12:39.000Z",
+  "published": "2024-07-10T07:09:19.000Z",
   "entries": [
     {
       "id": "CBMidWh0dHBzOi8vbXlyZ3YuY29tL2xvY2FsLW5ld3MvMjAyNC8wNy8wNy9mZWRlcmFsLWdvdmVybm1lbnQtdGFyZ2V0cy0zOS1hY3Jlcy1pbi1zdGFyci1jb3VudHktZm9yLXByb3Bvc2VkLWJvcmRlci13YWxsL9IBAA",
@@ -307,16 +307,6 @@
       "category": ""
     },
     {
-      "id": "CBMiggFodHRwczovL2hvb2RsaW5lLmNvbS8yMDI0LzA3L3RleGFzLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1jb250aW51ZXMtYXQtc3RlYWR5LXBhY2UtZXN0aW1hdGVkLWNvc3Qtb2YtMjAtYmlsbGlvbi1yYWlzZXMtY29uY2VybnMv0gEA",
-      "title": "Texas Border Wall Construction Continues at Steady Pace, Estimated Cost of $20 Billion Raises Concerns - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2hvb2RsaW5lLmNvbS8yMDI0LzA3L3RleGFzLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1jb250aW51ZXMtYXQtc3RlYWR5LXBhY2UtZXN0aW1hdGVkLWNvc3Qtb2YtMjAtYmlsbGlvbi1yYWlzZXMtY29uY2VybnMv0gEA?oc=5",
-      "published": "2024-07-03T19:22:32.000Z",
-      "description": "Texas Border Wall Construction Continues at Steady Pace, Estimated Cost of $20 Billion Raises Concerns&nbsp;&nbsp;Hoodline",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8xNi9taWRkbGVlYXN0L2VneXB0LXdhbGwtYnVmZmVyLXpvbmUtZ2F6YS1ib3JkZXItaW50bC1obmsvaW5kZXguaHRtbNIBWWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDIvMTYvbWlkZGxlZWFzdC9lZ3lwdC13YWxsLWJ1ZmZlci16b25lLWdhemEtYm9yZGVyLWludGwtaG5r",
       "title": "Egypt is building a new walled buffer zone more than 2 miles wide on Gaza border, satellite images show - CNN",
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wMi8xNi9taWRkbGVlYXN0L2VneXB0LXdhbGwtYnVmZmVyLXpvbmUtZ2F6YS1ib3JkZXItaW50bC1obmsvaW5kZXguaHRtbNIBWWh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDIvMTYvbWlkZGxlZWFzdC9lZ3lwdC13YWxsLWJ1ZmZlci16b25lLWdhemEtYm9yZGVyLWludGwtaG5r?oc=5",
@@ -332,6 +322,16 @@
       "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMy8xMC8yMy90ZXhhcy1sZWdpc2xhdHVyZS1ib3JkZXItd2FsbC1zcGVuZGluZy1iaWxsLWhvdXNlLWFwcHJvcHJpYXRpb25zL9IBAA?oc=5",
       "published": "2023-10-23T07:00:00.000Z",
       "description": "Texas lawmakers weigh spending $1.5 billion on more border barriers. Experts say walls alone won’t stop migrants.&nbsp;&nbsp;The Texas Tribune",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiggFodHRwczovL2hvb2RsaW5lLmNvbS8yMDI0LzA3L3RleGFzLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1jb250aW51ZXMtYXQtc3RlYWR5LXBhY2UtZXN0aW1hdGVkLWNvc3Qtb2YtMjAtYmlsbGlvbi1yYWlzZXMtY29uY2VybnMv0gEA",
+      "title": "Texas Border Wall Construction Continues at Steady Pace, Estimated Cost of $20 Billion Raises Concerns - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2hvb2RsaW5lLmNvbS8yMDI0LzA3L3RleGFzLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi1jb250aW51ZXMtYXQtc3RlYWR5LXBhY2UtZXN0aW1hdGVkLWNvc3Qtb2YtMjAtYmlsbGlvbi1yYWlzZXMtY29uY2VybnMv0gEA?oc=5",
+      "published": "2024-07-03T19:22:32.000Z",
+      "description": "Texas Border Wall Construction Continues at Steady Pace, Estimated Cost of $20 Billion Raises Concerns&nbsp;&nbsp;Hoodline",
       "summary": "",
       "author": "",
       "category": ""
@@ -467,16 +467,6 @@
       "category": ""
     },
     {
-      "id": "CBMirQFodHRwczovL3d3dy53ZmFhLmNvbS92aWRlby9uZXdzL2xvY2FsL2JvcmRlci1jcmlzaXMvYXQtaGFsZi1hLW1pbGUtYS13ZWVrLWdvdi1hYmJvdHRzLWJvcmRlci13YWxsLXdpbGwtdGFrZS1hcm91bmQtMzAteWVhcnMtdG8tYnVpbGQvMjg3LTNiZjRmOWNkLWIxMmUtNGE1ZC05MTgzLWE2MTFmMzA4Y2JhNNIBAA",
-      "title": "At half a mile a week, Gov. Abbott’s border wall will take around 30 years to build - WFAA.com",
-      "link": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy53ZmFhLmNvbS92aWRlby9uZXdzL2xvY2FsL2JvcmRlci1jcmlzaXMvYXQtaGFsZi1hLW1pbGUtYS13ZWVrLWdvdi1hYmJvdHRzLWJvcmRlci13YWxsLXdpbGwtdGFrZS1hcm91bmQtMzAteWVhcnMtdG8tYnVpbGQvMjg3LTNiZjRmOWNkLWIxMmUtNGE1ZC05MTgzLWE2MTFmMzA4Y2JhNNIBAA?oc=5",
-      "published": "2024-07-03T23:26:00.000Z",
-      "description": "At half a mile a week, Gov. Abbott’s border wall will take around 30 years to build&nbsp;&nbsp;WFAA.com",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMiVGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjQvZmViLzA5L21leGljby1ib3JkZXItd2FsbC1pbmp1cmllcy1pbmNyZWFzZdIBVGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjQvZmViLzA5L21leGljby1ib3JkZXItd2FsbC1pbmp1cmllcy1pbmNyZWFzZQ",
       "title": "US hospital treated 441 patients with severe injuries from border wall last year - The Guardian US",
       "link": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjQvZmViLzA5L21leGljby1ib3JkZXItd2FsbC1pbmp1cmllcy1pbmNyZWFzZdIBVGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzLzIwMjQvZmViLzA5L21leGljby1ib3JkZXItd2FsbC1pbmp1cmllcy1pbmNyZWFzZQ?oc=5",
@@ -492,6 +482,16 @@
       "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vYm9yZGVyLWNvdmVyYWdlL2JvcmRlci13YWxsLXNlY3VyaXR5LXBvbGl0aWNzL9IBZGh0dHBzOi8vd3d3Lm5ld3NuYXRpb25ub3cuY29tL3VzLW5ld3MvaW1taWdyYXRpb24vYm9yZGVyLWNvdmVyYWdlL2JvcmRlci13YWxsLXNlY3VyaXR5LXBvbGl0aWNzL2FtcC8?oc=5",
       "published": "2024-05-27T07:00:00.000Z",
       "description": "Border wall about national security, not politics: sheriff&nbsp;&nbsp;NewsNation Now",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMirQFodHRwczovL3d3dy53ZmFhLmNvbS92aWRlby9uZXdzL2xvY2FsL2JvcmRlci1jcmlzaXMvYXQtaGFsZi1hLW1pbGUtYS13ZWVrLWdvdi1hYmJvdHRzLWJvcmRlci13YWxsLXdpbGwtdGFrZS1hcm91bmQtMzAteWVhcnMtdG8tYnVpbGQvMjg3LTNiZjRmOWNkLWIxMmUtNGE1ZC05MTgzLWE2MTFmMzA4Y2JhNNIBAA",
+      "title": "At half a mile a week, Gov. Abbott’s border wall will take around 30 years to build - WFAA.com",
+      "link": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy53ZmFhLmNvbS92aWRlby9uZXdzL2xvY2FsL2JvcmRlci1jcmlzaXMvYXQtaGFsZi1hLW1pbGUtYS13ZWVrLWdvdi1hYmJvdHRzLWJvcmRlci13YWxsLXdpbGwtdGFrZS1hcm91bmQtMzAteWVhcnMtdG8tYnVpbGQvMjg3LTNiZjRmOWNkLWIxMmUtNGE1ZC05MTgzLWE2MTFmMzA4Y2JhNNIBAA?oc=5",
+      "published": "2024-07-03T23:26:00.000Z",
+      "description": "At half a mile a week, Gov. Abbott’s border wall will take around 30 years to build&nbsp;&nbsp;WFAA.com",
       "summary": "",
       "author": "",
       "category": ""
@@ -867,16 +867,6 @@
       "category": ""
     },
     {
-      "id": "CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8",
-      "title": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall - Reform Austin",
-      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8?oc=5",
-      "published": "2024-07-03T19:57:31.000Z",
-      "description": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall&nbsp;&nbsp;Reform Austin",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMicGh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDIzLzEwLzA1L2JpZGVuLWFkbWluaXN0cmF0aW9uLXJldmVyc2VzLWNvdXJzZS1yZXN1bWVzLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi_SAQA",
       "title": "Biden administration reverses course, resumes border wall construction - Arizona PBS",
       "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vY3JvbmtpdGVuZXdzLmF6cGJzLm9yZy8yMDIzLzEwLzA1L2JpZGVuLWFkbWluaXN0cmF0aW9uLXJldmVyc2VzLWNvdXJzZS1yZXN1bWVzLWJvcmRlci13YWxsLWNvbnN0cnVjdGlvbi_SAQA?oc=5",
@@ -897,21 +887,21 @@
       "category": ""
     },
     {
-      "id": "CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA",
-      "title": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion - Hoodline",
-      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA?oc=5",
-      "published": "2024-07-03T16:20:34.000Z",
-      "description": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion&nbsp;&nbsp;Hoodline",
-      "summary": "",
-      "author": "",
-      "category": ""
-    },
-    {
       "id": "CBMifmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL2ltbWlncmF0aW9uL2JpZGVuLWFkbWluaXN0cmF0aW9uLXdhaXZlcy1mZWRlcmFsLWxhd3MtYWxsb3ctYm9yZGVyLXdhbGwtY29uc3RydWN0aW8tcmNuYTExODk1OdIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExMTg5NTk",
       "title": "Biden administration waives federal laws to allow border wall construction in Texas - NBC News",
       "link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL3BvbGl0aWNzL2ltbWlncmF0aW9uL2JpZGVuLWFkbWluaXN0cmF0aW9uLXdhaXZlcy1mZWRlcmFsLWxhd3MtYWxsb3ctYm9yZGVyLXdhbGwtY29uc3RydWN0aW8tcmNuYTExODk1OdIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExMTg5NTk?oc=5",
       "published": "2023-10-05T07:00:00.000Z",
       "description": "Biden administration waives federal laws to allow border wall construction in Texas&nbsp;&nbsp;NBC News",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8",
+      "title": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall - Reform Austin",
+      "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL9IBYWh0dHBzOi8vd3d3LnJlZm9ybWF1c3Rpbi5vcmcvYm9yZGVyL2dvcC1za2VwdGljaXNtLWdyb3dzLW92ZXItYWJib3R0cy0yMC1iaWxsaW9uLWJvcmRlci13YWxsL2FtcC8?oc=5",
+      "published": "2024-07-03T19:57:31.000Z",
+      "description": "GOP Skepticism Grows Over Abbott’s $20 Billion Border Wall&nbsp;&nbsp;Reform Austin",
       "summary": "",
       "author": "",
       "category": ""
@@ -942,6 +932,16 @@
       "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzEwLzYvYmlkZW4tYWRtaW5pc3RyYXRpb24tdG8tZXh0ZW5kLXVzLWJvcmRlci13YWxsLWJlZ2luLXZlbmV6dWVsYS1kZXBvcnRhdGlvbnPSAXdodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjMvMTAvNi9iaWRlbi1hZG1pbmlzdHJhdGlvbi10by1leHRlbmQtdXMtYm9yZGVyLXdhbGwtYmVnaW4tdmVuZXp1ZWxhLWRlcG9ydGF0aW9ucw?oc=5",
       "published": "2023-10-06T07:00:00.000Z",
       "description": "Biden administration to extend US border wall, begin Venezuela deportations&nbsp;&nbsp;Al Jazeera English",
+      "summary": "",
+      "author": "",
+      "category": ""
+    },
+    {
+      "id": "CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA",
+      "title": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vaG9vZGxpbmUuY29tLzIwMjQvMDcvdGV4YXMtYm9yZGVyLXdhbGwtcy1zbG93LXBhY2UtY291bGQtc3RyZXRjaC1jb25zdHJ1Y3Rpb24taW50by0yMDUwLWNvc3RpbmctMjAtYmlsbGlvbi_SAQA?oc=5",
+      "published": "2024-07-03T16:20:34.000Z",
+      "description": "Texas Border Wall's Slow Pace Could Stretch Construction Into 2050, Costing $20 Billion&nbsp;&nbsp;Hoodline",
       "summary": "",
       "author": "",
       "category": ""
